@@ -122,7 +122,10 @@ def main() -> int:
     for path in files:
         remote_name = path.name
         try:
-            upload(token, site_id, drive_id, remote_name, path.read_bytes())
+            # Upload the metadata sidecar BEFORE the settings file. Power
+            # Automate Flow A triggers on the settings file changing, and
+            # the flow reads the sidecar for PR context — landing the
+            # sidecar first guarantees it's there when the flow fires.
             meta_payload = {**metadata, "filename": remote_name}
             upload(
                 token,
@@ -131,6 +134,7 @@ def main() -> int:
                 f"{remote_name}.meta.json",
                 json.dumps(meta_payload, indent=2).encode("utf-8"),
             )
+            upload(token, site_id, drive_id, remote_name, path.read_bytes())
         except Exception:
             logger.exception("Failed to publish %s", path)
             failures += 1
