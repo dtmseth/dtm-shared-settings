@@ -127,9 +127,14 @@ def open_pr_for_proposal(
     target = proposal["target_file"]
     submitted_by = proposal["submitted_by"]
     summary = proposal["summary"]
+    # PR title field has practical limits and breaks on newlines — use the
+    # first line only. The full multi-line summary still lands in the body.
+    title_summary = summary.splitlines()[0] if summary else ""
     slug = proposal.get("submitted_by_slug") or "user"
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-    branch = f"change/{slug}/{timestamp}"
+    # proposal_id segment guarantees uniqueness even if two runners process
+    # different proposals from the same user in the same second.
+    branch = f"change/{slug}/{timestamp}-{proposal['proposal_id']}"
 
     target_path = Path(settings_subdir) / target
 
@@ -137,7 +142,12 @@ def open_pr_for_proposal(
     run(["git", "fetch", "origin", main_branch])
     run(["git", "checkout", "-B", branch, f"origin/{main_branch}"])
     target_path.parent.mkdir(parents=True, exist_ok=True)
-    target_path.write_text(proposal["new_content"], encoding="utf-8")
+    # The schema says new_content is a string, but be forgiving — older or
+    # manually-authored proposals may carry a JSON object instead.
+    content = proposal["new_content"]
+    if not isinstance(content, str):
+        content = json.dumps(content, indent=2)
+    target_path.write_text(content, encoding="utf-8")
 
     diff = run(["git", "status", "--porcelain", str(target_path)], capture=True)
     if not diff:
@@ -167,7 +177,7 @@ def open_pr_for_proposal(
             "gh", "pr", "create",
             "--base", main_branch,
             "--head", branch,
-            "--title", f"[{submitted_by}] {summary}",
+            "--title", f"[{submitted_by}] {title_summary}",
             "--body", pr_body,
         ]
     )
