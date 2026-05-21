@@ -1,0 +1,37 @@
+name: Test SharePoint Connection
+
+on:
+  workflow_dispatch:
+
+jobs:
+  write-test-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get Graph API token
+        id: token
+        run: |
+          RESULT=$(curl -s -X POST \
+            "https://login.microsoftonline.com/${{ secrets.AZURE_TENANT_ID }}/oauth2/v2.0/token" \
+            -d "client_id=${{ secrets.AZURE_CLIENT_ID }}" \
+            -d "client_secret=${{ secrets.AZURE_CLIENT_SECRET }}" \
+            -d "scope=https://graph.microsoft.com/.default" \
+            -d "grant_type=client_credentials")
+          TOKEN=$(echo "$RESULT" | python3 -c "import sys,json; print(json.load(sys.stdin)['access_token'])")
+          echo "token=$TOKEN" >> $GITHUB_OUTPUT
+
+      - name: Write test file to SharePoint /Settings/
+        run: |
+          HTTP_STATUS=$(curl -s -o response.json -w "%{http_code}" -X PUT \
+            "https://graph.microsoft.com/v1.0/drives/${{ secrets.SHAREPOINT_DRIVE_ID }}/root:/Settings/ci-connection-test.json:/content" \
+            -H "Authorization: Bearer ${{ steps.token.outputs.token }}" \
+            -H "Content-Type: application/json" \
+            -d '{"source":"github-actions","status":"ci connection validated"}')
+          echo "HTTP status: $HTTP_STATUS"
+          cat response.json
+          if [ "$HTTP_STATUS" -ge 200 ] && [ "$HTTP_STATUS" -lt 300 ]; then
+            echo "✓ File written to SharePoint successfully"
+          else
+            echo "✗ Upload failed"
+            exit 1
+          fi
