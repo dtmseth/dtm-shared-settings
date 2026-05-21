@@ -1,0 +1,50 @@
+name: publish-settings-on-merge
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # need the merge commit and its first parent
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install script dependencies
+        run: pip install --quiet -r scripts/requirements.txt
+
+      - name: Acquire Graph access token (client credentials)
+        id: graph-token
+        run: |
+          RESPONSE=$(curl -s -X POST \
+            "https://login.microsoftonline.com/${{ secrets.AZURE_TENANT_ID }}/oauth2/v2.0/token" \
+            -d "client_id=${{ secrets.AZURE_CLIENT_ID }}" \
+            -d "client_secret=${{ secrets.AZURE_CLIENT_SECRET }}" \
+            -d "scope=https://graph.microsoft.com/.default" \
+            -d "grant_type=client_credentials")
+          TOKEN=$(echo "$RESPONSE" | python3 -c "import sys,json; print(json.load(sys.stdin)['access_token'])")
+          echo "::add-mask::$TOKEN"
+          echo "token=$TOKEN" >> "$GITHUB_OUTPUT"
+
+      - name: Run publish script
+        env:
+          GRAPH_ACCESS_TOKEN: ${{ steps.graph-token.outputs.token }}
+          SHAREPOINT_SITE_ID: ${{ secrets.SHAREPOINT_SITE_ID }}
+          SHAREPOINT_DRIVE_ID: ${{ secrets.SHAREPOINT_DRIVE_ID }}
+          SETTINGS_SUBDIR: resources/config
+          MERGE_SHA: ${{ github.event.pull_request.merge_commit_sha }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_TITLE: ${{ github.event.pull_request.title }}
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+        run: python scripts/publish_settings_on_merge.py
