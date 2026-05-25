@@ -1,0 +1,94 @@
+name: notify-new-pr
+
+on:
+  pull_request:
+    types: [opened, reopened]
+
+permissions:
+  contents: read
+  pull-requests: write  # the AI summarizer comments on the PR
+
+concurrency:
+  group: notify-new-pr-${{ github.event.pull_request.number }}
+  cancel-in-progress: false
+
+jobs:
+  summarize-and-notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # needed for the diff context the AI sees
+
+      - name: Summarize PR with Ollama (free, self-hosted on runner)
+        id: ai
+        continue-on-error: true   # email still fires even if the model run flakes
+        uses: behrouz-rad/ai-pr-summarizer@v1
+        with:
+          llm-model: llama3.2:3b
+          prompt-file: ./assets/prompt-file.txt
+          models-file: ./assets/models-file.txt
+          version-file: ./assets/version-file.txt
+          context-window: 4096
+          fail-on-error: false
+
+      - name: Fetch the AI summary comment
+        id: summary
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # AI-PR-Summarizer posts as github-actions[bot]. Grab the most
+          # recent comment by that author (there should be exactly one for
+          # a freshly-opened PR, but --last is defensive).
+          SUMMARY=$(gh pr view ${{ github.event.pull_request.number }} \
+            --json comments \
+            --jq '[.comments[] | select(.author.login == "github-actions")] | last | .body // ""')
+          # Multi-line strings in $GITHUB_OUTPUT need the heredoc form.
+          {
+            echo "text<<EOF"
+            echo "$SUMMARY"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Count currently-open PRs
+        id: open-prs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          COUNT=$(gh pr list --state open --json number --jq 'length')
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install script dependencies
+        run: pip install --quiet -r scripts/requirements.txt
+
+      - name: Acquire Graph access token (client credentials)
+        id: graph-token
+        run: |
+          RESPONSE=$(curl -s -X POST \
+            "https://login.microsoftonline.com/${{ secrets.AZURE_TENANT_ID }}/oauth2/v2.0/token" \
+            -d "client_id=${{ secrets.AZURE_CLIENT_ID }}" \
+            -d "client_secret=${{ secrets.AZURE_CLIENT_SECRET }}" \
+            -d "scope=https://graph.microsoft.com/.default" \
+            -d "grant_type=client_credentials")
+          TOKEN=$(echo "$RESPONSE" | python3 -c "import sys,json; print(json.load(sys.stdin)['access_token'])")
+          echo "::add-mask::$TOKEN"
+          echo "token=$TOKEN" >> "$GITHUB_OUTPUT"
+
+      - name: Write PR notification marker to SharePoint
+        env:
+          GRAPH_ACCESS_TOKEN: ${{ steps.graph-token.outputs.token }}
+          SHAREPOINT_DRIVE_ID: ${{ secrets.SHAREPOINT_DRIVE_ID }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_TITLE: ${{ github.event.pull_request.title }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+          PR_BODY: ${{ github.event.pull_request.body }}
+          AI_SUMMARY: ${{ steps.summary.outputs.text }}
+          OPEN_PR_COUNT: ${{ steps.open-prs.outputs.count }}
+          PRS_URL: https://github.com/${{ github.repository }}/pulls
+          REPO_FULL_NAME: ${{ github.repository }}
+        run: python scripts/write_pr_notification.py

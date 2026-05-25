@@ -1,0 +1,2 @@
+# Touch this file (any change) to invalidate the Ollama runtime cache and
+# pull a fresh build on the next workflow run. Useful when bumping models.
