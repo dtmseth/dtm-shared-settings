@@ -4,13 +4,46 @@ on:
   pull_request:
     types: [closed]
     branches: [main]
+  # workflow_dispatch lets the pickup workflow trigger publish after an
+  # auto-merge — without it, GitHub's GITHUB_TOKEN recursion guard would
+  # silently swallow the pull_request:closed event for bot-merged PRs.
+  # Also lets a human kick off a full republish from the Actions UI.
+  workflow_dispatch:
+    inputs:
+      merge_sha:
+        description: "Merge commit SHA to publish (ignored in bulk mode)"
+        type: string
+        required: false
+        default: ""
+      pr_number:
+        description: "Originating PR number (metadata only)"
+        type: string
+        required: false
+        default: ""
+      pr_title:
+        description: "Originating PR title (metadata only)"
+        type: string
+        required: false
+        default: ""
+      pr_author:
+        description: "Originating PR author (metadata only)"
+        type: string
+        required: false
+        default: ""
+      mode:
+        description: "diff = only files in merge_sha; bulk = re-publish everything"
+        type: choice
+        options: [diff, bulk]
+        default: diff
 
 permissions:
   contents: read
 
 jobs:
   publish:
-    if: github.event.pull_request.merged == true
+    # Auto-runs only on merged PRs OR on explicit workflow_dispatch.
+    # Skips when a PR is closed without merging.
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -43,8 +76,11 @@ jobs:
           SHAREPOINT_SITE_ID: ${{ secrets.SHAREPOINT_SITE_ID }}
           SHAREPOINT_DRIVE_ID: ${{ secrets.SHAREPOINT_DRIVE_ID }}
           SETTINGS_SUBDIR: resources/config
-          MERGE_SHA: ${{ github.event.pull_request.merge_commit_sha }}
-          PR_NUMBER: ${{ github.event.pull_request.number }}
-          PR_TITLE: ${{ github.event.pull_request.title }}
-          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+          # The `||` operator picks the first non-empty value. For PR triggers
+          # the pull_request payload wins; for workflow_dispatch the inputs do.
+          MERGE_SHA: ${{ github.event.pull_request.merge_commit_sha || github.event.inputs.merge_sha }}
+          PR_NUMBER: ${{ github.event.pull_request.number || github.event.inputs.pr_number }}
+          PR_TITLE: ${{ github.event.pull_request.title || github.event.inputs.pr_title }}
+          PR_AUTHOR: ${{ github.event.pull_request.user.login || github.event.inputs.pr_author }}
+          PUBLISH_MODE: ${{ github.event.inputs.mode || 'diff' }}
         run: python scripts/publish_settings_on_merge.py

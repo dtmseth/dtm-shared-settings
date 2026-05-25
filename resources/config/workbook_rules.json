@@ -1,0 +1,3343 @@
+{
+  "version": "1.0",
+  "part_rules": {
+    "Push Bumper": {
+      "_row": 15,
+      "manufacturer": [
+        "SETINA",
+        "WESTIN",
+        "PRO-GARD",
+        "GAMBER JOHNSON",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "PB400",
+        "PB450L",
+        "HDX",
+        "SPECIFY MODEL"
+      ],
+      "locations": []
+    },
+    "Pit Bar": {
+      "_row": 16,
+      "manufacturer": [
+        "SETINA",
+        "WESTIN",
+        "PRO-GARD",
+        "GAMBER JOHNSON",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "PIT BARS",
+        "PB5",
+        "PB9",
+        "PB10",
+        "SPECIFY MODEL"
+      ],
+      "locations": []
+    },
+    "Wing Wraps": {
+      "_row": 17,
+      "manufacturer": [
+        "SETINA",
+        "WESTIN",
+        "PRO-GARD",
+        "GAMBER JOHNSON",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "WING WRAPS",
+        "PB6",
+        "PB8",
+        "SPECIFY MODEL"
+      ],
+      "locations": []
+    },
+    "Wire Covers": {
+      "_row": 18,
+      "manufacturer": [
+        "SETINA",
+        "WESTIN",
+        "PRO-GARD",
+        "GAMBER JOHNSON",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "locations": []
+    },
+    "Forward Warning 1": {
+      "_row": 19,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "ION",
+        "T-ION",
+        "2 LAMP TRACER",
+        "NFORCE",
+        "MPOWER",
+        "VXE",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "TOP TUBE",
+        "CENTER PLATE OF PB",
+        "GRILL",
+        "LOWER GRILL",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "quantities": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "FW 1 Bracket": {
+      "_row": 20,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "BEARDED 3D",
+        "5-0 FAB (DTM)",
+        "WESTIN",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "WESTIN 2 LIGHT TUBE",
+        "WESTIN 4 LIGHT TUBE",
+        "TRACER L BRACKETS X2 PER",
+        "UNIVERSAL GRILL BRACKET",
+        "SPECIFY BRACKET"
+      ]
+    },
+    "Forward Warning 2": {
+      "_row": 21,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "ION",
+        "T-ION",
+        "2 LAMP TRACER",
+        "NFORCE",
+        "MPOWER",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "TOP TUBE",
+        "CENTER PLATE OF PB",
+        "GRILL",
+        "LOWER GRILL",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "quantities": [
+        "2",
+        "4",
+        "6"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "FW 2 Bracket": {
+      "_row": 22,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "BEARDED 3D",
+        "5-0 FAB (DTM)",
+        "WESTIN",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "WESTIN 2 LIGHT TUBE",
+        "WESTIN 4 LIGHT TUBE",
+        "TRACER L BRACKETS X2 PER",
+        "UNIVERSAL GRILL BRACKET",
+        "SPECIFY BRACKET"
+      ]
+    },
+    "Front Side Warning": {
+      "_row": 23,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "OEM",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SURFACE MOUNT ION",
+        "STANDARD MOUNT ION",
+        "T-SERIES ION",
+        "MPOWER",
+        "N-FORCE",
+        "VERTEX",
+        "VXE",
+        "M4",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "SIDE OF PUSH BUMPER",
+        "FOG LIGHT AREA",
+        "FRONT CORNER OF BUMPER",
+        "HEADLIGHTS CUT OUTS",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "quantities": [
+        "2",
+        "4",
+        "6"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Front Side Brackets": {
+      "_row": 24,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "BEARDED 3D",
+        "5-0 FAB (DTM)",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "SIDE OF PUSH BUMPER",
+        "FOG LIGHT AREA",
+        "FRONT CORNER OF BUMPER",
+        "HEADLIGHTS CUT OUTS",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "quantities": [
+        "2",
+        "4",
+        "6"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Pit Bar Warning": {
+      "_row": 25,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SURFACE MOUNT ION",
+        "STANDARD MOUNT ION",
+        "T-SERIES ION",
+        "MPOWER",
+        "N-FORCE",
+        "VERTEX",
+        "VXE",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "PIT BARS",
+        "FOG LIGHT AREA",
+        "FRONT CORNER OF BUMPER",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "quantities": [
+        "2",
+        "4",
+        "6"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Headlight Flasher": {
+      "_row": 26,
+      "manufacturer": [
+        "OEM",
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SPECIFY MODEL"
+      ]
+    },
+    "Front Scene": {
+      "_row": 27,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "FIELD SERIES",
+        "PIONEER",
+        "PREWIRE",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "WHITE"
+      ],
+      "quantities": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Siren Speaker 1": {
+      "_row": 28,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SA315P",
+        "SA315U",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "TOP OF PUSH BUMPER",
+        "UNDER PUSH BUMPER",
+        "BEHIND GRILL (CENTER)",
+        "BEHIND OEM BUMPER",
+        "VEHICLE SPECIFIC BRACKET",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Siren Speaker 2": {
+      "_row": 29,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SA315P",
+        "SA315U",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "TOP OF PUSH BUMPER",
+        "UNDER PUSH BUMPER",
+        "BEHIND GRILL (CENTER)",
+        "BEHIND OEM BUMPER",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Siren Speaker Bracket": {
+      "_row": 30,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "BEARDED 3D",
+        "5-0 FAB (DTM)",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SAK1",
+        "SAK9",
+        "VEHICLE SPECIFIC BRACKET",
+        "SPECIFY BRACKET"
+      ],
+      "locations": [
+        "FOLLOW SPEAKER LOCATION"
+      ]
+    },
+    "External Amp": {
+      "_row": 31,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SPECIFY MODEL"
+      ]
+    },
+    "Howler": {
+      "_row": 32,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "WCX HOWLER",
+        "WC HOWLER",
+        "LC HOWLER",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "VEHICLE SPECIFIC BRACKET(S)",
+        "SPECIFY LOCATION"
+      ],
+      "quantities": [
+        "1",
+        "2"
+      ]
+    },
+    "Pa Mic": {
+      "_row": 91,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "locations": [
+        "RIGHT SIDE OF CONSOLE",
+        "DRIVERS DOOR",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Pa Mic Clip": {
+      "_row": 92,
+      "manufacturer": [
+        "MFG CLIP",
+        "MAGNETIC MIC"
+      ]
+    },
+    "Opticom": {
+      "_row": 33,
+      "manufacturer": [
+        "NOVA",
+        "SHO-ME",
+        "3M",
+        "GTT",
+        "SPECIFY MFG"
+      ],
+      "locations": [
+        "IN LIGHT BAR",
+        "UPPER WINDSHIELD",
+        "IN GRILL",
+        "SPECIFY LOCATION",
+        "CENTER OF DASH"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "VISABLE LIGHT FILTER"
+      ]
+    },
+    "Front Dome Light": {
+      "_row": 34,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "3\"\" ROUND(S)",
+        "6\"\" ROUND",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "Over Center Console",
+        "Specify Location"
+      ],
+      "colors": [
+        "White",
+        "Red/White",
+        "Blue/White",
+        "Specify Color"
+      ],
+      "quantities": [
+        "1",
+        "2"
+      ]
+    },
+    "Cradle Point": {
+      "_row": 35,
+      "manufacturer": [
+        "CRADLE POINT",
+        "SIERRA WIRELESS",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "FRONT OF PARTITION",
+        "ON EQUIPMENT TRAY",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Cradle Point Antenna": {
+      "_row": 36,
+      "_sub_item": true,
+      "models": [
+        "ROOF MOUNT",
+        "WINDOW MOUNT",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "ROOF",
+        "PASS CARGO WINDOW",
+        "DRIVER CARGO WINDOW",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Mirror Warning 1": {
+      "_row": 37,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "U-SERIES",
+        "MIRROR BEAMS",
+        "INTERSECTORS",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "UNDER MIRROR",
+        "FRONT OF MIRROR",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Mirror Warning Brackets 1": {
+      "_row": 38,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "BEARDED 3D",
+        "5-0 FAB (DTM)",
+        "SPECIFY MFG"
+      ]
+    },
+    "Mirror Warning 2": {
+      "_row": 39,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "U-SERIES",
+        "MIRROR BEAMS",
+        "INTERSECTORS",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "UNDER MIRROR",
+        "FRONT OF MIRROR",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Mirror Warning Brackets 2": {
+      "_row": 40,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "BEARDED 3D",
+        "5-0 FAB (DTM)",
+        "SPECIFY MFG"
+      ]
+    },
+    "Front Interior Light Bar": {
+      "_row": 41,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "FST",
+        "XLP",
+        "AVENGER X1",
+        "AVENGER X2",
+        "T-IONS W/SHORUD",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "UPPER DRIVER AND PASSENGER",
+        "PASSENGER SIDE ONLY",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "quantities": [
+        "1",
+        "2",
+        "4",
+        "6",
+        "8",
+        "FULL BAR",
+        "HALF BAR"
+      ]
+    },
+    "Side Warning 1": {
+      "_row": 43,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "ION",
+        "T-SERIES",
+        "MEGA T-SERIES",
+        "MINI T-SERIES",
+        "M-POWER",
+        "TRACER 5 LAMP",
+        "TRACER 6 LAMP",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "REAR DOOR WINDOW",
+        "ROCKER PANEL",
+        "UPPER CARGO WINDOW",
+        "LOWER CARGO WINDOW",
+        "ON RUNNING BOARD",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "quantities": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Side Warning Bracket 1": {
+      "_row": 44,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "BEARDED 3D",
+        "5-0 FAB (DTM)",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "L BRACKET",
+        "ANGLE BRACKET",
+        "DTM EXTENDED CARGO WINDOW BRACKET",
+        "SPECIFY BRACKET"
+      ]
+    },
+    "Side Warning 2": {
+      "_row": 45,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "ION",
+        "T-SERIES",
+        "MEGA T-SERIES",
+        "MINI T-SERIES",
+        "M-POWER",
+        "TRACER 5 LAMP",
+        "TRACER 6 LAMP",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "REAR DOOR WINDOW",
+        "ROCKER PANEL",
+        "UPPER CARGO WINDOW",
+        "LOWER CARGO WINDOW",
+        "ON RUNNING BOARD",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "quantities": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Side Warning Bracket 2": {
+      "_row": 46,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "BEARDED 3D",
+        "5-0 FAB (DTM)",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "L BRACKET",
+        "ANGLE BRACKET",
+        "DTM EXTENDED CARGO WINDOW BRACKET",
+        "SPECIFY BRACKET"
+      ]
+    },
+    "Side Warning 3": {
+      "_row": 47,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "ION",
+        "T-SERIES",
+        "MEGA T-SERIES",
+        "MINI T-SERIES",
+        "M-POWER",
+        "TRACER 5 LAMP",
+        "TRACER 6 LAMP",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "REAR DOOR WINDOW",
+        "ROCKER PANEL",
+        "UPPER CARGO WINDOW",
+        "LOWER CARGO WINDOW",
+        "ON RUNNING BOARD",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "quantities": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Side Warning Bracket 3": {
+      "_row": 48,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "BEARDED 3D",
+        "5-0 FAB (DTM)",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "L BRACKET",
+        "ANGLE BRACKET",
+        "DTM EXTENDED CARGO WINDOW BRACKET",
+        "SPECIFY BRACKET"
+      ]
+    },
+    "Side Scene": {
+      "_row": 49,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "locations": [
+        "REAR DOOR WINDOW",
+        "ROCKER PANEL",
+        "UPPER CARGO WINDOW",
+        "LOWER CARGO WINDOW",
+        "ON RUNNING BOARD",
+        "ON ROOF",
+        "SPECIFY LOCATION"
+      ],
+      "quantities": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Roof Light Bar": {
+      "_row": 42,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "LEGACY",
+        "LIBERTY",
+        "9X EDGE",
+        "CENATOR",
+        "M-POWER",
+        "FREEDOM",
+        "SPECIFY BAR"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ],
+      "locations": []
+    },
+    "Rear Interior Light Bar": {
+      "_row": 59,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "RST",
+        "XLP",
+        "SPECIFY MODEL"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ],
+      "locations": []
+    },
+    "Rear Warning 1": {
+      "_row": 50,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "ION",
+        "T-SERIES",
+        "MEGA T-SERIES",
+        "MINI T-SERIES",
+        "M-POWER",
+        "TRACER 5 LAMP",
+        "VXE",
+        "VERTEX",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "UPPER REAR WINDOW",
+        "ON TAILGATE/LIFTGATE",
+        "ABOVE LICENSE PLATE",
+        "ON SPECIFIC BRACKET",
+        "PILLARS",
+        "LOWER LIFTGATE LIP",
+        "UNDER TAILGATE",
+        "TAIL LIGHTS",
+        "REAR BUMPER",
+        "SPECIFY LOCATION",
+        "LICENSE PLATE BRACKET"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "quantities": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Rear Warning Bracket 1": {
+      "_row": 51,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "BEARDED 3D",
+        "5-0 FAB (DTM)",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "LICENSE PLATE BRACKET",
+        "L BRACKET",
+        "GROMMET MOUNT",
+        "TWIST LOCK ADAPTOR",
+        "SPECIFY BRACKET"
+      ]
+    },
+    "Rear Warning 2": {
+      "_row": 52,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "ION",
+        "T-SERIES",
+        "MEGA T-SERIES",
+        "MINI T-SERIES",
+        "M-POWER",
+        "TRACER 5 LAMP",
+        "VXE",
+        "VERTEX",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "UPPER REAR WINDOW",
+        "ON TAILGATE/LIFTGATE",
+        "ABOVE LICENSE PLATE",
+        "ON SPECIFIC BRACKET",
+        "PILLARS",
+        "LOWER LIFTGATE LIP",
+        "UNDER TAILGATE",
+        "TAIL LIGHTS",
+        "REAR BUMPER",
+        "SPECIFY LOCATION",
+        "LICENSE PLATE BRACKET"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "quantities": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Rear Warning Bracket 2": {
+      "_row": 53,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "BEARDED 3D",
+        "5-0 FAB (DTM)",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "LICENSE PLATE BRACKET",
+        "L BRACKET",
+        "GROMMET MOUNT",
+        "TWIST LOCK ADAPTOR",
+        "SPECIFY BRACKET"
+      ]
+    },
+    "Rear Warning 3": {
+      "_row": 54,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "ION",
+        "T-SERIES",
+        "MEGA T-SERIES",
+        "MINI T-SERIES",
+        "M-POWER",
+        "TRACER 5 LAMP",
+        "VXE",
+        "VERTEX",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "UPPER REAR WINDOW",
+        "ON TAILGATE/LIFTGATE",
+        "ABOVE LICENSE PLATE",
+        "ON SPECIFIC BRACKET",
+        "PILLARS",
+        "LOWER LIFTGATE LIP",
+        "UNDER TAILGATE",
+        "TAIL LIGHTS",
+        "REAR BUMPER",
+        "SPECIFY LOCATION",
+        "LICENSE PLATE BRACKET"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "quantities": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Rear Warning Bracket 3": {
+      "_row": 55,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "BEARDED 3D",
+        "5-0 FAB (DTM)",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "LICENSE PLATE BRACKET",
+        "L BRACKET",
+        "GROMMET MOUNT",
+        "TWIST LOCK ADAPTOR",
+        "SPECIFY BRACKET"
+      ]
+    },
+    "Rear Scene": {
+      "_row": 56,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "FENIEX",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "AM-900",
+        "PIONEER",
+        "FIELD SERIES",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "ON BACK RACK",
+        "UNDER TAILGATE",
+        "SPECIFY LOCATION"
+      ],
+      "quantities": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Lower Lift Gate Warning": {
+      "_row": 57,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "ION",
+        "T-SERIES",
+        "MEGA T-SERIES",
+        "MINI T-SERIES",
+        "M-POWER",
+        "VXE",
+        "VERTEX",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "UPPER REAR WINDOW",
+        "ON TAILGATE/LIFTGATE",
+        "ABOVE LICENSE PLATE",
+        "ON SPECIFIC BRACKET",
+        "PILLARS",
+        "LOWER LIFTGATE LIP",
+        "UNDER TAILGATE",
+        "TAIL LIGHTS",
+        "REAR BUMPER",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "White",
+        "Amber",
+        "Red/Blue",
+        "Red and Blue",
+        "Red/White Blue/White",
+        "Red/Amber Blue/Amber",
+        "Single Color (Specify)",
+        "Dual Color (Specify)",
+        "Tri Color (Specify)"
+      ],
+      "quantities": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Lower Lift Gate Warning Bracket": {
+      "_row": 58,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "BEARDED 3D",
+        "5-0 FAB (DTM)",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "L BRACKET",
+        "GROMMET MOUNT",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Tail Light Flasher": {
+      "_row": 60,
+      "manufacturer": [
+        "OEM",
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "FLASHED WITH CORE",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Radar": {
+      "_row": 64,
+      "manufacturer": [
+        "STALKER",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "DSR",
+        "DSR 2X",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "ON DASH",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Front Radar Antenna Mount": {
+      "_row": 65,
+      "_sub_item": true,
+      "manufacturer": [
+        "STALKER",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "LOW A BRACKET",
+        "HIGH A BRACKET",
+        "DUAL SWIVEL BRACKET",
+        "VEHICLE SPECIFIC BRACKET",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "DRIVER SIDE DASH",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Rear Radar Antenna Mount": {
+      "_row": 66,
+      "_sub_item": true,
+      "manufacturer": [
+        "STALKER",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "LOW A BRACKET",
+        "HIGH A BRACKET",
+        "DUAL SWIVEL BRACKET",
+        "VEHICLE SPECIFIC BRACKET",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "DRIVER SIDE PILLAR",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Radar Interface Cable (To Camera)": {
+      "_row": 67
+    },
+    "Thermal Imager": {
+      "_row": 68,
+      "manufacturer": [
+        "NIGHT RIDE",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "SPOT LIGHT MOUNT",
+        "DRIVER FENDER MOUNT",
+        "PASS FENDER MOUNT",
+        "LIGHT BAR MOUNT",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Thermal Imager Monitor": {
+      "_row": 69,
+      "_sub_item": true,
+      "models": [
+        "DIRECT TO COMPUTER",
+        "7\"\" SCREEN",
+        "8\"\" SCREEN",
+        "9\"\" SCREEN",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "ON DASH",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Light Controller": {
+      "_row": 87,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "CORE",
+        "BLUEPRINT",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "ON EQUIPMENT TRAY",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Control Head": {
+      "_row": 88,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "CCTL5",
+        "CCTL6",
+        "CCTL7",
+        "CCTL8",
+        "CCTL9",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "IN CENTER CONSOLE",
+        "RIGHT SIDE OF CONSOLE",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Vehicle interface": {
+      "_row": 89,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SPECIFY MODEL"
+      ]
+    },
+    "Expansion Module": {
+      "_row": 90,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "CEM8",
+        "CEM16",
+        "CEM24",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "ON EQUIPMENT TRAY",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Radio 1": {
+      "_row": 93,
+      "manufacturer": [
+        "MOTOROLA",
+        "KENWOOD",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "ALL IN ONE UNIT",
+        "SPLIT UNIT",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "FRONT OF PARTITION",
+        "ON EQUIPMENT TRAY",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Radio Mic Clip 1": {
+      "_row": 94,
+      "_sub_item": true,
+      "manufacturer": [
+        "MFG CLIP",
+        "MAGNETIC MIC"
+      ],
+      "locations": [
+        "ON DASH",
+        "RIGHT SIDE OF CONSOLE",
+        "LEFT SIDE OF CONSOLE",
+        "TOP PLATE OF CONSOLE",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Radio Antenna Cable": {
+      "_row": 95,
+      "_sub_item": true,
+      "locations": [
+        "LEFT CARGO WINDOW",
+        "RIGHT CARGO WINDOW",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Radio Antenna Top": {
+      "_row": 96,
+      "_sub_item": true,
+      "manufacturer": [
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "WHIP STYLE",
+        "CYLINDER STYLE",
+        "WINDOW MOUNT",
+        "SPECITY MODEL"
+      ],
+      "locations": [
+        "REAR LEFT ROOF",
+        "LEFT CARGO WINDOW",
+        "RIGHT CARGO WINDOW"
+      ]
+    },
+    "Radio 2": {
+      "_row": 97,
+      "manufacturer": [
+        "MOTOROLA",
+        "KENWOOD",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "ALL IN ONE UNIT",
+        "SPLIT UNIT",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "FRONT OF PARTITION",
+        "ON EQUIPMENT TRAY",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Radio Mic Clip 2": {
+      "_row": 98,
+      "_sub_item": true,
+      "manufacturer": [
+        "MFG CLIP",
+        "MAGNETIC MIC"
+      ],
+      "locations": [
+        "ON DASH",
+        "RIGHT SIDE OF CONSOLE",
+        "LEFT SIDE OF CONSOLE",
+        "TOP PLATE OF CONSOLE",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Center Console": {
+      "_row": 70,
+      "manufacturer": [
+        "GAMBER JOHNSON",
+        "HAVIS",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "VEHICLE SPECIFIC",
+        "UNIVERSAL",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Special Face Plate 1": {
+      "_row": 71,
+      "manufacturer": [
+        "GAMBER JOHNSON",
+        "HAVIS",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "CORE CONTROL HEAD",
+        "MOTORAOLA XTL",
+        "WATCHGUARD DVR",
+        "ARGES CONTROL HEAD",
+        "3.5\"\" POCKET",
+        "6\"\" POCKET",
+        "ACE K-9",
+        "SWITCH PLATE (SPECIFY)",
+        "CUP HOLDERS",
+        "FACTORY COMPONANT RELOCATION PLATE",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Special Face Plate 2": {
+      "_row": 72,
+      "manufacturer": [
+        "GAMBER JOHNSON",
+        "HAVIS",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "CORE CONTROL HEAD",
+        "MOTORAOLA XTL",
+        "WATCHGUARD DVR",
+        "ARGES CONTROL HEAD",
+        "3.5\"\" POCKET",
+        "6\"\" POCKET",
+        "ACE K-9",
+        "SWITCH PLATE (SPECIFY)",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Special Face Plate 3": {
+      "_row": 73,
+      "manufacturer": [
+        "GAMBER JOHNSON",
+        "HAVIS",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "CORE CONTROL HEAD",
+        "MOTORAOLA XTL",
+        "WATCHGUARD DVR",
+        "ARGES CONTROL HEAD",
+        "3.5\"\" POCKET",
+        "6\"\" POCKET",
+        "ACE K-9",
+        "SWITCH PLATE (SPECIFY)",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Special Face Plate 4": {
+      "_row": 74,
+      "manufacturer": [
+        "GAMBER JOHNSON",
+        "HAVIS",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "CORE CONTROL HEAD",
+        "MOTORAOLA XTL",
+        "WATCHGUARD DVR",
+        "ARGES CONTROL HEAD",
+        "3.5\"\" POCKET",
+        "6\"\" POCKET",
+        "ACE K-9",
+        "SWITCH PLATE (SPECIFY)",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Special Face Plate 5": {
+      "_row": 75,
+      "manufacturer": [
+        "GAMBER JOHNSON",
+        "HAVIS",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "CORE CONTROL HEAD",
+        "MOTORAOLA XTL",
+        "WATCHGUARD DVR",
+        "ARGES CONTROL HEAD",
+        "3.5\"\" POCKET",
+        "6\"\" POCKET",
+        "ACE K-9",
+        "SWITCH PLATE (SPECIFY)",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Special Face Plate 6": {
+      "_row": 76,
+      "manufacturer": [
+        "GAMBER JOHNSON",
+        "HAVIS",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "CORE CONTROL HEAD",
+        "MOTORAOLA XTL",
+        "WATCHGUARD DVR",
+        "ARGES CONTROL HEAD",
+        "3.5\"\" POCKET",
+        "6\"\" POCKET",
+        "ACE K-9",
+        "SWITCH PLATE (SPECIFY)",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Special Face Plate 7": {
+      "_row": 77,
+      "manufacturer": [
+        "GAMBER JOHNSON",
+        "HAVIS",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "CORE CONTROL HEAD",
+        "MOTORAOLA XTL",
+        "WATCHGUARD DVR",
+        "ARGES CONTROL HEAD",
+        "3.5\"\" POCKET",
+        "6\"\" POCKET",
+        "ACE K-9",
+        "SWITCH PLATE (SPECIFY)",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Arm Rest": {
+      "_row": 78,
+      "manufacturer": [
+        "GAMBER JOHNSON",
+        "HAVIS",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "STANDARD ARM REST",
+        "PRINTER ARM REST",
+        "SIDE ARM REST",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Motion Attachment": {
+      "_row": 79,
+      "manufacturer": [
+        "GAMBER JOHNSON",
+        "HAVIS",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "9\"\" MONGOOSE",
+        "9\"\" XE",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "MOUNTED TO CONSOLE",
+        "MOUNTED TO PEDESTAL",
+        "SPECIFY LOACTION"
+      ]
+    },
+    "Docking Station": {
+      "_row": 80,
+      "manufacturer": [
+        "GAMBER JOHNSON",
+        "HAVIS",
+        "SPECIFY"
+      ],
+      "models": [
+        "SPECIFY DOCK",
+        "SPECIFY CRADLE"
+      ]
+    },
+    "Printer": {
+      "_row": 81,
+      "manufacturer": [
+        "BROTHER",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "PJ-822",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "PRINTER ARMREST MOUNT",
+        "IN CONSOLE",
+        "HEADREST MOUNT",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Printer Mount": {
+      "_row": 82,
+      "_sub_item": true,
+      "manufacturer": [
+        "GAMBER JOHNSON",
+        "HAVIS",
+        "PATROL PC",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SPECIFY MODEL"
+      ]
+    },
+    "Printer Power": {
+      "_row": 83
+    },
+    "Printer USB": {
+      "_row": 84
+    },
+    "12v Aux Ports": {
+      "_row": 85,
+      "manufacturer": [
+        "SHO-ME",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "USB TYPE A",
+        "USB TYPE C",
+        "CIGERETTE LIGHTER STYLE",
+        "MULTI STYLE BLOCK",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "RIGHT SIDE ON CONSOLE",
+        "IN FACEPLATE",
+        "BACK OF CONSOLE",
+        "SPECIFY LOCATION"
+      ],
+      "quantities": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "Camera DVR": {
+      "_row": 102,
+      "manufacturer": [
+        "AXON",
+        "MOTOTOLA",
+        "WATCHGUARD",
+        "10-8",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "FLEET 3",
+        "M500",
+        "4RE",
+        "FLEET 2",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "ON FRONT PARTITION",
+        "ON EQUIPMENT TRAY",
+        "IN CENTER CONSOILE",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Front Camera": {
+      "_row": 103
+    },
+    "Body Camera Dock": {
+      "_row": 104,
+      "_sub_item": true,
+      "locations": [
+        "PASSENGER SIDE VISOR",
+        "ON CENTER CONSOLE",
+        "IN GUNLOCK POCKET",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Rear Seat Camera": {
+      "_row": 105,
+      "_sub_item": true,
+      "locations": [
+        "ON DRIVER SIDE HEADLINER",
+        "CENTER OF PARTITION",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Rear Camera": {
+      "_row": 106
+    },
+    "Wireless Mic Charger": {
+      "_row": 107,
+      "locations": [
+        "PASSENGER SIDE VISOR",
+        "ON CENTER CONSOLE",
+        "IN GUNLOCK POCKET",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Front Partition": {
+      "_row": 108,
+      "manufacturer": [
+        "SETINA",
+        "PRO-GARD",
+        "TROY",
+        "GAMBER JOHNSON",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "FULL PARTITION",
+        "SINGLE PRISIONER",
+        "FULL XL PARTITION",
+        "PASSENGER SIDE XL PARTITION",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Chicago Barrier": {
+      "_row": 109,
+      "_sub_item": true,
+      "models": [
+        "STEEL",
+        "POLY",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Front Partition Transfer Kit": {
+      "_row": 110
+    },
+    "Rear Seat Lights 1": {
+      "_row": 111,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "3\"\" ROUND",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "LOWER KICK PANEL(S)",
+        "HEADLINER",
+        "ON FRONT PARTITION",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "RED",
+        "WHITE",
+        "BLUE",
+        "RED/WHITE",
+        "BLUE WHITE",
+        "SPECIFY COLOR(S)"
+      ],
+      "quantities": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Rear Seat Lights 2": {
+      "_row": 112,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "3\"\" ROUND",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "LOWER KICK PANEL(S)",
+        "HEADLINER",
+        "ON FRONT PARTITION",
+        "SPECIFY LOCATION"
+      ],
+      "colors": [
+        "RED",
+        "WHITE",
+        "BLUE",
+        "RED/WHITE",
+        "BLUE WHITE",
+        "SPECIFY COLOR(S)"
+      ],
+      "quantities": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Rear Seat Cargo Lights": {
+      "_row": 113,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "3\"\" ROUND",
+        "T-SERIES",
+        "MEGA T-SERIES",
+        "6\"\" ROUND",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "HEADLINER",
+        "UNDER SHELF",
+        "HEADLINER AND UNDER SHELF",
+        "SPECIFY LOCATION(S)"
+      ],
+      "colors": [
+        "RED",
+        "WHITE",
+        "BLUE",
+        "RED/WHITE",
+        "BLUE WHITE",
+        "SPECIFY COLOR(S)"
+      ],
+      "quantities": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Rear Seat Divider": {
+      "_row": 114,
+      "manufacturer": [
+        "SETINA",
+        "PRO-GARD",
+        "TROY",
+        "GAMBER JOHNSON",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "POLY DIVIDER",
+        "CARGO MAXX",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Rear Window Bars": {
+      "_row": 115,
+      "manufacturer": [
+        "SETINA",
+        "PRO-GARD",
+        "TROY",
+        "GAMBER JOHNSON",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "STEEL VERTICAL",
+        "STEEL HORIZONTAL",
+        "POLY",
+        "POLY TINTED",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Replacement Rear Seat": {
+      "_row": 116,
+      "manufacturer": [
+        "SETINA",
+        "PRO-GARD",
+        "TROY",
+        "GAMBER JOHNSON",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "FULL REPLACMENT SEAT W/ CENTER PULL SEAT BELTS",
+        "POLY SEAT COVER",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Rear Partition": {
+      "_row": 117,
+      "manufacturer": [
+        "SETINA",
+        "PRO-GARD",
+        "TROY",
+        "GAMBER JOHNSON",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "STEEL WINDOW",
+        "POLY WINDOW",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Floor Pan": {
+      "_row": 118,
+      "manufacturer": [
+        "SETINA",
+        "PRO-GARD",
+        "TROY",
+        "GAMBER JOHNSON",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "POLY FLOOR PAN",
+        "POLY FLOOR PAN W/ DRAINS"
+      ]
+    },
+    "Bullet Proof Door Panel(s)": {
+      "_row": 119,
+      "manufacturer": [
+        "ANGEL ARMOR",
+        "CLEAR ARMOR",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "LEVEL 3A (HANDGUN)",
+        "LEVEL 3+(RIFLE)",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "DRIVERS DOOR ONLY",
+        "DRIVER AND PASSENGER FRONT DOORS",
+        "SPECIFY DOOR(S)"
+      ]
+    },
+    "Bullet Proof Door Window(s)": {
+      "_row": 120,
+      "manufacturer": [
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "LEVEL 3A (HANDGUN)",
+        "LEVEL 3+(RIFLE)",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "DRIVERS DOOR ONLY",
+        "DRIVER AND PASSENGER FRONT DOORS",
+        "SPECIFY WINDOW(S)"
+      ]
+    },
+    "Storage Compartment": {
+      "_row": 121,
+      "manufacturer": [
+        "SETINA",
+        "TRUCK VAULT",
+        "DECKED",
+        "HAVIS",
+        "PRO-GARD",
+        "GAMBER JOHNSON",
+        "5-0 FAB (DTM)",
+        "WESTIN",
+        "AMERICAN ALUMINUM",
+        "1ST IN EMERGENCY",
+        "ROCKLAND CABINETS",
+        "SPECIFY MFG"
+      ]
+    },
+    "Cargo Lighting": {
+      "_row": 122,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "3\"\" ROUND",
+        "T-SERIES",
+        "MEGA T-SERIES",
+        "6\"\" ROUND",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "ON LIFT GATE",
+        "HEADLINER",
+        "ON LIFTGATE AND HEADLINER",
+        "SPECIFY LOCATION(S)"
+      ],
+      "colors": [
+        "RED",
+        "WHITE",
+        "BLUE",
+        "RED/WHITE",
+        "BLUE WHITE",
+        "SPECIFY COLOR(S)"
+      ],
+      "quantities": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "lens": [
+        "STANDARD LENS",
+        "SMOKED LENS"
+      ]
+    },
+    "Door Lock Button": {
+      "_row": 123,
+      "locations": [
+        "ON LEFT D-PILLAR",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Equipment Tray": {
+      "_row": 124,
+      "manufacturer": [
+        "SETINA",
+        "5-0 FAB (DTM)",
+        "GAMBER JOHNSON",
+        "HAVIS",
+        "TRUCK VAULT",
+        "TROY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "EQUIPMENT DRAWER",
+        "EQUIPMENT TRAY",
+        "EQUIMPENT BOX",
+        "REPLACEMENT FLOOR",
+        "BOARD",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "ON REAR PARTITION",
+        "UNDER CARGO BOX",
+        "PART OF CARGO MAXX",
+        "CARGO AREA FLOOR",
+        "ON REAR SEAT",
+        "IN CONSOLE",
+        "SPECIFY LOACTION"
+      ]
+    },
+    "Gunlock 1": {
+      "_row": 125,
+      "manufacturer": [
+        "SANTA CRUZ",
+        "SETINA",
+        "BLAC-RAC",
+        "PRO-GARD",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SINGLE HANDCUFF",
+        "DUAL HANDCUFF",
+        "SINGLE SHOT GUN",
+        "DUAL SHOT GUN",
+        "HANDCUFF AND SHOT GUN",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "OVERHEAD ON FRONT PARTITION",
+        "GUN LOCK POCKET",
+        "LEFT GUN LOCK POCKET",
+        "RIGHT GUN LOCK POCKET",
+        "OVER HEAD IN REAR",
+        "CARGO AREA MOUNT (SPECIFY)",
+        "REAR SEAT MOUNT",
+        "SINGLE PRISIONER FACING FORWARD",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Gunlock Bracket 1": {
+      "_row": 126,
+      "_sub_item": true,
+      "manufacturer": [
+        "SETINA",
+        "5-0 FAB (DTM)",
+        "SANTA CRUZ",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "FRONT OVERHEAD BRACKETS",
+        "REAR OVERHEAD BRACKETS",
+        "SINGLE T-RAIL",
+        "DUAL T-RAIL",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Gunlock 2": {
+      "_row": 127,
+      "manufacturer": [
+        "SANTA CRUZ",
+        "SETINA",
+        "BLAC-RAC",
+        "PRO-GARD",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SINGLE HANDCUFF",
+        "DUAL HANDCUFF",
+        "SINGLE SHOT GUN",
+        "DUAL SHOT GUN",
+        "HANDCUFF AND SHOT GUN",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "OVERHEAD ON FRONT PARTITION",
+        "GUN LOCK POCKET",
+        "LEFT GUN LOCK POCKET",
+        "RIGHT GUN LOCK POCKET",
+        "OVER HEAD IN REAR",
+        "CARGO AREA MOUNT (SPECIFY)",
+        "REAR SEAT MOUNT",
+        "SINGLE PRISIONER FACING FORWARD",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Gunlock Bracket 2": {
+      "_row": 128,
+      "_sub_item": true,
+      "manufacturer": [
+        "SETINA",
+        "5-0 FAB (DTM)",
+        "SANTA CRUZ",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "FRONT OVERHEAD BRACKETS",
+        "REAR OVERHEAD BRACKETS",
+        "SINGLE T-RAIL",
+        "DUAL T-RAIL",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Gunlock 3": {
+      "_row": 129,
+      "manufacturer": [
+        "SANTA CRUZ",
+        "SETINA",
+        "BLAC-RAC",
+        "PRO-GARD",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SINGLE HANDCUFF",
+        "DUAL HANDCUFF",
+        "SINGLE SHOT GUN",
+        "DUAL SHOT GUN",
+        "HANDCUFF AND SHOT GUN",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "OVERHEAD ON FRONT PARTITION",
+        "GUN LOCK POCKET",
+        "LEFT GUN LOCK POCKET",
+        "RIGHT GUN LOCK POCKET",
+        "OVER HEAD IN REAR",
+        "CARGO AREA MOUNT (SPECIFY)",
+        "REAR SEAT MOUNT",
+        "SINGLE PRISIONER FACING FORWARD",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Gunlock Bracket 3": {
+      "_row": 130,
+      "_sub_item": true,
+      "manufacturer": [
+        "SETINA",
+        "5-0 FAB (DTM)",
+        "SANTA CRUZ",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "FRONT OVERHEAD BRACKETS",
+        "REAR OVERHEAD BRACKETS",
+        "SINGLE T-RAIL",
+        "DUAL T-RAIL",
+        "SPECIFY MODEL"
+      ]
+    },
+    "K-9 Kennel": {
+      "_row": 131,
+      "manufacturer": [
+        "SETINA",
+        "HAVIS",
+        "AMERICAN ALUMINUM",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "FULL PLATFORM",
+        "2/3 1/3 DRIVER EXIT",
+        "2/3 1/2 PASS EXIT",
+        "ULTIMATE",
+        "ULTIMATE II",
+        "SPECIFY MODEL"
+      ]
+    },
+    "K-9 Heat Alarm/Popper": {
+      "_row": 132,
+      "manufacturer": [
+        "ACE K-9",
+        "RAY ALLEN",
+        "PREIMER K-9",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "HEAT ALARM ONLY",
+        "HEAT ALARM AND DOOR POPPER",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "ON FRONT OF K-9 PARTITION",
+        "ON EQUIPMEBNT TRAY",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "K-9 Control Head": {
+      "_row": 133,
+      "manufacturer": [
+        "ACE K-9",
+        "RAY ALLEN",
+        "PREIMER K-9",
+        "SPECIFY MFG"
+      ],
+      "locations": [
+        "IN CENTER CONSOLE",
+        "PASSENGER SIDE VISOR",
+        "TOP PLATE OF CONSOLE",
+        "RIGHT OF CONSOLE",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "K-9 Add-Ons": {
+      "_row": 134,
+      "manufacturer": [
+        "ACE K-9",
+        "RAY ALLEN",
+        "PREIMER K-9",
+        "SPECIFY MFG"
+      ],
+      "locations": [
+        "IN CENTER CONSOLE",
+        "PASSENGER SIDE VISOR",
+        "TOP PLATE OF CONSOLE",
+        "RIGHT OF CONSOLE",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Battery Tender": {
+      "_row": 135,
+      "manufacturer": [
+        "SCHUMACHER",
+        "BATTERY TENDER",
+        "KUSSMAUL",
+        "SPECIFY MFG"
+      ],
+      "locations": [
+        "ON EQUIPMENT TRAY",
+        "UNDER HOOD",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Auto Eject": {
+      "_row": 136,
+      "manufacturer": [
+        "KUSSMAUL",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "WATER PROOF",
+        "NON-WATER PROOF",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "LEFT FRONT QUARTER PANEL",
+        "LEFT REAR QUARTER PANEL",
+        "ON BACK RACK",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Vehicle to Vehicle Sync": {
+      "_row": 141,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "locations": [
+        "IN LIGHT BAR",
+        "ON CARGO WINDOW"
+      ]
+    },
+    "Cloud System": {
+      "_row": 142,
+      "manufacturer": [
+        "WHELEN",
+        "SOUNDOFF",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "VERIZON ROOF MOUNT",
+        "VERIZON WINDOW MOUNT",
+        "FIRST NET ROOF MOUNT",
+        "FIRST NET WINDOW MOUNT",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "ON EQUIPMENT TRAY",
+        "FRONT OF PARTITION",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Remote Start": {
+      "_row": 140,
+      "manufacturer": [
+        "ARCTI START",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "1 BUTTON 1 WAY",
+        "4 BUTTON 1 WAY",
+        "1 BUTTON 2 WAY",
+        "4 BUTTON 2 WAY",
+        "5 BUTTON LCD",
+        "SPECIFY"
+      ]
+    },
+    "Arges": {
+      "_row": 143,
+      "manufacturer": [
+        "WHELEN",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "PRO-FOCUS",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "LEFT FRONT FENDER",
+        "RIGHT FRONT FENDER",
+        "LEFT AND RIGHT FENDER",
+        "LIGHTBAR MOUNT",
+        "SPECIFY LOCATION"
+      ],
+      "quantities": [
+        "1",
+        "2"
+      ]
+    },
+    "Arges Controller": {
+      "_row": 144,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "ARGES W/ BAIL BRACKET",
+        "ARGES W/ SWIVEL BRACKET",
+        "ARGES W/ VERSATILE BAIL BRACKET",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "LEFT ON DASH",
+        "IN CENTER CONSOLE",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "Arges Mount": {
+      "_row": 145,
+      "_sub_item": true,
+      "manufacturer": [
+        "WHELEN",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "VEHICLE SPECIFIC MOUNT",
+        "LIGHT BAR MOUNT",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Photo Eye": {
+      "_row": 146,
+      "manufacturer": [
+        "WHELEN",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "CENTER OF DASH",
+        "REAR VIEW MIRROR PLASTIC",
+        "IN LIGHT BAR",
+        "SPECIFY LOCATION"
+      ]
+    },
+    "GPD W/ Extension": {
+      "_row": 147,
+      "manufacturer": [
+        "GLOBESAT",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "CENTER OF DASH",
+        "FRONT RIGHT OF DASH",
+        "ROOF MOUNTED",
+        "SPECIFY LOACTION"
+      ]
+    },
+    "Floor Mats": {
+      "_row": 138,
+      "manufacturer": [
+        "WEATHER TECH",
+        "HUSKY",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "FRONT DRIVER AND PASSENGER",
+        "FRONT AND REAR",
+        "FRONT REAR AND CARGO",
+        "CARGO MAT"
+      ]
+    },
+    "Seat Covers": {
+      "_row": 139,
+      "manufacturer": [
+        "TIGER TOUGH",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "STANDARD",
+        "WITH CUSTOM PATCH",
+        "SPECIFY MODEL"
+      ],
+      "locations": [
+        "DRIVER ONLY",
+        "DRIVER AND PASSENGER",
+        "FULL FRONT",
+        "FULL REAR",
+        "FRONT AND REAR",
+        "SPECIFY MODEL"
+      ],
+      "colors": [
+        "BLACK",
+        "GRAY",
+        "SPECIFY COLOR"
+      ]
+    },
+    "Window Tint": {
+      "_row": 150,
+      "manufacturer": [
+        "5-0 FAB (DTM)",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "COMPLETE SQUAD HARNESS",
+        "SPECIFY MODEL"
+      ]
+    },
+    "Decals": {
+      "_row": 148,
+      "manufacturer": [
+        "ADVANCED GRAPHICS",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "CUSTOM GRAPHICS ( WORK WITH MFG)"
+      ]
+    },
+    "Harness": {
+      "_row": 149,
+      "manufacturer": [
+        "5-0 FAB (DTM)",
+        "SPECIFY MFG"
+      ],
+      "models": [
+        "COMPLETE SQUAD HARNESS",
+        "SPECIFY MODEL"
+      ]
+    },
+    "2-Lamp Tracer": {
+      "locations": []
+    },
+    "5-Lamp Tracer": {
+      "locations": []
+    },
+    "6-Lamp Tracer": {
+      "locations": []
+    },
+    "Radio Speaker": {
+      "locations": []
+    }
+  },
+  "template_sections": [
+    {
+      "label": "PUSH BUMPER / FRONT STRUCTURE",
+      "parts": [
+        {
+          "name": "Push Bumper",
+          "sub": false
+        },
+        {
+          "name": "Pit Bar",
+          "sub": false
+        },
+        {
+          "name": "Wing Wraps",
+          "sub": false
+        },
+        {
+          "name": "Wire Covers",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "FRONT WARNING LIGHTS",
+      "parts": [
+        {
+          "name": "Forward Warning 1",
+          "sub": false
+        },
+        {
+          "name": "FW 1 Bracket",
+          "sub": true
+        },
+        {
+          "name": "Forward Warning 2",
+          "sub": false
+        },
+        {
+          "name": "FW 2 Bracket",
+          "sub": true
+        },
+        {
+          "name": "Front Side Warning",
+          "sub": false
+        },
+        {
+          "name": "Front Side Brackets",
+          "sub": true
+        },
+        {
+          "name": "Pit Bar Warning",
+          "sub": false
+        },
+        {
+          "name": "Headlight Flasher",
+          "sub": false
+        },
+        {
+          "name": "Front Scene",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "SIREN / SPEAKER / PA",
+      "parts": [
+        {
+          "name": "Siren Speaker 1",
+          "sub": false
+        },
+        {
+          "name": "Siren Speaker 2",
+          "sub": false
+        },
+        {
+          "name": "Siren Speaker Bracket",
+          "sub": true
+        },
+        {
+          "name": "External Amp",
+          "sub": false
+        },
+        {
+          "name": "Howler",
+          "sub": false
+        },
+        {
+          "name": "Pa Mic",
+          "sub": false
+        },
+        {
+          "name": "Pa Mic Clip",
+          "sub": true
+        }
+      ]
+    },
+    {
+      "label": "FRONT SPECIALTY",
+      "parts": [
+        {
+          "name": "Opticom",
+          "sub": false
+        },
+        {
+          "name": "Front Dome Light",
+          "sub": false
+        },
+        {
+          "name": "Cradle Point",
+          "sub": false
+        },
+        {
+          "name": "Cradle Point Antenna",
+          "sub": true
+        }
+      ]
+    },
+    {
+      "label": "MIRROR & SIDE WARNING LIGHTS",
+      "parts": [
+        {
+          "name": "Mirror Warning 1",
+          "sub": false
+        },
+        {
+          "name": "Mirror Warning Brackets 1",
+          "sub": true
+        },
+        {
+          "name": "Mirror Warning 2",
+          "sub": false
+        },
+        {
+          "name": "Mirror Warning Brackets 2",
+          "sub": true
+        },
+        {
+          "name": "Side Warning 1",
+          "sub": false
+        },
+        {
+          "name": "Side Warning Bracket 1",
+          "sub": true
+        },
+        {
+          "name": "Side Warning 2",
+          "sub": false
+        },
+        {
+          "name": "Side Warning Bracket 2",
+          "sub": true
+        },
+        {
+          "name": "Side Warning 3",
+          "sub": false
+        },
+        {
+          "name": "Side Warning Bracket 3",
+          "sub": true
+        },
+        {
+          "name": "Side Scene",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "LIGHT BARS",
+      "parts": [
+        {
+          "name": "Roof Light Bar",
+          "sub": false
+        },
+        {
+          "name": "Front Interior Light Bar",
+          "sub": false
+        },
+        {
+          "name": "Rear Interior Light Bar",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "REAR WARNING LIGHTS",
+      "parts": [
+        {
+          "name": "Rear Warning 1",
+          "sub": false
+        },
+        {
+          "name": "Rear Warning Bracket 1",
+          "sub": true
+        },
+        {
+          "name": "Rear Warning 2",
+          "sub": false
+        },
+        {
+          "name": "Rear Warning Bracket 2",
+          "sub": true
+        },
+        {
+          "name": "Rear Warning 3",
+          "sub": false
+        },
+        {
+          "name": "Rear Warning Bracket 3",
+          "sub": true
+        },
+        {
+          "name": "Rear Scene",
+          "sub": false
+        },
+        {
+          "name": "Lower Lift Gate Warning",
+          "sub": false
+        },
+        {
+          "name": "Lower Lift Gate Warning Bracket",
+          "sub": true
+        },
+        {
+          "name": "Tail Light Flasher",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "RADAR & THERMAL",
+      "parts": [
+        {
+          "name": "Radar",
+          "sub": false
+        },
+        {
+          "name": "Front Radar Antenna Mount",
+          "sub": true
+        },
+        {
+          "name": "Rear Radar Antenna Mount",
+          "sub": true
+        },
+        {
+          "name": "Radar Interface Cable (To Camera)",
+          "sub": true
+        },
+        {
+          "name": "Thermal Imager",
+          "sub": false
+        },
+        {
+          "name": "Thermal Imager Monitor",
+          "sub": true
+        }
+      ]
+    },
+    {
+      "label": "LIGHT CONTROLLER & ELECTRONICS",
+      "parts": [
+        {
+          "name": "Light Controller",
+          "sub": false
+        },
+        {
+          "name": "Control Head",
+          "sub": false
+        },
+        {
+          "name": "Vehicle interface",
+          "sub": false
+        },
+        {
+          "name": "Expansion Module",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "PA / SIREN CONTROL",
+      "parts": [
+        {
+          "name": "Pa Mic",
+          "sub": false
+        },
+        {
+          "name": "Pa Mic Clip",
+          "sub": true
+        }
+      ]
+    },
+    {
+      "label": "RADIO & COMMUNICATIONS",
+      "parts": [
+        {
+          "name": "Radio 1",
+          "sub": false
+        },
+        {
+          "name": "Radio Mic Clip 1",
+          "sub": true
+        },
+        {
+          "name": "Radio Antenna Cable",
+          "sub": true
+        },
+        {
+          "name": "Radio Antenna Top",
+          "sub": true
+        },
+        {
+          "name": "Radio 2",
+          "sub": false
+        },
+        {
+          "name": "Radio Mic Clip 2",
+          "sub": true
+        },
+        {
+          "name": "Radio Speaker",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "CENTER CONSOLE & COMPUTER",
+      "parts": [
+        {
+          "name": "Center Console",
+          "sub": false
+        },
+        {
+          "name": "Special Face Plate 1",
+          "sub": false
+        },
+        {
+          "name": "Special Face Plate 2",
+          "sub": false
+        },
+        {
+          "name": "Special Face Plate 3",
+          "sub": false
+        },
+        {
+          "name": "Special Face Plate 4",
+          "sub": false
+        },
+        {
+          "name": "Special Face Plate 5",
+          "sub": false
+        },
+        {
+          "name": "Special Face Plate 6",
+          "sub": false
+        },
+        {
+          "name": "Special Face Plate 7",
+          "sub": false
+        },
+        {
+          "name": "Arm Rest",
+          "sub": false
+        },
+        {
+          "name": "Motion Attachment",
+          "sub": false
+        },
+        {
+          "name": "Docking Station",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "PRINTER",
+      "parts": [
+        {
+          "name": "Printer",
+          "sub": false
+        },
+        {
+          "name": "Printer Mount",
+          "sub": true
+        },
+        {
+          "name": "Printer Power",
+          "sub": true
+        },
+        {
+          "name": "Printer USB",
+          "sub": true
+        },
+        {
+          "name": "12v Aux Ports",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "CAMERAS & DVR",
+      "parts": [
+        {
+          "name": "Camera DVR",
+          "sub": false
+        },
+        {
+          "name": "Front Camera",
+          "sub": false
+        },
+        {
+          "name": "Body Camera Dock",
+          "sub": true
+        },
+        {
+          "name": "Rear Seat Camera",
+          "sub": true
+        },
+        {
+          "name": "Rear Camera",
+          "sub": false
+        },
+        {
+          "name": "Wireless Mic Charger",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "PARTITIONS & PRISONER AREA",
+      "parts": [
+        {
+          "name": "Front Partition",
+          "sub": false
+        },
+        {
+          "name": "Chicago Barrier",
+          "sub": true
+        },
+        {
+          "name": "Front Partition Transfer Kit",
+          "sub": true
+        },
+        {
+          "name": "Rear Seat Lights 1",
+          "sub": false
+        },
+        {
+          "name": "Rear Seat Lights 2",
+          "sub": false
+        },
+        {
+          "name": "Rear Seat Cargo Lights",
+          "sub": false
+        },
+        {
+          "name": "Rear Seat Divider",
+          "sub": false
+        },
+        {
+          "name": "Rear Window Bars",
+          "sub": false
+        },
+        {
+          "name": "Replacement Rear Seat",
+          "sub": false
+        },
+        {
+          "name": "Rear Partition",
+          "sub": false
+        },
+        {
+          "name": "Floor Pan",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "ARMOR & PROTECTION",
+      "parts": [
+        {
+          "name": "Bullet Proof Door Panel(s)",
+          "sub": false
+        },
+        {
+          "name": "Bullet Proof Door Window(s)",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "CARGO & STORAGE",
+      "parts": [
+        {
+          "name": "Storage Compartment",
+          "sub": false
+        },
+        {
+          "name": "Cargo Lighting",
+          "sub": false
+        },
+        {
+          "name": "Door Lock Button",
+          "sub": false
+        },
+        {
+          "name": "Equipment Tray",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "GUNLOCKS",
+      "parts": [
+        {
+          "name": "Gunlock 1",
+          "sub": false
+        },
+        {
+          "name": "Gunlock Bracket 1",
+          "sub": true
+        },
+        {
+          "name": "Gunlock 2",
+          "sub": false
+        },
+        {
+          "name": "Gunlock Bracket 2",
+          "sub": true
+        },
+        {
+          "name": "Gunlock 3",
+          "sub": false
+        },
+        {
+          "name": "Gunlock Bracket 3",
+          "sub": true
+        }
+      ]
+    },
+    {
+      "label": "K-9 EQUIPMENT",
+      "parts": [
+        {
+          "name": "K-9 Kennel",
+          "sub": false
+        },
+        {
+          "name": "K-9 Heat Alarm/Popper",
+          "sub": false
+        },
+        {
+          "name": "K-9 Control Head",
+          "sub": false
+        },
+        {
+          "name": "K-9 Add-Ons",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "ELECTRICAL & POWER",
+      "parts": [
+        {
+          "name": "Battery Tender",
+          "sub": false
+        },
+        {
+          "name": "Auto Eject",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "CONNECTED SYSTEMS",
+      "parts": [
+        {
+          "name": "Vehicle to Vehicle Sync",
+          "sub": false
+        },
+        {
+          "name": "Cloud System",
+          "sub": false
+        },
+        {
+          "name": "Remote Start",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "ARGES & SPOTLIGHT",
+      "parts": [
+        {
+          "name": "Arges",
+          "sub": false
+        },
+        {
+          "name": "Arges Controller",
+          "sub": true
+        },
+        {
+          "name": "Arges Mount",
+          "sub": true
+        },
+        {
+          "name": "Photo Eye",
+          "sub": false
+        },
+        {
+          "name": "GPD W/ Extension",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "FINISHING & ACCESSORIES",
+      "parts": [
+        {
+          "name": "Floor Mats",
+          "sub": false
+        },
+        {
+          "name": "Seat Covers",
+          "sub": false
+        },
+        {
+          "name": "Window Tint",
+          "sub": false
+        },
+        {
+          "name": "Decals",
+          "sub": false
+        },
+        {
+          "name": "Harness",
+          "sub": false
+        }
+      ]
+    },
+    {
+      "label": "QUESTIONS / ADDITIONAL NOTES",
+      "parts": []
+    }
+  ],
+  "schema_version": 1
+}

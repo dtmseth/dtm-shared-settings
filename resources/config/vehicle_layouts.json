@@ -1,0 +1,4968 @@
+{
+  "version": "5.1",
+  "vehicles": {
+    "PIU": {
+      "make": "Ford",
+      "model": "Police Interceptor Utility",
+      "fixtures": {
+        "roof_light_bar": {
+          "front": {
+            "x": 0.5,
+            "y": 0.03,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "side": {
+            "x": 0.53,
+            "y": 0.005,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "top": {
+            "x": 0.53,
+            "y": 0.49,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "rear": {
+            "x": 0.5,
+            "y": 0.02,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single"
+          }
+        },
+        "interior_light_bar_front": {
+          "front": {
+            "x": 0.5,
+            "y": 0.14,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "top": {
+            "x": 0.385,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          }
+        },
+        "push_bumper": {
+          "front": {
+            "x": 0.5,
+            "y": 0.62,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "side": {
+            "x": -0.01,
+            "y": 0.61,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "top": {
+            "x": -0.01,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          }
+        },
+        "pit_bar": {
+          "side": {
+            "x": 0,
+            "y": 0.61,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "front": {
+            "x": 0.5,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "rear_interior_light_bar": {
+          "top": {
+            "x": 0.915,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "rear": {
+            "x": 0.5,
+            "y": 0.14,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          }
+        },
+        "tracer_5lamp": {
+          "side": {
+            "x": 0.48,
+            "y": 0.825,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 5,
+            "pattern": "horizontal",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width"
+          }
+        },
+        "tracer_6lamp": {
+          "side": {
+            "x": 0.48,
+            "y": 0.82,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 6,
+            "pattern": "horizontal",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width"
+          }
+        },
+        "tracer_2lamp": {
+          "front": {
+            "x": 0.5,
+            "y": 0.595,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 2,
+            "pattern": "horizontal",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width"
+          }
+        },
+        "wing_wraps": {
+          "side": {
+            "x": 0.07,
+            "y": 0.6,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "front": {
+            "x": 0.845,
+            "y": 0.59,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 2,
+            "pattern": "mirror",
+            "flip_mirrored_h": true,
+            "flip_v": false,
+            "flip_h": true,
+            "behind_vehicle": false,
+            "h_spacing": 0.68
+          }
+        }
+      },
+      "views": {
+        "front": {
+          "label": "Front",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "side_roles": {
+            "negative_x": "passenger",
+            "positive_x": "driver"
+          },
+          "locations": {
+            "TOP OF PUSH BUMPER": {
+              "x": 0.61,
+              "y": 0.545,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "flip_v": true,
+              "h_spacing": 0.12
+            },
+            "UNDER PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.755,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.19
+            },
+            "BEHIND GRILL (CENTER)": {
+              "x": 0.5,
+              "y": 0.52,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "mirror"
+            },
+            "GRILL": {
+              "x": 0.5,
+              "y": 0.44,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.195
+            },
+            "TOP TUBE": {
+              "x": 0.5,
+              "y": 0.435,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 4,
+              "pattern": "horizontal",
+              "h_spacing": 0.095
+            },
+            "CENTER PLATE OF PB": {
+              "x": 0.5,
+              "y": 0.645,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER GRILL": {
+              "x": 0.5,
+              "y": 0.73,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.29
+            },
+            "FOG LIGHT AREA": {
+              "x": 0.5,
+              "y": 0.65,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "rotation": 6,
+              "h_spacing": 0.58,
+              "flip_mirrored_h": true
+            },
+            "FRONT CORNER OF BUMPER": {
+              "x": 0.5,
+              "y": 0.525,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.78
+            },
+            "SIDE OF PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.595,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.44
+            },
+            "PIT BARS": {
+              "x": 0.115,
+              "y": 0.71,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.73
+            },
+            "BEHIND OEM BUMPER": {
+              "x": 0.78,
+              "y": 0.7,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "VEHICLE SPECIFIC BRACKET(S)": {
+              "x": 0.245,
+              "y": 0.7,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.62,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.03,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "IN LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.03,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single",
+              "layer": 3
+            },
+            "UPPER WINDSHIELD": {
+              "x": 0.425,
+              "y": 0.165,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ON DASH": {
+              "x": 0.5,
+              "y": 0.285,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "IN GRILL": {
+              "x": 0.5,
+              "y": 0.525,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "h_spacing": 0.225
+            },
+            "UNDER MIRROR": {
+              "x": 0.5,
+              "y": 0.34,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.9
+            },
+            "FRONT OF MIRROR": {
+              "x": 0.5,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.89
+            },
+            "SPOT LIGHT MOUNT": {
+              "x": 0.89,
+              "y": 0.273,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0,
+              "y": 0.08,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "HEADLIGHT CUT OUTS": {
+              "x": 0.5,
+              "y": 0.45,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.77
+            },
+            "VEHICLE SPECIFIC BRACKET": {
+              "x": 0.94,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF": {
+              "x": 0.625,
+              "y": 0.035,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER DRIVER AND PASSENGER": {
+              "x": 0.5,
+              "y": 0.12,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PASSENGER SIDE ONLY": {
+              "x": 0.31,
+              "y": 0.13,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "INTERIOR LIGHT BAR (FRONT)": {
+              "x": 0.5,
+              "y": 0.12,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.89,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.145,
+              "y": 0.285,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.5,
+              "y": 0.275,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.81
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.74,
+              "y": 0.555,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT ON DASH": {
+              "x": 0.84,
+              "y": 0.555,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "CENTER OF DASH": {
+              "x": 0.5,
+              "y": 0.285,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "side": {
+          "label": "Side",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "default_slot_role": "driver",
+          "locations": {
+            "PUSH BUMPER": {
+              "x": -0.005,
+              "y": 0.6,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER MOUNT": {
+              "x": -0.005,
+              "y": 0.6,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UNDER MIRROR": {
+              "x": 0.365,
+              "y": 0.35,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FRONT OF MIRROR": {
+              "x": 0.335,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR DOOR WINDOW": {
+              "x": 0.58,
+              "y": 0.288,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER CARGO WINDOW": {
+              "x": 0.8,
+              "y": 0.16,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER CARGO WINDOW": {
+              "x": 0.83,
+              "y": 0.26,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROCKER PANEL": {
+              "x": 0.5,
+              "y": 0.72,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ON RUNNING BOARD": {
+              "x": 0.48,
+              "y": 0.81,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SIDE OF PUSH BUMPER": {
+              "x": 0,
+              "y": 0.55,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FRONT CORNER OF BUMPER": {
+              "x": 0.07,
+              "y": 0.54,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FOG LIGHT AREA": {
+              "x": 0.04,
+              "y": 0.66,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "rotation": 6
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.53,
+              "y": 0.005,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PIT BARS": {
+              "x": 0.04,
+              "y": 0.76,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "layer": 10,
+              "rotation": 2
+            },
+            "SPOT LIGHT MOUNT": {
+              "x": 0.295,
+              "y": 0.26,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.7,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.26,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.26,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "behind_vehicle": true
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.26,
+              "y": 0.295,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.5,
+              "y": 0,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "HEADLIGHT CUT OUTS": {
+              "x": 0.5,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR LEFT ROOF": {
+              "x": 0.823,
+              "y": 0.002,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "top": {
+          "label": "Top",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "locations": {
+            "ROOF LIGHT BAR": {
+              "x": 0.53,
+              "y": 0.49,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF CENTER": {
+              "x": 0.53,
+              "y": 0.49,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "HEADLINER": {
+              "x": 0.45,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER DRIVER AND PASSENGER": {
+              "x": 0.4,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PASSENGER SIDE ONLY": {
+              "x": 0.395,
+              "y": 0.295,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR DOOR WINDOW": {
+              "x": 0.595,
+              "y": 0.85,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER CARGO WINDOW": {
+              "x": 0.805,
+              "y": 0.805,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER CARGO WINDOW": {
+              "x": 0.855,
+              "y": 0.825,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER": {
+              "x": -0.013,
+              "y": 0.51,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR INTERIOR LIGHT BAR": {
+              "x": 0.916,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.72,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR LEFT ROOF": {
+              "x": 0.824,
+              "y": 0.636,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "layer": 2
+            }
+          }
+        },
+        "rear": {
+          "label": "Rear",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "side_roles": {
+            "negative_x": "driver",
+            "positive_x": "passenger"
+          },
+          "locations": {
+            "UPPER REAR WINDOW": {
+              "x": 0.5,
+              "y": 0.14,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.26
+            },
+            "ON TAILGATE/LIFTGATE": {
+              "x": 0.5,
+              "y": 0.525,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.51
+            },
+            "ABOVE LICENSE PLATE": {
+              "x": 0.5,
+              "y": 0.335,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.2
+            },
+            "LICENSE PLATE BRACKET": {
+              "x": 0.595,
+              "y": 0.38,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.13
+            },
+            "ON SPECIFIC BRACKET": {
+              "x": 0.065,
+              "y": 0.05,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.02,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER LIFTGATE LIP": {
+              "x": 0.5,
+              "y": 0.61,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.4
+            },
+            "UNDER MIRROR": {
+              "x": 0.5,
+              "y": 0.34,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.9
+            },
+            "REAR BUMPER": {
+              "x": 0.5,
+              "y": 0.685,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.75
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.94,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR INTERIOR LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.135,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PILLARS": {
+              "x": 0.5,
+              "y": 0.22,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.59
+            },
+            "TAIL LIGHTS": {
+              "x": 0.5,
+              "y": 0.36,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.71
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.12,
+              "y": 0.23,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.87,
+              "y": 0.23,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.5,
+              "y": 0.24,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.78
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.225,
+              "y": 0.03,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "internal.console": {
+          "label": "Console",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "internal.cargo": {
+          "label": "Cargo Area",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "internal.rear_seat": {
+          "label": "Rear Seat",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        }
+      },
+      "view_order": [
+        "front",
+        "side",
+        "top",
+        "rear",
+        "internal.console",
+        "internal.cargo",
+        "internal.rear_seat"
+      ]
+    },
+    "TRAVERSE": {
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "fixtures": {
+        "roof_light_bar": {
+          "front": {
+            "x": 0.5,
+            "y": 0.03,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "side": {
+            "x": 0.53,
+            "y": 0.005,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "top": {
+            "x": 0.53,
+            "y": 0.49,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "rear": {
+            "x": 0.5,
+            "y": 0.02,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single"
+          }
+        },
+        "interior_light_bar_front": {
+          "front": {
+            "x": 0.5,
+            "y": 0.14,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "top": {
+            "x": 0.385,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          }
+        },
+        "push_bumper": {
+          "front": {
+            "x": 0.5,
+            "y": 0.62,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "side": {
+            "x": -0.005,
+            "y": 0.625,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "top": {
+            "x": -0.01,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          }
+        },
+        "pit_bar": {
+          "side": {
+            "x": 0,
+            "y": 0.61,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "front": {
+            "x": 0.5,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "rear_interior_light_bar": {
+          "top": {
+            "x": 0.915,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "rear": {
+            "x": 0.5,
+            "y": 0.14,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          }
+        },
+        "tracer_5lamp": {
+          "side": {
+            "x": 0.48,
+            "y": 0.825,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 5,
+            "pattern": "horizontal",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width"
+          }
+        },
+        "tracer_6lamp": {
+          "side": {
+            "x": 0.48,
+            "y": 0.82,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 6,
+            "pattern": "horizontal",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width"
+          }
+        },
+        "tracer_2lamp": {
+          "front": {
+            "x": 0.5,
+            "y": 0.595,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 2,
+            "pattern": "horizontal",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width"
+          }
+        },
+        "wing_wraps": {
+          "side": {
+            "x": 0.055,
+            "y": 0.605,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "front": {
+            "x": 0.84,
+            "y": 0.59,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 2,
+            "pattern": "mirror",
+            "flip_mirrored_h": true,
+            "flip_v": false,
+            "flip_h": true,
+            "behind_vehicle": false,
+            "h_spacing": 0.68
+          }
+        }
+      },
+      "views": {
+        "front": {
+          "label": "Front",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "side_roles": {
+            "negative_x": "passenger",
+            "positive_x": "driver"
+          },
+          "locations": {
+            "TOP OF PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.59,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "flip_v": true,
+              "h_spacing": 0.12
+            },
+            "UNDER PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.755,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.19
+            },
+            "BEHIND GRILL (CENTER)": {
+              "x": 0.5,
+              "y": 0.52,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "mirror"
+            },
+            "GRILL": {
+              "x": 0.5,
+              "y": 0.44,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.195
+            },
+            "TOP TUBE": {
+              "x": 0.5,
+              "y": 0.435,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 4,
+              "pattern": "horizontal",
+              "h_spacing": 0.095
+            },
+            "CENTER PLATE OF PB": {
+              "x": 0.5,
+              "y": 0.645,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER GRILL": {
+              "x": 0.5,
+              "y": 0.73,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.29
+            },
+            "FOG LIGHT AREA": {
+              "x": 0.5,
+              "y": 0.65,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "rotation": 6,
+              "h_spacing": 0.58
+            },
+            "FRONT CORNER OF BUMPER": {
+              "x": 0.5,
+              "y": 0.525,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.78
+            },
+            "SIDE OF PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.595,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.44
+            },
+            "PIT BARS": {
+              "x": 0.5,
+              "y": 0.74,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.73
+            },
+            "BEHIND OEM BUMPER": {
+              "x": 0.78,
+              "y": 0.7,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "VEHICLE SPECIFIC BRACKET(S)": {
+              "x": 0.245,
+              "y": 0.7,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.62,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.03,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "IN LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.03,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER WINDSHIELD": {
+              "x": 0.425,
+              "y": 0.165,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ON DASH": {
+              "x": 0.5,
+              "y": 0.285,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "IN GRILL": {
+              "x": 0.5,
+              "y": 0.525,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "h_spacing": 0.225
+            },
+            "UNDER MIRROR": {
+              "x": 0.5,
+              "y": 0.34,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.9
+            },
+            "FRONT OF MIRROR": {
+              "x": 0.5,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.89
+            },
+            "SPOT LIGHT MOUNT": {
+              "x": 0.89,
+              "y": 0.273,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0,
+              "y": 0.08,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "HEADLIGHT CUT OUTS": {
+              "x": 0.5,
+              "y": 0.45,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.77
+            },
+            "VEHICLE SPECIFIC BRACKET": {
+              "x": 0.94,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF": {
+              "x": 0.625,
+              "y": 0.035,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER DRIVER AND PASSENGER": {
+              "x": 0.5,
+              "y": 0.12,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PASSENGER SIDE ONLY": {
+              "x": 0.31,
+              "y": 0.13,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "INTERIOR LIGHT BAR (FRONT)": {
+              "x": 0.5,
+              "y": 0.12,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.89,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.145,
+              "y": 0.285,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.5,
+              "y": 0.275,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.81
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.74,
+              "y": 0.555,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT ON DASH": {
+              "x": 0.84,
+              "y": 0.555,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "CENTER OF DASH": {
+              "x": 0.5,
+              "y": 0.285,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "side": {
+          "label": "Side",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "default_slot_role": "driver",
+          "locations": {
+            "PUSH BUMPER": {
+              "x": -0.005,
+              "y": 0.6,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER MOUNT": {
+              "x": -0.005,
+              "y": 0.6,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UNDER MIRROR": {
+              "x": 0.365,
+              "y": 0.35,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FRONT OF MIRROR": {
+              "x": 0.335,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR DOOR WINDOW": {
+              "x": 0.58,
+              "y": 0.288,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER CARGO WINDOW": {
+              "x": 0.8,
+              "y": 0.16,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER CARGO WINDOW": {
+              "x": 0.83,
+              "y": 0.26,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROCKER PANEL": {
+              "x": 0.5,
+              "y": 0.72,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ON RUNNING BOARD": {
+              "x": 0.48,
+              "y": 0.81,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SIDE OF PUSH BUMPER": {
+              "x": 0,
+              "y": 0.55,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FRONT CORNER OF BUMPER": {
+              "x": 0.07,
+              "y": 0.54,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FOG LIGHT AREA": {
+              "x": 0.04,
+              "y": 0.66,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "rotation": 6
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.53,
+              "y": 0.005,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PIT BARS": {
+              "x": 0.07,
+              "y": 0.755,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPOT LIGHT MOUNT": {
+              "x": 0.295,
+              "y": 0.26,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.7,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.26,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.26,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "behind_vehicle": true
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.26,
+              "y": 0.295,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.5,
+              "y": 0,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "HEADLIGHT CUT OUTS": {
+              "x": 0.5,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "top": {
+          "label": "Top",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "locations": {
+            "ROOF LIGHT BAR": {
+              "x": 0.53,
+              "y": 0.49,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF CENTER": {
+              "x": 0.53,
+              "y": 0.49,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "HEADLINER": {
+              "x": 0.45,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER DRIVER AND PASSENGER": {
+              "x": 0.4,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PASSENGER SIDE ONLY": {
+              "x": 0.395,
+              "y": 0.295,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR DOOR WINDOW": {
+              "x": 0.595,
+              "y": 0.85,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER CARGO WINDOW": {
+              "x": 0.805,
+              "y": 0.805,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER CARGO WINDOW": {
+              "x": 0.855,
+              "y": 0.825,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER": {
+              "x": -0.013,
+              "y": 0.51,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR INTERIOR LIGHT BAR": {
+              "x": 0.916,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.72,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR LEFT ROOF": {
+              "x": 0.839,
+              "y": 0.624,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "rear": {
+          "label": "Rear",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "side_roles": {
+            "negative_x": "driver",
+            "positive_x": "passenger"
+          },
+          "locations": {
+            "UPPER REAR WINDOW": {
+              "x": 0.5,
+              "y": 0.14,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.26
+            },
+            "ON TAILGATE/LIFTGATE": {
+              "x": 0.5,
+              "y": 0.525,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.51
+            },
+            "ABOVE LICENSE PLATE": {
+              "x": 0.5,
+              "y": 0.335,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.2
+            },
+            "LICENSE PLATE BRACKET": {
+              "x": 0.5,
+              "y": 0.37,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.13
+            },
+            "ON SPECIFIC BRACKET": {
+              "x": 0.065,
+              "y": 0.05,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.02,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER LIFTGATE LIP": {
+              "x": 0.5,
+              "y": 0.61,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.4
+            },
+            "UNDER MIRROR": {
+              "x": 0.5,
+              "y": 0.34,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.9
+            },
+            "REAR BUMPER": {
+              "x": 0.5,
+              "y": 0.685,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.75
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.94,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR INTERIOR LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.135,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PILLARS": {
+              "x": 0.5,
+              "y": 0.22,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.59
+            },
+            "TAIL LIGHTS": {
+              "x": 0.5,
+              "y": 0.36,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.71
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.12,
+              "y": 0.23,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.87,
+              "y": 0.23,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.5,
+              "y": 0.24,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.78
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.225,
+              "y": 0.03,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "internal.console": {
+          "label": "Console",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "internal.cargo": {
+          "label": "Cargo Area",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "internal.rear_seat": {
+          "label": "Rear Seat",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        }
+      },
+      "view_order": [
+        "front",
+        "side",
+        "top",
+        "rear",
+        "internal.console",
+        "internal.cargo",
+        "internal.rear_seat"
+      ]
+    },
+    "TAHOE": {
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "fixtures": {
+        "roof_light_bar": {
+          "front": {
+            "x": 0.5,
+            "y": 0.015,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "side": {
+            "x": 0.5,
+            "y": 0.11,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "top": {
+            "x": 0.505,
+            "y": 0.49,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "rear": {
+            "x": 0.5,
+            "y": -0.005,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "interior_light_bar_front": {
+          "front": {
+            "x": 0.5,
+            "y": 0.115,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "top": {
+            "x": 0.365,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "push_bumper": {
+          "front": {
+            "x": 0.5,
+            "y": 0.62,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "side": {
+            "x": -0.01,
+            "y": 0.61,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "top": {
+            "x": -0.01,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          }
+        },
+        "pit_bar": {
+          "side": {
+            "x": 0,
+            "y": 0.61,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "front": {
+            "x": 0.5,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "rear_interior_light_bar": {
+          "top": {
+            "x": 0.915,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "rear": {
+            "x": 0.5,
+            "y": 0.09,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "tracer_5lamp": {
+          "side": {
+            "x": 0.48,
+            "y": 0.74,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 5,
+            "pattern": "",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "tracer_6lamp": {
+          "side": {
+            "x": 0.48,
+            "y": 0.745,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 6,
+            "pattern": "",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "tracer_2lamp": {
+          "front": {
+            "x": 0.5,
+            "y": 0.595,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 2,
+            "pattern": "single",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "wing_wraps": {
+          "side": {
+            "x": 0.07,
+            "y": 0.6,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "front": {
+            "x": 0.845,
+            "y": 0.59,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 2,
+            "pattern": "mirror",
+            "flip_mirrored_h": true,
+            "flip_v": false,
+            "flip_h": true,
+            "behind_vehicle": false,
+            "h_spacing": 0.68
+          }
+        }
+      },
+      "views": {
+        "front": {
+          "label": "Front",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "side_roles": {
+            "negative_x": "passenger",
+            "positive_x": "driver"
+          },
+          "locations": {
+            "TOP OF PUSH BUMPER": {
+              "x": 0.61,
+              "y": 0.545,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "flip_v": true,
+              "h_spacing": 0.12
+            },
+            "UNDER PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.755,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.19
+            },
+            "BEHIND GRILL (CENTER)": {
+              "x": 0.5,
+              "y": 0.52,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "mirror"
+            },
+            "GRILL": {
+              "x": 0.5,
+              "y": 0.44,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.195
+            },
+            "TOP TUBE": {
+              "x": 0.5,
+              "y": 0.435,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 4,
+              "pattern": "horizontal",
+              "h_spacing": 0.095
+            },
+            "CENTER PLATE OF PB": {
+              "x": 0.5,
+              "y": 0.645,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER GRILL": {
+              "x": 0.5,
+              "y": 0.73,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.29
+            },
+            "FOG LIGHT AREA": {
+              "x": 0.5,
+              "y": 0.65,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "rotation": 6,
+              "h_spacing": 0.58,
+              "flip_mirrored_h": true
+            },
+            "FRONT CORNER OF BUMPER": {
+              "x": 0.5,
+              "y": 0.525,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.78
+            },
+            "SIDE OF PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.595,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.44
+            },
+            "PIT BARS": {
+              "x": 0.115,
+              "y": 0.71,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.73
+            },
+            "BEHIND OEM BUMPER": {
+              "x": 0.78,
+              "y": 0.7,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "VEHICLE SPECIFIC BRACKET(S)": {
+              "x": 0.245,
+              "y": 0.7,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.62,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.03,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "IN LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.03,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single",
+              "layer": 3
+            },
+            "UPPER WINDSHIELD": {
+              "x": 0.425,
+              "y": 0.165,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ON DASH": {
+              "x": 0.5,
+              "y": 0.285,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "IN GRILL": {
+              "x": 0.5,
+              "y": 0.525,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "h_spacing": 0.225
+            },
+            "UNDER MIRROR": {
+              "x": 0.5,
+              "y": 0.34,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.9
+            },
+            "FRONT OF MIRROR": {
+              "x": 0.5,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.89
+            },
+            "SPOT LIGHT MOUNT": {
+              "x": 0.89,
+              "y": 0.273,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0,
+              "y": 0.08,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "HEADLIGHT CUT OUTS": {
+              "x": 0.5,
+              "y": 0.45,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.77
+            },
+            "VEHICLE SPECIFIC BRACKET": {
+              "x": 0.94,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF": {
+              "x": 0.625,
+              "y": 0.035,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER DRIVER AND PASSENGER": {
+              "x": 0.5,
+              "y": 0.12,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PASSENGER SIDE ONLY": {
+              "x": 0.31,
+              "y": 0.13,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "INTERIOR LIGHT BAR (FRONT)": {
+              "x": 0.5,
+              "y": 0.12,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.89,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.145,
+              "y": 0.285,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.5,
+              "y": 0.275,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.81
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.74,
+              "y": 0.555,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT ON DASH": {
+              "x": 0.84,
+              "y": 0.555,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "CENTER OF DASH": {
+              "x": 0.5,
+              "y": 0.285,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "side": {
+          "label": "Side",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "default_slot_role": "driver",
+          "locations": {
+            "PUSH BUMPER": {
+              "x": -0.005,
+              "y": 0.6,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER MOUNT": {
+              "x": -0.005,
+              "y": 0.6,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UNDER MIRROR": {
+              "x": 0.326,
+              "y": 0.341,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FRONT OF MIRROR": {
+              "x": 0.315,
+              "y": 0.272,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR DOOR WINDOW": {
+              "x": 0.58,
+              "y": 0.288,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER CARGO WINDOW": {
+              "x": 0.799,
+              "y": 0.115,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER CARGO WINDOW": {
+              "x": 0.844,
+              "y": 0.242,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROCKER PANEL": {
+              "x": 0.5,
+              "y": 0.695,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ON RUNNING BOARD": {
+              "x": 0.48,
+              "y": 0.785,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SIDE OF PUSH BUMPER": {
+              "x": 0,
+              "y": 0.55,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FRONT CORNER OF BUMPER": {
+              "x": 0.08,
+              "y": 0.54,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FOG LIGHT AREA": {
+              "x": 0.04,
+              "y": 0.66,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "rotation": 6
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.505,
+              "y": 0.005,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PIT BARS": {
+              "x": 0.04,
+              "y": 0.76,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "layer": 10,
+              "rotation": 2
+            },
+            "SPOT LIGHT MOUNT": {
+              "x": 0.295,
+              "y": 0.26,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.075,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.26,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.26,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "behind_vehicle": true
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.26,
+              "y": 0.295,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.5,
+              "y": 0,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "HEADLIGHT CUT OUTS": {
+              "x": 0.05,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR LEFT ROOF": {
+              "x": 0.823,
+              "y": 0.002,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "top": {
+          "label": "Top",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "locations": {
+            "ROOF LIGHT BAR": {
+              "x": 0.515,
+              "y": 0.49,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF CENTER": {
+              "x": 0.53,
+              "y": 0.49,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "HEADLINER": {
+              "x": 0.45,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER DRIVER AND PASSENGER": {
+              "x": 0.36,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PASSENGER SIDE ONLY": {
+              "x": 0.385,
+              "y": 0.335,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR DOOR WINDOW": {
+              "x": 0.595,
+              "y": 0.85,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER CARGO WINDOW": {
+              "x": 0.805,
+              "y": 0.805,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER CARGO WINDOW": {
+              "x": 0.855,
+              "y": 0.825,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER": {
+              "x": -0.013,
+              "y": 0.51,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR INTERIOR LIGHT BAR": {
+              "x": 0.916,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.925,
+              "y": 0,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR LEFT ROOF": {
+              "x": 0.854,
+              "y": 0.604,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "layer": 2
+            }
+          }
+        },
+        "rear": {
+          "label": "Rear",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "side_roles": {
+            "negative_x": "driver",
+            "positive_x": "passenger"
+          },
+          "locations": {
+            "UPPER REAR WINDOW": {
+              "x": 0.5,
+              "y": 0.105,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.26
+            },
+            "ON TAILGATE/LIFTGATE": {
+              "x": 0.5,
+              "y": 0.525,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.51
+            },
+            "ABOVE LICENSE PLATE": {
+              "x": 0.5,
+              "y": 0.335,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.2
+            },
+            "LICENSE PLATE BRACKET": {
+              "x": 0.595,
+              "y": 0.38,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.13
+            },
+            "ON SPECIFIC BRACKET": {
+              "x": 0.065,
+              "y": 0.05,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.02,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER LIFTGATE LIP": {
+              "x": 0.5,
+              "y": 0.58,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.4
+            },
+            "UNDER MIRROR": {
+              "x": 0.5,
+              "y": 0.34,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.9
+            },
+            "REAR BUMPER": {
+              "x": 0.855,
+              "y": 0.6,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.75
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.94,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR INTERIOR LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.115,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PILLARS": {
+              "x": 0.5,
+              "y": 0.175,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.59
+            },
+            "TAIL LIGHTS": {
+              "x": 0.5,
+              "y": 0.36,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.71
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.12,
+              "y": 0.23,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.87,
+              "y": 0.23,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.5,
+              "y": 0.24,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.78
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.225,
+              "y": 0.03,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "internal.console": {
+          "label": "Console",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "internal.cargo": {
+          "label": "Cargo Area",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "internal.rear_seat": {
+          "label": "Rear Seat",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        }
+      },
+      "view_order": [
+        "front",
+        "side",
+        "top",
+        "rear",
+        "internal.console",
+        "internal.cargo",
+        "internal.rear_seat"
+      ]
+    },
+    "DURANGO": {
+      "make": "Dodge",
+      "model": "Durango",
+      "fixtures": {
+        "roof_light_bar": {
+          "front": {
+            "x": 0.5,
+            "y": -0.015,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "side": {
+            "x": 0.53,
+            "y": 0.07,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "top": {
+            "x": 0.53,
+            "y": 0.49,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "rear": {
+            "x": 0.5,
+            "y": -0.01,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "interior_light_bar_front": {
+          "front": {
+            "x": 0.5,
+            "y": 0.05,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "top": {
+            "x": 0.385,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          }
+        },
+        "push_bumper": {
+          "front": {
+            "x": 0.5,
+            "y": 0.62,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "side": {
+            "x": -0.01,
+            "y": 0.61,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "top": {
+            "x": -0.01,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          }
+        },
+        "pit_bar": {
+          "side": {
+            "x": 0,
+            "y": 0.61,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "front": {
+            "x": 0.5,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "rear_interior_light_bar": {
+          "top": {
+            "x": 0.92,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "rear": {
+            "x": 0.5,
+            "y": 0.075,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "tracer_5lamp": {
+          "side": {
+            "x": 0.48,
+            "y": 0.825,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 5,
+            "pattern": "horizontal",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width"
+          }
+        },
+        "tracer_6lamp": {
+          "side": {
+            "x": 0.48,
+            "y": 0.825,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 6,
+            "pattern": "",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "tracer_2lamp": {
+          "front": {
+            "x": 0.5,
+            "y": 0.585,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 2,
+            "pattern": "single",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "wing_wraps": {
+          "side": {
+            "x": 0.07,
+            "y": 0.6,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "front": {
+            "x": 0.845,
+            "y": 0.59,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 2,
+            "pattern": "mirror",
+            "flip_mirrored_h": true,
+            "flip_v": false,
+            "flip_h": true,
+            "behind_vehicle": false,
+            "h_spacing": 0.68
+          }
+        }
+      },
+      "views": {
+        "front": {
+          "label": "Front",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "side_roles": {
+            "negative_x": "passenger",
+            "positive_x": "driver"
+          },
+          "locations": {
+            "TOP OF PUSH BUMPER": {
+              "x": 0.61,
+              "y": 0.545,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "flip_v": true,
+              "h_spacing": 0.12
+            },
+            "UNDER PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.755,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.19
+            },
+            "BEHIND GRILL (CENTER)": {
+              "x": 0.5,
+              "y": 0.445,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "mirror"
+            },
+            "GRILL": {
+              "x": 0.5,
+              "y": 0.44,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.195
+            },
+            "TOP TUBE": {
+              "x": 0.5,
+              "y": 0.435,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 4,
+              "pattern": "horizontal",
+              "h_spacing": 0.095
+            },
+            "CENTER PLATE OF PB": {
+              "x": 0.5,
+              "y": 0.645,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER GRILL": {
+              "x": 0.5,
+              "y": 0.73,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.29
+            },
+            "FOG LIGHT AREA": {
+              "x": 0.875,
+              "y": 0.655,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "rotation": 6,
+              "h_spacing": 0.58,
+              "flip_mirrored_h": true
+            },
+            "FRONT CORNER OF BUMPER": {
+              "x": 0.5,
+              "y": 0.525,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.78
+            },
+            "SIDE OF PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.595,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.44
+            },
+            "PIT BARS": {
+              "x": 0.115,
+              "y": 0.71,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.73
+            },
+            "BEHIND OEM BUMPER": {
+              "x": 0.78,
+              "y": 0.7,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "VEHICLE SPECIFIC BRACKET(S)": {
+              "x": 0.245,
+              "y": 0.7,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.62,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.5,
+              "y": 0,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "IN LIGHT BAR": {
+              "x": 0.5,
+              "y": 0,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single",
+              "layer": 3
+            },
+            "UPPER WINDSHIELD": {
+              "x": 0.425,
+              "y": 0.065,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "IN GRILL": {
+              "x": 0.5,
+              "y": 0.405,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "h_spacing": 0.225
+            },
+            "UNDER MIRROR": {
+              "x": 0.975,
+              "y": 0.285,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.9
+            },
+            "FRONT OF MIRROR": {
+              "x": 0.955,
+              "y": 0.225,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.89
+            },
+            "SPOT LIGHT MOUNT": {
+              "x": 0.89,
+              "y": 0.215,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0,
+              "y": 0.08,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "HEADLIGHT CUT OUTS": {
+              "x": 0.5,
+              "y": 0.45,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.77
+            },
+            "VEHICLE SPECIFIC BRACKET": {
+              "x": 0.94,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF": {
+              "x": 0.625,
+              "y": 0.035,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER DRIVER AND PASSENGER": {
+              "x": 0.5,
+              "y": 0.045,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PASSENGER SIDE ONLY": {
+              "x": 0.31,
+              "y": 0.06,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "INTERIOR LIGHT BAR (FRONT)": {
+              "x": 0.5,
+              "y": 0.055,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.905,
+              "y": 0.235,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.105,
+              "y": 0.225,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.92,
+              "y": 0.21,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.81
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.87,
+              "y": 0,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "CENTER OF DASH": {
+              "x": 0.5,
+              "y": 0.23,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "side": {
+          "label": "Side",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "default_slot_role": "driver",
+          "locations": {
+            "PUSH BUMPER": {
+              "x": -0.005,
+              "y": 0.6,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER MOUNT": {
+              "x": -0.005,
+              "y": 0.6,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UNDER MIRROR": {
+              "x": 0.355,
+              "y": 0.355,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FRONT OF MIRROR": {
+              "x": 0.345,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR DOOR WINDOW": {
+              "x": 0.62,
+              "y": 0.32,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER CARGO WINDOW": {
+              "x": 0.77,
+              "y": 0.15,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER CARGO WINDOW": {
+              "x": 0.84,
+              "y": 0.29,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROCKER PANEL": {
+              "x": 0.5,
+              "y": 0.695,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ON RUNNING BOARD": {
+              "x": 0.48,
+              "y": 0.82,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SIDE OF PUSH BUMPER": {
+              "x": 0,
+              "y": 0.55,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FRONT CORNER OF BUMPER": {
+              "x": 0.08,
+              "y": 0.54,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FOG LIGHT AREA": {
+              "x": 0.04,
+              "y": 0.66,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "rotation": 6
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.53,
+              "y": 0.075,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PIT BARS": {
+              "x": 0.04,
+              "y": 0.76,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "layer": 10,
+              "rotation": 2
+            },
+            "SPOT LIGHT MOUNT": {
+              "x": 0.295,
+              "y": 0.26,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.075,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.26,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.26,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "behind_vehicle": true
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.26,
+              "y": 0.295,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.53,
+              "y": 0.09,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "HEADLIGHT CUT OUTS": {
+              "x": 0.05,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR LEFT ROOF": {
+              "x": 0.8,
+              "y": 0.065,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ON ROOF": {
+              "x": 0.613,
+              "y": 0.07,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "top": {
+          "label": "Top",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "locations": {
+            "ROOF LIGHT BAR": {
+              "x": 0.53,
+              "y": 0.51,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF CENTER": {
+              "x": 0.53,
+              "y": 0.49,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER DRIVER AND PASSENGER": {
+              "x": 0.395,
+              "y": 0.51,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PASSENGER SIDE ONLY": {
+              "x": 0.39,
+              "y": 0.335,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR DOOR WINDOW": {
+              "x": 0.595,
+              "y": 0.85,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER CARGO WINDOW": {
+              "x": 0.775,
+              "y": 0.805,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER CARGO WINDOW": {
+              "x": 0.825,
+              "y": 0.825,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER": {
+              "x": -0.013,
+              "y": 0.51,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR INTERIOR LIGHT BAR": {
+              "x": 0.916,
+              "y": 0.5,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.925,
+              "y": 0,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR LEFT ROOF": {
+              "x": 0.81,
+              "y": 0.645,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "layer": 2
+            }
+          }
+        },
+        "rear": {
+          "label": "Rear",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "side_roles": {
+            "negative_x": "driver",
+            "positive_x": "passenger"
+          },
+          "locations": {
+            "UPPER REAR WINDOW": {
+              "x": 0.5,
+              "y": 0.065,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.26
+            },
+            "ON TAILGATE/LIFTGATE": {
+              "x": 0.5,
+              "y": 0.475,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.51
+            },
+            "ABOVE LICENSE PLATE": {
+              "x": 0.5,
+              "y": 0.29,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.2
+            },
+            "LICENSE PLATE BRACKET": {
+              "x": 0.62,
+              "y": 0.36,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.13
+            },
+            "ON SPECIFIC BRACKET": {
+              "x": 0.065,
+              "y": 0.05,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.5,
+              "y": 0,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER LIFTGATE LIP": {
+              "x": 0.5,
+              "y": 0.565,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.4
+            },
+            "UNDER MIRROR": {
+              "x": 0.97,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.9
+            },
+            "REAR BUMPER": {
+              "x": 0.905,
+              "y": 0.625,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.75
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.94,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR INTERIOR LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.08,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PILLARS": {
+              "x": 0.845,
+              "y": 0.155,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.59
+            },
+            "TAIL LIGHTS": {
+              "x": 0.885,
+              "y": 0.355,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.71
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.09,
+              "y": 0.23,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "behind_vehicle": true
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.91,
+              "y": 0.23,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "behind_vehicle": true
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.925,
+              "y": 0.24,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.78,
+              "behind_vehicle": true
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.165,
+              "y": 0.025,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "internal.console": {
+          "label": "Console",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "internal.cargo": {
+          "label": "Cargo Area",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "internal.rear_seat": {
+          "label": "Rear Seat",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        }
+      },
+      "view_order": [
+        "front",
+        "side",
+        "top",
+        "rear",
+        "internal.console",
+        "internal.cargo",
+        "internal.rear_seat"
+      ]
+    },
+    "F-150": {
+      "make": "Ford",
+      "model": "F-150",
+      "fixtures": {
+        "roof_light_bar": {
+          "front": {
+            "x": 0.5,
+            "y": -0.005,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "side": {
+            "x": 0.495,
+            "y": 0.05,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "top": {
+            "x": 0.475,
+            "y": 0.48,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "rear": {
+            "x": 0.5,
+            "y": 0.02,
+            "units": "relative_image",
+            "orientation": "bar",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "interior_light_bar_front": {
+          "front": {
+            "x": 0.5,
+            "y": 0.09,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "top": {
+            "x": 0.32,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "push_bumper": {
+          "front": {
+            "x": 0.5,
+            "y": 0.62,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "side": {
+            "x": -0.01,
+            "y": 0.61,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "top": {
+            "x": -0.01,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          }
+        },
+        "pit_bar": {
+          "side": {
+            "x": 0,
+            "y": 0.61,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single"
+          },
+          "front": {
+            "x": 0.5,
+            "y": 0.5,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "tracer_5lamp": {
+          "side": {
+            "x": 0.48,
+            "y": 0.825,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 5,
+            "pattern": "horizontal",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width"
+          }
+        },
+        "tracer_6lamp": {
+          "side": {
+            "x": 0.48,
+            "y": 0.815,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 6,
+            "pattern": "",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "tracer_2lamp": {
+          "front": {
+            "x": 0.5,
+            "y": 0.595,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 2,
+            "pattern": "single",
+            "h_spacing": 1,
+            "h_spacing_units": "icon_width",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        },
+        "wing_wraps": {
+          "side": {
+            "x": 0.07,
+            "y": 0.6,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          },
+          "front": {
+            "x": 0.845,
+            "y": 0.59,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 2,
+            "pattern": "mirror",
+            "flip_mirrored_h": true,
+            "flip_v": false,
+            "flip_h": true,
+            "behind_vehicle": false,
+            "h_spacing": 0.68
+          }
+        },
+        "rear_interior_light_bar": {
+          "rear": {
+            "x": 0.5,
+            "y": 0.11,
+            "units": "relative_image",
+            "orientation": "h",
+            "slot_count": 1,
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
+          }
+        }
+      },
+      "views": {
+        "front": {
+          "label": "Front",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "side_roles": {
+            "negative_x": "passenger",
+            "positive_x": "driver"
+          },
+          "locations": {
+            "TOP OF PUSH BUMPER": {
+              "x": 0.61,
+              "y": 0.545,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "flip_v": true,
+              "h_spacing": 0.12
+            },
+            "UNDER PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.755,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.19
+            },
+            "BEHIND GRILL (CENTER)": {
+              "x": 0.5,
+              "y": 0.445,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "mirror"
+            },
+            "GRILL": {
+              "x": 0.5,
+              "y": 0.44,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.195
+            },
+            "TOP TUBE": {
+              "x": 0.5,
+              "y": 0.435,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 4,
+              "pattern": "horizontal",
+              "h_spacing": 0.095
+            },
+            "CENTER PLATE OF PB": {
+              "x": 0.5,
+              "y": 0.645,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LOWER GRILL": {
+              "x": 0.7,
+              "y": 0.685,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.29
+            },
+            "FOG LIGHT AREA": {
+              "x": 0.84,
+              "y": 0.69,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.58,
+              "flip_mirrored_h": true
+            },
+            "FRONT CORNER OF BUMPER": {
+              "x": 0.88,
+              "y": 0.595,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.78
+            },
+            "SIDE OF PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.595,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.44
+            },
+            "PIT BARS": {
+              "x": 0.115,
+              "y": 0.71,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.73
+            },
+            "BEHIND OEM BUMPER": {
+              "x": 0.78,
+              "y": 0.7,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "VEHICLE SPECIFIC BRACKET(S)": {
+              "x": 0.245,
+              "y": 0.7,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER": {
+              "x": 0.5,
+              "y": 0.62,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.5,
+              "y": 0,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "IN LIGHT BAR": {
+              "x": 0.5,
+              "y": 0,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single",
+              "layer": 3
+            },
+            "UPPER WINDSHIELD": {
+              "x": 0.425,
+              "y": 0.085,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "IN GRILL": {
+              "x": 0.5,
+              "y": 0.545,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "h_spacing": 0.225
+            },
+            "UNDER MIRROR": {
+              "x": 0.95,
+              "y": 0.36,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.9
+            },
+            "FRONT OF MIRROR": {
+              "x": 0.935,
+              "y": 0.28,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.89
+            },
+            "SPOT LIGHT MOUNT": {
+              "x": 0.875,
+              "y": 0.24,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0,
+              "y": 0.08,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "HEADLIGHT CUT OUTS": {
+              "x": 0.18,
+              "y": 0.545,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.77
+            },
+            "VEHICLE SPECIFIC BRACKET": {
+              "x": 0.94,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF": {
+              "x": 0.625,
+              "y": 0.015,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER DRIVER AND PASSENGER": {
+              "x": 0.5,
+              "y": 0.09,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PASSENGER SIDE ONLY": {
+              "x": 0.31,
+              "y": 0.095,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "INTERIOR LIGHT BAR (FRONT)": {
+              "x": 0.5,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.88,
+              "y": 0.245,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.115,
+              "y": 0.235,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.885,
+              "y": 0.23,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.81
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.815,
+              "y": 0,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "CENTER OF DASH": {
+              "x": 0.505,
+              "y": 0.26,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "side": {
+          "label": "Side",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "default_slot_role": "driver",
+          "locations": {
+            "PUSH BUMPER": {
+              "x": -0.005,
+              "y": 0.6,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER MOUNT": {
+              "x": -0.005,
+              "y": 0.6,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UNDER MIRROR": {
+              "x": 0.325,
+              "y": 0.39,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FRONT OF MIRROR": {
+              "x": 0.315,
+              "y": 0.315,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR DOOR WINDOW": {
+              "x": 0.57,
+              "y": 0.335,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROCKER PANEL": {
+              "x": 0.5,
+              "y": 0.695,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ON RUNNING BOARD": {
+              "x": 0.48,
+              "y": 0.785,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SIDE OF PUSH BUMPER": {
+              "x": 0,
+              "y": 0.55,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FRONT CORNER OF BUMPER": {
+              "x": 0.08,
+              "y": 0.54,
+              "units": "relative_image",
+              "orientation": "v",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "FOG LIGHT AREA": {
+              "x": 0.06,
+              "y": 0.69,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.49,
+              "y": 0.05,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PIT BARS": {
+              "x": 0.04,
+              "y": 0.76,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "layer": 10,
+              "rotation": 2
+            },
+            "SPOT LIGHT MOUNT": {
+              "x": 0.295,
+              "y": 0.26,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.075,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.26,
+              "y": 0.3,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.255,
+              "y": 0.285,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "behind_vehicle": true
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.26,
+              "y": 0.295,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.49,
+              "y": 0.03,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "HEADLIGHT CUT OUTS": {
+              "x": 0.075,
+              "y": 0.46,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR LEFT ROOF": {
+              "x": 0.6,
+              "y": 0.065,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            }
+          }
+        },
+        "top": {
+          "label": "Top",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "locations": {
+            "ROOF LIGHT BAR": {
+              "x": 0.485,
+              "y": 0.48,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF CENTER": {
+              "x": 0.48,
+              "y": 0.48,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UPPER DRIVER AND PASSENGER": {
+              "x": 0.325,
+              "y": 0.49,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PASSENGER SIDE ONLY": {
+              "x": 0.325,
+              "y": 0.335,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR DOOR WINDOW": {
+              "x": 0.57,
+              "y": 0.86,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "PUSH BUMPER": {
+              "x": -0.013,
+              "y": 0.51,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.925,
+              "y": 0,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR LEFT ROOF": {
+              "x": 0.565,
+              "y": 0.615,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "layer": 2
+            }
+          }
+        },
+        "rear": {
+          "label": "Rear",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "side_roles": {
+            "negative_x": "driver",
+            "positive_x": "passenger"
+          },
+          "locations": {
+            "UPPER REAR WINDOW": {
+              "x": 0.695,
+              "y": 0.11,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.26
+            },
+            "ON TAILGATE/LIFTGATE": {
+              "x": 0.5,
+              "y": 0.395,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "horizontal",
+              "h_spacing": 0.51
+            },
+            "ABOVE LICENSE PLATE": {
+              "x": 0.605,
+              "y": 0.655,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.2
+            },
+            "LICENSE PLATE BRACKET": {
+              "x": 0.595,
+              "y": 0.7,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.13
+            },
+            "ON SPECIFIC BRACKET": {
+              "x": 0.065,
+              "y": 0.05,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "ROOF LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.02,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UNDER MIRROR": {
+              "x": 0.945,
+              "y": 0.375,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.9
+            },
+            "REAR BUMPER": {
+              "x": 0.86,
+              "y": 0.745,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.75
+            },
+            "SPECIFY LOCATION": {
+              "x": 0.94,
+              "y": 0.1,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR INTERIOR LIGHT BAR": {
+              "x": 0.5,
+              "y": 0.11,
+              "units": "relative_image",
+              "orientation": "bar",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "TAIL LIGHTS": {
+              "x": 0.86,
+              "y": 0.57,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.71
+            },
+            "LEFT FRONT FENDER": {
+              "x": 0.125,
+              "y": 0.25,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "behind_vehicle": true
+            },
+            "RIGHT FRONT FENDER": {
+              "x": 0.885,
+              "y": 0.255,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single",
+              "behind_vehicle": true
+            },
+            "LEFT AND RIGHT FENDER": {
+              "x": 0.88,
+              "y": 0.24,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 2,
+              "pattern": "mirror",
+              "h_spacing": 0.78,
+              "behind_vehicle": true
+            },
+            "LIGHTBAR MOUNT": {
+              "x": 0.195,
+              "y": 0.025,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "UNDER TAILGATE": {
+              "x": 0.59,
+              "y": 0.67,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 4,
+              "pattern": "mirror",
+              "h_spacing": 0.175
+            }
+          }
+        },
+        "internal.console": {
+          "label": "Console",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "internal.cargo": {
+          "label": "Cargo Area",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "internal.rear_seat": {
+          "label": "Rear Seat",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        }
+      },
+      "view_order": [
+        "front",
+        "side",
+        "top",
+        "rear",
+        "internal.console",
+        "internal.cargo",
+        "internal.rear_seat"
+      ]
+    }
+  },
+  "schema_version": 1
+}

@@ -259,20 +259,26 @@ def open_pr_for_proposal(
         "_This PR was opened automatically by `pickup-pending-changes.yml`._",
     ]
     pr_body = "\n".join(body_lines)
-    run(
+    pr_title = f"[{submitted_by}] {title_summary}"
+    # Capture stdout so we can extract the PR number from the URL. The CLI
+    # prints exactly one line: the PR URL. The last path segment is the number.
+    pr_url = run(
         [
             "gh", "pr", "create",
             "--base", main_branch,
             "--head", branch,
-            "--title", f"[{submitted_by}] {title_summary}",
+            "--title", pr_title,
             "--body", pr_body,
-        ]
+        ],
+        capture=True,
     )
+    pr_number = pr_url.rsplit("/", 1)[-1].strip()
 
     if category == "general":
-        # Branch protection bypass for github-actions[bot] is what makes this
-        # work. If the merge call fails (bypass not configured, merge conflict,
-        # etc.) the PR stays open for owner review — equivalent to advanced.
+        # If the merge call fails (branch protection unexpectedly active,
+        # merge conflict, etc.) the PR stays open for owner review —
+        # equivalent to the advanced path. Same for the post-merge
+        # publish dispatch: failure here means no behavior change vs. today.
         try:
             run(
                 [
@@ -285,8 +291,71 @@ def open_pr_for_proposal(
                 "Auto-merge failed for general-category PR %s — leaving open for review",
                 branch,
             )
+            return True
+
+        try:
+            _dispatch_publish_workflow(
+                pr_number=pr_number,
+                pr_title=pr_title,
+                pr_author=submitted_by,
+                main_branch=main_branch,
+            )
+        except subprocess.CalledProcessError:
+            logger.exception(
+                "Publish dispatch failed for PR %s — file is in main but not yet on SharePoint",
+                pr_number,
+            )
 
     return True
+
+
+def _dispatch_publish_workflow(
+    *,
+    pr_number: str,
+    pr_title: str,
+    pr_author: str,
+    main_branch: str,
+) -> None:
+    """Trigger publish-settings-on-merge.yml via workflow_dispatch.
+
+    Necessary because GitHub's recursion guard prevents the
+    pull_request:closed event from firing other workflows when the close was
+    initiated by GITHUB_TOKEN — exactly what happens after an auto-merge by
+    the pickup script. The dispatch route IS triggerable by GITHUB_TOKEN.
+
+    Resolves the merge SHA via ``gh pr view`` since we no longer have the
+    branch (just deleted by ``--delete-branch``); the PR record retains the
+    mergeCommit oid post-merge.
+    """
+    merge_sha = run(
+        [
+            "gh", "pr", "view", pr_number,
+            "--json", "mergeCommit",
+            "-q", ".mergeCommit.oid",
+        ],
+        capture=True,
+    )
+    if not merge_sha:
+        logger.warning(
+            "Could not resolve merge SHA for PR %s — skipping publish dispatch",
+            pr_number,
+        )
+        return
+    run(
+        [
+            "gh", "workflow", "run", "publish-settings-on-merge.yml",
+            "--ref", main_branch,
+            "-f", f"merge_sha={merge_sha}",
+            "-f", f"pr_number={pr_number}",
+            "-f", f"pr_title={pr_title}",
+            "-f", f"pr_author={pr_author}",
+            "-f", "mode=diff",
+        ]
+    )
+    logger.info(
+        "Dispatched publish workflow for PR %s (merge_sha=%s)",
+        pr_number, merge_sha[:7],
+    )
 
 
 def main() -> int:
