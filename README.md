@@ -14,11 +14,19 @@ process, but nothing in the app reads or executes them.
                                     PendingChanges files into PRs
   publish-settings-on-merge.yml   ← on PR merge — pushes merged settings
                                     file back to SharePoint /Settings/
+  notify-new-pr.yml               ← on PR opened — runs Ollama AI summary,
+                                    writes marker to /PRNotifications/
+
+assets/                           ← config for the AI summary action
+  prompt-file.txt
+  models-file.txt
+  version-file.txt
 
 scripts/
   pickup_pending_changes.py       ← invoked by pickup workflow
   publish_settings_on_merge.py    ← invoked by publish workflow
-  requirements.txt                ← Python deps for both scripts
+  write_pr_notification.py        ← invoked by notify-new-pr workflow
+  requirements.txt                ← Python deps for the scripts
 ```
 
 ## How to land these in the settings repo
@@ -69,6 +77,18 @@ add the new version to `SUPPORTED_SCHEMA_VERSIONS` in the pickup script.
 - No-op proposals (where new_content matches the current file) are
   recorded and the source is deleted — no empty PR is created
 - Failures leave the source file in place for manual triage
+
+**notify-new-pr.yml** runs once per PR opened (or reopened):
+- Runs `behrouz-rad/ai-pr-summarizer@v1` which spins up Ollama on the
+  runner with a small free model (`llama3.2:3b`) and posts a plain-English
+  summary of the JSON diff as a PR comment
+- Counts currently-open PRs in the repo via the `gh` CLI
+- Writes a JSON marker to SharePoint `/PRNotifications/{pr-number}.json`
+  containing: PR title, URL, author, body, AI summary, open-PR count,
+  link to the PRs page
+- A Power Automate flow watches the folder and emails the owner with all
+  that context. **Setup**: create the `/PRNotifications/` folder in
+  SharePoint before the first PR-open event fires.
 
 **publish-settings-on-merge.yml** runs once per merged PR:
 - Diffs the merge against its first parent to find changed settings files
