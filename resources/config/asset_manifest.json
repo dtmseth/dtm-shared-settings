@@ -1,0 +1,375 @@
+{
+  "version": "5.0-draft1",
+  "light_icon_rule": {
+    "subfolder": "lights",
+    "filename_pattern": "sm_{color_token}_{orientation}.png"
+  },
+  "light_color_tokens": [
+    "red",
+    "blue",
+    "white",
+    "amber",
+    "green",
+    "red-blue",
+    "red-white",
+    "red-amber",
+    "red-green",
+    "blue-white",
+    "blue-amber",
+    "blue-green",
+    "green-white",
+    "green-amber",
+    "amber-white",
+    "red-blue-white",
+    "red-blue-amber",
+    "red-blue-green",
+    "red-amber-white",
+    "red-green-white",
+    "red-green-amber",
+    "blue-amber-white",
+    "blue-green-white",
+    "blue-green-amber",
+    "green-amber-white"
+  ],
+  "color_profiles": {
+    "std_duo_rb_w": {
+      "label": "Std Duo RB/W",
+      "slot_tokens": {
+        "driver": "red-white",
+        "passenger": "blue-white",
+        "center": "red-blue-white",
+        "default": "red-blue-white"
+      }
+    },
+    "std_tri_rbw": {
+      "label": "Std Tri RBW",
+      "slot_tokens": {
+        "default": "red-blue-white"
+      }
+    },
+    "single_red": {
+      "slot_tokens": {
+        "default": "red"
+      }
+    },
+    "single_blue": {
+      "slot_tokens": {
+        "default": "blue"
+      }
+    },
+    "single_white": {
+      "slot_tokens": {
+        "default": "white"
+      }
+    },
+    "single_amber": {
+      "slot_tokens": {
+        "default": "amber"
+      }
+    },
+    "duo_red_white": {
+      "slot_tokens": {
+        "default": "red-white"
+      }
+    },
+    "duo_blue_white": {
+      "slot_tokens": {
+        "default": "blue-white"
+      }
+    },
+    "duo_r_b": {
+      "label": "Red and Blue Split",
+      "slot_tokens": {
+        "driver": "red",
+        "passenger": "blue",
+        "center": "red-blue",
+        "default": "red-blue"
+      }
+    },
+    "duo_ra_ba": {
+      "label": "Red-Amber / Blue-Amber Split",
+      "slot_tokens": {
+        "driver": "red-amber",
+        "passenger": "blue-amber",
+        "center": "red-blue-amber",
+        "default": "red-amber"
+      }
+    },
+    "legacy_uniform": {
+      "slot_tokens": {}
+    },
+    "custom": {
+      "slot_tokens": {}
+    }
+  },
+  "legacy_color_aliases": {
+    "red-blue": {
+      "profile": "std_duo_rb_w"
+    },
+    "red-blue-white": {
+      "profile": "std_tri_rbw"
+    },
+    "red-white": {
+      "profile": "duo_red_white"
+    },
+    "blue-white": {
+      "profile": "duo_blue_white"
+    },
+    "red": {
+      "profile": "single_red"
+    },
+    "blue": {
+      "profile": "single_blue"
+    },
+    "white": {
+      "profile": "single_white"
+    },
+    "amber": {
+      "profile": "single_amber"
+    }
+  },
+  "bar_assets": {
+    "roof": {
+      "front": "lights/bar_roof_front-rear.png",
+      "rear": "lights/bar_roof_front-rear.png",
+      "side": "lights/bar_roof_side.png",
+      "top": "lights/bar_roof_top.png"
+    },
+    "interior-front": {},
+    "interior-rear": {
+      "top": "lights/bar_interior-rear_top-rear.png"
+    }
+  },
+  "equipment_assets": {
+    "push_bumper": {
+      "front": "equipment/push_bumper_front.png",
+      "top": "equipment/push_bumper_top.png",
+      "side": "equipment/push_bumper_side.png"
+    },
+    "pit_bar": {},
+    "thermal_cam": {
+      "front": "equipment/thermal_cam_front.png",
+      "side": "equipment/thermal_cam_side.png"
+    },
+    "siren_speaker": {
+      "front": "equipment/siren_speaker_front.png"
+    },
+    "siren_speaker_wo_bracket": {
+      "front": "equipment/siren_speaker_wo_bracket_front.png"
+    },
+    "siren_speaker_w_bracket": {
+      "front": "equipment/siren_speaker_w_bracket_front.png"
+    },
+    "Speaker_wo_bracket": {
+      "front": "equipment/Speaker_wo_bracket_front.png"
+    },
+    "Speaker_w_bracket": {
+      "front": "equipment/Speaker_w_bracket_front.png"
+    },
+    "": {},
+    "arges": {
+      "front": "equipment/arges_front.png",
+      "side": "equipment/arges_side.png"
+    },
+    "radio_1_antenna_top": {},
+    "wing_wraps": {
+      "front": "equipment/wing_wraps_front.png",
+      "side": "equipment/westin_wing_wrap_elitexd_side.png"
+    },
+    "Push Bumper alone": {
+      "side": "equipment/Push Bumper alone_side.png"
+    },
+    "Push Bumper Alone": {
+      "side": "equipment/Push Bumper Alone_side.png"
+    },
+    "opticom": {
+      "front": "equipment/opticom_front.png"
+    },
+    "radio_speaker": {}
+  },
+  "part_number_size_rules": {
+    "3": "rd",
+    "6": "rd",
+    "ION": "sm",
+    "T-ION": "sm",
+    "SURFACE MOUNT ION": "sm",
+    "STANDARD MOUNT ION": "sm",
+    "VXE": "sq",
+    "VERTEX": "rd",
+    "M4": "md",
+    "MPOWER": "sm",
+    "M-POWER": "sm",
+    "N-FORCE": "sm",
+    "NFORCE": "sm",
+    "U-SERIES": "sm",
+    "MIRROR BEAMS": "sm",
+    "INTERSECTORS": "sm",
+    "2 LAMP TRACER": "tracer",
+    "MINI T-SERIES": "sq",
+    "T-SERIES": "sm",
+    "FIELD SERIES": "tracer",
+    "PIONEER": "long",
+    "AM-900": "md",
+    "MEGA T-SERIES": "long",
+    "TRACER 5 LAMP": "tracer",
+    "TRACER 6 LAMP": "tracer"
+  },
+  "size_rule_definitions": {
+    "sm": {
+      "label": "Small",
+      "maintain_aspect_ratio": false,
+      "views": {
+        "front": {
+          "w": 0.45,
+          "h": 0.114
+        },
+        "rear": {
+          "w": 0.45,
+          "h": 0.114
+        },
+        "side": {
+          "w": 0.244,
+          "h": 0.085
+        },
+        "top": {
+          "w": 0.244,
+          "h": 0.045
+        }
+      }
+    },
+    "md": {
+      "label": "Medium",
+      "maintain_aspect_ratio": false,
+      "views": {
+        "front": {
+          "w": 0.596,
+          "h": 0.306
+        },
+        "rear": {
+          "w": 0.596,
+          "h": 0.306
+        },
+        "side": {
+          "w": 0.248,
+          "h": 0.176
+        },
+        "top": {
+          "w": 0.248,
+          "h": 0.176
+        }
+      }
+    },
+    "lg": {
+      "label": "Large",
+      "maintain_aspect_ratio": false,
+      "views": {
+        "front": {
+          "w": 0.9,
+          "h": 0.716
+        },
+        "rear": {
+          "w": 0.9,
+          "h": 0.716
+        },
+        "side": {
+          "w": 0.389,
+          "h": 0.3
+        },
+        "top": {
+          "w": 0.389,
+          "h": 0.3
+        }
+      }
+    },
+    "sq": {
+      "label": "Square",
+      "maintain_aspect_ratio": false,
+      "views": {
+        "front": {
+          "w": 0.15,
+          "h": 0.15
+        },
+        "rear": {
+          "w": 0.15,
+          "h": 0.15
+        },
+        "side": {
+          "w": 0.09,
+          "h": 0.09
+        },
+        "top": {
+          "w": 0.09,
+          "h": 0.09
+        }
+      }
+    },
+    "rd": {
+      "label": "Round",
+      "maintain_aspect_ratio": false,
+      "views": {
+        "front": {
+          "w": 0.2,
+          "h": 0.2
+        },
+        "rear": {
+          "w": 0.2,
+          "h": 0.2
+        },
+        "side": {
+          "w": 0.12,
+          "h": 0.12
+        },
+        "top": {
+          "w": 0.12,
+          "h": 0.12
+        }
+      }
+    },
+    "long": {
+      "label": "Long",
+      "maintain_aspect_ratio": false,
+      "views": {
+        "front": {
+          "w": 0.9,
+          "h": 0.114
+        },
+        "rear": {
+          "w": 0.9,
+          "h": 0.114
+        },
+        "side": {
+          "w": 0.488,
+          "h": 0.085
+        },
+        "top": {
+          "w": 0.488,
+          "h": 0.085
+        }
+      }
+    },
+    "tracer": {
+      "label": "Tracer Strip",
+      "maintain_aspect_ratio": false,
+      "views": {
+        "front": {
+          "w": 0.7,
+          "h": 0.114
+        },
+        "rear": {
+          "w": 0.7,
+          "h": 0.114
+        },
+        "side": {
+          "w": 4,
+          "h": 0.085
+        },
+        "top": {
+          "w": 0.37,
+          "h": 0.085
+        }
+      }
+    }
+  },
+  "schema_version": 1,
+  "placeholder_assets": {}
+}

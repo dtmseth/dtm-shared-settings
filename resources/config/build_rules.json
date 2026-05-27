@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "rules": {
+    "incompatible_parts": [
+      {
+        "rule_id": "incompat_tracers",
+        "severity": "warning",
+        "parts": ["2-Lamp Tracer", "5-Lamp Tracer", "6-Lamp Tracer"],
+        "max_count": 1,
+        "message": "Multiple tracer configurations selected; only one tracer type is typically installed per warning-light position"
+      }
+    ],
+    "required_dependencies": [
+      {
+        "rule_id": "dep_fw1_bracket",
+        "severity": "warning",
+        "part": "FW 1 Bracket",
+        "requires_any": ["Forward Warning 1", "Front Side Warning", "2-Lamp Tracer", "5-Lamp Tracer", "6-Lamp Tracer"],
+        "message": "FW 1 Bracket is designed to mount a forward warning light — add at least one forward warning light or verify placement"
+      },
+      {
+        "rule_id": "dep_fw2_bracket",
+        "severity": "warning",
+        "part": "FW 2 Bracket",
+        "requires_any": ["Forward Warning 2", "2-Lamp Tracer", "5-Lamp Tracer", "6-Lamp Tracer"],
+        "message": "FW 2 Bracket is designed to mount a second forward warning light — add Forward Warning 2 or verify placement"
+      },
+      {
+        "rule_id": "dep_speaker_bracket",
+        "severity": "warning",
+        "part": "Siren Speaker Bracket",
+        "requires_any": ["Siren Speaker 1", "Siren Speaker 2"],
+        "message": "Siren Speaker Bracket requires at least one Siren Speaker"
+      },
+      {
+        "rule_id": "dep_radar_front_mount",
+        "severity": "warning",
+        "part": "Front Radar Antenna Mount",
+        "requires_any": ["Radar"],
+        "message": "Front Radar Antenna Mount requires Radar to be selected"
+      },
+      {
+        "rule_id": "dep_radar_rear_mount",
+        "severity": "warning",
+        "part": "Rear Radar Antenna Mount",
+        "requires_any": ["Radar"],
+        "message": "Rear Radar Antenna Mount requires Radar to be selected"
+      },
+      {
+        "rule_id": "dep_radar_cable",
+        "severity": "warning",
+        "part": "Radar Interface Cable (To Camera)",
+        "requires_any": ["Radar"],
+        "message": "Radar Interface Cable (To Camera) requires Radar to be selected"
+      },
+      {
+        "rule_id": "dep_pa_mic_clip",
+        "severity": "warning",
+        "part": "Pa Mic Clip",
+        "requires_any": ["Pa Mic"],
+        "message": "PA Mic Clip requires a PA Mic"
+      },
+      {
+        "rule_id": "dep_thermal_monitor",
+        "severity": "warning",
+        "part": "Thermal Imager Monitor",
+        "requires_any": ["Thermal Imager"],
+        "message": "Thermal Imager Monitor requires a Thermal Imager"
+      },
+      {
+        "rule_id": "dep_mirror_brackets_1",
+        "severity": "warning",
+        "part": "Mirror Warning Brackets 1",
+        "requires_any": ["Mirror Warning 1"],
+        "message": "Mirror Warning Brackets 1 requires Mirror Warning 1"
+      },
+      {
+        "rule_id": "dep_mirror_brackets_2",
+        "severity": "warning",
+        "part": "Mirror Warning Brackets 2",
+        "requires_any": ["Mirror Warning 2"],
+        "message": "Mirror Warning Brackets 2 requires Mirror Warning 2"
+      },
+      {
+        "rule_id": "dep_cradle_antenna",
+        "severity": "warning",
+        "part": "Cradle Point Antenna",
+        "requires_any": ["Cradle Point"],
+        "message": "Cradle Point Antenna requires a Cradle Point unit"
+      }
+    ],
+    "vehicle_compatibility": [],
+    "location_compatibility": [],
+    "part_groups": [
+      {
+        "rule_id": "grp_light_bars",
+        "severity": "warning",
+        "group_name": "Light Bars",
+        "parts": ["Roof Light Bar", "Front Interior Light Bar", "Rear Interior Light Bar"],
+        "max_count": 3,
+        "message": "All three light bar positions selected; confirm each position is intended for this build"
+      }
+    ],
+    "presets": []
+  }
+}

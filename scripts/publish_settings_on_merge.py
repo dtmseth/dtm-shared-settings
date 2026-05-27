@@ -3,12 +3,20 @@
 
 Runs after a PR merges into main. Reads the list of files changed by the
 merge (via git diff against the merge's first parent) and uploads each one
-that lives under SETTINGS_SUBDIR to /Settings/{filename} on SharePoint.
+that lives under SETTINGS_SUBDIR to /Settings/{relative_path} on SharePoint,
+preserving any subdirectory structure under the settings root.
 
 Each uploaded file is accompanied by a small ``{filename}.meta.json``
 sidecar holding the merge SHA, PR number/title, and merger's username.
 Power Automate Flow A reads from /Settings/ — the sidecar gives the flow
 something richer than just "a file changed" to put in the notification.
+
+Two modes:
+- ``diff`` (default): publish only the files changed by ``MERGE_SHA``. Used
+  by the on-merge trigger and the post-auto-merge dispatch from the pickup
+  workflow.
+- ``bulk``: walk SETTINGS_SUBDIR recursively and publish everything. Used
+  to rebuild /Settings/ after an outage or as an initial backfill.
 
 Auth: GRAPH_ACCESS_TOKEN in env (same pattern as the pickup workflow).
 """
@@ -76,7 +84,29 @@ def changed_files_under(subdir: str, merge_sha: str) -> list[Path]:
     return out
 
 
+def all_files_under(subdir: str) -> list[Path]:
+    """Every regular file in *subdir*, recursively. Used by bulk-publish mode
+    to rebuild SharePoint /Settings/ from scratch after an outage."""
+    base = Path(subdir)
+    if not base.exists():
+        return []
+    return sorted(p for p in base.rglob("*") if p.is_file())
+
+
+def remote_name_for(path: Path, subdir: str) -> str:
+    """Return the SharePoint-relative path that *path* should land at.
+
+    Preserves the subdirectory structure under SETTINGS_SUBDIR so per-record
+    entities like ``resources/config/agencies/foo.json`` upload to
+    ``/Settings/agencies/foo.json`` instead of getting flattened. The
+    sidecar uses the same relative path with ``.meta.json`` appended.
+    """
+    return path.relative_to(subdir).as_posix()
+
+
 def upload(token: str, site_id: str, drive_id: str, remote_name: str, data: bytes) -> None:
+    # quote(safe="/") preserves the slashes between subdir segments so they
+    # round-trip through the Graph path-addressing convention intact.
     encoded = urllib.parse.quote(remote_name, safe="/")
     url = f"{GRAPH}/sites/{site_id}/drives/{drive_id}/root:/Settings/{encoded}:/content"
     resp = requests.put(
@@ -102,6 +132,17 @@ def build_metadata(*, merge_sha: str, settings_subdir: str) -> dict:
     }
 
 
+def select_files(*, mode: str, settings_subdir: str, merge_sha: str) -> list[Path]:
+    """Pick the set of files to publish based on the requested mode."""
+    if mode == "bulk":
+        return all_files_under(settings_subdir)
+    if mode != "diff":
+        sys.exit(f"Unknown PUBLISH_MODE: {mode!r} (expected 'diff' or 'bulk')")
+    if not merge_sha:
+        sys.exit("MERGE_SHA is required for diff mode")
+    return changed_files_under(settings_subdir, merge_sha)
+
+
 def main() -> int:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
 
@@ -109,18 +150,25 @@ def main() -> int:
     site_id = env("SHAREPOINT_SITE_ID")
     drive_id = env("SHAREPOINT_DRIVE_ID")
     settings_subdir = env("SETTINGS_SUBDIR", required=False, default="resources/config")
-    merge_sha = env("MERGE_SHA")
+    mode = env("PUBLISH_MODE", required=False, default="diff").lower()
+    merge_sha = env("MERGE_SHA", required=False, default="")
 
-    files = changed_files_under(settings_subdir, merge_sha)
+    files = select_files(mode=mode, settings_subdir=settings_subdir, merge_sha=merge_sha)
     if not files:
-        logger.info("No settings files changed in this merge — nothing to publish")
+        logger.info("Nothing to publish (mode=%s)", mode)
         return 0
 
     metadata = build_metadata(merge_sha=merge_sha, settings_subdir=settings_subdir)
+    logger.info("Publishing %d file(s) in mode=%s", len(files), mode)
     failures = 0
 
     for path in files:
-        remote_name = path.name
+        remote_name = remote_name_for(path, settings_subdir)
+        # Don't recursively publish stale sidecars — they get regenerated
+        # alongside their data file in the same pass.
+        if remote_name.endswith(".meta.json"):
+            logger.info("Skipping sidecar (will be regenerated): %s", remote_name)
+            continue
         try:
             # Upload the metadata sidecar BEFORE the settings file. Power
             # Automate Flow A triggers on the settings file changing, and

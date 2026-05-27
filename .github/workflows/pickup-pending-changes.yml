@@ -8,6 +8,11 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  # `actions: write` is needed so the pickup script can dispatch the
+  # publish-settings-on-merge workflow after auto-merging a general PR
+  # (GitHub's GITHUB_TOKEN recursion guard otherwise swallows the
+  # pull_request:closed event that would normally trigger publish).
+  actions: write
 
 concurrency:
   group: pickup-pending-changes

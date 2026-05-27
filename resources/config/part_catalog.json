@@ -1,0 +1,2297 @@
+{
+  "version": "5.0-draft1",
+  "parts": [
+    {
+      "part_id": "push_bumper",
+      "display_name": "Push Bumper",
+      "category": "equipment",
+      "render_kind": "equipment",
+      "asset_key": "push_bumper",
+      "is_fixture": true,
+      "diagram": true,
+      "default_views": [
+        "front",
+        "side",
+        "top"
+      ],
+      "render_quantity_policy": "single_per_line",
+      "conditions": {
+        "template_section": "PUSH BUMPER / FRONT STRUCTURE"
+      },
+      "aliases": [
+        "Push Bumper"
+      ],
+      "size_per_view": {
+        "front": {
+          "w": 2.75,
+          "h": 2.52
+        },
+        "side": {
+          "w": 0.43,
+          "h": 1.56
+        }
+      },
+      "co_part_rules": []
+    },
+    {
+      "part_id": "pit_bar",
+      "display_name": "Pit Bar",
+      "category": "equipment",
+      "render_kind": "equipment",
+      "is_fixture": true,
+      "diagram": true,
+      "default_views": [
+        "front",
+        "side"
+      ],
+      "render_quantity_policy": "single_per_line",
+      "conditions": {
+        "template_section": "PUSH BUMPER / FRONT STRUCTURE"
+      },
+      "aliases": [
+        "Pit Bar"
+      ],
+      "accessory_of": "Push Bumper",
+      "co_part_rules": [
+        {
+          "co_part": "Wing Wraps",
+          "if_present": {
+            "skip": true
+          }
+        }
+      ]
+    },
+    {
+      "part_id": "wing_wraps",
+      "display_name": "Wing Wraps",
+      "category": "equipment",
+      "render_kind": "equipment",
+      "is_fixture": true,
+      "diagram": true,
+      "default_views": [
+        "front",
+        "side"
+      ],
+      "render_quantity_policy": "location_slots",
+      "conditions": {
+        "template_section": "PUSH BUMPER / FRONT STRUCTURE"
+      },
+      "aliases": [
+        "Wing Wraps"
+      ],
+      "accessory_of": "Push Bumper",
+      "co_part_rules": [
+        {
+          "co_part": "PB10",
+          "if_present": {
+            "skip": true
+          }
+        },
+        {
+          "co_part": "PB6"
+        },
+        {
+          "co_part": "PB8",
+          "if_present": {
+            "skip": true
+          }
+        }
+      ],
+      "size_per_view": {
+        "front": {
+          "w": 1.9,
+          "h": 2.18
+        }
+      }
+    },
+    {
+      "part_id": "wire_covers",
+      "display_name": "Wire Covers",
+      "category": "appearance_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PUSH BUMPER / FRONT STRUCTURE"
+      },
+      "aliases": [
+        "Wire Covers"
+      ],
+      "size_per_view": {
+        "front": {
+          "w": 1.9,
+          "h": 2.18
+        }
+      },
+      "accessory_of": "Push Bumper",
+      "co_part_rules": []
+    },
+    {
+      "part_id": "forward_warning_1",
+      "display_name": "Forward Warning 1",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "front"
+      ],
+      "render_quantity_policy": "location_slots",
+      "quantity_rules": [
+        {
+          "qty": 2,
+          "slot_count": 4,
+          "slot_indices": [
+            0,
+            3
+          ]
+        }
+      ],
+      "default_color_profile": "std_duo_rb_w",
+      "conditions": {
+        "template_section": "FRONT WARNING LIGHTS"
+      },
+      "aliases": [
+        "Forward Warning 1"
+      ],
+      "is_fixture": false,
+      "model_remaps": {
+        "2-LAMP TRACER": "tracer_2lamp",
+        "2LAMP TRACER": "tracer_2lamp",
+        "2 LAMP TRACER": "tracer_2lamp"
+      },
+      "size_per_view": {
+        "top": {
+          "w": 0.54,
+          "h": 2.19
+        }
+      }
+    },
+    {
+      "part_id": "fw_1_bracket",
+      "display_name": "FW 1 Bracket",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "accessory_of": [
+        "Forward Warning 1"
+      ],
+      "conditions": {
+        "template_section": "FRONT WARNING LIGHTS"
+      },
+      "aliases": [
+        "FW 1 Bracket"
+      ]
+    },
+    {
+      "part_id": "forward_warning_2",
+      "display_name": "Forward Warning 2",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "front"
+      ],
+      "render_quantity_policy": "quantity_as_slots",
+      "quantity_rules": [
+        {
+          "qty": 2,
+          "slot_count": 4,
+          "slot_indices": [
+            0,
+            3
+          ]
+        }
+      ],
+      "default_color_profile": "std_duo_rb_w",
+      "conditions": {
+        "template_section": "FRONT WARNING LIGHTS"
+      },
+      "aliases": [
+        "Forward Warning 2"
+      ],
+      "model_remaps": {
+        "2-LAMP TRACER": "tracer_2lamp",
+        "2LAMP TRACER": "tracer_2lamp",
+        "2 LAMP TRACER": "tracer_2lamp"
+      }
+    },
+    {
+      "part_id": "tracer_2lamp",
+      "display_name": "2-Lamp Tracer",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "front"
+      ],
+      "is_fixture": true,
+      "group_shapes": true,
+      "render_quantity_policy": "location_slots",
+      "quantity_rules": [
+        {
+          "qty": 1,
+          "slot_count": 2
+        }
+      ],
+      "default_color_profile": "std_duo_rb_w",
+      "aliases": [
+        "2 LAMP TRACER",
+        "2 Lamp Tracer",
+        "2-LAMP TRACER",
+        "2-Lamp Tracer"
+      ],
+      "size_per_view": {
+        "front": {
+          "w": 1,
+          "h": 0.1
+        }
+      }
+    },
+    {
+      "part_id": "tracer_5lamp",
+      "display_name": "5-Lamp Tracer",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "side"
+      ],
+      "is_fixture": true,
+      "group_shapes": true,
+      "render_quantity_policy": "location_slots",
+      "quantity_rules": [
+        {
+          "qty": 1,
+          "slot_count": 5
+        }
+      ],
+      "default_color_profile": "std_duo_rb_w",
+      "aliases": [
+        "5 Lamp Tracer",
+        "5-Lamp Tracer",
+        "TRACER 5 LAMP",
+        "TRACER 5-LAMP",
+        "Tracer 5 Lamp"
+      ],
+      "size_per_view": {
+        "side": {
+          "w": 0.7,
+          "h": 0.06
+        }
+      }
+    },
+    {
+      "part_id": "tracer_6lamp",
+      "display_name": "6-Lamp Tracer",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "side"
+      ],
+      "is_fixture": true,
+      "group_shapes": true,
+      "render_quantity_policy": "location_slots",
+      "quantity_rules": [
+        {
+          "qty": 1,
+          "slot_count": 6
+        }
+      ],
+      "default_color_profile": "std_duo_rb_w",
+      "aliases": [
+        "6 Lamp Tracer",
+        "6-Lamp Tracer",
+        "TRACER 6 LAMP",
+        "TRACER 6-LAMP",
+        "Tracer 6 Lamp"
+      ],
+      "size_per_view": {
+        "side": {
+          "w": 1,
+          "h": 0.1
+        }
+      }
+    },
+    {
+      "part_id": "fw_2_bracket",
+      "display_name": "FW 2 Bracket",
+      "category": "warning_light",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "accessory_of": [
+        "Forward Warning 2"
+      ],
+      "conditions": {
+        "template_section": "FRONT WARNING LIGHTS"
+      },
+      "aliases": [
+        "FW 2 Bracket"
+      ]
+    },
+    {
+      "part_id": "front_side_warning",
+      "display_name": "Front Side Warning",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "front",
+        "side"
+      ],
+      "default_color_profile": "std_duo_rb_w",
+      "render_quantity_policy": "location_slots",
+      "conditions": {
+        "template_section": "FRONT WARNING LIGHTS"
+      },
+      "aliases": [
+        "Front Side Warning"
+      ],
+      "model_remaps": {
+        "2-LAMP TRACER": "tracer_2lamp",
+        "2LAMP TRACER": "tracer_2lamp",
+        "2 LAMP TRACER": "tracer_2lamp"
+      }
+    },
+    {
+      "part_id": "front_side_brackets",
+      "display_name": "Front Side Brackets",
+      "category": "warning_light",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "FRONT WARNING LIGHTS"
+      },
+      "aliases": [
+        "Front Side Brackets"
+      ]
+    },
+    {
+      "part_id": "pit_bar_warning",
+      "display_name": "Pit Bar Warning",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "front",
+        "side"
+      ],
+      "render_quantity_policy": "location_slots",
+      "default_color_profile": "std_duo_rb_w",
+      "conditions": {
+        "template_section": "FRONT WARNING LIGHTS"
+      },
+      "aliases": [
+        "Pit Bar Warning"
+      ]
+    },
+    {
+      "part_id": "headlight_flasher",
+      "display_name": "Headlight Flasher",
+      "category": "vehicle_system",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [
+        "front"
+      ],
+      "conditions": {
+        "template_section": "FRONT WARNING LIGHTS"
+      },
+      "aliases": [
+        "Headlight Flasher"
+      ]
+    },
+    {
+      "part_id": "front_scene",
+      "display_name": "Front Scene",
+      "category": "scene_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "front"
+      ],
+      "render_quantity_policy": "location_slots",
+      "default_color_profile": "single_white",
+      "conditions": {
+        "template_section": "FRONT WARNING LIGHTS"
+      },
+      "aliases": [
+        "Front Scene"
+      ]
+    },
+    {
+      "part_id": "siren_speaker_1",
+      "display_name": "Siren Speaker 1",
+      "category": "audio",
+      "render_kind": "equipment",
+      "diagram": true,
+      "default_views": [
+        "front"
+      ],
+      "asset_key": "siren_speaker_wo_bracket",
+      "render_quantity_policy": "location_slots",
+      "aliases": [
+        "Siren Speaker 1"
+      ],
+      "size_per_view": {
+        "front": {
+          "w": 0.59,
+          "h": 0.65
+        }
+      },
+      "co_part_rules": [
+        {
+          "co_part": "Siren Speaker 2",
+          "if_present": {
+            "pattern": "mirror"
+          },
+          "if_absent": {
+            "pattern": "single"
+          }
+        },
+        {
+          "co_part": "Siren Speaker Bracket",
+          "if_present": {
+            "asset_key": "Speaker_w_bracket"
+          },
+          "if_absent": {
+            "asset_key": "Speaker_wo_bracket"
+          }
+        }
+      ]
+    },
+    {
+      "part_id": "siren_speaker_2",
+      "display_name": "Siren Speaker 2",
+      "category": "audio",
+      "render_kind": "equipment",
+      "diagram": true,
+      "default_views": [
+        "front"
+      ],
+      "asset_key": "siren_speaker_wo_bracket",
+      "render_quantity_policy": "location_slots",
+      "aliases": [
+        "Siren Speaker 2"
+      ],
+      "size_per_view": {
+        "front": {
+          "w": 0.53,
+          "h": 0.65
+        }
+      },
+      "co_part_rules": [
+        {
+          "co_part": "Siren Speaker 1",
+          "if_present": {
+            "skip": true
+          },
+          "if_absent": {
+            "pattern": "single",
+            "side": "center"
+          }
+        },
+        {
+          "co_part": "Siren Speaker Bracket",
+          "if_present": {
+            "asset_key": "siren_speaker_w_bracket"
+          },
+          "if_absent": {
+            "asset_key": "siren_speaker_wo_bracket"
+          }
+        }
+      ]
+    },
+    {
+      "part_id": "siren_speaker_bracket",
+      "display_name": "Siren Speaker Bracket",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "accessory_of": [
+        "Siren Speaker 1",
+        "Siren Speaker 2"
+      ],
+      "conditions": {
+        "template_section": "SIREN / SPEAKER / PA"
+      },
+      "aliases": [
+        "Siren Speaker Bracket"
+      ]
+    },
+    {
+      "part_id": "external_amp",
+      "display_name": "External Amp",
+      "category": "audio",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "SIREN / SPEAKER / PA"
+      },
+      "aliases": [
+        "External Amp"
+      ]
+    },
+    {
+      "part_id": "howler",
+      "display_name": "Howler",
+      "category": "audio",
+      "render_kind": "equipment",
+      "diagram": true,
+      "default_views": [
+        "front"
+      ],
+      "render_quantity_policy": "location_slots",
+      "conditions": {
+        "template_section": "SIREN / SPEAKER / PA"
+      },
+      "aliases": [
+        "Howler"
+      ]
+    },
+    {
+      "part_id": "pa_mic",
+      "display_name": "Pa Mic",
+      "category": "audio",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "SIREN / SPEAKER / PA"
+      },
+      "aliases": [
+        "Pa Mic"
+      ]
+    },
+    {
+      "part_id": "pa_mic_clip",
+      "display_name": "Pa Mic Clip",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "SIREN / SPEAKER / PA"
+      },
+      "aliases": [
+        "PA Mic Clip",
+        "Pa Mic Clip"
+      ]
+    },
+    {
+      "part_id": "opticom",
+      "display_name": "Opticom",
+      "category": "equipment",
+      "render_kind": "equipment",
+      "diagram": true,
+      "default_views": [
+        "front"
+      ],
+      "render_quantity_policy": "single_per_line",
+      "conditions": {
+        "template_section": "FRONT SPECIALTY"
+      },
+      "aliases": [
+        "Opticom"
+      ],
+      "default_color_profile": "single_white",
+      "size_per_view": {
+        "front": {
+          "w": 0.41,
+          "h": 0.14
+        }
+      },
+      "co_part_rules": []
+    },
+    {
+      "part_id": "front_dome_light",
+      "display_name": "Front Dome Light",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "FRONT SPECIALTY"
+      },
+      "aliases": [
+        "Front Dome Light"
+      ]
+    },
+    {
+      "part_id": "cradle_point",
+      "display_name": "Cradle Point",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "FRONT SPECIALTY"
+      },
+      "aliases": [
+        "Cradle Point"
+      ]
+    },
+    {
+      "part_id": "cradle_point_antenna",
+      "display_name": "Cradle Point Antenna",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "FRONT SPECIALTY"
+      },
+      "aliases": [
+        "Cradle Point Antenna"
+      ]
+    },
+    {
+      "part_id": "mirror_warning_1",
+      "display_name": "Mirror Warning 1",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "side",
+        "front",
+        "rear"
+      ],
+      "render_quantity_policy": "location_slots",
+      "default_color_profile": "std_duo_rb_w",
+      "conditions": {
+        "template_section": "MIRROR & SIDE WARNING LIGHTS"
+      },
+      "aliases": [
+        "Mirror Warning 1"
+      ]
+    },
+    {
+      "part_id": "mirror_warning_brackets_1",
+      "display_name": "Mirror Warning Brackets 1",
+      "category": "warning_light",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "MIRROR & SIDE WARNING LIGHTS"
+      },
+      "aliases": [
+        "Mirror Warning Brackets 1"
+      ]
+    },
+    {
+      "part_id": "mirror_warning_2",
+      "display_name": "Mirror Warning 2",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "side",
+        "front",
+        "rear"
+      ],
+      "render_quantity_policy": "location_slots",
+      "default_color_profile": "std_duo_rb_w",
+      "conditions": {
+        "template_section": "MIRROR & SIDE WARNING LIGHTS"
+      },
+      "aliases": [
+        "Mirror Warning 2"
+      ]
+    },
+    {
+      "part_id": "mirror_warning_brackets_2",
+      "display_name": "Mirror Warning Brackets 2",
+      "category": "warning_light",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "MIRROR & SIDE WARNING LIGHTS"
+      },
+      "aliases": [
+        "Mirror Warning Brackets 2"
+      ]
+    },
+    {
+      "part_id": "interior_light_bar_front",
+      "display_name": "Front Interior Light Bar",
+      "category": "light_bar",
+      "render_kind": "bar",
+      "asset_key": "interior-front",
+      "diagram": true,
+      "default_views": [
+        "top",
+        "front"
+      ],
+      "render_quantity_policy": "single_per_line",
+      "default_location_key": "INTERIOR LIGHT BAR (FRONT)",
+      "conditions": {
+        "template_section": "LIGHT BARS"
+      },
+      "aliases": [
+        "Front Interior Light Bar",
+        "Interior Light Bar",
+        "Interior Light Bar (Front)"
+      ],
+      "is_fixture": true
+    },
+    {
+      "part_id": "side_warning_1",
+      "display_name": "Side Warning 1",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "side"
+      ],
+      "render_quantity_policy": "location_slots",
+      "default_color_profile": "std_duo_rb_w",
+      "conditions": {
+        "template_section": "MIRROR & SIDE WARNING LIGHTS"
+      },
+      "aliases": [
+        "Side Warning 1"
+      ],
+      "model_remaps": {
+        "TRACER 5-LAMP": "tracer_5lamp",
+        "5-LAMP TRACER": "tracer_5lamp",
+        "TRACER 5 LAMP": "tracer_5lamp",
+        "5 LAMP TRACER": "tracer_5lamp",
+        "TRACER 6-LAMP": "tracer_6lamp",
+        "TRACER 6 LAMP": "tracer_6lamp",
+        "6-LAMP TRACER": "tracer_6lamp",
+        "6 LAMP TRACER": "tracer_6lamp"
+      }
+    },
+    {
+      "part_id": "side_warning_bracket_1",
+      "display_name": "Side Warning Bracket 1",
+      "category": "warning_light",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "MIRROR & SIDE WARNING LIGHTS"
+      },
+      "aliases": [
+        "Side Warning Bracket 1"
+      ]
+    },
+    {
+      "part_id": "side_warning_2",
+      "display_name": "Side Warning 2",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "side"
+      ],
+      "render_quantity_policy": "location_slots",
+      "default_color_profile": "std_duo_rb_w",
+      "conditions": {
+        "template_section": "MIRROR & SIDE WARNING LIGHTS"
+      },
+      "aliases": [
+        "Side Warning 2"
+      ],
+      "model_remaps": {
+        "TRACER 5-LAMP": "tracer_5lamp",
+        "5-LAMP TRACER": "tracer_5lamp",
+        "TRACER 5 LAMP": "tracer_5lamp",
+        "5 LAMP TRACER": "tracer_5lamp",
+        "TRACER 6-LAMP": "tracer_6lamp",
+        "TRACER 6 LAMP": "tracer_6lamp",
+        "6-LAMP TRACER": "tracer_6lamp",
+        "6 LAMP TRACER": "tracer_6lamp"
+      }
+    },
+    {
+      "part_id": "side_warning_bracket_2",
+      "display_name": "Side Warning Bracket 2",
+      "category": "warning_light",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "MIRROR & SIDE WARNING LIGHTS"
+      },
+      "aliases": [
+        "Side Warning Bracket 2"
+      ]
+    },
+    {
+      "part_id": "side_warning_3",
+      "display_name": "Side Warning 3",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "side"
+      ],
+      "render_quantity_policy": "location_slots",
+      "default_color_profile": "std_duo_rb_w",
+      "conditions": {
+        "template_section": "MIRROR & SIDE WARNING LIGHTS"
+      },
+      "aliases": [
+        "Side Warning 3"
+      ],
+      "model_remaps": {
+        "TRACER 5-LAMP": "tracer_5lamp",
+        "5-LAMP TRACER": "tracer_5lamp",
+        "TRACER 5 LAMP": "tracer_5lamp",
+        "5 LAMP TRACER": "tracer_5lamp",
+        "TRACER 6-LAMP": "tracer_6lamp",
+        "TRACER 6 LAMP": "tracer_6lamp",
+        "6-LAMP TRACER": "tracer_6lamp",
+        "6 LAMP TRACER": "tracer_6lamp"
+      }
+    },
+    {
+      "part_id": "side_warning_bracket_3",
+      "display_name": "Side Warning Bracket 3",
+      "category": "warning_light",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "MIRROR & SIDE WARNING LIGHTS"
+      },
+      "aliases": [
+        "Side Warning Bracket 3"
+      ]
+    },
+    {
+      "part_id": "side_scene",
+      "display_name": "Side Scene",
+      "category": "scene_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "side"
+      ],
+      "render_quantity_policy": "location_slots",
+      "default_color_profile": "single_white",
+      "conditions": {
+        "template_section": "MIRROR & SIDE WARNING LIGHTS"
+      },
+      "aliases": [
+        "Side Scene"
+      ]
+    },
+    {
+      "part_id": "roof_light_bar",
+      "display_name": "Roof Light Bar",
+      "category": "light_bar",
+      "render_kind": "bar",
+      "asset_key": "roof",
+      "is_fixture": true,
+      "diagram": true,
+      "default_views": [
+        "front",
+        "side",
+        "top",
+        "rear"
+      ],
+      "render_quantity_policy": "single_per_line",
+      "conditions": {
+        "template_section": "LIGHT BARS"
+      },
+      "aliases": [
+        "Roof Light Bar"
+      ],
+      "size_per_view": {
+        "top": {
+          "w": 0.54,
+          "h": 2.19
+        }
+      }
+    },
+    {
+      "part_id": "rear_interior_light_bar",
+      "display_name": "Rear Interior Light Bar",
+      "category": "light_bar",
+      "render_kind": "bar",
+      "asset_key": "interior-rear",
+      "is_fixture": true,
+      "diagram": true,
+      "default_views": [
+        "top",
+        "rear"
+      ],
+      "render_quantity_policy": "single_per_line",
+      "conditions": {
+        "template_section": "LIGHT BARS"
+      },
+      "aliases": [
+        "Rear Interior Light Bar"
+      ]
+    },
+    {
+      "part_id": "rear_warning_1",
+      "display_name": "Rear Warning 1",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "rear"
+      ],
+      "render_quantity_policy": "location_slots",
+      "default_color_profile": "std_duo_rb_w",
+      "conditions": {
+        "template_section": "REAR WARNING LIGHTS"
+      },
+      "aliases": [
+        "Rear Warning 1"
+      ],
+      "size_per_view": {
+        "top": {
+          "w": 0.54,
+          "h": 2.19
+        }
+      }
+    },
+    {
+      "part_id": "rear_warning_bracket_1",
+      "display_name": "Rear Warning Bracket 1",
+      "category": "warning_light",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "REAR WARNING LIGHTS"
+      },
+      "aliases": [
+        "Rear Warning Bracket 1"
+      ]
+    },
+    {
+      "part_id": "rear_warning_2",
+      "display_name": "Rear Warning 2",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "rear"
+      ],
+      "render_quantity_policy": "location_slots",
+      "default_color_profile": "std_duo_rb_w",
+      "conditions": {
+        "template_section": "REAR WARNING LIGHTS"
+      },
+      "aliases": [
+        "Rear Warning 2"
+      ],
+      "size_per_view": {
+        "top": {
+          "w": 0.54,
+          "h": 2.19
+        }
+      }
+    },
+    {
+      "part_id": "rear_warning_bracket_2",
+      "display_name": "Rear Warning Bracket 2",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "REAR WARNING LIGHTS"
+      },
+      "aliases": [
+        "Rear Warning Bracket 2"
+      ]
+    },
+    {
+      "part_id": "rear_warning_3",
+      "display_name": "Rear Warning 3",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "rear"
+      ],
+      "render_quantity_policy": "location_slots",
+      "default_color_profile": "std_duo_rb_w",
+      "conditions": {
+        "template_section": "REAR WARNING LIGHTS"
+      },
+      "aliases": [
+        "Rear Warning 3"
+      ],
+      "size_per_view": {
+        "top": {
+          "w": 0.54,
+          "h": 2.19
+        }
+      }
+    },
+    {
+      "part_id": "rear_warning_bracket_3",
+      "display_name": "Rear Warning Bracket 3",
+      "category": "warning_light",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "REAR WARNING LIGHTS"
+      },
+      "aliases": [
+        "Rear Warning Bracket 3"
+      ]
+    },
+    {
+      "part_id": "rear_scene",
+      "display_name": "Rear Scene",
+      "category": "scene_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "rear"
+      ],
+      "default_color_profile": "single_white",
+      "render_quantity_policy": "location_slots",
+      "size_per_view": {
+        "side": {
+          "w": 0.28,
+          "h": 0.46
+        }
+      },
+      "conditions": {
+        "template_section": "REAR WARNING LIGHTS"
+      },
+      "aliases": [
+        "Rear Scene"
+      ]
+    },
+    {
+      "part_id": "lower_lift_gate_warning",
+      "display_name": "Lower Lift Gate Warning",
+      "category": "warning_light",
+      "render_kind": "light",
+      "diagram": true,
+      "default_views": [
+        "rear"
+      ],
+      "render_quantity_policy": "location_slots",
+      "default_color_profile": "std_duo_rb_w",
+      "conditions": {
+        "template_section": "REAR WARNING LIGHTS"
+      },
+      "aliases": [
+        "Lower Lift Gate Warning"
+      ]
+    },
+    {
+      "part_id": "lower_lift_gate_warning_bracket",
+      "display_name": "Lower Lift Gate Warning Bracket",
+      "category": "warning_light",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "REAR WARNING LIGHTS"
+      },
+      "aliases": [
+        "Lower Lift Gate Warning Bracket"
+      ]
+    },
+    {
+      "part_id": "tail_light_flasher",
+      "display_name": "Tail Light Flasher",
+      "category": "vehicle_system",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [
+        "rear"
+      ],
+      "conditions": {
+        "template_section": "REAR WARNING LIGHTS"
+      },
+      "aliases": [
+        "Tail Light Flasher"
+      ]
+    },
+    {
+      "part_id": "radar",
+      "display_name": "Radar",
+      "category": "vehicle_system",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "RADAR & THERMAL"
+      },
+      "aliases": [
+        "Radar"
+      ]
+    },
+    {
+      "part_id": "front_radar_antenna_mount",
+      "display_name": "Front Radar Antenna Mount",
+      "category": "vehicle_system",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "RADAR & THERMAL"
+      },
+      "aliases": [
+        "Front Radar Antenna Mount"
+      ]
+    },
+    {
+      "part_id": "rear_radar_antenna_mount",
+      "display_name": "Rear Radar Antenna Mount",
+      "category": "vehicle_system",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "RADAR & THERMAL"
+      },
+      "aliases": [
+        "Rear Radar Antenna Mount"
+      ]
+    },
+    {
+      "part_id": "radar_interface_cable",
+      "display_name": "Radar Interface Cable (To Camera)",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "RADAR & THERMAL"
+      },
+      "aliases": [
+        "Radar Interface Cable",
+        "Radar Interface Cable (To Camera)"
+      ]
+    },
+    {
+      "part_id": "thermal_imager",
+      "display_name": "Thermal Imager",
+      "category": "equipment",
+      "render_kind": "equipment",
+      "diagram": true,
+      "default_views": [
+        "front",
+        "side",
+        "rear"
+      ],
+      "asset_key": "thermal_cam",
+      "render_quantity_policy": "location_slots",
+      "size_per_view": {
+        "side": {
+          "w": 0.28,
+          "h": 0.46
+        }
+      },
+      "conditions": {
+        "template_section": "RADAR & THERMAL"
+      },
+      "aliases": [
+        "Thermal Imager"
+      ]
+    },
+    {
+      "part_id": "thermal_imager_monitor",
+      "display_name": "Thermal Imager Monitor",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "RADAR & THERMAL"
+      },
+      "aliases": [
+        "Thermal Imager Monitor"
+      ]
+    },
+    {
+      "part_id": "light_controller",
+      "display_name": "Light Controller",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "LIGHT CONTROLLER & ELECTRONICS"
+      },
+      "aliases": [
+        "Light Controller"
+      ]
+    },
+    {
+      "part_id": "control_head",
+      "display_name": "Control Head",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "LIGHT CONTROLLER & ELECTRONICS"
+      },
+      "aliases": [
+        "Control Head"
+      ]
+    },
+    {
+      "part_id": "vehicle_interface",
+      "display_name": "Vehicle interface",
+      "category": "vehicle_system",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "LIGHT CONTROLLER & ELECTRONICS"
+      },
+      "aliases": [
+        "Vehicle interface"
+      ]
+    },
+    {
+      "part_id": "expansion_module",
+      "display_name": "Expansion Module",
+      "category": "vehicle_system",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "LIGHT CONTROLLER & ELECTRONICS"
+      },
+      "aliases": [
+        "Expansion Module"
+      ]
+    },
+    {
+      "part_id": "radio_1",
+      "display_name": "Radio 1",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "RADIO & COMMUNICATIONS"
+      },
+      "aliases": [
+        "Radio 1"
+      ]
+    },
+    {
+      "part_id": "radio_mic_clip_1",
+      "display_name": "Radio Mic Clip 1",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "RADIO & COMMUNICATIONS"
+      },
+      "aliases": [
+        "Radio Mic Clip 1"
+      ]
+    },
+    {
+      "part_id": "radio_antenna_cable",
+      "display_name": "Radio Antenna Cable",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "RADIO & COMMUNICATIONS"
+      },
+      "aliases": [
+        "Radio Antenna Cable"
+      ]
+    },
+    {
+      "part_id": "radio_1_antenna_top",
+      "display_name": "Radio Antenna Top",
+      "category": "equipment",
+      "render_kind": "equipment",
+      "diagram": true,
+      "default_views": [
+        "top",
+        "side"
+      ],
+      "render_quantity_policy": "location_slots",
+      "aliases": [
+        "Radio 1 Antenna Top",
+        "Radio Antenna Top"
+      ],
+      "conditions": {
+        "template_section": "RADIO & COMMUNICATIONS"
+      },
+      "co_part_rules": []
+    },
+    {
+      "part_id": "radio_2",
+      "display_name": "Radio 2",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "RADIO & COMMUNICATIONS"
+      },
+      "aliases": [
+        "Radio 2"
+      ]
+    },
+    {
+      "part_id": "radio_mic_clip_2",
+      "display_name": "Radio Mic Clip 2",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "RADIO & COMMUNICATIONS"
+      },
+      "aliases": [
+        "Radio Mic Clip 2"
+      ]
+    },
+    {
+      "part_id": "center_console",
+      "display_name": "Center Console",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CENTER CONSOLE & COMPUTER"
+      },
+      "aliases": [
+        "Center Console"
+      ]
+    },
+    {
+      "part_id": "special_face_plate_1",
+      "display_name": "Special Face Plate 1",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CENTER CONSOLE & COMPUTER"
+      },
+      "aliases": [
+        "Special Face Plate 1"
+      ]
+    },
+    {
+      "part_id": "special_face_plate_2",
+      "display_name": "Special Face Plate 2",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CENTER CONSOLE & COMPUTER"
+      },
+      "aliases": [
+        "Special Face Plate 2"
+      ]
+    },
+    {
+      "part_id": "special_face_plate_3",
+      "display_name": "Special Face Plate 3",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CENTER CONSOLE & COMPUTER"
+      },
+      "aliases": [
+        "Special Face Plate 3"
+      ]
+    },
+    {
+      "part_id": "special_face_plate_4",
+      "display_name": "Special Face Plate 4",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CENTER CONSOLE & COMPUTER"
+      },
+      "aliases": [
+        "Special Face Plate 4"
+      ]
+    },
+    {
+      "part_id": "special_face_plate_5",
+      "display_name": "Special Face Plate 5",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CENTER CONSOLE & COMPUTER"
+      },
+      "aliases": [
+        "Special Face Plate 5"
+      ]
+    },
+    {
+      "part_id": "special_face_plate_6",
+      "display_name": "Special Face Plate 6",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CENTER CONSOLE & COMPUTER"
+      },
+      "aliases": [
+        "Special Face Plate 6"
+      ]
+    },
+    {
+      "part_id": "special_face_plate_7",
+      "display_name": "Special Face Plate 7",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CENTER CONSOLE & COMPUTER"
+      },
+      "aliases": [
+        "Special Face Plate 7"
+      ]
+    },
+    {
+      "part_id": "arm_rest",
+      "display_name": "Arm Rest",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CENTER CONSOLE & COMPUTER"
+      },
+      "aliases": [
+        "Arm Rest"
+      ]
+    },
+    {
+      "part_id": "motion_attachment",
+      "display_name": "Motion Attachment",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CENTER CONSOLE & COMPUTER"
+      },
+      "aliases": [
+        "Motion Attachment"
+      ]
+    },
+    {
+      "part_id": "docking_station",
+      "display_name": "Docking Station",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CENTER CONSOLE & COMPUTER"
+      },
+      "aliases": [
+        "Docking Station"
+      ]
+    },
+    {
+      "part_id": "printer",
+      "display_name": "Printer",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PRINTER"
+      },
+      "aliases": [
+        "Printer"
+      ]
+    },
+    {
+      "part_id": "printer_mount",
+      "display_name": "Printer Mount",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PRINTER"
+      },
+      "aliases": [
+        "Printer Mount"
+      ]
+    },
+    {
+      "part_id": "printer_power",
+      "display_name": "Printer Power",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PRINTER"
+      },
+      "aliases": [
+        "Printer Power"
+      ]
+    },
+    {
+      "part_id": "printer_usb",
+      "display_name": "Printer USB",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PRINTER"
+      },
+      "aliases": [
+        "Printer USB"
+      ]
+    },
+    {
+      "part_id": "12v_aux_ports",
+      "display_name": "12v Aux Ports",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PRINTER"
+      },
+      "aliases": [
+        "12v Aux Ports"
+      ]
+    },
+    {
+      "part_id": "camera_dvr",
+      "display_name": "Camera DVR",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CAMERAS & DVR"
+      },
+      "aliases": [
+        "Camera DVR"
+      ]
+    },
+    {
+      "part_id": "front_camera",
+      "display_name": "Front Camera",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CAMERAS & DVR"
+      },
+      "aliases": [
+        "Front Camera"
+      ]
+    },
+    {
+      "part_id": "body_camera_dock",
+      "display_name": "Body Camera Dock",
+      "category": "vehicle_system",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CAMERAS & DVR"
+      },
+      "aliases": [
+        "Body Camera Dock"
+      ]
+    },
+    {
+      "part_id": "rear_seat_camera",
+      "display_name": "Rear Seat Camera",
+      "category": "vehicle_system",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CAMERAS & DVR"
+      },
+      "aliases": [
+        "Rear Seat Camera"
+      ]
+    },
+    {
+      "part_id": "rear_camera",
+      "display_name": "Rear Camera",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CAMERAS & DVR"
+      },
+      "aliases": [
+        "Rear Camera"
+      ]
+    },
+    {
+      "part_id": "wireless_mic_charger",
+      "display_name": "Wireless Mic Charger",
+      "category": "vehicle_system",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CAMERAS & DVR"
+      },
+      "aliases": [
+        "Wireless Mic Charger"
+      ]
+    },
+    {
+      "part_id": "front_partition",
+      "display_name": "Front Partition",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PARTITIONS & PRISONER AREA"
+      },
+      "aliases": [
+        "Front Partition"
+      ]
+    },
+    {
+      "part_id": "chicago_barrier",
+      "display_name": "Chicago Barrier",
+      "category": "audio",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PARTITIONS & PRISONER AREA"
+      },
+      "aliases": [
+        "Chicago Barrier"
+      ]
+    },
+    {
+      "part_id": "front_partition_transfer_kit",
+      "display_name": "Front Partition Transfer Kit",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PARTITIONS & PRISONER AREA"
+      },
+      "aliases": [
+        "Front Partition Transfer Kit"
+      ]
+    },
+    {
+      "part_id": "rear_seat_lights_1",
+      "display_name": "Rear Seat Lights 1",
+      "category": "audio",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PARTITIONS & PRISONER AREA"
+      },
+      "aliases": [
+        "Rear Seat Lights 1"
+      ]
+    },
+    {
+      "part_id": "rear_seat_lights_2",
+      "display_name": "Rear Seat Lights 2",
+      "category": "audio",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PARTITIONS & PRISONER AREA"
+      },
+      "aliases": [
+        "Rear Seat Lights 2"
+      ]
+    },
+    {
+      "part_id": "rear_seat_cargo_lights",
+      "display_name": "Rear Seat Cargo Lights",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PARTITIONS & PRISONER AREA"
+      },
+      "aliases": [
+        "Rear Seat Cargo Lights"
+      ]
+    },
+    {
+      "part_id": "rear_seat_divider",
+      "display_name": "Rear Seat Divider",
+      "category": "audio",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PARTITIONS & PRISONER AREA"
+      },
+      "aliases": [
+        "Rear Seat Divider"
+      ]
+    },
+    {
+      "part_id": "rear_window_bars",
+      "display_name": "Rear Window Bars",
+      "category": "audio",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PARTITIONS & PRISONER AREA"
+      },
+      "aliases": [
+        "Rear Window Bars"
+      ]
+    },
+    {
+      "part_id": "replacement_rear_seat",
+      "display_name": "Replacement Rear Seat",
+      "category": "audio",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PARTITIONS & PRISONER AREA"
+      },
+      "aliases": [
+        "Replacement Rear Seat"
+      ]
+    },
+    {
+      "part_id": "rear_partition",
+      "display_name": "Rear Partition",
+      "category": "audio",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PARTITIONS & PRISONER AREA"
+      },
+      "aliases": [
+        "Rear Partition"
+      ]
+    },
+    {
+      "part_id": "floor_pan",
+      "display_name": "Floor Pan",
+      "category": "audio",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "PARTITIONS & PRISONER AREA"
+      },
+      "aliases": [
+        "Floor Pan"
+      ]
+    },
+    {
+      "part_id": "bullet_proof_door_panel_s",
+      "display_name": "Bullet Proof Door Panel(s)",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "ARMOR & PROTECTION"
+      },
+      "aliases": [
+        "Bullet Proof Door Panel(s)"
+      ]
+    },
+    {
+      "part_id": "bullet_proof_door_window_s",
+      "display_name": "Bullet Proof Door Window(s)",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "ARMOR & PROTECTION"
+      },
+      "aliases": [
+        "Bullet Proof Door Window(s)"
+      ]
+    },
+    {
+      "part_id": "storage_compartment",
+      "display_name": "Storage Compartment",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CARGO & STORAGE"
+      },
+      "aliases": [
+        "Storage Compartment"
+      ]
+    },
+    {
+      "part_id": "cargo_lighting",
+      "display_name": "Cargo Lighting",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CARGO & STORAGE"
+      },
+      "aliases": [
+        "Cargo Lighting"
+      ]
+    },
+    {
+      "part_id": "door_lock_button",
+      "display_name": "Door Lock Button",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CARGO & STORAGE"
+      },
+      "aliases": [
+        "Door Lock Button"
+      ]
+    },
+    {
+      "part_id": "equipment_tray",
+      "display_name": "Equipment Tray",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CARGO & STORAGE"
+      },
+      "aliases": [
+        "Equipment Tray"
+      ]
+    },
+    {
+      "part_id": "gunlock_1",
+      "display_name": "Gunlock 1",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "GUNLOCKS"
+      },
+      "aliases": [
+        "Gunlock 1"
+      ]
+    },
+    {
+      "part_id": "gunlock_bracket_1",
+      "display_name": "Gunlock Bracket 1",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "GUNLOCKS"
+      },
+      "aliases": [
+        "Gunlock Bracket 1"
+      ]
+    },
+    {
+      "part_id": "gunlock_2",
+      "display_name": "Gunlock 2",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "GUNLOCKS"
+      },
+      "aliases": [
+        "Gunlock 2"
+      ]
+    },
+    {
+      "part_id": "gunlock_bracket_2",
+      "display_name": "Gunlock Bracket 2",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "GUNLOCKS"
+      },
+      "aliases": [
+        "Gunlock Bracket 2"
+      ]
+    },
+    {
+      "part_id": "gunlock_3",
+      "display_name": "Gunlock 3",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "GUNLOCKS"
+      },
+      "aliases": [
+        "Gunlock 3"
+      ]
+    },
+    {
+      "part_id": "gunlock_bracket_3",
+      "display_name": "Gunlock Bracket 3",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "GUNLOCKS"
+      },
+      "aliases": [
+        "Gunlock Bracket 3"
+      ]
+    },
+    {
+      "part_id": "k_9_kennel",
+      "display_name": "K-9 Kennel",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "K-9 EQUIPMENT"
+      },
+      "aliases": [
+        "K-9 Kennel"
+      ]
+    },
+    {
+      "part_id": "k_9_heat_alarm_popper",
+      "display_name": "K-9 Heat Alarm/Popper",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "K-9 EQUIPMENT"
+      },
+      "aliases": [
+        "K-9 Heat Alarm/Popper"
+      ]
+    },
+    {
+      "part_id": "k_9_control_head",
+      "display_name": "K-9 Control Head",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "K-9 EQUIPMENT"
+      },
+      "aliases": [
+        "K-9 Control Head"
+      ]
+    },
+    {
+      "part_id": "k_9_add_ons",
+      "display_name": "K-9 Add-Ons",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "K-9 EQUIPMENT"
+      },
+      "aliases": [
+        "K-9 Add-Ons"
+      ]
+    },
+    {
+      "part_id": "battery_tender",
+      "display_name": "Battery Tender",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "ELECTRICAL & POWER"
+      },
+      "aliases": [
+        "Battery Tender"
+      ]
+    },
+    {
+      "part_id": "auto_eject",
+      "display_name": "Auto Eject",
+      "category": "equipment",
+      "render_kind": "equipment",
+      "diagram": true,
+      "default_views": [
+        "side"
+      ],
+      "render_quantity_policy": "location_slots",
+      "conditions": {
+        "template_section": "ELECTRICAL & POWER"
+      },
+      "aliases": [
+        "Auto Eject"
+      ]
+    },
+    {
+      "part_id": "vehicle_to_vehicle_sync",
+      "display_name": "Vehicle to Vehicle Sync",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CONNECTED SYSTEMS"
+      },
+      "aliases": [
+        "Vehicle to Vehicle Sync"
+      ]
+    },
+    {
+      "part_id": "cloud_system",
+      "display_name": "Cloud System",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CONNECTED SYSTEMS"
+      },
+      "aliases": [
+        "Cloud System"
+      ]
+    },
+    {
+      "part_id": "remote_start",
+      "display_name": "Remote Start",
+      "category": "vehicle_system",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "CONNECTED SYSTEMS"
+      },
+      "aliases": [
+        "Remote Start"
+      ]
+    },
+    {
+      "part_id": "arges",
+      "display_name": "Arges",
+      "category": "equipment",
+      "render_kind": "equipment",
+      "diagram": true,
+      "default_views": [
+        "front",
+        "side"
+      ],
+      "render_quantity_policy": "location_slots",
+      "conditions": {
+        "template_section": "ARGES & SPOTLIGHT"
+      },
+      "aliases": [
+        "Arges"
+      ],
+      "size_per_view": {
+        "front": {
+          "w": 0.39,
+          "h": 0.7
+        },
+        "side": {
+          "w": 0.23,
+          "h": 0.41
+        }
+      },
+      "co_part_rules": []
+    },
+    {
+      "part_id": "arges_controller",
+      "display_name": "Arges Controller",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "ARGES & SPOTLIGHT"
+      },
+      "aliases": [
+        "Arges Controller"
+      ]
+    },
+    {
+      "part_id": "arges_mount",
+      "display_name": "Arges Mount",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "ARGES & SPOTLIGHT"
+      },
+      "aliases": [
+        "Arges Mount"
+      ]
+    },
+    {
+      "part_id": "photo_eye",
+      "display_name": "Photo Eye",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "ARGES & SPOTLIGHT"
+      },
+      "aliases": [
+        "Photo Eye"
+      ]
+    },
+    {
+      "part_id": "gpd_w_extention",
+      "display_name": "GPD W/ Extension",
+      "category": "equipment_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "ARGES & SPOTLIGHT"
+      },
+      "aliases": [
+        "GPD W/ Extension"
+      ]
+    },
+    {
+      "part_id": "floor_mats",
+      "display_name": "Floor Mats",
+      "category": "appearance_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "FINISHING & ACCESSORIES"
+      },
+      "aliases": [
+        "Floor Mats"
+      ]
+    },
+    {
+      "part_id": "seat_covers",
+      "display_name": "Seat Covers",
+      "category": "appearance_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "FINISHING & ACCESSORIES"
+      },
+      "aliases": [
+        "Seat Covers"
+      ]
+    },
+    {
+      "part_id": "window_tint",
+      "display_name": "Window Tint",
+      "category": "appearance_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "FINISHING & ACCESSORIES"
+      },
+      "aliases": [
+        "Window Tint"
+      ]
+    },
+    {
+      "part_id": "decals",
+      "display_name": "Decals",
+      "category": "appearance_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "FINISHING & ACCESSORIES"
+      },
+      "aliases": [
+        "Decals"
+      ]
+    },
+    {
+      "part_id": "harness",
+      "display_name": "Harness",
+      "category": "appearance_note",
+      "render_kind": "none",
+      "diagram": false,
+      "default_views": [],
+      "conditions": {
+        "template_section": "FINISHING & ACCESSORIES"
+      },
+      "aliases": [
+        "Harness"
+      ]
+    },
+    {
+      "part_id": "radio_speaker",
+      "display_name": "Radio Speaker 1",
+      "category": "equipment",
+      "render_kind": "equipment",
+      "diagram": false,
+      "default_views": [],
+      "render_quantity_policy": "single_per_line",
+      "asset_key": "radio_speaker",
+      "aliases": [
+        "Radio Speaker",
+        "Radio Speaker 1"
+      ],
+      "accessory_of": "Radio 1",
+      "co_part_rules": []
+    }
+  ],
+  "schema_version": 1
+}
