@@ -11,6 +11,22 @@
     "Patrol"
   ],
   "tag": "",
-  "parts": [],
+  "parts": [
+    {
+      "name": "New Part",
+      "include": true,
+      "manufacturer": "",
+      "part_number": "",
+      "location": "",
+      "raw_color": "",
+      "quantity": 0,
+      "lens": "",
+      "notes": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": ""
+    }
+  ],
   "placement_overrides": {}
 }
