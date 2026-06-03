@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "preset_id": "metro_pd_patrol_piu_87e545",
+  "label": "Metro PD Patrol PIU",
+  "description": "",
+  "vehicle_types": [
+    "PIU"
+  ],
+  "agency_ids": [
+    "ag1"
+  ],
+  "build_types": [
+    "Patrol"
+  ],
+  "tag": "ShouldBeIgnored",
+  "parts": [],
+  "placement_overrides": {}
+}
