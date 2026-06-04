@@ -39,16 +39,28 @@ logger = logging.getLogger("pickup")
 GRAPH = "https://graph.microsoft.com/v1.0"
 # v1 is the pre-Phase-2-β format with no `category`. v2 (Phase 2-β) adds
 # `category: "general" | "advanced"` which drives two-tier review behavior.
-SUPPORTED_SCHEMA_VERSIONS = {1, 2}
+# v3 (Phase 2 close) adds `action: "upsert" | "delete"` so per-record
+# entities (agencies, sales reps, presets) can be deleted through the same
+# PR pipeline that creates them.
+SUPPORTED_SCHEMA_VERSIONS = {1, 2, 3}
 
 # Categories accepted in the v2 schema. "general" → auto-merge after opening
 # the PR; "advanced" → leave the PR for owner review on github.com.
 KNOWN_CATEGORIES = {"general", "advanced"}
 
+# Actions accepted in v3. "upsert" writes new_content to target_file
+# (the original behavior). "delete" removes target_file from the repo;
+# publish-settings-on-merge then mirrors the absence to SharePoint.
+KNOWN_ACTIONS = {"upsert", "delete"}
+
 # Default category for v1 proposals (no `category` field). Advanced is the
 # safe choice — anything written under the old contract continues to require
 # manual review, exactly as it does today.
 DEFAULT_CATEGORY = "advanced"
+
+# Default action for v1/v2 proposals (no `action` field). Backward compat:
+# the original schema only supported writes.
+DEFAULT_ACTION = "upsert"
 
 # GitHub caps PR titles at 256 chars. Leaving headroom for the `[user] `
 # prefix while still keeping the title scannable.
@@ -160,11 +172,31 @@ def resolve_category(proposal: dict[str, Any]) -> str:
     return DEFAULT_CATEGORY
 
 
+def resolve_action(proposal: dict[str, Any]) -> str:
+    """Map the proposal payload's action onto a known value.
+
+    v1/v2 proposals (no field) default to upsert — backward compat with the
+    original write-only contract. Unknown actions also default to upsert so
+    a future schema doesn't accidentally delete files when the workflow
+    isn't ready to handle it.
+    """
+    raw = str(proposal.get("action", "")).strip().lower()
+    if raw in KNOWN_ACTIONS:
+        return raw
+    return DEFAULT_ACTION
+
+
 def validate(proposal: dict[str, Any]) -> str | None:
     version = proposal.get("schema_version")
     if version not in SUPPORTED_SCHEMA_VERSIONS:
         return f"unsupported schema_version: {version!r}"
-    for field in ("proposal_id", "target_file", "new_content", "summary", "submitted_by"):
+    action = resolve_action(proposal)
+    # new_content is required for upserts but ignored for deletes — the
+    # delete action only needs target_file + metadata.
+    required = ("proposal_id", "target_file", "summary", "submitted_by")
+    if action == "upsert":
+        required = required + ("new_content",)
+    for field in required:
         if not proposal.get(field):
             return f"missing required field: {field}"
     target_problem = _validate_target_file(proposal["target_file"])
@@ -211,6 +243,7 @@ def open_pr_for_proposal(
     submitted_by = proposal["submitted_by"]
     summary = proposal["summary"]
     category = resolve_category(proposal)
+    action = resolve_action(proposal)
     # PR title field has practical limits and breaks on newlines — use the
     # first line only, truncated to GitHub's effective ceiling. The full
     # multi-line summary still lands in the body.
@@ -227,13 +260,28 @@ def open_pr_for_proposal(
 
     # Fresh branch off the latest main — caller already fetched once per run.
     run(["git", "checkout", "-B", branch, f"origin/{main_branch}"])
-    target_path.parent.mkdir(parents=True, exist_ok=True)
-    # The schema says new_content is a string, but be forgiving — older or
-    # manually-authored proposals may carry a JSON object instead.
-    content = proposal["new_content"]
-    if not isinstance(content, str):
-        content = json.dumps(content, indent=2)
-    target_path.write_text(content, encoding="utf-8")
+
+    if action == "delete":
+        # Delete the target file from the repo. If it's already gone, no
+        # diff results and we treat this as a no-op (consume the proposal,
+        # don't open an empty PR).
+        if not target_path.exists():
+            logger.info(
+                "Delete proposal %s targets missing file %s — already absent, skipping PR",
+                proposal["proposal_id"], target_path,
+            )
+            return True
+        target_path.unlink()
+        run(["git", "add", "-u", str(target_path)])  # -u stages deletes
+    else:
+        target_path.parent.mkdir(parents=True, exist_ok=True)
+        # The schema says new_content is a string, but be forgiving — older
+        # or manually-authored proposals may carry a JSON object instead.
+        content = proposal["new_content"]
+        if not isinstance(content, str):
+            content = json.dumps(content, indent=2)
+        target_path.write_text(content, encoding="utf-8")
+        run(["git", "add", str(target_path)])
 
     diff = run(["git", "status", "--porcelain", str(target_path)], capture=True)
     if not diff:
@@ -241,7 +289,6 @@ def open_pr_for_proposal(
                     proposal["proposal_id"], target_path)
         return True  # still delete the source; nothing to do
 
-    run(["git", "add", str(target_path)])
     commit_msg = _build_commit_message(submitted_by, summary, proposal["proposal_id"])
     run(["git", "commit", "-m", commit_msg])
     run(["git", "push", "-u", "origin", branch])
@@ -251,6 +298,7 @@ def open_pr_for_proposal(
         f"**Email:** {proposal.get('submitted_by_email', '')}",
         f"**Submitted at:** {proposal.get('submitted_at', '')}",
         f"**Category:** {category}",
+        f"**Action:** {action}",
         f"**Proposal ID:** `{proposal['proposal_id']}`",
         "",
         "## Summary",

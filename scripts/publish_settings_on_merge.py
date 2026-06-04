@@ -63,7 +63,11 @@ def run(cmd: list[str]) -> str:
 
 
 def changed_files_under(subdir: str, merge_sha: str) -> list[Path]:
-    """List files under *subdir* changed by the merge commit *merge_sha*.
+    """List files under *subdir* whose content changed in the merge.
+
+    Excludes deletions — those are handled separately by
+    deleted_files_under() so we can run a Graph DELETE against SharePoint
+    instead of an upload.
 
     For a merge commit M with first parent P, ``git diff P M`` shows exactly
     the changes the merge introduced. For a fast-forward merge the merge SHA
@@ -78,9 +82,32 @@ def changed_files_under(subdir: str, merge_sha: str) -> list[Path]:
             continue
         path = Path(line)
         if not path.exists():
-            logger.info("Skipping deleted/renamed-away file: %s", line)
+            # Treated as a delete; deleted_files_under picks these up.
             continue
         out.append(path)
+    return out
+
+
+def deleted_files_under(subdir: str, merge_sha: str) -> list[Path]:
+    """List files under *subdir* that were REMOVED by the merge commit.
+
+    `git diff --name-only --diff-filter=D` returns paths that existed in
+    the first parent but not in the merge. Those are what we need to
+    mirror-delete on SharePoint /Settings/ so a pickup-workflow delete
+    proposal actually propagates to teammates.
+    """
+    raw = run([
+        "git", "diff", "--name-only", "--diff-filter=D",
+        f"{merge_sha}^", merge_sha,
+    ])
+    out: list[Path] = []
+    subdir_normalized = subdir.rstrip("/") + "/"
+    for line in raw.splitlines():
+        line = line.strip()
+        if not line.startswith(subdir_normalized):
+            continue
+        # Don't sanity-check existence — the file is supposed to be gone.
+        out.append(Path(line))
     return out
 
 
@@ -102,6 +129,22 @@ def remote_name_for(path: Path, subdir: str) -> str:
     sidecar uses the same relative path with ``.meta.json`` appended.
     """
     return path.relative_to(subdir).as_posix()
+
+
+def delete_remote(token: str, site_id: str, drive_id: str, remote_name: str) -> bool:
+    """DELETE a file under /Settings/ via Graph. Returns True on success,
+    True for 404 (already gone), False for other failures (logged)."""
+    encoded = urllib.parse.quote(remote_name, safe="/")
+    url = f"{GRAPH}/sites/{site_id}/drives/{drive_id}/root:/Settings/{encoded}"
+    resp = requests.delete(url, headers=graph_headers(token), timeout=30)
+    if resp.status_code == 404:
+        logger.info("Remote %s already absent — nothing to delete", remote_name)
+        return True
+    if not resp.ok:
+        logger.error("Failed to delete remote %s: HTTP %d", remote_name, resp.status_code)
+        return False
+    logger.info("Deleted remote %s", remote_name)
+    return True
 
 
 def upload(token: str, site_id: str, drive_id: str, remote_name: str, data: bytes) -> None:
@@ -154,12 +197,23 @@ def main() -> int:
     merge_sha = env("MERGE_SHA", required=False, default="")
 
     files = select_files(mode=mode, settings_subdir=settings_subdir, merge_sha=merge_sha)
-    if not files:
+    # Only diff mode tracks deletions — bulk-publish is a full re-upload that
+    # doesn't need to enumerate what's gone. Deletions on bulk mode would
+    # require listing /Settings/ + diffing against the repo, which is a more
+    # involved cleanup than we want a bulk run to perform.
+    deletions: list[Path] = []
+    if mode == "diff" and merge_sha:
+        deletions = deleted_files_under(settings_subdir, merge_sha)
+
+    if not files and not deletions:
         logger.info("Nothing to publish (mode=%s)", mode)
         return 0
 
     metadata = build_metadata(merge_sha=merge_sha, settings_subdir=settings_subdir)
-    logger.info("Publishing %d file(s) in mode=%s", len(files), mode)
+    logger.info(
+        "Publishing %d upload(s) and %d deletion(s) in mode=%s",
+        len(files), len(deletions), mode,
+    )
     failures = 0
 
     for path in files:
@@ -186,6 +240,21 @@ def main() -> int:
         except Exception:
             logger.exception("Failed to publish %s", path)
             failures += 1
+
+    # Mirror deletions: a merge that removed a file from resources/config/
+    # should also remove it from SharePoint /Settings/. Drop the sidecar
+    # in the same pass so Power Automate notifications don't reference a
+    # file that's no longer there.
+    for path in deletions:
+        remote_name = remote_name_for(path, settings_subdir)
+        if remote_name.endswith(".meta.json"):
+            continue
+        if not delete_remote(token, site_id, drive_id, remote_name):
+            failures += 1
+            continue
+        # Best-effort sidecar cleanup; ignore failures so a missing sidecar
+        # doesn't fail the whole publish.
+        delete_remote(token, site_id, drive_id, f"{remote_name}.meta.json")
 
     return 1 if failures else 0
 
