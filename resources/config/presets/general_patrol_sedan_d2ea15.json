@@ -1,0 +1,21 @@
+{
+  "schema_version": 2,
+  "preset_id": "general_patrol_sedan_d2ea15",
+  "label": "General Patrol Sedan",
+  "description": "",
+  "vehicle_types": [
+    "Sedan"
+  ],
+  "agency_ids": [],
+  "build_types": [
+    "Patrol"
+  ],
+  "tag": "",
+  "parts": [],
+  "placement_overrides": {
+    "key1": {
+      "dx": 0.05,
+      "dy": -0.1
+    }
+  }
+}
