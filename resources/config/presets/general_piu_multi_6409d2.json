@@ -1,0 +1,17 @@
+{
+  "schema_version": 2,
+  "preset_id": "general_piu_multi_6409d2",
+  "label": "General PIU \u2014 Multi",
+  "description": "",
+  "vehicle_types": [
+    "PIU"
+  ],
+  "agency_ids": [],
+  "build_types": [
+    "Patrol",
+    "Admin"
+  ],
+  "tag": "Multi",
+  "parts": [],
+  "placement_overrides": {}
+}
