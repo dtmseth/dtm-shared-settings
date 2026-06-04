@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "preset_id": "general_test_cfc7dc",
+  "label": "General \u2014 Test",
+  "description": "",
+  "vehicle_types": [],
+  "agency_ids": [],
+  "build_types": [],
+  "tag": "Test",
+  "parts": [],
+  "placement_overrides": {
+    "x": 1
+  }
+}
