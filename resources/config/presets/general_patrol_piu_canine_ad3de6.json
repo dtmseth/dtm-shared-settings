@@ -1,0 +1,16 @@
+{
+  "schema_version": 2,
+  "preset_id": "general_patrol_piu_canine_ad3de6",
+  "label": "General Patrol PIU \u2014 Canine",
+  "description": "",
+  "vehicle_types": [
+    "PIU"
+  ],
+  "agency_ids": [],
+  "build_types": [
+    "Patrol"
+  ],
+  "tag": "Canine",
+  "parts": [],
+  "placement_overrides": {}
+}
