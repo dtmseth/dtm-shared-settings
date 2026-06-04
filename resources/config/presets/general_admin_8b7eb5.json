@@ -1,0 +1,14 @@
+{
+  "schema_version": 2,
+  "preset_id": "general_admin_8b7eb5",
+  "label": "General Admin",
+  "description": "",
+  "vehicle_types": [],
+  "agency_ids": [],
+  "build_types": [
+    "Admin"
+  ],
+  "tag": "",
+  "parts": [],
+  "placement_overrides": {}
+}
