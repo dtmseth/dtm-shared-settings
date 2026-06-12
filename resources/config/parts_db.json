@@ -1,26 +1,4957 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-12T17:00:00Z",
-    "updated_by": "smoke-test"
+    "last_updated": "2026-06-11T00:00:00Z",
+    "updated_by": "migrate_workbook_to_parts_db.py"
   },
-  "types": {},
-  "sections": {},
-  "zones": {},
-  "sub_zones": {},
-  "build_attributes": {},
-  "tags": {
-    "test_tag": {
-      "label": "Test Tag"
+  "types": {
+    "extras": {
+      "label": "Extras"
+    },
+    "structural": {
+      "label": "Structural"
+    },
+    "equipment": {
+      "label": "Equipment"
+    },
+    "lights": {
+      "label": "Lights"
+    },
+    "k9": {
+      "label": "K-9",
+      "requires_attribute": "has_k9"
     }
   },
-  "manufacturers": {},
-  "products": {},
-  "part_types": {},
-  "placements": {},
-  "placement_zones": {},
-  "services": {},
-  "preference_filters": {},
-  "color_palette": {},
-  "naming_rules": {}
+  "sections": {
+    "exterior": {
+      "label": "Exterior"
+    },
+    "interior": {
+      "label": "Interior"
+    }
+  },
+  "zones": {
+    "front": {
+      "label": "Front",
+      "section": "exterior"
+    },
+    "rear": {
+      "label": "Rear",
+      "section": "exterior"
+    },
+    "side": {
+      "label": "Side",
+      "section": "exterior"
+    },
+    "roof": {
+      "label": "Roof",
+      "section": "exterior"
+    },
+    "forward_of_cage": {
+      "label": "Forward of Cage",
+      "section": "interior"
+    },
+    "prisoner_area": {
+      "label": "Prisoner Area",
+      "section": "interior",
+      "requires_attribute": "has_prisoner_compartment"
+    },
+    "side_storage": {
+      "label": "Side Storage",
+      "section": "interior",
+      "requires_attribute": "has_side_storage"
+    },
+    "rear_storage_area": {
+      "label": "Rear Storage Area",
+      "section": "interior"
+    }
+  },
+  "sub_zones": {
+    "console": {
+      "label": "Console",
+      "zone": "forward_of_cage",
+      "requires_attribute": "has_console"
+    },
+    "equipment_tray": {
+      "label": "Equipment Tray",
+      "zone": "rear_storage_area",
+      "requires_attribute": "has_equipment_tray"
+    }
+  },
+  "build_attributes": {
+    "has_k9": {
+      "label": "K-9 Vehicle",
+      "default_by_build_type": {
+        "K-9": true
+      }
+    },
+    "has_prisoner_compartment": {
+      "label": "Has Prisoner Compartment",
+      "default_by_build_type": {
+        "Patrol": true,
+        "K-9": false,
+        "Admin": false,
+        "Unmarked": true
+      }
+    },
+    "has_side_storage": {
+      "label": "Has Side Storage",
+      "default_by_build_type": {}
+    },
+    "has_console": {
+      "label": "Has Console",
+      "default_by_build_type": {
+        "Patrol": true,
+        "K-9": true,
+        "Admin": true,
+        "Unmarked": true
+      }
+    },
+    "has_equipment_tray": {
+      "label": "Has Equipment Tray",
+      "default_by_build_type": {
+        "Patrol": true,
+        "K-9": true,
+        "Admin": false,
+        "Unmarked": true
+      }
+    }
+  },
+  "tags": {
+    "camera": {
+      "label": "Camera"
+    },
+    "radar": {
+      "label": "Radar"
+    },
+    "siren": {
+      "label": "Siren"
+    },
+    "comms": {
+      "label": "Communications"
+    }
+  },
+  "manufacturers": {
+    "10_8": {
+      "label": "10-8"
+    },
+    "1st_in_emergency": {
+      "label": "1St In Emergency"
+    },
+    "3m": {
+      "label": "3M"
+    },
+    "5_0_fab_dtm": {
+      "label": "5-0 Fab (Dtm)"
+    },
+    "ace_k_9": {
+      "label": "Ace K-9"
+    },
+    "advanced_graphics": {
+      "label": "Advanced Graphics"
+    },
+    "american_aluminum": {
+      "label": "American Aluminum"
+    },
+    "angel_armor": {
+      "label": "Angel Armor"
+    },
+    "arcti_start": {
+      "label": "Arcti Start"
+    },
+    "axon": {
+      "label": "Axon"
+    },
+    "battery_tender": {
+      "label": "Battery Tender"
+    },
+    "bearded_3d": {
+      "label": "Bearded 3D"
+    },
+    "blac_rac": {
+      "label": "Blac-Rac"
+    },
+    "brother": {
+      "label": "Brother"
+    },
+    "clear_armor": {
+      "label": "Clear Armor"
+    },
+    "cradle_point": {
+      "label": "Cradle Point"
+    },
+    "decked": {
+      "label": "Decked"
+    },
+    "feniex": {
+      "label": "Feniex"
+    },
+    "gamber_johnson": {
+      "label": "Gamber Johnson"
+    },
+    "globesat": {
+      "label": "Globesat"
+    },
+    "gtt": {
+      "label": "Gtt"
+    },
+    "havis": {
+      "label": "Havis"
+    },
+    "husky": {
+      "label": "Husky"
+    },
+    "kenwood": {
+      "label": "Kenwood"
+    },
+    "kussmaul": {
+      "label": "Kussmaul"
+    },
+    "magnetic_mic": {
+      "label": "Magnetic Mic"
+    },
+    "motorola": {
+      "label": "Motorola"
+    },
+    "night_ride": {
+      "label": "Night Ride"
+    },
+    "nova": {
+      "label": "Nova"
+    },
+    "patrol_pc": {
+      "label": "Patrol Pc"
+    },
+    "preimer_k_9": {
+      "label": "Preimer K-9"
+    },
+    "pro_gard": {
+      "label": "Pro-Gard"
+    },
+    "ray_allen": {
+      "label": "Ray Allen"
+    },
+    "rockland_cabinets": {
+      "label": "Rockland Cabinets"
+    },
+    "santa_cruz": {
+      "label": "Santa Cruz"
+    },
+    "schumacher": {
+      "label": "Schumacher"
+    },
+    "setina": {
+      "label": "Setina"
+    },
+    "sho_me": {
+      "label": "Sho-Me"
+    },
+    "sierra_wireless": {
+      "label": "Sierra Wireless"
+    },
+    "soundoff": {
+      "label": "Soundoff"
+    },
+    "stalker": {
+      "label": "Stalker"
+    },
+    "tiger_tough": {
+      "label": "Tiger Tough"
+    },
+    "troy": {
+      "label": "Troy"
+    },
+    "truck_vault": {
+      "label": "Truck Vault"
+    },
+    "watchguard": {
+      "label": "Watchguard"
+    },
+    "weather_tech": {
+      "label": "Weather Tech"
+    },
+    "westin": {
+      "label": "Westin"
+    },
+    "whelen": {
+      "label": "Whelen"
+    }
+  },
+  "products": {
+    "setina_pb400": {
+      "manufacturer_id": "setina",
+      "model": "PB400",
+      "fits_part_types": [
+        "push_bumper"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PB400"
+        }
+      ]
+    },
+    "setina_pb450l": {
+      "manufacturer_id": "setina",
+      "model": "PB450L",
+      "fits_part_types": [
+        "push_bumper"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PB450L"
+        }
+      ]
+    },
+    "pro_gard_hdx": {
+      "manufacturer_id": "pro_gard",
+      "model": "HDX",
+      "fits_part_types": [
+        "push_bumper"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "HDX"
+        }
+      ]
+    },
+    "stalker_specify_model": {
+      "manufacturer_id": "stalker",
+      "model": "SPECIFY MODEL",
+      "fits_part_types": [
+        "push_bumper",
+        "pit_bar",
+        "wing_wraps",
+        "forward_warning",
+        "front_side_warning",
+        "front_side_bracket",
+        "pit_bar_warning",
+        "headlight_flasher",
+        "front_scene",
+        "siren_speaker",
+        "external_amp",
+        "howler",
+        "front_dome_light",
+        "cradle_point",
+        "cloud_antenna",
+        "mirror_warning",
+        "front_interior_light_bar",
+        "side_warning",
+        "rear_interior_light_bar",
+        "rear_warning",
+        "rear_scene",
+        "lower_liftgate_warning",
+        "lower_liftgate_warning_bracket",
+        "tail_light_flasher",
+        "radar_display_unit",
+        "front_radar_antenna_mount",
+        "rear_radar_antenna_mount",
+        "thermal_imager",
+        "thermal_imager_monitor",
+        "light_controller",
+        "control_head",
+        "vehicle_interface",
+        "expansion_module",
+        "radio_head",
+        "console",
+        "special_face_plate",
+        "arm_rest",
+        "motion_attachment",
+        "printer",
+        "printer_mount",
+        "aux_12v_ports",
+        "camera_dvr",
+        "front_partition",
+        "chicago_barrier",
+        "rear_seat_lights",
+        "rear_seat_cargo_lights",
+        "rear_seat_divider",
+        "rear_window_bars",
+        "replacement_rear_seat",
+        "rear_partition",
+        "bullet_proof_door_panel",
+        "bullet_proof_door_window",
+        "cargo_lighting",
+        "equipment_tray",
+        "gun_lock",
+        "gun_lock_bracket",
+        "k9_kennel",
+        "k9_heat_alarm_popper",
+        "auto_eject",
+        "cloud_system_tray",
+        "arges_face",
+        "arges_controller",
+        "arges_mount",
+        "floor_mats",
+        "seat_covers",
+        "window_tint",
+        "harness"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SPECIFY MODEL"
+        }
+      ]
+    },
+    "westin_pit_bars": {
+      "manufacturer_id": "westin",
+      "model": "PIT BARS",
+      "fits_part_types": [
+        "pit_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PIT BARS"
+        }
+      ]
+    },
+    "setina_pb5": {
+      "manufacturer_id": "setina",
+      "model": "PB5",
+      "fits_part_types": [
+        "pit_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PB5"
+        }
+      ]
+    },
+    "setina_pb9": {
+      "manufacturer_id": "setina",
+      "model": "PB9",
+      "fits_part_types": [
+        "pit_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PB9"
+        }
+      ]
+    },
+    "setina_pb10": {
+      "manufacturer_id": "setina",
+      "model": "PB10",
+      "fits_part_types": [
+        "pit_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PB10"
+        }
+      ]
+    },
+    "westin_wing_wraps": {
+      "manufacturer_id": "westin",
+      "model": "WING WRAPS",
+      "fits_part_types": [
+        "wing_wraps"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WING WRAPS"
+        }
+      ]
+    },
+    "setina_pb6": {
+      "manufacturer_id": "setina",
+      "model": "PB6",
+      "fits_part_types": [
+        "wing_wraps"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PB6"
+        }
+      ]
+    },
+    "setina_pb8": {
+      "manufacturer_id": "setina",
+      "model": "PB8",
+      "fits_part_types": [
+        "wing_wraps"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PB8"
+        }
+      ]
+    },
+    "whelen_ion": {
+      "manufacturer_id": "whelen",
+      "model": "ION",
+      "fits_part_types": [
+        "forward_warning",
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ION"
+        }
+      ]
+    },
+    "whelen_t_ion": {
+      "manufacturer_id": "whelen",
+      "model": "T-ION",
+      "fits_part_types": [
+        "forward_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "T-ION"
+        }
+      ]
+    },
+    "whelen_2_lamp_tracer": {
+      "manufacturer_id": "whelen",
+      "model": "2 LAMP TRACER",
+      "fits_part_types": [
+        "forward_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "2 LAMP TRACER"
+        }
+      ]
+    },
+    "soundoff_nforce": {
+      "manufacturer_id": "soundoff",
+      "model": "NFORCE",
+      "fits_part_types": [
+        "forward_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "NFORCE"
+        }
+      ]
+    },
+    "soundoff_mpower": {
+      "manufacturer_id": "soundoff",
+      "model": "MPOWER",
+      "fits_part_types": [
+        "forward_warning",
+        "front_side_warning",
+        "pit_bar_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "MPOWER"
+        }
+      ]
+    },
+    "whelen_vxe": {
+      "manufacturer_id": "whelen",
+      "model": "VXE",
+      "fits_part_types": [
+        "forward_warning",
+        "front_side_warning",
+        "pit_bar_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "VXE"
+        }
+      ]
+    },
+    "westin_westin_2_light_tube": {
+      "manufacturer_id": "westin",
+      "model": "WESTIN 2 LIGHT TUBE",
+      "fits_part_types": [
+        "fw_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WESTIN 2 LIGHT TUBE"
+        }
+      ]
+    },
+    "westin_westin_4_light_tube": {
+      "manufacturer_id": "westin",
+      "model": "WESTIN 4 LIGHT TUBE",
+      "fits_part_types": [
+        "fw_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WESTIN 4 LIGHT TUBE"
+        }
+      ]
+    },
+    "whelen_tracer_l_brackets_x2_per": {
+      "manufacturer_id": "whelen",
+      "model": "TRACER L BRACKETS X2 PER",
+      "fits_part_types": [
+        "fw_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TRACER L BRACKETS X2 PER"
+        }
+      ]
+    },
+    "dtm_universal_grill_bracket": {
+      "manufacturer_id": "dtm",
+      "model": "UNIVERSAL GRILL BRACKET",
+      "fits_part_types": [
+        "fw_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "UNIVERSAL GRILL BRACKET"
+        }
+      ]
+    },
+    "whelen_surface_mount_ion": {
+      "manufacturer_id": "whelen",
+      "model": "SURFACE MOUNT ION",
+      "fits_part_types": [
+        "front_side_warning",
+        "pit_bar_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SURFACE MOUNT ION"
+        }
+      ]
+    },
+    "whelen_standard_mount_ion": {
+      "manufacturer_id": "whelen",
+      "model": "STANDARD MOUNT ION",
+      "fits_part_types": [
+        "front_side_warning",
+        "pit_bar_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "STANDARD MOUNT ION"
+        }
+      ]
+    },
+    "whelen_t_series_ion": {
+      "manufacturer_id": "whelen",
+      "model": "T-SERIES ION",
+      "fits_part_types": [
+        "front_side_warning",
+        "pit_bar_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "T-SERIES ION"
+        }
+      ]
+    },
+    "soundoff_n_force": {
+      "manufacturer_id": "soundoff",
+      "model": "N-FORCE",
+      "fits_part_types": [
+        "front_side_warning",
+        "pit_bar_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "N-FORCE"
+        }
+      ]
+    },
+    "whelen_vertex": {
+      "manufacturer_id": "whelen",
+      "model": "VERTEX",
+      "fits_part_types": [
+        "front_side_warning",
+        "pit_bar_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "VERTEX"
+        }
+      ]
+    },
+    "soundoff_m4": {
+      "manufacturer_id": "soundoff",
+      "model": "M4",
+      "fits_part_types": [
+        "front_side_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "M4"
+        }
+      ]
+    },
+    "whelen_field_series": {
+      "manufacturer_id": "whelen",
+      "model": "FIELD SERIES",
+      "fits_part_types": [
+        "front_scene",
+        "rear_scene"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FIELD SERIES"
+        }
+      ]
+    },
+    "whelen_pioneer": {
+      "manufacturer_id": "whelen",
+      "model": "PIONEER",
+      "fits_part_types": [
+        "front_scene",
+        "rear_scene"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PIONEER"
+        }
+      ]
+    },
+    "whelen_sa315p": {
+      "manufacturer_id": "whelen",
+      "model": "SA315P",
+      "fits_part_types": [
+        "siren_speaker"
+      ],
+      "tag_ids": [
+        "siren"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SA315P"
+        }
+      ]
+    },
+    "whelen_sa315u": {
+      "manufacturer_id": "whelen",
+      "model": "SA315U",
+      "fits_part_types": [
+        "siren_speaker"
+      ],
+      "tag_ids": [
+        "siren"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SA315U"
+        }
+      ]
+    },
+    "whelen_sak1": {
+      "manufacturer_id": "whelen",
+      "model": "SAK1",
+      "fits_part_types": [
+        "siren_speaker_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SAK1"
+        }
+      ]
+    },
+    "whelen_sak9": {
+      "manufacturer_id": "whelen",
+      "model": "SAK9",
+      "fits_part_types": [
+        "siren_speaker_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SAK9"
+        }
+      ]
+    },
+    "stalker_vehicle_specific_bracket": {
+      "manufacturer_id": "stalker",
+      "model": "VEHICLE SPECIFIC BRACKET",
+      "fits_part_types": [
+        "siren_speaker_bracket",
+        "front_radar_antenna_mount",
+        "rear_radar_antenna_mount"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "VEHICLE SPECIFIC BRACKET"
+        }
+      ]
+    },
+    "whelen_wcx_howler": {
+      "manufacturer_id": "whelen",
+      "model": "WCX HOWLER",
+      "fits_part_types": [
+        "howler"
+      ],
+      "tag_ids": [
+        "siren"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WCX HOWLER"
+        }
+      ]
+    },
+    "whelen_wc_howler": {
+      "manufacturer_id": "whelen",
+      "model": "WC HOWLER",
+      "fits_part_types": [
+        "howler"
+      ],
+      "tag_ids": [
+        "siren"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WC HOWLER"
+        }
+      ]
+    },
+    "whelen_lc_howler": {
+      "manufacturer_id": "whelen",
+      "model": "LC HOWLER",
+      "fits_part_types": [
+        "howler"
+      ],
+      "tag_ids": [
+        "siren"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "LC HOWLER"
+        }
+      ]
+    },
+    "specify_3_round_s": {
+      "manufacturer_id": "specify",
+      "model": "3\"\" ROUND(S)",
+      "fits_part_types": [
+        "front_dome_light"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "3\"\" ROUND(S)"
+        }
+      ]
+    },
+    "specify_6_round": {
+      "manufacturer_id": "specify",
+      "model": "6\"\" ROUND",
+      "fits_part_types": [
+        "front_dome_light",
+        "rear_seat_cargo_lights",
+        "cargo_lighting"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "6\"\" ROUND"
+        }
+      ]
+    },
+    "cradle_point_roof_mount": {
+      "manufacturer_id": "cradle_point",
+      "model": "ROOF MOUNT",
+      "fits_part_types": [
+        "cloud_antenna"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ROOF MOUNT"
+        }
+      ]
+    },
+    "cradle_point_window_mount": {
+      "manufacturer_id": "cradle_point",
+      "model": "WINDOW MOUNT",
+      "fits_part_types": [
+        "cloud_antenna",
+        "radio_antenna_top"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WINDOW MOUNT"
+        }
+      ]
+    },
+    "whelen_u_series": {
+      "manufacturer_id": "whelen",
+      "model": "U-SERIES",
+      "fits_part_types": [
+        "mirror_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "U-SERIES"
+        }
+      ]
+    },
+    "whelen_mirror_beams": {
+      "manufacturer_id": "whelen",
+      "model": "MIRROR BEAMS",
+      "fits_part_types": [
+        "mirror_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "MIRROR BEAMS"
+        }
+      ]
+    },
+    "whelen_intersectors": {
+      "manufacturer_id": "whelen",
+      "model": "INTERSECTORS",
+      "fits_part_types": [
+        "mirror_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "INTERSECTORS"
+        }
+      ]
+    },
+    "whelen_fst": {
+      "manufacturer_id": "whelen",
+      "model": "FST",
+      "fits_part_types": [
+        "front_interior_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FST"
+        }
+      ]
+    },
+    "whelen_xlp": {
+      "manufacturer_id": "whelen",
+      "model": "XLP",
+      "fits_part_types": [
+        "front_interior_light_bar",
+        "rear_interior_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "XLP"
+        }
+      ]
+    },
+    "federal_signal_avenger_x1": {
+      "manufacturer_id": "federal_signal",
+      "model": "AVENGER X1",
+      "fits_part_types": [
+        "front_interior_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "AVENGER X1"
+        }
+      ]
+    },
+    "federal_signal_avenger_x2": {
+      "manufacturer_id": "federal_signal",
+      "model": "AVENGER X2",
+      "fits_part_types": [
+        "front_interior_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "AVENGER X2"
+        }
+      ]
+    },
+    "whelen_t_ions_w_shorud": {
+      "manufacturer_id": "whelen",
+      "model": "T-IONS W/SHORUD",
+      "fits_part_types": [
+        "front_interior_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "T-IONS W/SHORUD"
+        }
+      ]
+    },
+    "whelen_t_series": {
+      "manufacturer_id": "whelen",
+      "model": "T-SERIES",
+      "fits_part_types": [
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning",
+        "rear_seat_cargo_lights",
+        "cargo_lighting"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "T-SERIES"
+        }
+      ]
+    },
+    "whelen_mega_t_series": {
+      "manufacturer_id": "whelen",
+      "model": "MEGA T-SERIES",
+      "fits_part_types": [
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning",
+        "rear_seat_cargo_lights",
+        "cargo_lighting"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "MEGA T-SERIES"
+        }
+      ]
+    },
+    "whelen_mini_t_series": {
+      "manufacturer_id": "whelen",
+      "model": "MINI T-SERIES",
+      "fits_part_types": [
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "MINI T-SERIES"
+        }
+      ]
+    },
+    "soundoff_m_power": {
+      "manufacturer_id": "soundoff",
+      "model": "M-POWER",
+      "fits_part_types": [
+        "side_warning",
+        "roof_light_bar",
+        "rear_warning",
+        "lower_liftgate_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "M-POWER"
+        }
+      ]
+    },
+    "whelen_tracer_5_lamp": {
+      "manufacturer_id": "whelen",
+      "model": "TRACER 5 LAMP",
+      "fits_part_types": [
+        "side_warning",
+        "rear_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TRACER 5 LAMP"
+        }
+      ]
+    },
+    "whelen_tracer_6_lamp": {
+      "manufacturer_id": "whelen",
+      "model": "TRACER 6 LAMP",
+      "fits_part_types": [
+        "side_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TRACER 6 LAMP"
+        }
+      ]
+    },
+    "dtm_l_bracket": {
+      "manufacturer_id": "dtm",
+      "model": "L BRACKET",
+      "fits_part_types": [
+        "side_warning_bracket",
+        "rear_warning_bracket",
+        "lower_liftgate_warning_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "L BRACKET"
+        }
+      ]
+    },
+    "dtm_angle_bracket": {
+      "manufacturer_id": "dtm",
+      "model": "ANGLE BRACKET",
+      "fits_part_types": [
+        "side_warning_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ANGLE BRACKET"
+        }
+      ]
+    },
+    "dtm_dtm_extended_cargo_window_bracket": {
+      "manufacturer_id": "dtm",
+      "model": "DTM EXTENDED CARGO WINDOW BRACKET",
+      "fits_part_types": [
+        "side_warning_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "DTM EXTENDED CARGO WINDOW BRACKET"
+        }
+      ]
+    },
+    "whelen_legacy": {
+      "manufacturer_id": "whelen",
+      "model": "LEGACY",
+      "fits_part_types": [
+        "roof_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "LEGACY"
+        }
+      ]
+    },
+    "whelen_liberty": {
+      "manufacturer_id": "whelen",
+      "model": "LIBERTY",
+      "fits_part_types": [
+        "roof_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "LIBERTY"
+        }
+      ]
+    },
+    "whelen_9x_edge": {
+      "manufacturer_id": "whelen",
+      "model": "9X EDGE",
+      "fits_part_types": [
+        "roof_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "9X EDGE"
+        }
+      ]
+    },
+    "whelen_cenator": {
+      "manufacturer_id": "whelen",
+      "model": "CENATOR",
+      "fits_part_types": [
+        "roof_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CENATOR"
+        }
+      ]
+    },
+    "whelen_freedom": {
+      "manufacturer_id": "whelen",
+      "model": "FREEDOM",
+      "fits_part_types": [
+        "roof_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FREEDOM"
+        }
+      ]
+    },
+    "whelen_rst": {
+      "manufacturer_id": "whelen",
+      "model": "RST",
+      "fits_part_types": [
+        "rear_interior_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "RST"
+        }
+      ]
+    },
+    "dtm_license_plate_bracket": {
+      "manufacturer_id": "dtm",
+      "model": "LICENSE PLATE BRACKET",
+      "fits_part_types": [
+        "rear_warning_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "LICENSE PLATE BRACKET"
+        }
+      ]
+    },
+    "dtm_grommet_mount": {
+      "manufacturer_id": "dtm",
+      "model": "GROMMET MOUNT",
+      "fits_part_types": [
+        "rear_warning_bracket",
+        "lower_liftgate_warning_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "GROMMET MOUNT"
+        }
+      ]
+    },
+    "dtm_twist_lock_adaptor": {
+      "manufacturer_id": "dtm",
+      "model": "TWIST LOCK ADAPTOR",
+      "fits_part_types": [
+        "rear_warning_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TWIST LOCK ADAPTOR"
+        }
+      ]
+    },
+    "whelen_am_900": {
+      "manufacturer_id": "whelen",
+      "model": "AM-900",
+      "fits_part_types": [
+        "rear_scene"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "AM-900"
+        }
+      ]
+    },
+    "whelen_flashed_with_core": {
+      "manufacturer_id": "whelen",
+      "model": "FLASHED WITH CORE",
+      "fits_part_types": [
+        "tail_light_flasher"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FLASHED WITH CORE"
+        }
+      ]
+    },
+    "stalker_dsr": {
+      "manufacturer_id": "stalker",
+      "model": "DSR",
+      "fits_part_types": [
+        "radar_display_unit"
+      ],
+      "tag_ids": [
+        "radar"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "DSR"
+        }
+      ]
+    },
+    "stalker_dsr_2x": {
+      "manufacturer_id": "stalker",
+      "model": "DSR 2X",
+      "fits_part_types": [
+        "radar_display_unit"
+      ],
+      "tag_ids": [
+        "radar"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "DSR 2X"
+        }
+      ]
+    },
+    "stalker_low_a_bracket": {
+      "manufacturer_id": "stalker",
+      "model": "LOW A BRACKET",
+      "fits_part_types": [
+        "front_radar_antenna_mount",
+        "rear_radar_antenna_mount"
+      ],
+      "tag_ids": [
+        "radar"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "LOW A BRACKET"
+        }
+      ]
+    },
+    "stalker_high_a_bracket": {
+      "manufacturer_id": "stalker",
+      "model": "HIGH A BRACKET",
+      "fits_part_types": [
+        "front_radar_antenna_mount",
+        "rear_radar_antenna_mount"
+      ],
+      "tag_ids": [
+        "radar"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "HIGH A BRACKET"
+        }
+      ]
+    },
+    "stalker_dual_swivel_bracket": {
+      "manufacturer_id": "stalker",
+      "model": "DUAL SWIVEL BRACKET",
+      "fits_part_types": [
+        "front_radar_antenna_mount",
+        "rear_radar_antenna_mount"
+      ],
+      "tag_ids": [
+        "radar"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "DUAL SWIVEL BRACKET"
+        }
+      ]
+    },
+    "havis_7_screen": {
+      "manufacturer_id": "havis",
+      "model": "7\"\" SCREEN",
+      "fits_part_types": [
+        "thermal_imager_monitor"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "7\"\" SCREEN"
+        }
+      ]
+    },
+    "havis_8_screen": {
+      "manufacturer_id": "havis",
+      "model": "8\"\" SCREEN",
+      "fits_part_types": [
+        "thermal_imager_monitor"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "8\"\" SCREEN"
+        }
+      ]
+    },
+    "havis_9_screen": {
+      "manufacturer_id": "havis",
+      "model": "9\"\" SCREEN",
+      "fits_part_types": [
+        "thermal_imager_monitor"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "9\"\" SCREEN"
+        }
+      ]
+    },
+    "whelen_core": {
+      "manufacturer_id": "whelen",
+      "model": "CORE",
+      "fits_part_types": [
+        "light_controller"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CORE"
+        }
+      ]
+    },
+    "whelen_blueprint": {
+      "manufacturer_id": "whelen",
+      "model": "BLUEPRINT",
+      "fits_part_types": [
+        "light_controller"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "BLUEPRINT"
+        }
+      ]
+    },
+    "whelen_cctl5": {
+      "manufacturer_id": "whelen",
+      "model": "CCTL5",
+      "fits_part_types": [
+        "control_head"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CCTL5"
+        }
+      ]
+    },
+    "whelen_cctl6": {
+      "manufacturer_id": "whelen",
+      "model": "CCTL6",
+      "fits_part_types": [
+        "control_head"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CCTL6"
+        }
+      ]
+    },
+    "whelen_cctl7": {
+      "manufacturer_id": "whelen",
+      "model": "CCTL7",
+      "fits_part_types": [
+        "control_head"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CCTL7"
+        }
+      ]
+    },
+    "whelen_cctl8": {
+      "manufacturer_id": "whelen",
+      "model": "CCTL8",
+      "fits_part_types": [
+        "control_head"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CCTL8"
+        }
+      ]
+    },
+    "whelen_cctl9": {
+      "manufacturer_id": "whelen",
+      "model": "CCTL9",
+      "fits_part_types": [
+        "control_head"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CCTL9"
+        }
+      ]
+    },
+    "whelen_cem8": {
+      "manufacturer_id": "whelen",
+      "model": "CEM8",
+      "fits_part_types": [
+        "expansion_module"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CEM8"
+        }
+      ]
+    },
+    "whelen_cem16": {
+      "manufacturer_id": "whelen",
+      "model": "CEM16",
+      "fits_part_types": [
+        "expansion_module"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CEM16"
+        }
+      ]
+    },
+    "whelen_cem24": {
+      "manufacturer_id": "whelen",
+      "model": "CEM24",
+      "fits_part_types": [
+        "expansion_module"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CEM24"
+        }
+      ]
+    },
+    "motorola_all_in_one_unit": {
+      "manufacturer_id": "motorola",
+      "model": "ALL IN ONE UNIT",
+      "fits_part_types": [
+        "radio_head"
+      ],
+      "tag_ids": [
+        "comms"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ALL IN ONE UNIT"
+        }
+      ]
+    },
+    "motorola_split_unit": {
+      "manufacturer_id": "motorola",
+      "model": "SPLIT UNIT",
+      "fits_part_types": [
+        "radio_head"
+      ],
+      "tag_ids": [
+        "comms"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SPLIT UNIT"
+        }
+      ]
+    },
+    "specify_whip_style": {
+      "manufacturer_id": "specify",
+      "model": "WHIP STYLE",
+      "fits_part_types": [
+        "radio_antenna_top"
+      ],
+      "tag_ids": [
+        "comms"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WHIP STYLE"
+        }
+      ]
+    },
+    "specify_cylinder_style": {
+      "manufacturer_id": "specify",
+      "model": "CYLINDER STYLE",
+      "fits_part_types": [
+        "radio_antenna_top"
+      ],
+      "tag_ids": [
+        "comms"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CYLINDER STYLE"
+        }
+      ]
+    },
+    "havis_vehicle_specific": {
+      "manufacturer_id": "havis",
+      "model": "VEHICLE SPECIFIC",
+      "fits_part_types": [
+        "console"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "VEHICLE SPECIFIC"
+        }
+      ]
+    },
+    "havis_universal": {
+      "manufacturer_id": "havis",
+      "model": "UNIVERSAL",
+      "fits_part_types": [
+        "console"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "UNIVERSAL"
+        }
+      ]
+    },
+    "whelen_core_control_head": {
+      "manufacturer_id": "whelen",
+      "model": "CORE CONTROL HEAD",
+      "fits_part_types": [
+        "special_face_plate"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CORE CONTROL HEAD"
+        }
+      ]
+    },
+    "motorola_motoraola_xtl": {
+      "manufacturer_id": "motorola",
+      "model": "MOTORAOLA XTL",
+      "fits_part_types": [
+        "special_face_plate"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "MOTORAOLA XTL"
+        }
+      ]
+    },
+    "watchguard_watchguard_dvr": {
+      "manufacturer_id": "watchguard",
+      "model": "WATCHGUARD DVR",
+      "fits_part_types": [
+        "special_face_plate"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WATCHGUARD DVR"
+        }
+      ]
+    },
+    "arges_arges_control_head": {
+      "manufacturer_id": "arges",
+      "model": "ARGES CONTROL HEAD",
+      "fits_part_types": [
+        "special_face_plate"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ARGES CONTROL HEAD"
+        }
+      ]
+    },
+    "havis_3_5_pocket": {
+      "manufacturer_id": "havis",
+      "model": "3.5\"\" POCKET",
+      "fits_part_types": [
+        "special_face_plate"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "3.5\"\" POCKET"
+        }
+      ]
+    },
+    "havis_6_pocket": {
+      "manufacturer_id": "havis",
+      "model": "6\"\" POCKET",
+      "fits_part_types": [
+        "special_face_plate"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "6\"\" POCKET"
+        }
+      ]
+    },
+    "ace_k_9_ace_k_9": {
+      "manufacturer_id": "ace_k_9",
+      "model": "ACE K-9",
+      "fits_part_types": [
+        "special_face_plate"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ACE K-9"
+        }
+      ]
+    },
+    "havis_cup_holders": {
+      "manufacturer_id": "havis",
+      "model": "CUP HOLDERS",
+      "fits_part_types": [
+        "special_face_plate"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CUP HOLDERS"
+        }
+      ]
+    },
+    "havis_factory_component_relocation_plate": {
+      "manufacturer_id": "havis",
+      "model": "FACTORY COMPONENT RELOCATION PLATE",
+      "fits_part_types": [
+        "special_face_plate"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FACTORY COMPONENT RELOCATION PLATE"
+        }
+      ]
+    },
+    "havis_standard_arm_rest": {
+      "manufacturer_id": "havis",
+      "model": "STANDARD ARM REST",
+      "fits_part_types": [
+        "arm_rest"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "STANDARD ARM REST"
+        }
+      ]
+    },
+    "havis_printer_arm_rest": {
+      "manufacturer_id": "havis",
+      "model": "PRINTER ARM REST",
+      "fits_part_types": [
+        "arm_rest"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PRINTER ARM REST"
+        }
+      ]
+    },
+    "havis_side_arm_rest": {
+      "manufacturer_id": "havis",
+      "model": "SIDE ARM REST",
+      "fits_part_types": [
+        "arm_rest"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SIDE ARM REST"
+        }
+      ]
+    },
+    "havis_9_mongoose": {
+      "manufacturer_id": "havis",
+      "model": "9\"\" MONGOOSE",
+      "fits_part_types": [
+        "motion_attachment"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "9\"\" MONGOOSE"
+        }
+      ]
+    },
+    "havis_9_xe": {
+      "manufacturer_id": "havis",
+      "model": "9\"\" XE",
+      "fits_part_types": [
+        "motion_attachment"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "9\"\" XE"
+        }
+      ]
+    },
+    "brother_pj_822": {
+      "manufacturer_id": "brother",
+      "model": "PJ-822",
+      "fits_part_types": [
+        "printer"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PJ-822"
+        }
+      ]
+    },
+    "sho_me_usb_type_a": {
+      "manufacturer_id": "sho_me",
+      "model": "USB TYPE A",
+      "fits_part_types": [
+        "aux_12v_ports"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "USB TYPE A"
+        }
+      ]
+    },
+    "sho_me_usb_type_c": {
+      "manufacturer_id": "sho_me",
+      "model": "USB TYPE C",
+      "fits_part_types": [
+        "aux_12v_ports"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "USB TYPE C"
+        }
+      ]
+    },
+    "sho_me_cigerette_lighter_style": {
+      "manufacturer_id": "sho_me",
+      "model": "CIGERETTE LIGHTER STYLE",
+      "fits_part_types": [
+        "aux_12v_ports"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CIGERETTE LIGHTER STYLE"
+        }
+      ]
+    },
+    "sho_me_multi_style_block": {
+      "manufacturer_id": "sho_me",
+      "model": "MULTI STYLE BLOCK",
+      "fits_part_types": [
+        "aux_12v_ports"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "MULTI STYLE BLOCK"
+        }
+      ]
+    },
+    "axon_fleet_3": {
+      "manufacturer_id": "axon",
+      "model": "FLEET 3",
+      "fits_part_types": [
+        "camera_dvr"
+      ],
+      "tag_ids": [
+        "camera"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FLEET 3"
+        }
+      ]
+    },
+    "watchguard_m500": {
+      "manufacturer_id": "watchguard",
+      "model": "M500",
+      "fits_part_types": [
+        "camera_dvr"
+      ],
+      "tag_ids": [
+        "camera"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "M500"
+        }
+      ]
+    },
+    "watchguard_4re": {
+      "manufacturer_id": "watchguard",
+      "model": "4RE",
+      "fits_part_types": [
+        "camera_dvr"
+      ],
+      "tag_ids": [
+        "camera"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "4RE"
+        }
+      ]
+    },
+    "axon_fleet_2": {
+      "manufacturer_id": "axon",
+      "model": "FLEET 2",
+      "fits_part_types": [
+        "camera_dvr"
+      ],
+      "tag_ids": [
+        "camera"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FLEET 2"
+        }
+      ]
+    },
+    "setina_full_partition": {
+      "manufacturer_id": "setina",
+      "model": "FULL PARTITION",
+      "fits_part_types": [
+        "front_partition"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FULL PARTITION"
+        }
+      ]
+    },
+    "setina_single_prisioner": {
+      "manufacturer_id": "setina",
+      "model": "SINGLE PRISIONER",
+      "fits_part_types": [
+        "front_partition"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SINGLE PRISIONER"
+        }
+      ]
+    },
+    "setina_full_xl_partition": {
+      "manufacturer_id": "setina",
+      "model": "FULL XL PARTITION",
+      "fits_part_types": [
+        "front_partition"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FULL XL PARTITION"
+        }
+      ]
+    },
+    "setina_passenger_side_xl_partition": {
+      "manufacturer_id": "setina",
+      "model": "PASSENGER SIDE XL PARTITION",
+      "fits_part_types": [
+        "front_partition"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PASSENGER SIDE XL PARTITION"
+        }
+      ]
+    },
+    "setina_steel": {
+      "manufacturer_id": "setina",
+      "model": "STEEL",
+      "fits_part_types": [
+        "chicago_barrier"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "STEEL"
+        }
+      ]
+    },
+    "setina_poly": {
+      "manufacturer_id": "setina",
+      "model": "POLY",
+      "fits_part_types": [
+        "chicago_barrier",
+        "rear_window_bars"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "POLY"
+        }
+      ]
+    },
+    "specify_3_round": {
+      "manufacturer_id": "specify",
+      "model": "3\"\" ROUND",
+      "fits_part_types": [
+        "rear_seat_lights",
+        "rear_seat_cargo_lights",
+        "cargo_lighting"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "3\"\" ROUND"
+        }
+      ]
+    },
+    "setina_poly_divider": {
+      "manufacturer_id": "setina",
+      "model": "POLY DIVIDER",
+      "fits_part_types": [
+        "rear_seat_divider"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "POLY DIVIDER"
+        }
+      ]
+    },
+    "setina_cargo_maxx": {
+      "manufacturer_id": "setina",
+      "model": "CARGO MAXX",
+      "fits_part_types": [
+        "rear_seat_divider"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CARGO MAXX"
+        }
+      ]
+    },
+    "setina_steel_vertical": {
+      "manufacturer_id": "setina",
+      "model": "STEEL VERTICAL",
+      "fits_part_types": [
+        "rear_window_bars"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "STEEL VERTICAL"
+        }
+      ]
+    },
+    "setina_steel_horizontal": {
+      "manufacturer_id": "setina",
+      "model": "STEEL HORIZONTAL",
+      "fits_part_types": [
+        "rear_window_bars"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "STEEL HORIZONTAL"
+        }
+      ]
+    },
+    "setina_poly_tinted": {
+      "manufacturer_id": "setina",
+      "model": "POLY TINTED",
+      "fits_part_types": [
+        "rear_window_bars"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "POLY TINTED"
+        }
+      ]
+    },
+    "pro_gard_full_replacment_seat_w_center_pull_seat_belts": {
+      "manufacturer_id": "pro_gard",
+      "model": "FULL REPLACMENT SEAT W/ CENTER PULL SEAT BELTS",
+      "fits_part_types": [
+        "replacement_rear_seat"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FULL REPLACMENT SEAT W/ CENTER PULL SEAT BELTS"
+        }
+      ]
+    },
+    "pro_gard_poly_seat_cover": {
+      "manufacturer_id": "pro_gard",
+      "model": "POLY SEAT COVER",
+      "fits_part_types": [
+        "replacement_rear_seat"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "POLY SEAT COVER"
+        }
+      ]
+    },
+    "setina_steel_window": {
+      "manufacturer_id": "setina",
+      "model": "STEEL WINDOW",
+      "fits_part_types": [
+        "rear_partition"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "STEEL WINDOW"
+        }
+      ]
+    },
+    "setina_poly_window": {
+      "manufacturer_id": "setina",
+      "model": "POLY WINDOW",
+      "fits_part_types": [
+        "rear_partition"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "POLY WINDOW"
+        }
+      ]
+    },
+    "pro_gard_poly_floor_pan": {
+      "manufacturer_id": "pro_gard",
+      "model": "POLY FLOOR PAN",
+      "fits_part_types": [
+        "floor_pan"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "POLY FLOOR PAN"
+        }
+      ]
+    },
+    "pro_gard_poly_floor_pan_w_drains": {
+      "manufacturer_id": "pro_gard",
+      "model": "POLY FLOOR PAN W/ DRAINS",
+      "fits_part_types": [
+        "floor_pan"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "POLY FLOOR PAN W/ DRAINS"
+        }
+      ]
+    },
+    "angel_armor_level_3a_handgun": {
+      "manufacturer_id": "angel_armor",
+      "model": "LEVEL 3A (HANDGUN)",
+      "fits_part_types": [
+        "bullet_proof_door_panel",
+        "bullet_proof_door_window"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "LEVEL 3A (HANDGUN)"
+        }
+      ]
+    },
+    "angel_armor_level_3_rifle": {
+      "manufacturer_id": "angel_armor",
+      "model": "LEVEL 3+(RIFLE)",
+      "fits_part_types": [
+        "bullet_proof_door_panel",
+        "bullet_proof_door_window"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "LEVEL 3+(RIFLE)"
+        }
+      ]
+    },
+    "setina_equipment_drawer": {
+      "manufacturer_id": "setina",
+      "model": "EQUIPMENT DRAWER",
+      "fits_part_types": [
+        "equipment_tray"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "EQUIPMENT DRAWER"
+        }
+      ]
+    },
+    "setina_equipment_tray": {
+      "manufacturer_id": "setina",
+      "model": "EQUIPMENT TRAY",
+      "fits_part_types": [
+        "equipment_tray"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "EQUIPMENT TRAY"
+        }
+      ]
+    },
+    "setina_equimpent_box": {
+      "manufacturer_id": "setina",
+      "model": "EQUIMPENT BOX",
+      "fits_part_types": [
+        "equipment_tray"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "EQUIMPENT BOX"
+        }
+      ]
+    },
+    "setina_replacement_floor": {
+      "manufacturer_id": "setina",
+      "model": "REPLACEMENT FLOOR",
+      "fits_part_types": [
+        "equipment_tray"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "REPLACEMENT FLOOR"
+        }
+      ]
+    },
+    "setina_board": {
+      "manufacturer_id": "setina",
+      "model": "BOARD",
+      "fits_part_types": [
+        "equipment_tray"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "BOARD"
+        }
+      ]
+    },
+    "pro_gard_single_handcuff": {
+      "manufacturer_id": "pro_gard",
+      "model": "SINGLE HANDCUFF",
+      "fits_part_types": [
+        "gun_lock"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SINGLE HANDCUFF"
+        }
+      ]
+    },
+    "pro_gard_dual_handcuff": {
+      "manufacturer_id": "pro_gard",
+      "model": "DUAL HANDCUFF",
+      "fits_part_types": [
+        "gun_lock"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "DUAL HANDCUFF"
+        }
+      ]
+    },
+    "pro_gard_single_shot_gun": {
+      "manufacturer_id": "pro_gard",
+      "model": "SINGLE SHOT GUN",
+      "fits_part_types": [
+        "gun_lock"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SINGLE SHOT GUN"
+        }
+      ]
+    },
+    "pro_gard_dual_shot_gun": {
+      "manufacturer_id": "pro_gard",
+      "model": "DUAL SHOT GUN",
+      "fits_part_types": [
+        "gun_lock"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "DUAL SHOT GUN"
+        }
+      ]
+    },
+    "pro_gard_handcuff_and_shot_gun": {
+      "manufacturer_id": "pro_gard",
+      "model": "HANDCUFF AND SHOT GUN",
+      "fits_part_types": [
+        "gun_lock"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "HANDCUFF AND SHOT GUN"
+        }
+      ]
+    },
+    "santa_cruz_front_overhead_brackets": {
+      "manufacturer_id": "santa_cruz",
+      "model": "FRONT OVERHEAD BRACKETS",
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FRONT OVERHEAD BRACKETS"
+        }
+      ]
+    },
+    "santa_cruz_rear_overhead_brackets": {
+      "manufacturer_id": "santa_cruz",
+      "model": "REAR OVERHEAD BRACKETS",
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "REAR OVERHEAD BRACKETS"
+        }
+      ]
+    },
+    "santa_cruz_single_t_rail": {
+      "manufacturer_id": "santa_cruz",
+      "model": "SINGLE T-RAIL",
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SINGLE T-RAIL"
+        }
+      ]
+    },
+    "santa_cruz_dual_t_rail": {
+      "manufacturer_id": "santa_cruz",
+      "model": "DUAL T-RAIL",
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "DUAL T-RAIL"
+        }
+      ]
+    },
+    "ace_k_9_full_platform": {
+      "manufacturer_id": "ace_k_9",
+      "model": "FULL PLATFORM",
+      "fits_part_types": [
+        "k9_kennel"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FULL PLATFORM"
+        }
+      ]
+    },
+    "ace_k_9_2_3_1_3_driver_exit": {
+      "manufacturer_id": "ace_k_9",
+      "model": "2/3 1/3 DRIVER EXIT",
+      "fits_part_types": [
+        "k9_kennel"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "2/3 1/3 DRIVER EXIT"
+        }
+      ]
+    },
+    "ace_k_9_2_3_1_2_pass_exit": {
+      "manufacturer_id": "ace_k_9",
+      "model": "2/3 1/2 PASS EXIT",
+      "fits_part_types": [
+        "k9_kennel"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "2/3 1/2 PASS EXIT"
+        }
+      ]
+    },
+    "ace_k_9_ultimate": {
+      "manufacturer_id": "ace_k_9",
+      "model": "ULTIMATE",
+      "fits_part_types": [
+        "k9_kennel"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ULTIMATE"
+        }
+      ]
+    },
+    "ace_k_9_ultimate_ii": {
+      "manufacturer_id": "ace_k_9",
+      "model": "ULTIMATE II",
+      "fits_part_types": [
+        "k9_kennel"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ULTIMATE II"
+        }
+      ]
+    },
+    "pro_gard_heat_alarm_only": {
+      "manufacturer_id": "pro_gard",
+      "model": "HEAT ALARM ONLY",
+      "fits_part_types": [
+        "k9_heat_alarm_popper"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "HEAT ALARM ONLY"
+        }
+      ]
+    },
+    "pro_gard_heat_alarm_and_door_popper": {
+      "manufacturer_id": "pro_gard",
+      "model": "HEAT ALARM AND DOOR POPPER",
+      "fits_part_types": [
+        "k9_heat_alarm_popper"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "HEAT ALARM AND DOOR POPPER"
+        }
+      ]
+    },
+    "kussmaul_water_proof": {
+      "manufacturer_id": "kussmaul",
+      "model": "WATER PROOF",
+      "fits_part_types": [
+        "auto_eject"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WATER PROOF"
+        }
+      ]
+    },
+    "kussmaul_non_water_proof": {
+      "manufacturer_id": "kussmaul",
+      "model": "NON-WATER PROOF",
+      "fits_part_types": [
+        "auto_eject"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "NON-WATER PROOF"
+        }
+      ]
+    },
+    "cradle_point_verizon_roof_mount": {
+      "manufacturer_id": "cradle_point",
+      "model": "VERIZON ROOF MOUNT",
+      "fits_part_types": [
+        "cloud_system_tray"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "VERIZON ROOF MOUNT"
+        }
+      ]
+    },
+    "cradle_point_verizon_window_mount": {
+      "manufacturer_id": "cradle_point",
+      "model": "VERIZON WINDOW MOUNT",
+      "fits_part_types": [
+        "cloud_system_tray"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "VERIZON WINDOW MOUNT"
+        }
+      ]
+    },
+    "cradle_point_first_net_roof_mount": {
+      "manufacturer_id": "cradle_point",
+      "model": "FIRST NET ROOF MOUNT",
+      "fits_part_types": [
+        "cloud_system_tray"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FIRST NET ROOF MOUNT"
+        }
+      ]
+    },
+    "cradle_point_first_net_window_mount": {
+      "manufacturer_id": "cradle_point",
+      "model": "FIRST NET WINDOW MOUNT",
+      "fits_part_types": [
+        "cloud_system_tray"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FIRST NET WINDOW MOUNT"
+        }
+      ]
+    },
+    "arcti_start_1_button_1_way": {
+      "manufacturer_id": "arcti_start",
+      "model": "1 BUTTON 1 WAY",
+      "fits_part_types": [
+        "remote_start"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "1 BUTTON 1 WAY"
+        }
+      ]
+    },
+    "arcti_start_4_button_1_way": {
+      "manufacturer_id": "arcti_start",
+      "model": "4 BUTTON 1 WAY",
+      "fits_part_types": [
+        "remote_start"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "4 BUTTON 1 WAY"
+        }
+      ]
+    },
+    "arcti_start_1_button_2_way": {
+      "manufacturer_id": "arcti_start",
+      "model": "1 BUTTON 2 WAY",
+      "fits_part_types": [
+        "remote_start"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "1 BUTTON 2 WAY"
+        }
+      ]
+    },
+    "arcti_start_4_button_2_way": {
+      "manufacturer_id": "arcti_start",
+      "model": "4 BUTTON 2 WAY",
+      "fits_part_types": [
+        "remote_start"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "4 BUTTON 2 WAY"
+        }
+      ]
+    },
+    "arcti_start_5_button_lcd": {
+      "manufacturer_id": "arcti_start",
+      "model": "5 BUTTON LCD",
+      "fits_part_types": [
+        "remote_start"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "5 BUTTON LCD"
+        }
+      ]
+    },
+    "arcti_start_specify": {
+      "manufacturer_id": "arcti_start",
+      "model": "SPECIFY",
+      "fits_part_types": [
+        "remote_start"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SPECIFY"
+        }
+      ]
+    },
+    "whelen_pro_focus": {
+      "manufacturer_id": "whelen",
+      "model": "PRO-FOCUS",
+      "fits_part_types": [
+        "arges_face"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PRO-FOCUS"
+        }
+      ]
+    },
+    "whelen_arges_w_bail_bracket": {
+      "manufacturer_id": "whelen",
+      "model": "ARGES W/ BAIL BRACKET",
+      "fits_part_types": [
+        "arges_controller"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ARGES W/ BAIL BRACKET"
+        }
+      ]
+    },
+    "whelen_arges_w_swivel_bracket": {
+      "manufacturer_id": "whelen",
+      "model": "ARGES W/ SWIVEL BRACKET",
+      "fits_part_types": [
+        "arges_controller"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ARGES W/ SWIVEL BRACKET"
+        }
+      ]
+    },
+    "whelen_arges_w_versatile_bail_bracket": {
+      "manufacturer_id": "whelen",
+      "model": "ARGES W/ VERSATILE BAIL BRACKET",
+      "fits_part_types": [
+        "arges_controller"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ARGES W/ VERSATILE BAIL BRACKET"
+        }
+      ]
+    },
+    "whelen_vehicle_specific_mount": {
+      "manufacturer_id": "whelen",
+      "model": "VEHICLE SPECIFIC MOUNT",
+      "fits_part_types": [
+        "arges_mount"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "VEHICLE SPECIFIC MOUNT"
+        }
+      ]
+    },
+    "whelen_light_bar_mount": {
+      "manufacturer_id": "whelen",
+      "model": "LIGHT BAR MOUNT",
+      "fits_part_types": [
+        "arges_mount"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "LIGHT BAR MOUNT"
+        }
+      ]
+    },
+    "whelen_center_of_dash": {
+      "manufacturer_id": "whelen",
+      "model": "CENTER OF DASH",
+      "fits_part_types": [
+        "photo_eye",
+        "gpd"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CENTER OF DASH"
+        }
+      ]
+    },
+    "whelen_rear_view_mirror_plastic": {
+      "manufacturer_id": "whelen",
+      "model": "REAR VIEW MIRROR PLASTIC",
+      "fits_part_types": [
+        "photo_eye"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "REAR VIEW MIRROR PLASTIC"
+        }
+      ]
+    },
+    "whelen_in_light_bar": {
+      "manufacturer_id": "whelen",
+      "model": "IN LIGHT BAR",
+      "fits_part_types": [
+        "photo_eye"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "IN LIGHT BAR"
+        }
+      ]
+    },
+    "whelen_specify_location": {
+      "manufacturer_id": "whelen",
+      "model": "SPECIFY LOCATION",
+      "fits_part_types": [
+        "photo_eye"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SPECIFY LOCATION"
+        }
+      ]
+    },
+    "globesat_front_right_of_dash": {
+      "manufacturer_id": "globesat",
+      "model": "FRONT RIGHT OF DASH",
+      "fits_part_types": [
+        "gpd"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FRONT RIGHT OF DASH"
+        }
+      ]
+    },
+    "globesat_roof_mounted": {
+      "manufacturer_id": "globesat",
+      "model": "ROOF MOUNTED",
+      "fits_part_types": [
+        "gpd"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ROOF MOUNTED"
+        }
+      ]
+    },
+    "globesat_specify_loaction": {
+      "manufacturer_id": "globesat",
+      "model": "SPECIFY LOACTION",
+      "fits_part_types": [
+        "gpd"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SPECIFY LOACTION"
+        }
+      ]
+    },
+    "tiger_tough_standard": {
+      "manufacturer_id": "tiger_tough",
+      "model": "STANDARD",
+      "fits_part_types": [
+        "seat_covers"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "STANDARD"
+        }
+      ]
+    },
+    "tiger_tough_with_custom_patch": {
+      "manufacturer_id": "tiger_tough",
+      "model": "WITH CUSTOM PATCH",
+      "fits_part_types": [
+        "seat_covers"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WITH CUSTOM PATCH"
+        }
+      ]
+    },
+    "5_0_fab_dtm_complete_squad_harness": {
+      "manufacturer_id": "5_0_fab_dtm",
+      "model": "COMPLETE SQUAD HARNESS",
+      "fits_part_types": [
+        "window_tint",
+        "harness"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "COMPLETE SQUAD HARNESS"
+        }
+      ]
+    },
+    "advanced_graphics_custom_graphics_work_with_mfg": {
+      "manufacturer_id": "advanced_graphics",
+      "model": "CUSTOM GRAPHICS ( WORK WITH MFG)",
+      "fits_part_types": [
+        "decals"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CUSTOM GRAPHICS ( WORK WITH MFG)"
+        }
+      ]
+    }
+  },
+  "part_types": {
+    "push_bumper": {
+      "label": "Push Bumper",
+      "type_id": "structural",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Push Bumper",
+      "sequence_scope": "global",
+      "accessories": [
+        "wire_covers"
+      ]
+    },
+    "pit_bar": {
+      "label": "Pit Bar",
+      "type_id": "structural",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Pit Bar",
+      "sequence_scope": "global"
+    },
+    "wing_wraps": {
+      "label": "Wing Wraps",
+      "type_id": "structural",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Wing Wraps",
+      "sequence_scope": "global"
+    },
+    "wire_covers": {
+      "label": "Wire Covers",
+      "type_id": "structural",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Wire Covers",
+      "sequence_scope": "global",
+      "accessory_of": "push_bumper"
+    },
+    "forward_warning": {
+      "label": "Forward Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Forward Warning {n}",
+      "sequence_scope": "global"
+    },
+    "fw_bracket": {
+      "label": "FW Bracket",
+      "type_id": "lights",
+      "tree_positions": [],
+      "tag_ids": [],
+      "workbook_label_pattern": "FW {n} Bracket",
+      "sequence_scope": "global",
+      "accessory_of": "forward_warning"
+    },
+    "front_side_warning": {
+      "label": "Front Side Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Front Side Warning {n}",
+      "sequence_scope": "global"
+    },
+    "front_side_bracket": {
+      "label": "Front Side Bracket",
+      "type_id": "lights",
+      "tree_positions": [],
+      "tag_ids": [],
+      "workbook_label_pattern": "Front Side Brackets",
+      "sequence_scope": "global",
+      "accessory_of": "front_side_warning"
+    },
+    "pit_bar_warning": {
+      "label": "Pit Bar Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Pit Bar Warning",
+      "sequence_scope": "global"
+    },
+    "headlight_flasher": {
+      "label": "Headlight Flasher",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Headlight Flasher",
+      "sequence_scope": "global"
+    },
+    "front_scene": {
+      "label": "Front Scene",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Front Scene",
+      "sequence_scope": "global"
+    },
+    "siren_speaker": {
+      "label": "Siren Speaker",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [
+        "siren"
+      ],
+      "workbook_label_pattern": "Siren Speaker {n}",
+      "sequence_scope": "global"
+    },
+    "siren_speaker_bracket": {
+      "label": "Siren Speaker Bracket",
+      "type_id": "equipment",
+      "tree_positions": [],
+      "tag_ids": [],
+      "workbook_label_pattern": "Siren Speaker Bracket",
+      "sequence_scope": "global",
+      "accessory_of": "siren_speaker"
+    },
+    "external_amp": {
+      "label": "External Amp",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area",
+          "sub_zone": "equipment_tray"
+        }
+      ],
+      "tag_ids": [
+        "siren"
+      ],
+      "workbook_label_pattern": "External Amp",
+      "sequence_scope": "global"
+    },
+    "howler": {
+      "label": "Howler",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [
+        "siren"
+      ],
+      "workbook_label_pattern": "Howler",
+      "sequence_scope": "global"
+    },
+    "pa_mic": {
+      "label": "PA Mic",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Pa Mic",
+      "sequence_scope": "global"
+    },
+    "pa_mic_clip": {
+      "label": "PA Mic Clip",
+      "type_id": "equipment",
+      "tree_positions": [],
+      "tag_ids": [],
+      "workbook_label_pattern": "Pa Mic Clip",
+      "sequence_scope": "global",
+      "accessory_of": "pa_mic"
+    },
+    "preemption": {
+      "label": "Preemption",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "roof"
+        },
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Opticom",
+      "sequence_scope": "global",
+      "max_count": 1,
+      "allowed_placements": [
+        "IN_LIGHT_BAR",
+        "UPPER_WINDSHIELD",
+        "CENTER_OF_DASH"
+      ]
+    },
+    "front_dome_light": {
+      "label": "Dome Light",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Front Dome Light",
+      "sequence_scope": "global"
+    },
+    "cradle_point": {
+      "label": "Cloud System",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area",
+          "sub_zone": "equipment_tray"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Cradle Point",
+      "sequence_scope": "global"
+    },
+    "cloud_antenna": {
+      "label": "Cloud Antenna",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Cradle Point Antenna",
+      "sequence_scope": "global"
+    },
+    "mirror_warning": {
+      "label": "Mirror Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Mirror Warning {n}",
+      "sequence_scope": "global"
+    },
+    "mirror_warning_bracket": {
+      "label": "Mirror Warning Bracket",
+      "type_id": "lights",
+      "tree_positions": [],
+      "tag_ids": [],
+      "workbook_label_pattern": "Mirror Warning Bracket {n}",
+      "sequence_scope": "global",
+      "accessory_of": "mirror_warning"
+    },
+    "front_interior_light_bar": {
+      "label": "Interior Light Bar",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Front Interior Light Bar",
+      "sequence_scope": "global"
+    },
+    "side_warning": {
+      "label": "Side Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "side"
+        },
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Side Warning {n}",
+      "sequence_scope": "global"
+    },
+    "side_warning_bracket": {
+      "label": "Side Warning Bracket",
+      "type_id": "lights",
+      "tree_positions": [],
+      "tag_ids": [],
+      "workbook_label_pattern": "Side Warning Bracket {n}",
+      "sequence_scope": "global",
+      "accessory_of": "side_warning"
+    },
+    "side_scene": {
+      "label": "Side Scene",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "side"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Side Scene",
+      "sequence_scope": "global"
+    },
+    "roof_light_bar": {
+      "label": "Light Bar",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "roof"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Roof Light Bar",
+      "sequence_scope": "global"
+    },
+    "rear_interior_light_bar": {
+      "label": "Interior Light Bar",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Rear Interior Light Bar",
+      "sequence_scope": "global"
+    },
+    "rear_warning": {
+      "label": "Rear Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "rear"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Rear Warning {n}",
+      "sequence_scope": "global"
+    },
+    "rear_warning_bracket": {
+      "label": "Rear Warning Bracket",
+      "type_id": "lights",
+      "tree_positions": [],
+      "tag_ids": [],
+      "workbook_label_pattern": "Rear Warning Bracket {n}",
+      "sequence_scope": "global",
+      "accessory_of": "rear_warning"
+    },
+    "rear_scene": {
+      "label": "Rear Scene",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "rear"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Rear Scene",
+      "sequence_scope": "global"
+    },
+    "lower_liftgate_warning": {
+      "label": "Lower Lift Gate Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "rear"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Lower Lift Gate Warning",
+      "sequence_scope": "global"
+    },
+    "lower_liftgate_warning_bracket": {
+      "label": "Lower Lift Gate Warning Bracket",
+      "type_id": "lights",
+      "tree_positions": [],
+      "tag_ids": [],
+      "workbook_label_pattern": "Lower Lift Gate Warning Bracket",
+      "sequence_scope": "global",
+      "accessory_of": "lower_liftgate_warning"
+    },
+    "tail_light_flasher": {
+      "label": "Tail Light Flasher",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "rear"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Tail Light Flasher",
+      "sequence_scope": "global"
+    },
+    "radar_display_unit": {
+      "label": "Radar Display Unit",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [
+        "radar"
+      ],
+      "workbook_label_pattern": "Radar",
+      "sequence_scope": "global"
+    },
+    "front_radar_antenna_mount": {
+      "label": "Front Radar Antenna Mount",
+      "type_id": "equipment",
+      "tree_positions": [],
+      "tag_ids": [
+        "radar"
+      ],
+      "workbook_label_pattern": "Front Radar Antenna Mount",
+      "sequence_scope": "global",
+      "accessory_of": "radar_display_unit"
+    },
+    "rear_radar_antenna_mount": {
+      "label": "Rear Radar Antenna Mount",
+      "type_id": "equipment",
+      "tree_positions": [],
+      "tag_ids": [
+        "radar"
+      ],
+      "workbook_label_pattern": "Rear Radar Antenna Mount",
+      "sequence_scope": "global",
+      "accessory_of": "radar_display_unit"
+    },
+    "radar_interface_cable": {
+      "label": "Radar Interface Cable",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [
+        "radar",
+        "camera"
+      ],
+      "workbook_label_pattern": "Radar Interface Cable (To Camera)",
+      "sequence_scope": "global"
+    },
+    "thermal_imager": {
+      "label": "Thermal Imager",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Thermal Imager",
+      "sequence_scope": "global"
+    },
+    "thermal_imager_monitor": {
+      "label": "Thermal Imager Monitor",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Thermal Imager Monitor",
+      "sequence_scope": "global"
+    },
+    "light_controller": {
+      "label": "Light Controller",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area",
+          "sub_zone": "equipment_tray"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Light Controller",
+      "sequence_scope": "global"
+    },
+    "control_head": {
+      "label": "Light Control Head",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage",
+          "sub_zone": "console"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Control Head",
+      "sequence_scope": "global"
+    },
+    "vehicle_interface": {
+      "label": "Vehicle Interface",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area",
+          "sub_zone": "equipment_tray"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Vehicle interface",
+      "sequence_scope": "global"
+    },
+    "expansion_module": {
+      "label": "Expansion Module",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area",
+          "sub_zone": "equipment_tray"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Expansion Module",
+      "sequence_scope": "global"
+    },
+    "radio_head": {
+      "label": "Radio Head",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage",
+          "sub_zone": "console"
+        }
+      ],
+      "tag_ids": [
+        "comms"
+      ],
+      "workbook_label_pattern": "Radio {n}",
+      "sequence_scope": "global"
+    },
+    "radio_mic_clip": {
+      "label": "Radio Mic Clip",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [
+        "comms"
+      ],
+      "workbook_label_pattern": "Radio Mic Clip {n}",
+      "sequence_scope": "global"
+    },
+    "radio_antenna_cable": {
+      "label": "Radio Communication Cable",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [
+        "comms"
+      ],
+      "workbook_label_pattern": "Radio Antenna Cable",
+      "sequence_scope": "global"
+    },
+    "radio_antenna_top": {
+      "label": "Radio Antenna Top",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "roof"
+        }
+      ],
+      "tag_ids": [
+        "comms"
+      ],
+      "workbook_label_pattern": "Radio Antenna Top",
+      "sequence_scope": "global"
+    },
+    "console": {
+      "label": "Console",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Center Console",
+      "sequence_scope": "global",
+      "max_count": 1
+    },
+    "special_face_plate": {
+      "label": "Special Face Plate",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage",
+          "sub_zone": "console"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Special Face Plate {n}",
+      "sequence_scope": "global"
+    },
+    "arm_rest": {
+      "label": "Armrest",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage",
+          "sub_zone": "console"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Arm Rest",
+      "sequence_scope": "global"
+    },
+    "motion_attachment": {
+      "label": "Motion Attachment",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage",
+          "sub_zone": "console"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Motion Attachment",
+      "sequence_scope": "global"
+    },
+    "docking_station": {
+      "label": "Docking Station",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage",
+          "sub_zone": "console"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Docking Station",
+      "sequence_scope": "global"
+    },
+    "printer": {
+      "label": "Printer",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage",
+          "sub_zone": "console"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Printer",
+      "sequence_scope": "global"
+    },
+    "printer_mount": {
+      "label": "Printer Mount",
+      "type_id": "equipment",
+      "tree_positions": [],
+      "tag_ids": [],
+      "workbook_label_pattern": "Printer Mount",
+      "sequence_scope": "global",
+      "accessory_of": "printer"
+    },
+    "printer_power": {
+      "label": "Printer Power",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Printer Power",
+      "sequence_scope": "global",
+      "accessory_of": "printer"
+    },
+    "printer_usb": {
+      "label": "Printer USB",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Printer USB",
+      "sequence_scope": "global",
+      "accessory_of": "printer"
+    },
+    "aux_12v_ports": {
+      "label": "12v Aux Ports",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "12v Aux Ports",
+      "sequence_scope": "global"
+    },
+    "camera_dvr": {
+      "label": "Camera DVR",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        },
+        {
+          "section": "interior",
+          "zone": "rear_storage_area",
+          "sub_zone": "equipment_tray"
+        }
+      ],
+      "tag_ids": [
+        "camera"
+      ],
+      "workbook_label_pattern": "Camera DVR",
+      "sequence_scope": "global"
+    },
+    "front_camera": {
+      "label": "Front Camera",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [
+        "camera"
+      ],
+      "workbook_label_pattern": "Front Camera",
+      "sequence_scope": "global"
+    },
+    "body_camera_dock": {
+      "label": "Body Camera Dock",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [
+        "camera"
+      ],
+      "workbook_label_pattern": "Body Camera Dock",
+      "sequence_scope": "global"
+    },
+    "rear_seat_camera": {
+      "label": "Rear Seat Camera",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [
+        "camera"
+      ],
+      "workbook_label_pattern": "Rear Seat Camera",
+      "sequence_scope": "global"
+    },
+    "rear_camera": {
+      "label": "Rear Camera",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "rear"
+        }
+      ],
+      "tag_ids": [
+        "camera"
+      ],
+      "workbook_label_pattern": "Rear Camera",
+      "sequence_scope": "global"
+    },
+    "wireless_mic_charger": {
+      "label": "Wireless Mic Charger",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Wireless Mic Charger",
+      "sequence_scope": "global"
+    },
+    "front_partition": {
+      "label": "Front Partition",
+      "type_id": "structural",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Front Partition",
+      "sequence_scope": "global"
+    },
+    "chicago_barrier": {
+      "label": "Chicago Barrier",
+      "type_id": "structural",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Chicago Barrier",
+      "sequence_scope": "global"
+    },
+    "front_partition_transfer_kit": {
+      "label": "Front Partition Transfer Kit",
+      "type_id": "structural",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Front Partition Transfer Kit",
+      "sequence_scope": "global",
+      "accessory_of": "front_partition"
+    },
+    "rear_seat_lights": {
+      "label": "Rear Seat Lights",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Rear Seat Lights {n}",
+      "sequence_scope": "global"
+    },
+    "rear_seat_cargo_lights": {
+      "label": "Rear Seat Cargo Lights",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Rear Seat Cargo Lights",
+      "sequence_scope": "global"
+    },
+    "rear_seat_divider": {
+      "label": "Rear Seat Divider",
+      "type_id": "structural",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Rear Seat Divider",
+      "sequence_scope": "global"
+    },
+    "rear_window_bars": {
+      "label": "Rear Window Bars",
+      "type_id": "structural",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Rear Window Bars",
+      "sequence_scope": "global"
+    },
+    "replacement_rear_seat": {
+      "label": "Replacement Seat",
+      "type_id": "structural",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Replacement Rear Seat",
+      "sequence_scope": "global"
+    },
+    "rear_partition": {
+      "label": "Rear Partition",
+      "type_id": "structural",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Rear Partition",
+      "sequence_scope": "global"
+    },
+    "floor_pan": {
+      "label": "Floor Pan",
+      "type_id": "structural",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Floor Pan",
+      "sequence_scope": "global"
+    },
+    "bullet_proof_door_panel": {
+      "label": "Bullet Proof Door Panel",
+      "type_id": "extras",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Bullet Proof Door Panel",
+      "sequence_scope": "global"
+    },
+    "bullet_proof_door_window": {
+      "label": "Bullet Proof Door Window",
+      "type_id": "extras",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Bullet Proof Door Window",
+      "sequence_scope": "global"
+    },
+    "rear_storage_box": {
+      "label": "Storage Box",
+      "type_id": "structural",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Storage Compartment",
+      "sequence_scope": "global"
+    },
+    "cargo_lighting": {
+      "label": "Cargo Lighting",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Cargo Lighting",
+      "sequence_scope": "global"
+    },
+    "door_lock_button": {
+      "label": "Door Lock Button",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area",
+          "sub_zone": "equipment_tray"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Door Lock Button",
+      "sequence_scope": "global"
+    },
+    "equipment_tray": {
+      "label": "Equipment Tray",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Equipment Tray",
+      "sequence_scope": "global",
+      "max_count": 1
+    },
+    "gun_lock": {
+      "label": "Gun Lock",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "side_storage"
+        },
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        },
+        {
+          "section": "interior",
+          "zone": "rear_storage_area",
+          "sub_zone": "equipment_tray"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Gunlock {n}",
+      "sequence_scope": "global"
+    },
+    "gun_lock_bracket": {
+      "label": "Gun Lock Bracket",
+      "type_id": "equipment",
+      "tree_positions": [],
+      "tag_ids": [],
+      "workbook_label_pattern": "Gunlock Bracket {n}",
+      "sequence_scope": "global",
+      "accessory_of": "gun_lock"
+    },
+    "k9_kennel": {
+      "label": "K-9 Kennel",
+      "type_id": "k9",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "K-9 Kennel",
+      "sequence_scope": "global"
+    },
+    "k9_heat_alarm_popper": {
+      "label": "K-9 Heat Alarm / Door Popper",
+      "type_id": "k9",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "K-9 Heat Alarm/Popper",
+      "sequence_scope": "global"
+    },
+    "k9_control_head": {
+      "label": "K-9 Control Head",
+      "type_id": "k9",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "K-9 Control Head",
+      "sequence_scope": "global"
+    },
+    "k9_add_ons": {
+      "label": "K-9 Add-Ons",
+      "type_id": "k9",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "K-9 Add-Ons",
+      "sequence_scope": "global"
+    },
+    "battery_tender": {
+      "label": "Battery Tender",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Battery Tender",
+      "sequence_scope": "global"
+    },
+    "auto_eject": {
+      "label": "Auto Eject",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "side"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Auto Eject",
+      "sequence_scope": "global"
+    },
+    "v2v_sync": {
+      "label": "Vehicle to Vehicle Sync",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area",
+          "sub_zone": "equipment_tray"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Vehicle to Vehicle Sync",
+      "sequence_scope": "global"
+    },
+    "cloud_system_tray": {
+      "label": "Cloud System",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "rear_storage_area",
+          "sub_zone": "equipment_tray"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Cloud System",
+      "sequence_scope": "global"
+    },
+    "remote_start": {
+      "label": "Remote Start",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Remote Start",
+      "sequence_scope": "global"
+    },
+    "arges_face": {
+      "label": "Arges",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage",
+          "sub_zone": "console"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Arges",
+      "sequence_scope": "global"
+    },
+    "arges_controller": {
+      "label": "Arges Controller",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Arges Controller",
+      "sequence_scope": "global"
+    },
+    "arges_mount": {
+      "label": "Arges Mount",
+      "type_id": "equipment",
+      "tree_positions": [],
+      "tag_ids": [],
+      "workbook_label_pattern": "Arges Mount",
+      "sequence_scope": "global",
+      "accessory_of": "arges_controller"
+    },
+    "photo_eye": {
+      "label": "Photo Eye",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Photo Eye",
+      "sequence_scope": "global"
+    },
+    "gpd": {
+      "label": "GPS",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "GPD W/ Extension",
+      "sequence_scope": "global"
+    },
+    "floor_mats": {
+      "label": "Floor Mats",
+      "type_id": "extras",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Floor Mats",
+      "sequence_scope": "global"
+    },
+    "seat_covers": {
+      "label": "Seat Covers",
+      "type_id": "extras",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Seat Covers",
+      "sequence_scope": "global"
+    },
+    "window_tint": {
+      "label": "Window Tint",
+      "type_id": "extras",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "side"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Window Tint",
+      "sequence_scope": "global"
+    },
+    "decals": {
+      "label": "Decals",
+      "type_id": "extras",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "side"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Decals",
+      "sequence_scope": "global"
+    },
+    "harness": {
+      "label": "Harness",
+      "type_id": "extras",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Harness",
+      "sequence_scope": "global"
+    },
+    "tracer_2_lamp": {
+      "label": "2-Lamp Tracer",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "2-Lamp Tracer",
+      "sequence_scope": "global"
+    },
+    "tracer_5_lamp": {
+      "label": "5-Lamp Tracer",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "5-Lamp Tracer",
+      "sequence_scope": "global"
+    },
+    "tracer_6_lamp": {
+      "label": "6-Lamp Tracer",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "6-Lamp Tracer",
+      "sequence_scope": "global"
+    },
+    "radio_speaker": {
+      "label": "Radio Speaker",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage"
+        }
+      ],
+      "tag_ids": [
+        "comms"
+      ],
+      "workbook_label_pattern": "Radio Speaker",
+      "sequence_scope": "global"
+    }
+  },
+  "placements": {
+    "ABOVE LICENSE PLATE": {
+      "placement_zone": "rear"
+    },
+    "BEHIND GRILL (CENTER)": {
+      "placement_zone": "primary_front"
+    },
+    "BEHIND OEM BUMPER": {
+      "placement_zone": "primary_front"
+    },
+    "CENTER OF DASH": {
+      "placement_zone": "interior"
+    },
+    "CENTER PLATE OF PB": {
+      "placement_zone": "primary_front"
+    },
+    "FOG LIGHT AREA": {
+      "placement_zone": "primary_front"
+    },
+    "FRONT CORNER OF BUMPER": {
+      "placement_zone": "front_corner"
+    },
+    "FRONT OF MIRROR": {
+      "placement_zone": "front_side"
+    },
+    "GRILL": {
+      "placement_zone": "primary_front"
+    },
+    "HEADLIGHT CUT OUTS": {
+      "placement_zone": "primary_front"
+    },
+    "HEADLINER": {
+      "placement_zone": "interior"
+    },
+    "IN GRILL": {
+      "placement_zone": "primary_front"
+    },
+    "IN LIGHT BAR": {
+      "placement_zone": "roof"
+    },
+    "INTERIOR LIGHT BAR (FRONT)": {
+      "placement_zone": "interior"
+    },
+    "LEFT AND RIGHT FENDER": {
+      "placement_zone": "front_side"
+    },
+    "LEFT FRONT FENDER": {
+      "placement_zone": "front_side"
+    },
+    "LEFT ON DASH": {
+      "placement_zone": "interior"
+    },
+    "LICENSE PLATE BRACKET": {
+      "placement_zone": "rear"
+    },
+    "LIGHTBAR MOUNT": {
+      "placement_zone": "roof"
+    },
+    "LOWER CARGO WINDOW": {
+      "placement_zone": "rear_interior"
+    },
+    "LOWER GRILL": {
+      "placement_zone": "primary_front"
+    },
+    "LOWER LIFTGATE LIP": {
+      "placement_zone": "rear"
+    },
+    "ON DASH": {
+      "placement_zone": "interior"
+    },
+    "ON ROOF": {
+      "placement_zone": "roof"
+    },
+    "ON RUNNING BOARD": {
+      "placement_zone": "side"
+    },
+    "ON SPECIFIC BRACKET": {},
+    "ON TAILGATE/LIFTGATE": {
+      "placement_zone": "rear"
+    },
+    "PASSENGER SIDE ONLY": {},
+    "PILLARS": {
+      "placement_zone": "front_corner"
+    },
+    "PIT BARS": {
+      "placement_zone": "primary_front"
+    },
+    "PUSH BUMPER": {
+      "placement_zone": "primary_front"
+    },
+    "PUSH BUMPER MOUNT": {
+      "placement_zone": "primary_front"
+    },
+    "REAR BUMPER": {
+      "placement_zone": "rear"
+    },
+    "REAR DOOR WINDOW": {
+      "placement_zone": "rear_side"
+    },
+    "REAR INTERIOR LIGHT BAR": {
+      "placement_zone": "rear_interior"
+    },
+    "REAR LEFT ROOF": {
+      "placement_zone": "rear"
+    },
+    "RIGHT FRONT FENDER": {
+      "placement_zone": "front_side"
+    },
+    "ROCKER PANEL": {
+      "placement_zone": "side"
+    },
+    "ROOF": {
+      "placement_zone": "roof"
+    },
+    "ROOF CENTER": {
+      "placement_zone": "roof"
+    },
+    "ROOF LIGHT BAR": {
+      "placement_zone": "roof"
+    },
+    "SIDE OF PUSH BUMPER": {
+      "placement_zone": "primary_front"
+    },
+    "SPECIFY LOCATION": {},
+    "SPOT LIGHT MOUNT": {},
+    "TAIL LIGHTS": {
+      "placement_zone": "rear"
+    },
+    "TOP OF PUSH BUMPER": {
+      "placement_zone": "primary_front"
+    },
+    "TOP TUBE": {
+      "placement_zone": "primary_front"
+    },
+    "UNDER MIRROR": {
+      "placement_zone": "front_side"
+    },
+    "UNDER PUSH BUMPER": {
+      "placement_zone": "primary_front"
+    },
+    "UNDER TAILGATE": {
+      "placement_zone": "rear"
+    },
+    "UPPER CARGO WINDOW": {
+      "placement_zone": "rear_interior"
+    },
+    "UPPER DRIVER AND PASSENGER": {
+      "placement_zone": "primary_front"
+    },
+    "UPPER REAR WINDOW": {
+      "placement_zone": "rear_interior"
+    },
+    "UPPER WINDSHIELD": {
+      "placement_zone": "primary_front"
+    },
+    "VEHICLE SPECIFIC BRACKET": {},
+    "VEHICLE SPECIFIC BRACKET(S)": {},
+    "HEADLIGHT_TWIST_LOCK": {
+      "allowed_products": [
+        "whelen_vxe",
+        "whelen_vertex"
+      ]
+    },
+    "TAILLIGHT_TWIST_LOCK": {
+      "allowed_products": [
+        "whelen_vxe",
+        "whelen_vertex"
+      ]
+    },
+    "LIGHTBAR_MOUNT": {
+      "allowed_products": [
+        "arges_arges_control_head"
+      ]
+    }
+  },
+  "placement_zones": {
+    "primary_front": {
+      "label": "Primary Front"
+    },
+    "front_corner": {
+      "label": "Front Corner"
+    },
+    "front_side": {
+      "label": "Front Side"
+    },
+    "side": {
+      "label": "Side"
+    },
+    "rear_side": {
+      "label": "Rear Side"
+    },
+    "rear_corner": {
+      "label": "Rear Corner"
+    },
+    "rear": {
+      "label": "Rear"
+    },
+    "rear_interior": {
+      "label": "Rear Interior"
+    },
+    "interior": {
+      "label": "Interior"
+    },
+    "roof": {
+      "label": "Roof"
+    }
+  },
+  "services": {
+    "graphics": {
+      "label": "Graphics / Decals"
+    },
+    "pickup_delivery": {
+      "label": "Pickup / Delivery"
+    },
+    "shipping": {
+      "label": "Shipping Services"
+    },
+    "vehicle_acquisition": {
+      "label": "Vehicle Acquisition"
+    },
+    "vehicle_trade_in": {
+      "label": "Vehicle Trade-In"
+    }
+  },
+  "preference_filters": {
+    "lighting_brand": {
+      "preference_field": "preferences.lighting",
+      "filter_scope_kind": "type_id",
+      "filter_scope_values": [
+        "lights"
+      ],
+      "filter_action": "restrict_to_manufacturer"
+    },
+    "bumper_brand": {
+      "preference_field": "preferences.bumper",
+      "filter_scope_kind": "part_type_ids",
+      "filter_scope_values": [
+        "push_bumper",
+        "pit_bar",
+        "wing_wraps"
+      ],
+      "filter_action": "restrict_to_manufacturer"
+    },
+    "cage_brand": {
+      "preference_field": "preferences.cage",
+      "filter_scope_kind": "part_type_ids",
+      "filter_scope_values": [
+        "cage",
+        "front_partition",
+        "rear_partition",
+        "rear_seat_divider",
+        "floor_pan",
+        "replacement_rear_seat",
+        "k9_kennel"
+      ],
+      "filter_action": "restrict_to_manufacturer"
+    },
+    "camera_brand": {
+      "preference_field": "preferences.camera",
+      "filter_scope_kind": "tag_ids",
+      "filter_scope_values": [
+        "camera"
+      ],
+      "filter_action": "restrict_to_manufacturer"
+    }
+  },
+  "color_palette": {
+    "red": {
+      "label": "Red",
+      "hex": "#E10600",
+      "naming_token": "R"
+    },
+    "blue": {
+      "label": "Blue",
+      "hex": "#003DA5",
+      "naming_token": "B"
+    },
+    "white": {
+      "label": "White",
+      "hex": "#FFFFFF",
+      "naming_token": "W"
+    },
+    "amber": {
+      "label": "Amber",
+      "hex": "#FFA500",
+      "naming_token": "A"
+    },
+    "green": {
+      "label": "Green",
+      "hex": "#00853E",
+      "naming_token": "G"
+    },
+    "purple": {
+      "label": "Purple",
+      "hex": "#8B5CF6",
+      "naming_token": "P"
+    }
+  },
+  "naming_rules": {
+    "product_display_name": {
+      "template": "{manufacturer_label} {model}"
+    },
+    "light_part_name": {
+      "template": "{manufacturer_label} {model} {colors_joined}",
+      "color_joiner": "/",
+      "color_canonical_order": [
+        "red",
+        "blue",
+        "white",
+        "amber",
+        "green",
+        "purple"
+      ],
+      "color_display_form": "label"
+    }
+  }
 }
