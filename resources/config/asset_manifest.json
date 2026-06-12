@@ -140,7 +140,8 @@
       "top": "lights/interior-front_top.png"
     },
     "interior-rear": {
-      "top": "lights/bar_interior-rear_top-rear.png"
+      "top": "lights/bar_interior-rear_top-rear.png",
+      "rear": "lights/interior-rear_rear.png"
     }
   },
   "equipment_assets": {
