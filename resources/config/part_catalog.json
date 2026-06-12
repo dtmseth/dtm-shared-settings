@@ -932,7 +932,8 @@
       },
       "aliases": [
         "Rear Interior Light Bar"
-      ]
+      ],
+      "co_part_rules": []
     },
     {
       "part_id": "rear_warning_1",
