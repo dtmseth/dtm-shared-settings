@@ -135,7 +135,9 @@
       "side": "lights/bar_roof_side.png",
       "top": "lights/bar_roof_top.png"
     },
-    "interior-front": {},
+    "interior-front": {
+      "front": "lights/interior-front_front.png"
+    },
     "interior-rear": {
       "top": "lights/bar_interior-rear_top-rear.png"
     }
@@ -366,28 +368,6 @@
         "top": {
           "w": 0.37,
           "h": 0.085
-        }
-      }
-    },
-    "new": {
-      "label": "Pioneer",
-      "maintain_aspect_ratio": false,
-      "views": {
-        "front": {
-          "w": 0.5,
-          "h": 0.15
-        },
-        "rear": {
-          "w": 0.5,
-          "h": 0.15
-        },
-        "side": {
-          "w": 0.4,
-          "h": 0.1
-        },
-        "top": {
-          "w": 0.4,
-          "h": 0.1
         }
       }
     }
