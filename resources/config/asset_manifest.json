@@ -368,6 +368,28 @@
           "h": 0.085
         }
       }
+    },
+    "new": {
+      "label": "Pioneer",
+      "maintain_aspect_ratio": false,
+      "views": {
+        "front": {
+          "w": 0.5,
+          "h": 0.15
+        },
+        "rear": {
+          "w": 0.5,
+          "h": 0.15
+        },
+        "side": {
+          "w": 0.4,
+          "h": 0.1
+        },
+        "top": {
+          "w": 0.4,
+          "h": 0.1
+        }
+      }
     }
   },
   "schema_version": 1,
