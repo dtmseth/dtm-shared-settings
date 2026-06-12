@@ -739,7 +739,8 @@
         "Interior Light Bar",
         "Interior Light Bar (Front)"
       ],
-      "is_fixture": true
+      "is_fixture": true,
+      "co_part_rules": []
     },
     {
       "part_id": "side_warning_1",
