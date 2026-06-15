@@ -1918,7 +1918,11 @@
         {
           "part_number": "ACE K-9"
         }
-      ]
+      ],
+      "qb_item_id": "18",
+      "qb_sku": "",
+      "qb_unit_price": 35.0,
+      "qb_last_synced": "2026-06-15T20:08:48Z"
     },
     "havis_cup_holders": {
       "manufacturer_id": "havis",
