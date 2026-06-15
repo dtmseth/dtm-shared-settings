@@ -135,10 +135,7 @@
       "side": "lights/bar_roof_side.png",
       "top": "lights/bar_roof_top.png"
     },
-    "interior-front": {
-      "top": "lights/interior-front_top.png",
-      "front": "lights/interior-front_front.png"
-    },
+    "interior-front": {},
     "interior-rear": {
       "top": "lights/bar_interior-rear_top-rear.png",
       "rear": "lights/interior-rear_rear.png"
