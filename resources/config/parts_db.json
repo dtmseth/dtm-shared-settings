@@ -291,7 +291,11 @@
         {
           "part_number": "PB400"
         }
-      ]
+      ],
+      "qb_item_id": "3",
+      "qb_sku": "",
+      "qb_unit_price": 0.0,
+      "qb_last_synced": "2026-06-15T20:08:35Z"
     },
     "setina_pb450l": {
       "manufacturer_id": "setina",
