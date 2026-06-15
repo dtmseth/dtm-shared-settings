@@ -740,7 +740,18 @@
         "Interior Light Bar (Front)"
       ],
       "is_fixture": true,
-      "co_part_rules": []
+      "co_part_rules": [],
+      "size_per_view": {
+        "front": {
+          "w": 0.34,
+          "h": 3.5,
+          "rotation": 270
+        },
+        "top": {
+          "w": 0.22,
+          "h": 1.9
+        }
+      }
     },
     {
       "part_id": "side_warning_1",
