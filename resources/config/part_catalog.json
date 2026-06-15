@@ -743,8 +743,9 @@
       "co_part_rules": [],
       "size_per_view": {
         "front": {
-          "w": 0.18,
-          "h": 1.5
+          "w": 0.34,
+          "h": 3.5,
+          "rotation": 270
         },
         "top": {
           "w": 0.18,
