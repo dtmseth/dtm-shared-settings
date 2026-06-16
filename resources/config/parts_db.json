@@ -275,6 +275,45 @@
     },
     "whelen": {
       "label": "Whelen"
+    },
+    "jb_lund_dock": {
+      "label": "JB Lund Dock"
+    },
+    "pac_tool": {
+      "label": "Pac Tool"
+    },
+    "unity": {
+      "label": "Unity"
+    },
+    "federal_signal": {
+      "label": "Federal Signal"
+    },
+    "ram": {
+      "label": "RAM"
+    },
+    "go_rhino": {
+      "label": "Go Rhino"
+    },
+    "intermotive": {
+      "label": "InterMotive"
+    },
+    "fireninja_safety_equipment": {
+      "label": "FireNinja Safety Equipment"
+    },
+    "air_one_equipment": {
+      "label": "Air One Equipment"
+    },
+    "snowex": {
+      "label": "SnowEx"
+    },
+    "noptic": {
+      "label": "Noptic"
+    },
+    "lind": {
+      "label": "Lind"
+    },
+    "laird": {
+      "label": "Laird"
     }
   },
   "products": {
@@ -1918,7 +1957,11 @@
         {
           "part_number": "ACE K-9"
         }
-      ]
+      ],
+      "qb_item_id": "18",
+      "qb_sku": "",
+      "qb_unit_price": 35.0,
+      "qb_last_synced": "2026-06-15T20:08:48Z"
     },
     "havis_cup_holders": {
       "manufacturer_id": "havis",
