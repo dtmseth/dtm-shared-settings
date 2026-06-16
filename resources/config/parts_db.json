@@ -2924,14 +2924,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "AS-Bolt1A",
-          "qb_item_id": "268",
-          "qb_sku": "",
-          "qb_unit_price": 365.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "1 BUTTON 1 WAY"
         }
       ]
     },
@@ -2946,14 +2939,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "AS-Flex 1",
-          "qb_item_id": "271",
-          "qb_sku": "",
-          "qb_unit_price": 375.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "4 BUTTON 1 WAY"
         }
       ]
     },
@@ -2968,14 +2954,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "AS-Bolt 2",
-          "qb_item_id": "267",
-          "qb_sku": "",
-          "qb_unit_price": 465.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "1 BUTTON 2 WAY"
         }
       ]
     },
@@ -2990,24 +2969,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "AS-Flex 2",
-          "qb_item_id": "272",
-          "qb_sku": "",
-          "qb_unit_price": 475.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "AS-Edge 2x",
-          "qb_item_id": "270",
-          "qb_sku": "",
-          "qb_unit_price": 595.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "4 BUTTON 2 WAY"
         }
       ]
     },
@@ -3295,28 +3257,6 @@
       "part_numbers": [
         {
           "part_number": "CUSTOM GRAPHICS ( WORK WITH MFG)"
-        }
-      ]
-    },
-    "arcti_start_app_control": {
-      "manufacturer_id": "arcti_start",
-      "model": "APP CONTROL",
-      "fits_part_types": [
-        "remote_start"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "AS-Drone",
-          "qb_item_id": "269",
-          "qb_sku": "",
-          "qb_unit_price": 434.99,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
         }
       ]
     }
