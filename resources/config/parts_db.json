@@ -2593,164 +2593,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "PK0228CHT191500",
-          "qb_item_id": "837",
-          "qb_sku": "",
-          "qb_unit_price": 1139.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "CHEVY-1500"
-          ]
-        },
-        {
-          "part_number": "PK0228DUR11",
-          "qb_item_id": "838",
-          "qb_sku": "",
-          "qb_unit_price": 1139.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ]
-        },
-        {
-          "part_number": "PK0228ITU20TM",
-          "qb_item_id": "839",
-          "qb_sku": "",
-          "qb_unit_price": 1139.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "PK0228TAH21",
-          "qb_item_id": "840",
-          "qb_sku": "",
-          "qb_unit_price": 1139.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
-        },
-        {
-          "part_number": "PK0350TAH21",
-          "qb_item_id": "845",
-          "qb_sku": "",
-          "qb_unit_price": 1009.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
-        },
-        {
-          "part_number": "PK0355ITU20TM",
-          "qb_item_id": "846",
-          "qb_sku": "",
-          "qb_unit_price": 1099.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "PK0369ITU20TM",
-          "qb_item_id": "847",
-          "qb_sku": "",
-          "qb_unit_price": 1009.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "PK0374CHT191500",
-          "qb_item_id": "848",
-          "qb_sku": "",
-          "qb_unit_price": 999.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "CHEVY-1500"
-          ]
-        },
-        {
-          "part_number": "PK0374ITU20TM",
-          "qb_item_id": "849",
-          "qb_sku": "",
-          "qb_unit_price": 999.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "PK0419CHT191500",
-          "qb_item_id": "850",
-          "qb_sku": "",
-          "qb_unit_price": 1149.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "CHEVY-1500"
-          ]
-        },
-        {
-          "part_number": "PK0419DUR11",
-          "qb_item_id": "851",
-          "qb_sku": "",
-          "qb_unit_price": 1149.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ]
-        },
-        {
-          "part_number": "PK0419EPD18",
-          "qb_item_id": "852",
-          "qb_sku": "",
-          "qb_unit_price": 1149.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "EXPEDITION"
-          ]
-        },
-        {
-          "part_number": "PK0419FDT15F150",
-          "qb_item_id": "853",
-          "qb_sku": "",
-          "qb_unit_price": 1149.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "F-150"
-          ]
-        },
-        {
-          "part_number": "PK0419ITU20TM",
-          "qb_item_id": "854",
-          "qb_sku": "",
-          "qb_unit_price": 1149.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "PK0419TAH21",
-          "qb_item_id": "855",
-          "qb_sku": "",
-          "qb_unit_price": 1149.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
-        },
-        {
-          "part_number": "PK0439ITU20TM",
-          "qb_item_id": "856",
-          "qb_sku": "",
-          "qb_unit_price": 1059.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
+          "part_number": "FULL PARTITION"
         }
       ]
     },
@@ -2765,104 +2608,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "1K0574CHT191500",
-          "qb_item_id": "46",
-          "qb_sku": "",
-          "qb_unit_price": 1279.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "CHEVY-1500"
-          ]
-        },
-        {
-          "part_number": "1K0574DUR11",
-          "qb_item_id": "47",
-          "qb_sku": "",
-          "qb_unit_price": 1279.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ]
-        },
-        {
-          "part_number": "1K0574DUR11FSR",
-          "qb_item_id": "48",
-          "qb_sku": "",
-          "qb_unit_price": 1279.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ]
-        },
-        {
-          "part_number": "1K0574FDT15F150PDR",
-          "qb_item_id": "49",
-          "qb_sku": "",
-          "qb_unit_price": 1279.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "F-150"
-          ]
-        },
-        {
-          "part_number": "1K0574FDT15F150WOD",
-          "qb_item_id": "50",
-          "qb_sku": "",
-          "qb_unit_price": 1279.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "F-150"
-          ]
-        },
-        {
-          "part_number": "1K0574ITU20FR",
-          "qb_item_id": "51",
-          "qb_sku": "",
-          "qb_unit_price": 1279.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "1K0574ITU20WD",
-          "qb_item_id": "52",
-          "qb_sku": "",
-          "qb_unit_price": 1279.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "1K0574TAH21FR",
-          "qb_item_id": "53",
-          "qb_sku": "",
-          "qb_unit_price": 1279.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
-        },
-        {
-          "part_number": "1K0574TAH21WD",
-          "qb_item_id": "54",
-          "qb_sku": "",
-          "qb_unit_price": 1279.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
-        },
-        {
-          "part_number": "1K0576TAH21WD",
-          "qb_item_id": "55",
-          "qb_sku": "",
-          "qb_unit_price": 1279.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
+          "part_number": "SINGLE PRISIONER"
         }
       ]
     },
@@ -2877,34 +2623,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "PK1126BLE24",
-          "qb_item_id": "857",
-          "qb_sku": "",
-          "qb_unit_price": 1149.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "BLAZER"
-          ]
-        },
-        {
-          "part_number": "PK1152TAH21",
-          "qb_item_id": "858",
-          "qb_sku": "",
-          "qb_unit_price": 1149.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
-        },
-        {
-          "part_number": "PK1188CHT191500",
-          "qb_item_id": "859",
-          "qb_sku": "",
-          "qb_unit_price": 1139.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "CHEVY-1500"
-          ]
+          "part_number": "FULL XL PARTITION"
         }
       ]
     },
@@ -3255,14 +2974,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "PK0123TAH212ND",
-          "qb_item_id": "836",
-          "qb_sku": "",
-          "qb_unit_price": 659.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
+          "part_number": "STEEL WINDOW"
         }
       ]
     },
@@ -3277,44 +2989,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "PK0316BLE242ND",
-          "qb_item_id": "841",
-          "qb_sku": "",
-          "qb_unit_price": 689.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "BLAZER"
-          ]
-        },
-        {
-          "part_number": "PK0316DUR112ND",
-          "qb_item_id": "842",
-          "qb_sku": "",
-          "qb_unit_price": 689.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ]
-        },
-        {
-          "part_number": "PK0316EPD182ND",
-          "qb_item_id": "843",
-          "qb_sku": "",
-          "qb_unit_price": 689.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "EXPEDITION"
-          ]
-        },
-        {
-          "part_number": "PK0316TAH212ND",
-          "qb_item_id": "844",
-          "qb_sku": "",
-          "qb_unit_price": 689.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
+          "part_number": "POLY WINDOW"
         }
       ]
     },
@@ -4527,58 +4202,6 @@
           "qb_inactive": false,
           "vehicle_tags": [
             "any"
-          ]
-        }
-      ]
-    },
-    "setina_dual_prisoner": {
-      "manufacturer_id": "setina",
-      "model": "DUAL PRISONER PARTITION",
-      "fits_part_types": [
-        "front_partition"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "2K0035CHT191500RPWDRW",
-          "qb_item_id": "98",
-          "qb_sku": "",
-          "qb_unit_price": 599.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "CHEVY-1500"
-          ]
-        },
-        {
-          "part_number": "2K0035ITU20RPFRTM",
-          "qb_item_id": "99",
-          "qb_sku": "",
-          "qb_unit_price": 599.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "2K0035TAH21FPWD",
-          "qb_item_id": "100",
-          "qb_sku": "",
-          "qb_unit_price": 599.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
-        },
-        {
-          "part_number": "2K0035TAH21RPFC",
-          "qb_item_id": "101",
-          "qb_sku": "",
-          "qb_unit_price": 599.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
           ]
         }
       ]
