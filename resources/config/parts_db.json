@@ -2076,9 +2076,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
