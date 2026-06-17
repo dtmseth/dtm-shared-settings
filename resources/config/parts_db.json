@@ -1186,7 +1186,94 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "VXE"
+          "part_number": "VX2D",
+          "qb_item_id": "1244",
+          "qb_sku": "",
+          "qb_unit_price": 150.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VX2DX",
+          "qb_item_id": "1245",
+          "qb_sku": "",
+          "qb_unit_price": 157.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VX2E",
+          "qb_item_id": "1246",
+          "qb_sku": "",
+          "qb_unit_price": 150.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VX2EX",
+          "qb_item_id": "1247",
+          "qb_sku": "",
+          "qb_unit_price": 157.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VX3BACX",
+          "qb_item_id": "1248",
+          "qb_sku": "",
+          "qb_unit_price": 177.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VX3RACX",
+          "qb_item_id": "1249",
+          "qb_sku": "",
+          "qb_unit_price": 177.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VX3RBC",
+          "qb_item_id": "1250",
+          "qb_sku": "",
+          "qb_unit_price": 171.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VXTD",
+          "qb_item_id": "1251",
+          "qb_sku": "",
+          "qb_unit_price": 171.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VXTE",
+          "qb_item_id": "1252",
+          "qb_sku": "",
+          "qb_unit_price": 171.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -1485,7 +1572,74 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "VERTEX"
+          "part_number": "VTX609A",
+          "qb_item_id": "1235",
+          "qb_sku": "",
+          "qb_unit_price": 144.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VTX609B",
+          "qb_item_id": "1236",
+          "qb_sku": "",
+          "qb_unit_price": 144.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VTX609C",
+          "qb_item_id": "1237",
+          "qb_sku": "",
+          "qb_unit_price": 144.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VTX609R",
+          "qb_item_id": "1238",
+          "qb_sku": "",
+          "qb_unit_price": 144.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VTX9D",
+          "qb_item_id": "1239",
+          "qb_sku": "",
+          "qb_unit_price": 150.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VTX9E",
+          "qb_item_id": "1240",
+          "qb_sku": "",
+          "qb_unit_price": 150.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VTX9F",
+          "qb_item_id": "1241",
+          "qb_sku": "",
+          "qb_unit_price": 150.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -1872,7 +2026,34 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "MIRROR BEAMS"
+          "part_number": "MBCT21",
+          "qb_item_id": "725",
+          "qb_sku": "",
+          "qb_unit_price": 495.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ]
+        },
+        {
+          "part_number": "MBDC11",
+          "qb_item_id": "726",
+          "qb_sku": "",
+          "qb_unit_price": 495.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "CHARGER"
+          ]
+        },
+        {
+          "part_number": "MBFX25",
+          "qb_item_id": "727",
+          "qb_sku": "",
+          "qb_unit_price": 495.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ]
         }
       ]
     },
@@ -2186,7 +2367,364 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "T-SERIES"
+          "part_number": "TSS0A",
+          "qb_item_id": "1170",
+          "qb_sku": "",
+          "qb_unit_price": 171.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0B",
+          "qb_item_id": "1171",
+          "qb_sku": "",
+          "qb_unit_price": 171.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0BX",
+          "qb_item_id": "1172",
+          "qb_sku": "",
+          "qb_unit_price": 182.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0C",
+          "qb_item_id": "1173",
+          "qb_sku": "",
+          "qb_unit_price": 171.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0D",
+          "qb_item_id": "1174",
+          "qb_sku": "",
+          "qb_unit_price": 199.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0DX",
+          "qb_item_id": "1175",
+          "qb_sku": "",
+          "qb_unit_price": 211.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0E",
+          "qb_item_id": "1176",
+          "qb_sku": "",
+          "qb_unit_price": 199.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0EX",
+          "qb_item_id": "1177",
+          "qb_sku": "",
+          "qb_unit_price": 211.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0F",
+          "qb_item_id": "1178",
+          "qb_sku": "",
+          "qb_unit_price": 199.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0J",
+          "qb_item_id": "1179",
+          "qb_sku": "",
+          "qb_unit_price": 199.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0JC",
+          "qb_item_id": "1180",
+          "qb_sku": "",
+          "qb_unit_price": 221.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0K",
+          "qb_item_id": "1181",
+          "qb_sku": "",
+          "qb_unit_price": 199.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0KC",
+          "qb_item_id": "1182",
+          "qb_sku": "",
+          "qb_unit_price": 221.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0KCX",
+          "qb_item_id": "1183",
+          "qb_sku": "",
+          "qb_unit_price": 232.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0M",
+          "qb_item_id": "1184",
+          "qb_sku": "",
+          "qb_unit_price": 199.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0MCK",
+          "qb_item_id": "1185",
+          "qb_sku": "",
+          "qb_unit_price": 232.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0R",
+          "qb_item_id": "1186",
+          "qb_sku": "",
+          "qb_unit_price": 171.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TSS0RX",
+          "qb_item_id": "1187",
+          "qb_sku": "",
+          "qb_unit_price": 182.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0A",
+          "qb_item_id": "1188",
+          "qb_sku": "",
+          "qb_unit_price": 171.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0AX",
+          "qb_item_id": "1189",
+          "qb_sku": "",
+          "qb_unit_price": 182.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0B",
+          "qb_item_id": "1190",
+          "qb_sku": "",
+          "qb_unit_price": 171.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0BX",
+          "qb_item_id": "1191",
+          "qb_sku": "",
+          "qb_unit_price": 182.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0C",
+          "qb_item_id": "1192",
+          "qb_sku": "",
+          "qb_unit_price": 171.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0D",
+          "qb_item_id": "1193",
+          "qb_sku": "",
+          "qb_unit_price": 199.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0DX",
+          "qb_item_id": "1194",
+          "qb_sku": "",
+          "qb_unit_price": 211.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0E",
+          "qb_item_id": "1195",
+          "qb_sku": "",
+          "qb_unit_price": 199.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0EX",
+          "qb_item_id": "1196",
+          "qb_sku": "",
+          "qb_unit_price": 211.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0FX",
+          "qb_item_id": "1197",
+          "qb_sku": "",
+          "qb_unit_price": 211.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0J",
+          "qb_item_id": "1198",
+          "qb_sku": "",
+          "qb_unit_price": 199.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0JX",
+          "qb_item_id": "1199",
+          "qb_sku": "",
+          "qb_unit_price": 211.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0K",
+          "qb_item_id": "1200",
+          "qb_sku": "",
+          "qb_unit_price": 199.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0KX",
+          "qb_item_id": "1201",
+          "qb_sku": "",
+          "qb_unit_price": 211.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0M",
+          "qb_item_id": "1202",
+          "qb_sku": "",
+          "qb_unit_price": 199.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0MX",
+          "qb_item_id": "1203",
+          "qb_sku": "",
+          "qb_unit_price": 211.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0R",
+          "qb_item_id": "1204",
+          "qb_sku": "",
+          "qb_unit_price": 171.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TST0RX",
+          "qb_item_id": "1205",
+          "qb_sku": "",
+          "qb_unit_price": 182.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -2205,7 +2743,124 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "MEGA T-SERIES"
+          "part_number": "PSA01FCR",
+          "qb_item_id": "874",
+          "qb_sku": "",
+          "qb_unit_price": 179.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PSB01FCR",
+          "qb_item_id": "875",
+          "qb_sku": "",
+          "qb_unit_price": 179.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PSC01FCR",
+          "qb_item_id": "877",
+          "qb_sku": "",
+          "qb_unit_price": 179.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PSD02FCR",
+          "qb_item_id": "879",
+          "qb_sku": "",
+          "qb_unit_price": 218.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PSE02FCR",
+          "qb_item_id": "880",
+          "qb_sku": "",
+          "qb_unit_price": 218.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PSJ02FCR",
+          "qb_item_id": "882",
+          "qb_sku": "",
+          "qb_unit_price": 218.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PSJC3FCR",
+          "qb_item_id": "883",
+          "qb_sku": "",
+          "qb_unit_price": 238.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PSK02FCR",
+          "qb_item_id": "884",
+          "qb_sku": "",
+          "qb_unit_price": 218.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PSKC3FCR",
+          "qb_item_id": "885",
+          "qb_sku": "",
+          "qb_unit_price": 238.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PSM02FCR",
+          "qb_item_id": "888",
+          "qb_sku": "",
+          "qb_unit_price": 218.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PSMC3FCR",
+          "qb_item_id": "889",
+          "qb_sku": "",
+          "qb_unit_price": 238.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PSR01FCR",
+          "qb_item_id": "890",
+          "qb_sku": "",
+          "qb_unit_price": 179.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -2222,7 +2877,224 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "MINI T-SERIES"
+          "part_number": "TMS0A",
+          "qb_item_id": "1145",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMS0B",
+          "qb_item_id": "1146",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMS0D",
+          "qb_item_id": "1147",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMS0F",
+          "qb_item_id": "1148",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMS0R",
+          "qb_item_id": "1149",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMSOE",
+          "qb_item_id": "1150",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0A",
+          "qb_item_id": "1151",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0B",
+          "qb_item_id": "1152",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0BX",
+          "qb_item_id": "1153",
+          "qb_sku": "",
+          "qb_unit_price": 169.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0C",
+          "qb_item_id": "1154",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0D",
+          "qb_item_id": "1155",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0DX",
+          "qb_item_id": "1156",
+          "qb_sku": "",
+          "qb_unit_price": 169.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0E",
+          "qb_item_id": "1157",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0EX",
+          "qb_item_id": "1158",
+          "qb_sku": "",
+          "qb_unit_price": 169.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0J",
+          "qb_item_id": "1159",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0JX",
+          "qb_item_id": "1160",
+          "qb_sku": "",
+          "qb_unit_price": 169.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0K",
+          "qb_item_id": "1161",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0KX",
+          "qb_item_id": "1162",
+          "qb_sku": "",
+          "qb_unit_price": 169.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0M",
+          "qb_item_id": "1163",
+          "qb_sku": "",
+          "qb_unit_price": 158.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0MX",
+          "qb_item_id": "1164",
+          "qb_sku": "",
+          "qb_unit_price": 169.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0R",
+          "qb_item_id": "1165",
+          "qb_sku": "",
+          "qb_unit_price": 169.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "TMT0RX",
+          "qb_item_id": "1166",
+          "qb_sku": "",
+          "qb_unit_price": 169.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -2930,7 +3802,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "CEM8"
+          "part_number": "CEM8",
+          "qb_item_id": "427",
+          "qb_sku": "",
+          "qb_unit_price": 227.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -2945,7 +3824,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "CEM16"
+          "part_number": "CEM16",
+          "qb_item_id": "425",
+          "qb_sku": "",
+          "qb_unit_price": 292.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -2960,7 +3846,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "CEM24"
+          "part_number": "CEM24",
+          "qb_item_id": "426",
+          "qb_sku": "",
+          "qb_unit_price": 399.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -6338,6 +7231,91 @@
           "qb_item_id": "640",
           "qb_sku": "",
           "qb_unit_price": 340.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        }
+      ]
+    },
+    "whelen_ion_rear_pillar": {
+      "manufacturer_id": "whelen",
+      "model": "ION REAR PILLAR",
+      "fits_part_types": [
+        "rear_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "RPWD50",
+          "qb_item_id": "949",
+          "qb_sku": "",
+          "qb_unit_price": 1798.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ]
+        },
+        {
+          "part_number": "RPWD54",
+          "qb_item_id": "950",
+          "qb_sku": "",
+          "qb_unit_price": 2048.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ]
+        },
+        {
+          "part_number": "RPWT50",
+          "qb_item_id": "951",
+          "qb_sku": "",
+          "qb_unit_price": 2035.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ]
+        }
+      ]
+    },
+    "whelen_500_series": {
+      "manufacturer_id": "whelen",
+      "model": "500 SERIES TIR",
+      "fits_part_types": [
+        "forward_warning",
+        "side_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "50A03ZCR",
+          "qb_item_id": "151",
+          "qb_sku": "",
+          "qb_unit_price": 211.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "50R03ZCR",
+          "qb_item_id": "152",
+          "qb_sku": "",
+          "qb_unit_price": 211.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "50S03ZAR",
+          "qb_item_id": "153",
+          "qb_sku": "",
+          "qb_unit_price": 211.0,
           "qb_inactive": false,
           "vehicle_tags": [
             "any"
