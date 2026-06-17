@@ -2078,7 +2078,7 @@
           ],
           "color": "purple",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -2327,7 +2327,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "U180DX",
@@ -2353,7 +2353,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "U180EX",
@@ -2379,7 +2379,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "U180JC",
@@ -2392,7 +2392,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "U180KCX",
@@ -8565,7 +8565,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "ML2DD",
@@ -8578,7 +8578,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "ML2DE",
@@ -8591,7 +8591,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -8616,7 +8616,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "M4BC",
@@ -8642,7 +8642,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "M4DE",
@@ -8655,7 +8655,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "M4R",
@@ -8668,7 +8668,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "M4RC",
@@ -8694,7 +8694,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "M4V2R",
@@ -8707,7 +8707,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -8732,7 +8732,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "M6DD",
@@ -8745,7 +8745,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "M6DE",
@@ -8758,7 +8758,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "M6R",
@@ -8771,7 +8771,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "M6V2C",
@@ -8784,7 +8784,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -8809,7 +8809,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "M7AC",
@@ -8861,7 +8861,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -8887,7 +8887,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "904SLC",
@@ -8926,7 +8926,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "S161MB",
@@ -8939,7 +8939,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "S30MB",
@@ -8952,7 +8952,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
