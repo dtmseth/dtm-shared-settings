@@ -971,14 +971,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "TCRWX2",
-          "qb_item_id": "1097",
-          "qb_sku": "",
-          "qb_unit_price": 599.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "2 LAMP TRACER"
         }
       ]
     },
@@ -1202,14 +1195,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FSB03B",
-          "qb_item_id": "543",
-          "qb_sku": "",
-          "qb_unit_price": 830.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "FIELD SERIES"
         }
       ]
     },
@@ -1225,74 +1211,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "MPBB",
-          "qb_item_id": "778",
-          "qb_sku": "",
-          "qb_unit_price": 528.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "MPPBBS",
-          "qb_item_id": "780",
-          "qb_sku": "",
-          "qb_unit_price": 750.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "NP6BB",
-          "qb_item_id": "783",
-          "qb_sku": "",
-          "qb_unit_price": 336.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "PBH203",
-          "qb_item_id": "829",
-          "qb_sku": "",
-          "qb_unit_price": 435.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "PFH2",
-          "qb_item_id": "833",
-          "qb_sku": "",
-          "qb_unit_price": 1871.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "PSL1BB",
-          "qb_item_id": "886",
-          "qb_sku": "",
-          "qb_unit_price": 528.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "PSL2BB",
-          "qb_item_id": "887",
-          "qb_sku": "",
-          "qb_unit_price": 1074.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "PIONEER"
         }
       ]
     },
@@ -1588,194 +1507,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "BSFW35Z",
-          "qb_item_id": "314",
-          "qb_sku": "",
-          "qb_unit_price": 1383.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "CHARGER"
-          ]
-        },
-        {
-          "part_number": "BSFW42X",
-          "qb_item_id": "315",
-          "qb_sku": "",
-          "qb_unit_price": 1420.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "RAM-1500"
-          ]
-        },
-        {
-          "part_number": "BSFW444",
-          "qb_item_id": "316",
-          "qb_sku": "",
-          "qb_unit_price": 838.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ]
-        },
-        {
-          "part_number": "BSFW445",
-          "qb_item_id": "317",
-          "qb_sku": "",
-          "qb_unit_price": 838.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ]
-        },
-        {
-          "part_number": "BSFW448",
-          "qb_item_id": "318",
-          "qb_sku": "",
-          "qb_unit_price": 1383.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ]
-        },
-        {
-          "part_number": "BSFW44Z",
-          "qb_item_id": "319",
-          "qb_sku": "",
-          "qb_unit_price": 1383.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ]
-        },
-        {
-          "part_number": "BSFW44ZT",
-          "qb_item_id": "320",
-          "qb_sku": "",
-          "qb_unit_price": 1383.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ]
-        },
-        {
-          "part_number": "BSFW475",
-          "qb_item_id": "321",
-          "qb_sku": "",
-          "qb_unit_price": 838.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "F-150"
-          ]
-        },
-        {
-          "part_number": "BSFW47Z",
-          "qb_item_id": "322",
-          "qb_sku": "",
-          "qb_unit_price": 1383.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "F-150"
-          ]
-        },
-        {
-          "part_number": "BSFW48X",
-          "qb_item_id": "323",
-          "qb_sku": "",
-          "qb_unit_price": 1420.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "EXPEDITION"
-          ]
-        },
-        {
-          "part_number": "BSFW49X",
-          "qb_item_id": "324",
-          "qb_sku": "",
-          "qb_unit_price": 1420.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "CHEVY-1500"
-          ]
-        },
-        {
-          "part_number": "BSFW505",
-          "qb_item_id": "325",
-          "qb_sku": "",
-          "qb_unit_price": 838.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "BSFW50Z",
-          "qb_item_id": "326",
-          "qb_sku": "",
-          "qb_unit_price": 1383.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "BSFW50ZT",
-          "qb_item_id": "327",
-          "qb_sku": "",
-          "qb_unit_price": 1383.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "BSFW54X",
-          "qb_item_id": "328",
-          "qb_sku": "",
-          "qb_unit_price": 1420.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
-        },
-        {
-          "part_number": "BSFW54XT",
-          "qb_item_id": "329",
-          "qb_sku": "",
-          "qb_unit_price": 1420.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
-        },
-        {
-          "part_number": "BSFW56X",
-          "qb_item_id": "330",
-          "qb_sku": "",
-          "qb_unit_price": 1420.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TESLA"
-          ]
-        },
-        {
-          "part_number": "BSFW57Z",
-          "qb_item_id": "331",
-          "qb_sku": "",
-          "qb_unit_price": 1383.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "MACH-E"
-          ]
-        },
-        {
-          "part_number": "BSFW59Z",
-          "qb_item_id": "332",
-          "qb_sku": "",
-          "qb_unit_price": 1420.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "BLAZER"
-          ]
+          "part_number": "FST"
         }
       ]
     },
@@ -1791,24 +1523,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "BW50UF6P",
-          "qb_item_id": "336",
-          "qb_sku": "",
-          "qb_unit_price": 1260.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "BW50UFX",
-          "qb_item_id": "337",
-          "qb_sku": "",
-          "qb_unit_price": 2254.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
+          "part_number": "XLP"
         }
       ]
     },
@@ -1942,14 +1657,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "TCRWX5",
-          "qb_item_id": "1099",
-          "qb_sku": "",
-          "qb_unit_price": 1173.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "TRACER 5 LAMP"
         }
       ]
     },
@@ -1964,14 +1672,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "TCRWX6",
-          "qb_item_id": "1100",
-          "qb_sku": "",
-          "qb_unit_price": 1364.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "TRACER 6 LAMP"
         }
       ]
     },
@@ -2169,104 +1870,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "BS44Z",
-          "qb_item_id": "306",
-          "qb_sku": "",
-          "qb_unit_price": 1525.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ]
-        },
-        {
-          "part_number": "BS44ZT",
-          "qb_item_id": "307",
-          "qb_sku": "",
-          "qb_unit_price": 1525.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ]
-        },
-        {
-          "part_number": "BS48Z",
-          "qb_item_id": "308",
-          "qb_sku": "",
-          "qb_unit_price": 1525.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "EXPEDITION"
-          ]
-        },
-        {
-          "part_number": "BS50Z",
-          "qb_item_id": "309",
-          "qb_sku": "",
-          "qb_unit_price": 1525.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "BS50ZT",
-          "qb_item_id": "310",
-          "qb_sku": "",
-          "qb_unit_price": 1525.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "BS54Z",
-          "qb_item_id": "311",
-          "qb_sku": "",
-          "qb_unit_price": 1525.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
-        },
-        {
-          "part_number": "BS54ZT",
-          "qb_item_id": "312",
-          "qb_sku": "",
-          "qb_unit_price": 1525.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
-        },
-        {
-          "part_number": "BS578",
-          "qb_item_id": "313",
-          "qb_sku": "",
-          "qb_unit_price": 1399.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "MACH-E"
-          ]
-        },
-        {
-          "part_number": "BSRW10",
-          "qb_item_id": "333",
-          "qb_sku": "",
-          "qb_unit_price": 1525.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "BSRW12",
-          "qb_item_id": "334",
-          "qb_sku": "",
-          "qb_unit_price": 1781.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "RST"
         }
       ]
     },
@@ -4578,14 +4182,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "ARGES2",
-          "qb_item_id": "266",
-          "qb_sku": "",
-          "qb_unit_price": 912.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "PRO-FOCUS"
         }
       ]
     },
@@ -4600,24 +4197,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "ARGES1",
-          "qb_item_id": "265",
-          "qb_sku": "",
-          "qb_unit_price": 788.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "ARGCH1",
-          "qb_item_id": "263",
-          "qb_sku": "",
-          "qb_unit_price": 352.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "ARGES W/ BAIL BRACKET"
         }
       ]
     },
@@ -4632,14 +4212,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "ARGCH2",
-          "qb_item_id": "264",
-          "qb_sku": "",
-          "qb_unit_price": 352.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "ARGES W/ SWIVEL BRACKET"
         }
       ]
     },
@@ -5874,73 +5447,6 @@
           "qb_item_id": "1234",
           "qb_sku": "",
           "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        }
-      ]
-    },
-    "whelen_outer_edge": {
-      "manufacturer_id": "whelen",
-      "model": "OUTER EDGE",
-      "fits_part_types": [
-        "rear_interior_light_bar"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "OEWD54",
-          "qb_item_id": "824",
-          "qb_sku": "",
-          "qb_unit_price": 1785.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ]
-        }
-      ]
-    },
-    "whelen_tracer_3_lamp": {
-      "manufacturer_id": "whelen",
-      "model": "TRACER 3 LAMP",
-      "fits_part_types": [
-        "side_warning",
-        "rear_warning"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "TCRWX3",
-          "qb_item_id": "1098",
-          "qb_sku": "",
-          "qb_unit_price": 790.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        }
-      ]
-    },
-    "whelen_traffic_advisor": {
-      "manufacturer_id": "whelen",
-      "model": "TRAFFIC ADVISOR",
-      "fits_part_types": [
-        "rear_warning"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "TAC830",
-          "qb_item_id": "1090",
-          "qb_sku": "",
-          "qb_unit_price": 1136.0,
           "qb_inactive": false,
           "vehicle_tags": [
             "any"
