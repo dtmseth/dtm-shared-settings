@@ -971,7 +971,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "2 LAMP TRACER"
+          "part_number": "TCRWX2",
+          "qb_item_id": "1097",
+          "qb_sku": "",
+          "qb_unit_price": 599.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -1323,7 +1330,34 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "WCX HOWLER"
+          "part_number": "CHOWLER",
+          "qb_item_id": "430",
+          "qb_sku": "",
+          "qb_unit_price": 944.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "CHWLFE29",
+          "qb_item_id": "432",
+          "qb_sku": "",
+          "qb_unit_price": 756.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ]
+        },
+        {
+          "part_number": "CHWLUNI",
+          "qb_item_id": "433",
+          "qb_sku": "",
+          "qb_unit_price": 756.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -1480,7 +1514,194 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FST"
+          "part_number": "BSFW35Z",
+          "qb_item_id": "314",
+          "qb_sku": "",
+          "qb_unit_price": 1383.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "CHARGER"
+          ]
+        },
+        {
+          "part_number": "BSFW42X",
+          "qb_item_id": "315",
+          "qb_sku": "",
+          "qb_unit_price": 1420.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "RAM-1500"
+          ]
+        },
+        {
+          "part_number": "BSFW444",
+          "qb_item_id": "316",
+          "qb_sku": "",
+          "qb_unit_price": 838.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ]
+        },
+        {
+          "part_number": "BSFW445",
+          "qb_item_id": "317",
+          "qb_sku": "",
+          "qb_unit_price": 838.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ]
+        },
+        {
+          "part_number": "BSFW448",
+          "qb_item_id": "318",
+          "qb_sku": "",
+          "qb_unit_price": 1383.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ]
+        },
+        {
+          "part_number": "BSFW44Z",
+          "qb_item_id": "319",
+          "qb_sku": "",
+          "qb_unit_price": 1383.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ]
+        },
+        {
+          "part_number": "BSFW44ZT",
+          "qb_item_id": "320",
+          "qb_sku": "",
+          "qb_unit_price": 1383.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ]
+        },
+        {
+          "part_number": "BSFW475",
+          "qb_item_id": "321",
+          "qb_sku": "",
+          "qb_unit_price": 838.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150"
+          ]
+        },
+        {
+          "part_number": "BSFW47Z",
+          "qb_item_id": "322",
+          "qb_sku": "",
+          "qb_unit_price": 1383.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150"
+          ]
+        },
+        {
+          "part_number": "BSFW48X",
+          "qb_item_id": "323",
+          "qb_sku": "",
+          "qb_unit_price": 1420.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "EXPEDITION"
+          ]
+        },
+        {
+          "part_number": "BSFW49X",
+          "qb_item_id": "324",
+          "qb_sku": "",
+          "qb_unit_price": 1420.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "CHEVY-1500"
+          ]
+        },
+        {
+          "part_number": "BSFW505",
+          "qb_item_id": "325",
+          "qb_sku": "",
+          "qb_unit_price": 838.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ]
+        },
+        {
+          "part_number": "BSFW50Z",
+          "qb_item_id": "326",
+          "qb_sku": "",
+          "qb_unit_price": 1383.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ]
+        },
+        {
+          "part_number": "BSFW50ZT",
+          "qb_item_id": "327",
+          "qb_sku": "",
+          "qb_unit_price": 1383.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ]
+        },
+        {
+          "part_number": "BSFW54X",
+          "qb_item_id": "328",
+          "qb_sku": "",
+          "qb_unit_price": 1420.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ]
+        },
+        {
+          "part_number": "BSFW54XT",
+          "qb_item_id": "329",
+          "qb_sku": "",
+          "qb_unit_price": 1420.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ]
+        },
+        {
+          "part_number": "BSFW56X",
+          "qb_item_id": "330",
+          "qb_sku": "",
+          "qb_unit_price": 1420.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TESLA"
+          ]
+        },
+        {
+          "part_number": "BSFW57Z",
+          "qb_item_id": "331",
+          "qb_sku": "",
+          "qb_unit_price": 1383.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "MACH-E"
+          ]
+        },
+        {
+          "part_number": "BSFW59Z",
+          "qb_item_id": "332",
+          "qb_sku": "",
+          "qb_unit_price": 1420.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "BLAZER"
+          ]
         }
       ]
     },
@@ -1496,7 +1717,24 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "XLP"
+          "part_number": "BW50UF6P",
+          "qb_item_id": "336",
+          "qb_sku": "",
+          "qb_unit_price": 1260.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ]
+        },
+        {
+          "part_number": "BW50UFX",
+          "qb_item_id": "337",
+          "qb_sku": "",
+          "qb_unit_price": 2254.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ]
         }
       ]
     },
@@ -1630,7 +1868,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "TRACER 5 LAMP"
+          "part_number": "TCRWX5",
+          "qb_item_id": "1099",
+          "qb_sku": "",
+          "qb_unit_price": 1173.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -1645,7 +1890,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "TRACER 6 LAMP"
+          "part_number": "TCRWX6",
+          "qb_item_id": "1100",
+          "qb_sku": "",
+          "qb_unit_price": 1364.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -1843,7 +2095,104 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "RST"
+          "part_number": "BS44Z",
+          "qb_item_id": "306",
+          "qb_sku": "",
+          "qb_unit_price": 1525.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ]
+        },
+        {
+          "part_number": "BS44ZT",
+          "qb_item_id": "307",
+          "qb_sku": "",
+          "qb_unit_price": 1525.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ]
+        },
+        {
+          "part_number": "BS48Z",
+          "qb_item_id": "308",
+          "qb_sku": "",
+          "qb_unit_price": 1525.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "EXPEDITION"
+          ]
+        },
+        {
+          "part_number": "BS50Z",
+          "qb_item_id": "309",
+          "qb_sku": "",
+          "qb_unit_price": 1525.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ]
+        },
+        {
+          "part_number": "BS50ZT",
+          "qb_item_id": "310",
+          "qb_sku": "",
+          "qb_unit_price": 1525.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ]
+        },
+        {
+          "part_number": "BS54Z",
+          "qb_item_id": "311",
+          "qb_sku": "",
+          "qb_unit_price": 1525.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ]
+        },
+        {
+          "part_number": "BS54ZT",
+          "qb_item_id": "312",
+          "qb_sku": "",
+          "qb_unit_price": 1525.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ]
+        },
+        {
+          "part_number": "BS578",
+          "qb_item_id": "313",
+          "qb_sku": "",
+          "qb_unit_price": 1399.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "MACH-E"
+          ]
+        },
+        {
+          "part_number": "BSRW10",
+          "qb_item_id": "333",
+          "qb_sku": "",
+          "qb_unit_price": 1525.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "BSRW12",
+          "qb_item_id": "334",
+          "qb_sku": "",
+          "qb_unit_price": 1781.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -5196,6 +5545,297 @@
           "qb_item_id": "745",
           "qb_sku": "",
           "qb_unit_price": 710.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        }
+      ]
+    },
+    "whelen_alpha_sl": {
+      "manufacturer_id": "whelen",
+      "model": "ALPHA SL",
+      "fits_part_types": [
+        "external_amp"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ALPHASL",
+          "qb_item_id": "242",
+          "qb_sku": "",
+          "qb_unit_price": 319.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        }
+      ]
+    },
+    "whelen_external_amplifier": {
+      "manufacturer_id": "whelen",
+      "model": "WECANX EXTERNAL AMP",
+      "fits_part_types": [
+        "external_amp"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CEXAMP",
+          "qb_item_id": "428",
+          "qb_sku": "",
+          "qb_unit_price": 376.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        }
+      ]
+    },
+    "whelen_hhs_siren_amp": {
+      "manufacturer_id": "whelen",
+      "model": "HHS SIREN AMP",
+      "fits_part_types": [
+        "external_amp"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "HHS3200",
+          "qb_item_id": "591",
+          "qb_sku": "",
+          "qb_unit_price": 750.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "HHS3206",
+          "qb_item_id": "592",
+          "qb_sku": "",
+          "qb_unit_price": 937.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "HHS3207",
+          "qb_item_id": "593",
+          "qb_sku": "",
+          "qb_unit_price": 937.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        }
+      ]
+    },
+    "whelen_sa350mh": {
+      "manufacturer_id": "whelen",
+      "model": "SA-350MH",
+      "fits_part_types": [
+        "siren_speaker"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SA350MH",
+          "qb_item_id": "965",
+          "qb_sku": "",
+          "qb_unit_price": 870.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        }
+      ]
+    },
+    "whelen_tactl5": {
+      "manufacturer_id": "whelen",
+      "model": "TACTL5",
+      "fits_part_types": [
+        "control_head"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TACTL5",
+          "qb_item_id": "1091",
+          "qb_sku": "",
+          "qb_unit_price": 526.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        }
+      ]
+    },
+    "whelen_core_control_point": {
+      "manufacturer_id": "whelen",
+      "model": "CORE CONTROL POINT",
+      "fits_part_types": [
+        "control_head"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CCP",
+          "qb_item_id": "416",
+          "qb_sku": "",
+          "qb_unit_price": 277.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "CCP9",
+          "qb_item_id": "417",
+          "qb_sku": "",
+          "qb_unit_price": 572.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "CCPKT",
+          "qb_item_id": "418",
+          "qb_sku": "",
+          "qb_unit_price": 227.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        }
+      ]
+    },
+    "whelen_vsg": {
+      "manufacturer_id": "whelen",
+      "model": "CORE+ VSG",
+      "fits_part_types": [
+        "cloud_antenna"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "VSG1F1",
+          "qb_item_id": "1231",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VSG1FR",
+          "qb_item_id": "1232",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VSG1V1",
+          "qb_item_id": "1233",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "VSG1VR",
+          "qb_item_id": "1234",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        }
+      ]
+    },
+    "whelen_outer_edge": {
+      "manufacturer_id": "whelen",
+      "model": "OUTER EDGE",
+      "fits_part_types": [
+        "rear_interior_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "OEWD54",
+          "qb_item_id": "824",
+          "qb_sku": "",
+          "qb_unit_price": 1785.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ]
+        }
+      ]
+    },
+    "whelen_tracer_3_lamp": {
+      "manufacturer_id": "whelen",
+      "model": "TRACER 3 LAMP",
+      "fits_part_types": [
+        "side_warning",
+        "rear_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TCRWX3",
+          "qb_item_id": "1098",
+          "qb_sku": "",
+          "qb_unit_price": 790.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        }
+      ]
+    },
+    "whelen_traffic_advisor": {
+      "manufacturer_id": "whelen",
+      "model": "TRAFFIC ADVISOR",
+      "fits_part_types": [
+        "rear_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TAC830",
+          "qb_item_id": "1090",
+          "qb_sku": "",
+          "qb_unit_price": 1136.0,
           "qb_inactive": false,
           "vehicle_tags": [
             "any"
