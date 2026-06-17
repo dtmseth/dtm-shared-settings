@@ -364,7 +364,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BK0534EPD18",
@@ -377,7 +377,7 @@
           ],
           "color": "",
           "secondary_color": "purple",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BK0534FDT21F150",
@@ -416,7 +416,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BK0535DUR21",
@@ -429,7 +429,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BK0535ITU20",
@@ -493,7 +493,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BK1001ITU20",
@@ -571,7 +571,7 @@
           ],
           "color": "",
           "secondary_color": "purple",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BK2019FDT21F150",
@@ -610,7 +610,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BK2168TAH25",
@@ -623,7 +623,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -759,7 +759,7 @@
           ],
           "color": "",
           "secondary_color": "purple",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -784,7 +784,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "FK0402TAH21",
@@ -797,7 +797,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "FK2271DUR21",
@@ -810,7 +810,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "FK2271ITU25",
@@ -836,7 +836,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -861,7 +861,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "HK2272EPD22",
@@ -874,7 +874,7 @@
           ],
           "color": "",
           "secondary_color": "purple",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "HK2272FDT21F150",
@@ -913,7 +913,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "HK2273DUR21",
@@ -926,7 +926,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "HK2273ITU25",
@@ -952,7 +952,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -992,7 +992,7 @@
           ],
           "color": "red",
           "secondary_color": "green",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -1030,7 +1030,7 @@
           ],
           "color": "",
           "secondary_color": "red",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "HK0809TAH21",
@@ -1043,7 +1043,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -1828,7 +1828,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "VTX609B",
@@ -1841,7 +1841,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "VTX609C",
@@ -1854,7 +1854,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "VTX609R",
@@ -1867,7 +1867,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "VTX9D",
@@ -1880,7 +1880,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "VTX9E",
@@ -1893,7 +1893,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "VTX9F",
@@ -1906,7 +1906,7 @@
           ],
           "color": "white",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -2535,7 +2535,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BSFW445",
@@ -2548,7 +2548,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BSFW448",
@@ -2561,7 +2561,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BSFW44Z",
@@ -2600,7 +2600,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BSFW47Z",
@@ -2652,7 +2652,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BSFW50Z",
@@ -2769,7 +2769,7 @@
           ],
           "color": "purple",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BW50UFX",
@@ -2856,7 +2856,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TSS0B",
@@ -2869,7 +2869,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TSS0BX",
@@ -2895,7 +2895,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TSS0D",
@@ -2908,7 +2908,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TSS0DX",
@@ -2934,7 +2934,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TSS0EX",
@@ -2960,7 +2960,7 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TSS0J",
@@ -2973,7 +2973,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TSS0JC",
@@ -2999,7 +2999,7 @@
           ],
           "color": "red",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TSS0KC",
@@ -3012,7 +3012,7 @@
           ],
           "color": "red",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TSS0KCX",
@@ -3038,7 +3038,7 @@
           ],
           "color": "blue",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TSS0MCK",
@@ -3064,7 +3064,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TSS0RX",
@@ -3090,7 +3090,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TST0AX",
@@ -3116,7 +3116,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TST0BX",
@@ -3142,7 +3142,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TST0D",
@@ -3155,7 +3155,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TST0DX",
@@ -3181,7 +3181,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TST0EX",
@@ -3220,7 +3220,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TST0JX",
@@ -3246,7 +3246,7 @@
           ],
           "color": "red",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TST0KX",
@@ -3272,7 +3272,7 @@
           ],
           "color": "blue",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TST0MX",
@@ -3298,7 +3298,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TST0RX",
@@ -3340,7 +3340,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PSB01FCR",
@@ -3353,7 +3353,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PSC01FCR",
@@ -3366,7 +3366,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PSD02FCR",
@@ -3379,7 +3379,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PSE02FCR",
@@ -3392,7 +3392,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PSJ02FCR",
@@ -3405,7 +3405,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PSJC3FCR",
@@ -3418,7 +3418,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PSK02FCR",
@@ -3431,7 +3431,7 @@
           ],
           "color": "red",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PSKC3FCR",
@@ -3444,7 +3444,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PSM02FCR",
@@ -3457,7 +3457,7 @@
           ],
           "color": "blue",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PSMC3FCR",
@@ -3470,7 +3470,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PSR01FCR",
@@ -3483,7 +3483,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -3588,7 +3588,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TMT0B",
@@ -3601,7 +3601,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TMT0BX",
@@ -3627,7 +3627,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TMT0D",
@@ -3640,7 +3640,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TMT0DX",
@@ -3666,7 +3666,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TMT0EX",
@@ -3692,7 +3692,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TMT0JX",
@@ -3718,7 +3718,7 @@
           ],
           "color": "red",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TMT0KX",
@@ -3744,7 +3744,7 @@
           ],
           "color": "blue",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TMT0MX",
@@ -3770,7 +3770,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TMT0RX",
@@ -4172,7 +4172,7 @@
           ],
           "color": "",
           "secondary_color": "blue",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BSRW10",
@@ -4185,7 +4185,7 @@
           ],
           "color": "white",
           "secondary_color": "red",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BSRW12",
@@ -4198,7 +4198,7 @@
           ],
           "color": "white",
           "secondary_color": "red",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -5106,7 +5106,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PK0228ITU20TM",
@@ -5132,7 +5132,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PK0350TAH21",
@@ -5145,7 +5145,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PK0355ITU20TM",
@@ -5223,7 +5223,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PK0419EPD18",
@@ -5236,7 +5236,7 @@
           ],
           "color": "",
           "secondary_color": "purple",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PK0419FDT15F150",
@@ -5275,7 +5275,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PK0439ITU20TM",
@@ -5326,7 +5326,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "1K0574DUR11FSR",
@@ -5339,7 +5339,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "1K0574FDT15F150PDR",
@@ -5352,7 +5352,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "1K0574FDT15F150WOD",
@@ -5378,7 +5378,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "1K0574ITU20WD",
@@ -5391,7 +5391,7 @@
           ],
           "color": "",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "1K0574TAH21FR",
@@ -5404,7 +5404,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "1K0574TAH21WD",
@@ -5417,7 +5417,7 @@
           ],
           "color": "",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "1K0576TAH21WD",
@@ -5430,7 +5430,7 @@
           ],
           "color": "",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -5468,7 +5468,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PK1188CHT191500",
@@ -5537,7 +5537,7 @@
           ],
           "color": "red",
           "secondary_color": "green",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "WK0595DUR11",
@@ -5550,7 +5550,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "WK0595FDT15F150P",
@@ -5563,7 +5563,7 @@
           ],
           "color": "purple",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "WK0595ITU20",
@@ -5589,7 +5589,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -5661,7 +5661,7 @@
           ],
           "color": "red",
           "secondary_color": "green",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "WK0514CHT191500",
@@ -5700,7 +5700,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "WK0514ITU20",
@@ -5726,7 +5726,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -6047,7 +6047,7 @@
           ],
           "color": "",
           "secondary_color": "red",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TK1261FDT15F150",
@@ -6073,7 +6073,7 @@
           ],
           "color": "white",
           "secondary_color": "red",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TK1338FDT15F150",
@@ -6112,7 +6112,7 @@
           ],
           "color": "white",
           "secondary_color": "red",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TK1488TAH21",
@@ -6125,7 +6125,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -6150,7 +6150,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TPA9289",
@@ -6163,7 +6163,7 @@
           ],
           "color": "amber",
           "secondary_color": "purple",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -6188,7 +6188,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TK0233ITU20",
@@ -6214,7 +6214,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -6239,7 +6239,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "QK0491ITU20",
@@ -7100,7 +7100,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "QK0566ITU20",
@@ -7139,7 +7139,7 @@
           ],
           "color": "red",
           "secondary_color": "green",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "QK0634DUR11",
@@ -7152,7 +7152,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "QK0634ITU20",
@@ -7178,7 +7178,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "QK1224BLE24",
@@ -7204,7 +7204,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "QK1576BLE24",
@@ -7243,7 +7243,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "QK2024TAH21",
@@ -7256,7 +7256,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7294,7 +7294,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "QK2414TAH21",
@@ -7307,7 +7307,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7357,7 +7357,7 @@
           ],
           "color": "purple",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7497,7 +7497,7 @@
           ],
           "color": "white",
           "secondary_color": "red",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "2K0035ITU20RPFRTM",
@@ -7523,7 +7523,7 @@
           ],
           "color": "",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "2K0035TAH21RPFC",
@@ -7561,7 +7561,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "CK2052TAH21-10",
@@ -7574,7 +7574,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "CK2386ITU20-10",
@@ -7600,7 +7600,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7625,7 +7625,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7650,7 +7650,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "EK0689ITU12",
@@ -7676,7 +7676,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7701,7 +7701,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7726,7 +7726,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "GF1092ITU20",
@@ -7752,7 +7752,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "GF1382CHT191500",
@@ -7828,7 +7828,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PT2185ITU20TM",
@@ -7854,7 +7854,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7879,7 +7879,7 @@
           ],
           "color": "purple",
           "secondary_color": "purple",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7904,7 +7904,7 @@
           ],
           "color": "red",
           "secondary_color": "green",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7929,7 +7929,7 @@
           ],
           "color": "purple",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7954,7 +7954,7 @@
           ],
           "color": "",
           "secondary_color": "red",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7979,7 +7979,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TT0242TAH21K9",
@@ -8308,7 +8308,7 @@
           ],
           "color": "",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -9004,7 +9004,7 @@
           ],
           "color": "amber",
           "secondary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     }
