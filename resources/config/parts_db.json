@@ -362,7 +362,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -376,7 +376,7 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -415,7 +415,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -427,7 +427,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -491,7 +491,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -570,7 +570,7 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -609,7 +609,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -622,7 +622,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -758,7 +758,7 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -782,7 +782,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -796,7 +796,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -808,7 +808,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -835,7 +835,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -859,7 +859,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -873,7 +873,7 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -912,7 +912,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -924,7 +924,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -951,7 +951,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -990,8 +990,8 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
+          "color": "",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -1029,7 +1029,7 @@
             "RAM-1500"
           ],
           "color": "",
-          "secondary_color": "red",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -1042,7 +1042,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -1828,7 +1828,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "VTX609B",
@@ -1841,7 +1841,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "VTX609C",
@@ -1854,7 +1854,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "VTX609R",
@@ -1867,7 +1867,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "VTX9D",
@@ -1880,7 +1880,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "VTX9E",
@@ -1893,7 +1893,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "VTX9F",
@@ -1906,7 +1906,7 @@
           ],
           "color": "white",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -2076,9 +2076,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -2177,9 +2177,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "CHWLFE29",
@@ -2535,7 +2535,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BSFW445",
@@ -2548,7 +2548,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BSFW448",
@@ -2561,7 +2561,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BSFW44Z",
@@ -2600,7 +2600,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BSFW47Z",
@@ -2652,7 +2652,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BSFW50Z",
@@ -2769,7 +2769,7 @@
           ],
           "color": "purple",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BW50UFX",
@@ -2856,7 +2856,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TSS0B",
@@ -2869,7 +2869,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TSS0BX",
@@ -2895,7 +2895,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TSS0D",
@@ -2908,7 +2908,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TSS0DX",
@@ -2934,7 +2934,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TSS0EX",
@@ -2960,7 +2960,7 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TSS0J",
@@ -2973,7 +2973,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TSS0JC",
@@ -2999,7 +2999,7 @@
           ],
           "color": "red",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TSS0KC",
@@ -3012,7 +3012,7 @@
           ],
           "color": "red",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TSS0KCX",
@@ -3038,7 +3038,7 @@
           ],
           "color": "blue",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TSS0MCK",
@@ -3064,7 +3064,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TSS0RX",
@@ -3090,7 +3090,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TST0AX",
@@ -3116,7 +3116,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TST0BX",
@@ -3142,7 +3142,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TST0D",
@@ -3155,7 +3155,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TST0DX",
@@ -3181,7 +3181,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TST0EX",
@@ -3220,7 +3220,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TST0JX",
@@ -3246,7 +3246,7 @@
           ],
           "color": "red",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TST0KX",
@@ -3272,7 +3272,7 @@
           ],
           "color": "blue",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TST0MX",
@@ -3298,7 +3298,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TST0RX",
@@ -3340,7 +3340,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "PSB01FCR",
@@ -3353,7 +3353,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "PSC01FCR",
@@ -3366,7 +3366,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "PSD02FCR",
@@ -3379,7 +3379,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "PSE02FCR",
@@ -3392,7 +3392,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "PSJ02FCR",
@@ -3405,7 +3405,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "PSJC3FCR",
@@ -3418,7 +3418,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "PSK02FCR",
@@ -3431,7 +3431,7 @@
           ],
           "color": "red",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "PSKC3FCR",
@@ -3444,7 +3444,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "PSM02FCR",
@@ -3457,7 +3457,7 @@
           ],
           "color": "blue",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "PSMC3FCR",
@@ -3470,7 +3470,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "PSR01FCR",
@@ -3483,7 +3483,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -3588,7 +3588,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMT0B",
@@ -3601,7 +3601,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMT0BX",
@@ -3627,7 +3627,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMT0D",
@@ -3640,7 +3640,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMT0DX",
@@ -3666,7 +3666,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMT0EX",
@@ -3692,7 +3692,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMT0JX",
@@ -3718,7 +3718,7 @@
           ],
           "color": "red",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMT0KX",
@@ -3744,7 +3744,7 @@
           ],
           "color": "blue",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMT0MX",
@@ -3770,7 +3770,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMT0RX",
@@ -4172,7 +4172,7 @@
           ],
           "color": "",
           "secondary_color": "blue",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BSRW10",
@@ -4185,7 +4185,7 @@
           ],
           "color": "white",
           "secondary_color": "red",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BSRW12",
@@ -4198,7 +4198,7 @@
           ],
           "color": "white",
           "secondary_color": "red",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -5131,7 +5131,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -5144,7 +5144,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -5221,7 +5221,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -5235,7 +5235,7 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -5274,7 +5274,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -5324,7 +5324,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -5337,7 +5337,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -5350,7 +5350,7 @@
           "vehicle_tags": [
             "F-150"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -5376,7 +5376,7 @@
           "vehicle_tags": [
             "PIU"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -5390,7 +5390,7 @@
             "PIU"
           ],
           "color": "",
-          "secondary_color": "white",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -5402,7 +5402,7 @@
           "vehicle_tags": [
             "TAHOE"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -5416,7 +5416,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "white",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -5429,7 +5429,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "white",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -5467,7 +5467,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -5535,8 +5535,8 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
+          "color": "",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -5548,7 +5548,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -5561,7 +5561,7 @@
           "vehicle_tags": [
             "F-150"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -5588,7 +5588,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -5659,8 +5659,8 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
+          "color": "",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -5698,7 +5698,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -5725,7 +5725,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -6046,7 +6046,7 @@
             "TRAVERSE"
           ],
           "color": "",
-          "secondary_color": "red",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -6071,8 +6071,8 @@
           "vehicle_tags": [
             "F-150"
           ],
-          "color": "white",
-          "secondary_color": "red",
+          "color": "",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -6110,8 +6110,8 @@
           "vehicle_tags": [
             "CHEVY-1500"
           ],
-          "color": "white",
-          "secondary_color": "red",
+          "color": "",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -6124,7 +6124,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -6149,7 +6149,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -6161,8 +6161,8 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "amber",
-          "secondary_color": "purple",
+          "color": "",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -6186,7 +6186,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -6213,7 +6213,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -6237,7 +6237,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -6631,7 +6631,7 @@
             "any"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -6656,7 +6656,7 @@
             "any"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -6681,7 +6681,7 @@
             "any"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -6706,7 +6706,7 @@
             "any"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -6719,7 +6719,7 @@
             "any"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -7074,7 +7074,7 @@
             "any"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -7098,7 +7098,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -7137,8 +7137,8 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
+          "color": "",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -7150,7 +7150,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -7176,7 +7176,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -7203,7 +7203,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -7242,7 +7242,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -7255,7 +7255,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -7293,7 +7293,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -7306,7 +7306,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -7355,7 +7355,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         }
@@ -7495,8 +7495,8 @@
           "vehicle_tags": [
             "CHEVY-1500"
           ],
-          "color": "white",
-          "secondary_color": "red",
+          "color": "",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -7522,7 +7522,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "white",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -7559,7 +7559,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -7573,7 +7573,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -7599,7 +7599,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -7624,7 +7624,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -7648,7 +7648,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -7675,7 +7675,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -7699,7 +7699,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "amber",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         }
@@ -7724,7 +7724,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -7751,7 +7751,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -7826,7 +7826,7 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
           "lens_type": ""
         },
@@ -7853,7 +7853,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -7877,8 +7877,8 @@
           "vehicle_tags": [
             "PIU"
           ],
-          "color": "purple",
-          "secondary_color": "purple",
+          "color": "",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -7902,8 +7902,8 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
+          "color": "",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -7927,8 +7927,8 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
-          "secondary_color": "white",
+          "color": "",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -7953,7 +7953,7 @@
             "TRAVERSE"
           ],
           "color": "",
-          "secondary_color": "red",
+          "secondary_color": "",
           "lens_type": ""
         }
       ]
@@ -7978,7 +7978,7 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
+          "secondary_color": "",
           "lens_type": ""
         },
         {
@@ -8065,9 +8065,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -8191,9 +8191,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "CCP9",
@@ -8204,9 +8204,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "CCPKT",
@@ -8255,9 +8255,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "VSG1V1",
@@ -8281,9 +8281,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -8308,7 +8308,7 @@
           ],
           "color": "",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -9004,7 +9004,7 @@
           ],
           "color": "amber",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     }
