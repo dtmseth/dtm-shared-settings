@@ -5537,7 +5537,7 @@
           ],
           "color": "red",
           "secondary_color": "green",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "WK0595DUR11",
@@ -5550,7 +5550,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "WK0595FDT15F150P",
@@ -5563,7 +5563,7 @@
           ],
           "color": "purple",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "WK0595ITU20",
@@ -5589,7 +5589,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -5661,7 +5661,7 @@
           ],
           "color": "red",
           "secondary_color": "green",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "WK0514CHT191500",
@@ -5700,7 +5700,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "WK0514ITU20",
@@ -5726,7 +5726,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -6632,7 +6632,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -6657,7 +6657,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -6682,7 +6682,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -6707,7 +6707,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "AS-Edge 2x",
@@ -6720,7 +6720,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -7075,7 +7075,7 @@
           ],
           "color": "",
           "secondary_color": "amber",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
