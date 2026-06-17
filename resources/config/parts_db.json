@@ -5535,9 +5535,9 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": ""
+          "color": "red",
+          "secondary_color": "green",
+          "lens_type": "clear"
         },
         {
           "part_number": "WK0595DUR11",
@@ -5548,9 +5548,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "",
+          "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "WK0595FDT15F150P",
@@ -5561,9 +5561,9 @@
           "vehicle_tags": [
             "F-150"
           ],
-          "color": "",
+          "color": "purple",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "WK0595ITU20",
@@ -5588,8 +5588,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "",
-          "lens_type": ""
+          "secondary_color": "amber",
+          "lens_type": "clear"
         }
       ]
     },
@@ -5659,9 +5659,9 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": ""
+          "color": "red",
+          "secondary_color": "green",
+          "lens_type": "clear"
         },
         {
           "part_number": "WK0514CHT191500",
@@ -5698,9 +5698,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "",
+          "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "WK0514ITU20",
@@ -5725,8 +5725,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "",
-          "lens_type": ""
+          "secondary_color": "amber",
+          "lens_type": "clear"
         }
       ]
     },
