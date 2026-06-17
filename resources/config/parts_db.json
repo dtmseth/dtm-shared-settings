@@ -971,14 +971,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "TCRWX2",
-          "qb_item_id": "1097",
-          "qb_sku": "",
-          "qb_unit_price": 599.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "2 LAMP TRACER"
         }
       ]
     },
@@ -1868,14 +1861,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "TCRWX5",
-          "qb_item_id": "1099",
-          "qb_sku": "",
-          "qb_unit_price": 1173.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "TRACER 5 LAMP"
         }
       ]
     },
@@ -1890,14 +1876,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "TCRWX6",
-          "qb_item_id": "1100",
-          "qb_sku": "",
-          "qb_unit_price": 1364.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "TRACER 6 LAMP"
         }
       ]
     },
@@ -5794,51 +5773,6 @@
           "qb_inactive": false,
           "vehicle_tags": [
             "TAHOE"
-          ]
-        }
-      ]
-    },
-    "whelen_tracer_3_lamp": {
-      "manufacturer_id": "whelen",
-      "model": "TRACER 3 LAMP",
-      "fits_part_types": [
-        "side_warning",
-        "rear_warning"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "TCRWX3",
-          "qb_item_id": "1098",
-          "qb_sku": "",
-          "qb_unit_price": 790.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        }
-      ]
-    },
-    "whelen_traffic_advisor": {
-      "manufacturer_id": "whelen",
-      "model": "TRAFFIC ADVISOR",
-      "fits_part_types": [
-        "rear_warning"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "TAC830",
-          "qb_item_id": "1090",
-          "qb_sku": "",
-          "qb_unit_price": 1136.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
           ]
         }
       ]
