@@ -1228,14 +1228,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "SA315P",
-          "qb_item_id": "962",
-          "qb_sku": "",
-          "qb_unit_price": 412.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "SA315P"
         }
       ]
     },
@@ -1252,14 +1245,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "SA315U",
-          "qb_item_id": "963",
-          "qb_sku": "",
-          "qb_unit_price": 412.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "SA315U"
         }
       ]
     },
@@ -1323,34 +1309,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "CHOWLER",
-          "qb_item_id": "430",
-          "qb_sku": "",
-          "qb_unit_price": 944.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "CHWLFE29",
-          "qb_item_id": "432",
-          "qb_sku": "",
-          "qb_unit_price": 756.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ]
-        },
-        {
-          "part_number": "CHWLUNI",
-          "qb_item_id": "433",
-          "qb_sku": "",
-          "qb_unit_price": 756.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "WCX HOWLER"
         }
       ]
     },
@@ -2094,14 +2053,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "C399",
-          "qb_item_id": "404",
-          "qb_sku": "",
-          "qb_unit_price": 1411.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "CORE"
         }
       ]
     },
@@ -2131,14 +2083,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "CCTL5",
-          "qb_item_id": "419",
-          "qb_sku": "",
-          "qb_unit_price": 473.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "CCTL5"
         }
       ]
     },
@@ -2153,14 +2098,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "CCTL6",
-          "qb_item_id": "420",
-          "qb_sku": "",
-          "qb_unit_price": 473.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
+          "part_number": "CCTL6"
         }
       ]
     },
@@ -5223,230 +5161,6 @@
           "qb_item_id": "745",
           "qb_sku": "",
           "qb_unit_price": 710.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        }
-      ]
-    },
-    "whelen_alpha_sl": {
-      "manufacturer_id": "whelen",
-      "model": "ALPHA SL",
-      "fits_part_types": [
-        "external_amp"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "ALPHASL",
-          "qb_item_id": "242",
-          "qb_sku": "",
-          "qb_unit_price": 319.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        }
-      ]
-    },
-    "whelen_external_amplifier": {
-      "manufacturer_id": "whelen",
-      "model": "WECANX EXTERNAL AMP",
-      "fits_part_types": [
-        "external_amp"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "CEXAMP",
-          "qb_item_id": "428",
-          "qb_sku": "",
-          "qb_unit_price": 376.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        }
-      ]
-    },
-    "whelen_hhs_siren_amp": {
-      "manufacturer_id": "whelen",
-      "model": "HHS SIREN AMP",
-      "fits_part_types": [
-        "external_amp"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "HHS3200",
-          "qb_item_id": "591",
-          "qb_sku": "",
-          "qb_unit_price": 750.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "HHS3206",
-          "qb_item_id": "592",
-          "qb_sku": "",
-          "qb_unit_price": 937.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "HHS3207",
-          "qb_item_id": "593",
-          "qb_sku": "",
-          "qb_unit_price": 937.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        }
-      ]
-    },
-    "whelen_sa350mh": {
-      "manufacturer_id": "whelen",
-      "model": "SA-350MH",
-      "fits_part_types": [
-        "siren_speaker"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "SA350MH",
-          "qb_item_id": "965",
-          "qb_sku": "",
-          "qb_unit_price": 870.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        }
-      ]
-    },
-    "whelen_tactl5": {
-      "manufacturer_id": "whelen",
-      "model": "TACTL5",
-      "fits_part_types": [
-        "control_head"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "TACTL5",
-          "qb_item_id": "1091",
-          "qb_sku": "",
-          "qb_unit_price": 526.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        }
-      ]
-    },
-    "whelen_core_control_point": {
-      "manufacturer_id": "whelen",
-      "model": "CORE CONTROL POINT",
-      "fits_part_types": [
-        "control_head"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "CCP",
-          "qb_item_id": "416",
-          "qb_sku": "",
-          "qb_unit_price": 277.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "CCP9",
-          "qb_item_id": "417",
-          "qb_sku": "",
-          "qb_unit_price": 572.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "CCPKT",
-          "qb_item_id": "418",
-          "qb_sku": "",
-          "qb_unit_price": 227.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        }
-      ]
-    },
-    "whelen_vsg": {
-      "manufacturer_id": "whelen",
-      "model": "CORE+ VSG",
-      "fits_part_types": [
-        "cloud_antenna"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "VSG1F1",
-          "qb_item_id": "1231",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "VSG1FR",
-          "qb_item_id": "1232",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "VSG1V1",
-          "qb_item_id": "1233",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ]
-        },
-        {
-          "part_number": "VSG1VR",
-          "qb_item_id": "1234",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
           "qb_inactive": false,
           "vehicle_tags": [
             "any"
