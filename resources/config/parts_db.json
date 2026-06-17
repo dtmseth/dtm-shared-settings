@@ -362,9 +362,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BK0534EPD18",
@@ -376,8 +376,8 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "BK0534FDT21F150",
@@ -415,8 +415,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "BK0535DUR21",
@@ -427,9 +427,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BK0535ITU20",
@@ -491,9 +491,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "BK1001ITU20",
@@ -570,8 +570,8 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "BK2019FDT21F150",
@@ -609,8 +609,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "BK2168TAH25",
@@ -622,8 +622,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -758,8 +758,8 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -782,9 +782,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "FK0402TAH21",
@@ -796,8 +796,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "FK2271DUR21",
@@ -808,9 +808,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "FK2271ITU25",
@@ -835,8 +835,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -859,9 +859,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "HK2272EPD22",
@@ -873,8 +873,8 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "HK2272FDT21F150",
@@ -912,8 +912,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "HK2273DUR21",
@@ -924,9 +924,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "HK2273ITU25",
@@ -951,8 +951,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -990,9 +990,9 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -1029,8 +1029,8 @@
             "RAM-1500"
           ],
           "color": "",
-          "secondary_color": "red",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "HK0809TAH21",
@@ -1042,8 +1042,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -2076,9 +2076,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -2177,9 +2177,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "CHWLFE29",
@@ -5104,9 +5104,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PK0228ITU20TM",
@@ -5131,8 +5131,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "PK0350TAH21",
@@ -5144,8 +5144,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "PK0355ITU20TM",
@@ -5221,9 +5221,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PK0419EPD18",
@@ -5235,8 +5235,8 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "PK0419FDT15F150",
@@ -5274,8 +5274,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "PK0439ITU20TM",
@@ -5324,9 +5324,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "1K0574DUR11FSR",
@@ -5337,9 +5337,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "1K0574FDT15F150PDR",
@@ -5350,9 +5350,9 @@
           "vehicle_tags": [
             "F-150"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "1K0574FDT15F150WOD",
@@ -5376,9 +5376,9 @@
           "vehicle_tags": [
             "PIU"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "1K0574ITU20WD",
@@ -5390,8 +5390,8 @@
             "PIU"
           ],
           "color": "",
-          "secondary_color": "white",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "1K0574TAH21FR",
@@ -5402,9 +5402,9 @@
           "vehicle_tags": [
             "TAHOE"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "1K0574TAH21WD",
@@ -5416,8 +5416,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "white",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "1K0576TAH21WD",
@@ -5429,8 +5429,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "white",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -5467,8 +5467,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "PK1188CHT191500",
@@ -5535,9 +5535,9 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "WK0595DUR11",
@@ -5548,9 +5548,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "WK0595FDT15F150P",
@@ -5561,9 +5561,9 @@
           "vehicle_tags": [
             "F-150"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "WK0595ITU20",
@@ -5588,8 +5588,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -5659,9 +5659,9 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "WK0514CHT191500",
@@ -5698,9 +5698,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "WK0514ITU20",
@@ -5725,8 +5725,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -6046,8 +6046,8 @@
             "TRAVERSE"
           ],
           "color": "",
-          "secondary_color": "red",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "TK1261FDT15F150",
@@ -6071,9 +6071,9 @@
           "vehicle_tags": [
             "F-150"
           ],
-          "color": "white",
-          "secondary_color": "red",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "TK1338FDT15F150",
@@ -6110,9 +6110,9 @@
           "vehicle_tags": [
             "CHEVY-1500"
           ],
-          "color": "white",
-          "secondary_color": "red",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "TK1488TAH21",
@@ -6124,8 +6124,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -6149,8 +6149,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "TPA9289",
@@ -6161,9 +6161,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "amber",
-          "secondary_color": "purple",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -6186,9 +6186,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "TK0233ITU20",
@@ -6213,8 +6213,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -6237,9 +6237,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "QK0491ITU20",
@@ -6631,8 +6631,8 @@
             "any"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -6656,8 +6656,8 @@
             "any"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -6681,8 +6681,8 @@
             "any"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -6706,8 +6706,8 @@
             "any"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "AS-Edge 2x",
@@ -6719,8 +6719,8 @@
             "any"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -7074,8 +7074,8 @@
             "any"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -7098,9 +7098,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "QK0566ITU20",
@@ -7137,9 +7137,9 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "QK0634DUR11",
@@ -7150,9 +7150,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "QK0634ITU20",
@@ -7176,9 +7176,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "QK1224BLE24",
@@ -7203,8 +7203,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "QK1576BLE24",
@@ -7242,8 +7242,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "QK2024TAH21",
@@ -7255,8 +7255,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -7293,8 +7293,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "QK2414TAH21",
@@ -7306,8 +7306,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -7355,9 +7355,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7495,9 +7495,9 @@
           "vehicle_tags": [
             "CHEVY-1500"
           ],
-          "color": "white",
-          "secondary_color": "red",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "2K0035ITU20RPFRTM",
@@ -7522,8 +7522,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "white",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "2K0035TAH21RPFC",
@@ -7559,9 +7559,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "CK2052TAH21-10",
@@ -7573,8 +7573,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "CK2386ITU20-10",
@@ -7599,8 +7599,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -7624,8 +7624,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -7648,9 +7648,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "EK0689ITU12",
@@ -7675,8 +7675,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -7699,9 +7699,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "amber",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -7724,9 +7724,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "GF1092ITU20",
@@ -7751,8 +7751,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "GF1382CHT191500",
@@ -7826,9 +7826,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "PT2185ITU20TM",
@@ -7853,8 +7853,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -7877,9 +7877,9 @@
           "vehicle_tags": [
             "PIU"
           ],
-          "color": "purple",
-          "secondary_color": "purple",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -7902,9 +7902,9 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -7927,9 +7927,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
-          "secondary_color": "white",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -7953,8 +7953,8 @@
             "TRAVERSE"
           ],
           "color": "",
-          "secondary_color": "red",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -7978,8 +7978,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": ""
         },
         {
           "part_number": "TT0242TAH21K9",
@@ -8065,9 +8065,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
@@ -8191,9 +8191,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "CCP9",
@@ -8204,9 +8204,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "CCPKT",
@@ -8255,9 +8255,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         },
         {
           "part_number": "VSG1V1",
@@ -8281,9 +8281,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": ""
         }
       ]
     },
