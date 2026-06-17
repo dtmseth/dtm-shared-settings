@@ -1071,7 +1071,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONB",
@@ -1084,7 +1084,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IOND",
@@ -1097,7 +1097,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONE",
@@ -1110,7 +1110,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONF",
@@ -1123,7 +1123,7 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONJ",
@@ -1136,7 +1136,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONR",
@@ -1149,7 +1149,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "XONB",
@@ -1188,7 +1188,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "I2E",
@@ -1201,7 +1201,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "I2F",
@@ -1214,7 +1214,7 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "I2J",
@@ -1227,7 +1227,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "XI2D",
@@ -1367,7 +1367,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "VX2DX",
@@ -1393,7 +1393,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "VX2EX",
@@ -1445,7 +1445,7 @@
           ],
           "color": "",
           "secondary_color": "blue",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "VXTD",
@@ -1458,7 +1458,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "VXTE",
@@ -1471,7 +1471,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -1557,7 +1557,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONSMB",
@@ -1570,7 +1570,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONSMC",
@@ -1583,7 +1583,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONSMD",
@@ -1596,7 +1596,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONSME",
@@ -1609,7 +1609,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONSMF",
@@ -1622,7 +1622,7 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONSMR",
@@ -1635,7 +1635,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "XONSMB",
@@ -1674,7 +1674,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "I2SME",
@@ -1687,7 +1687,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "I2SMF",
@@ -1700,7 +1700,7 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "I3SMJC",
@@ -1713,7 +1713,7 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "XI2SMD",
@@ -3510,7 +3510,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMS0B",
@@ -3523,7 +3523,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMS0D",
@@ -3536,7 +3536,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMS0F",
@@ -3549,7 +3549,7 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMS0R",
@@ -3562,7 +3562,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMSOE",
@@ -3575,7 +3575,7 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "TMT0A",
@@ -3924,7 +3924,7 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "EB2DEDE",
@@ -3937,7 +3937,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "EB8DEDE",
@@ -3950,7 +3950,7 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "ET9DEDEP",
@@ -3963,7 +3963,7 @@
           ],
           "color": "purple",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -4043,7 +4043,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "MCFLED2R",
@@ -4056,7 +4056,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -8017,7 +8017,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -8385,7 +8385,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONV3AW",
@@ -8398,7 +8398,7 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONV3B",
@@ -8411,7 +8411,7 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "IONV3R",
@@ -8424,7 +8424,7 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "XONV3B",
@@ -8463,7 +8463,7 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
@@ -8488,7 +8488,7 @@
           ],
           "color": "",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "RPWD54",
@@ -8501,7 +8501,7 @@
           ],
           "color": "",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "RPWT50",
@@ -8514,7 +8514,7 @@
           ],
           "color": "",
           "secondary_color": "white",
-          "lens_type": ""
+          "lens_type": "clear"
         }
       ]
     },
