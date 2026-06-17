@@ -971,7 +971,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "2 LAMP TRACER"
+          "part_number": "TCRWX2",
+          "qb_item_id": "1097",
+          "qb_sku": "",
+          "qb_unit_price": 599.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -1195,7 +1202,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FIELD SERIES"
+          "part_number": "FSB03B",
+          "qb_item_id": "543",
+          "qb_sku": "",
+          "qb_unit_price": 830.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -1211,7 +1225,74 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "PIONEER"
+          "part_number": "MPBB",
+          "qb_item_id": "778",
+          "qb_sku": "",
+          "qb_unit_price": 528.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "MPPBBS",
+          "qb_item_id": "780",
+          "qb_sku": "",
+          "qb_unit_price": 750.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "NP6BB",
+          "qb_item_id": "783",
+          "qb_sku": "",
+          "qb_unit_price": 336.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PBH203",
+          "qb_item_id": "829",
+          "qb_sku": "",
+          "qb_unit_price": 435.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PFH2",
+          "qb_item_id": "833",
+          "qb_sku": "",
+          "qb_unit_price": 1871.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PSL1BB",
+          "qb_item_id": "886",
+          "qb_sku": "",
+          "qb_unit_price": 528.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "PSL2BB",
+          "qb_item_id": "887",
+          "qb_sku": "",
+          "qb_unit_price": 1074.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -1861,7 +1942,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "TRACER 5 LAMP"
+          "part_number": "TCRWX5",
+          "qb_item_id": "1099",
+          "qb_sku": "",
+          "qb_unit_price": 1173.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -1876,7 +1964,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "TRACER 6 LAMP"
+          "part_number": "TCRWX6",
+          "qb_item_id": "1100",
+          "qb_sku": "",
+          "qb_unit_price": 1364.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -4483,7 +4578,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "PRO-FOCUS"
+          "part_number": "ARGES2",
+          "qb_item_id": "266",
+          "qb_sku": "",
+          "qb_unit_price": 912.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -4498,7 +4600,24 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "ARGES W/ BAIL BRACKET"
+          "part_number": "ARGES1",
+          "qb_item_id": "265",
+          "qb_sku": "",
+          "qb_unit_price": 788.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        },
+        {
+          "part_number": "ARGCH1",
+          "qb_item_id": "263",
+          "qb_sku": "",
+          "qb_unit_price": 352.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -4513,7 +4632,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "ARGES W/ SWIVEL BRACKET"
+          "part_number": "ARGCH2",
+          "qb_item_id": "264",
+          "qb_sku": "",
+          "qb_unit_price": 352.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
         }
       ]
     },
@@ -5773,6 +5899,51 @@
           "qb_inactive": false,
           "vehicle_tags": [
             "TAHOE"
+          ]
+        }
+      ]
+    },
+    "whelen_tracer_3_lamp": {
+      "manufacturer_id": "whelen",
+      "model": "TRACER 3 LAMP",
+      "fits_part_types": [
+        "side_warning",
+        "rear_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TCRWX3",
+          "qb_item_id": "1098",
+          "qb_sku": "",
+          "qb_unit_price": 790.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ]
+        }
+      ]
+    },
+    "whelen_traffic_advisor": {
+      "manufacturer_id": "whelen",
+      "model": "TRAFFIC ADVISOR",
+      "fits_part_types": [
+        "rear_warning"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TAC830",
+          "qb_item_id": "1090",
+          "qb_sku": "",
+          "qb_unit_price": 1136.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
           ]
         }
       ]
