@@ -2622,8 +2622,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BSFW42X",
@@ -2636,8 +2635,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BSFW444",
@@ -2648,10 +2646,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BSFW445",
@@ -2662,10 +2659,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BSFW448",
@@ -2676,10 +2672,9 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BSFW44Z",
@@ -2692,8 +2687,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BSFW44ZT",
@@ -2706,8 +2700,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BSFW475",
@@ -2718,10 +2711,9 @@
           "vehicle_tags": [
             "F-150"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BSFW47Z",
@@ -2734,8 +2726,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BSFW48X",
@@ -2748,8 +2739,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BSFW49X",
@@ -2762,8 +2752,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BSFW505",
@@ -2774,10 +2763,9 @@
           "vehicle_tags": [
             "PIU"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BSFW50Z",
@@ -2790,8 +2778,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BSFW50ZT",
@@ -2804,8 +2791,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BSFW54X",
@@ -2818,8 +2804,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BSFW54XT",
@@ -2832,8 +2817,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BSFW56X",
@@ -2846,8 +2830,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BSFW57Z",
@@ -2860,8 +2843,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BSFW59Z",
@@ -2874,8 +2856,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         }
       ]
     },
@@ -2899,10 +2880,9 @@
           "vehicle_tags": [
             "PIU"
           ],
-          "color": "",
+          "color": "purple",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": "clear"
         },
         {
           "part_number": "BW50UFX",
@@ -2915,8 +2895,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         }
       ]
     },
@@ -4294,8 +4273,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BS44ZT",
@@ -4308,8 +4286,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BS48Z",
@@ -4322,8 +4299,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BS50Z",
@@ -4336,8 +4312,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BS50ZT",
@@ -4350,8 +4325,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BS54Z",
@@ -4364,8 +4338,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BS54ZT",
@@ -4378,8 +4351,7 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "lens_type": ""
         },
         {
           "part_number": "BS578",
@@ -4391,9 +4363,8 @@
             "MACH-E"
           ],
           "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "secondary_color": "blue",
+          "lens_type": "clear"
         },
         {
           "part_number": "BSRW10",
@@ -4404,10 +4375,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "color": "white",
+          "secondary_color": "red",
+          "lens_type": "clear"
         },
         {
           "part_number": "BSRW12",
@@ -4418,10 +4388,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "color": "white",
+          "secondary_color": "red",
+          "lens_type": "clear"
         }
       ]
     },
@@ -8681,9 +8650,8 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
+          "secondary_color": "white",
+          "lens_type": "clear"
         }
       ]
     },
