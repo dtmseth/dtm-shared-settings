@@ -1960,117 +1960,6 @@
         }
       ]
     },
-    "whelen_pioneer": {
-      "manufacturer_id": "whelen",
-      "model": "PIONEER",
-      "fits_part_types": [
-        "front_scene",
-        "rear_scene"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "MPBB",
-          "qb_item_id": "778",
-          "qb_sku": "",
-          "qb_unit_price": 528.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
-        },
-        {
-          "part_number": "MPPBBS",
-          "qb_item_id": "780",
-          "qb_sku": "",
-          "qb_unit_price": 750.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
-        },
-        {
-          "part_number": "NP6BB",
-          "qb_item_id": "783",
-          "qb_sku": "",
-          "qb_unit_price": 336.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
-        },
-        {
-          "part_number": "PBH203",
-          "qb_item_id": "829",
-          "qb_sku": "",
-          "qb_unit_price": 435.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "white",
-          "secondary_color": "",
-          "lens_type": "clear",
-          "tertiary_color": ""
-        },
-        {
-          "part_number": "PFH2",
-          "qb_item_id": "833",
-          "qb_sku": "",
-          "qb_unit_price": 1871.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "white",
-          "secondary_color": "",
-          "lens_type": "clear",
-          "tertiary_color": ""
-        },
-        {
-          "part_number": "PSL1BB",
-          "qb_item_id": "886",
-          "qb_sku": "",
-          "qb_unit_price": 528.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
-        },
-        {
-          "part_number": "PSL2BB",
-          "qb_item_id": "887",
-          "qb_sku": "",
-          "qb_unit_price": 1074.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
-        }
-      ]
-    },
     "whelen_sa315p": {
       "manufacturer_id": "whelen",
       "model": "SA315P Speaker",
@@ -4052,7 +3941,7 @@
     },
     "whelen_legacy": {
       "manufacturer_id": "whelen",
-      "model": "LEGACY",
+      "model": "Legacy",
       "fits_part_types": [
         "roof_light_bar"
       ],
@@ -4093,20 +3982,6 @@
           "qb_item_id": "467",
           "qb_sku": "",
           "qb_unit_price": 4992.31,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": ""
-        },
-        {
-          "part_number": "ET9DEDEP",
-          "qb_item_id": "509",
-          "qb_sku": "",
-          "qb_unit_price": 2368.0,
           "qb_inactive": false,
           "vehicle_tags": [
             "any"
@@ -9339,6 +9214,182 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
+          "tertiary_color": ""
+        }
+      ]
+    },
+    "whelen_mini_legacy": {
+      "manufacturer_id": "whelen",
+      "model": "Mini Legacy",
+      "fits_part_types": [
+        "roof_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ET9DEDEP",
+          "qb_item_id": "509",
+          "qb_sku": "",
+          "qb_unit_price": 2368.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
+        }
+      ]
+    },
+    "whelen_pioneer_micro": {
+      "manufacturer_id": "whelen",
+      "model": "Pioneer Micro",
+      "fits_part_types": [
+        "front_scene",
+        "rear_scene"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "MPBB",
+          "qb_item_id": "778",
+          "qb_sku": "",
+          "qb_unit_price": 528.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
+        },
+        {
+          "part_number": "MPPBBS",
+          "qb_item_id": "780",
+          "qb_sku": "",
+          "qb_unit_price": 750.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
+        }
+      ]
+    },
+    "whelen_pioneer_nano": {
+      "manufacturer_id": "whelen",
+      "model": "Pioneer Nano",
+      "fits_part_types": [
+        "front_scene",
+        "rear_scene"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "NP6BB",
+          "qb_item_id": "783",
+          "qb_sku": "",
+          "qb_unit_price": 336.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
+        }
+      ]
+    },
+    "whelen_pioneer_plus": {
+      "manufacturer_id": "whelen",
+      "model": "Pioneer Plus",
+      "fits_part_types": [
+        "front_scene",
+        "rear_scene"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PBH203",
+          "qb_item_id": "829",
+          "qb_sku": "",
+          "qb_unit_price": 435.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "white",
+          "secondary_color": "",
+          "lens_type": "clear",
+          "tertiary_color": ""
+        },
+        {
+          "part_number": "PFH2",
+          "qb_item_id": "833",
+          "qb_sku": "",
+          "qb_unit_price": 1871.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "white",
+          "secondary_color": "",
+          "lens_type": "clear",
+          "tertiary_color": ""
+        }
+      ]
+    },
+    "whelen_pioneer_slimline": {
+      "manufacturer_id": "whelen",
+      "model": "Pioneer SlimLine",
+      "fits_part_types": [
+        "front_scene",
+        "rear_scene"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PSL1BB",
+          "qb_item_id": "886",
+          "qb_sku": "",
+          "qb_unit_price": 528.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
+        },
+        {
+          "part_number": "PSL2BB",
+          "qb_item_id": "887",
+          "qb_sku": "",
+          "qb_unit_price": 1074.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
           "tertiary_color": ""
         }
       ]
