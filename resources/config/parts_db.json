@@ -338,7 +338,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK0534DRT191500CL",
@@ -351,7 +352,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK0534DUR21",
@@ -362,9 +364,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK0534EPD18",
@@ -376,8 +379,9 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK0534FDT21F150",
@@ -390,7 +394,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK0534ITU20",
@@ -403,7 +408,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK0534TAH25",
@@ -415,8 +421,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK0535DUR21",
@@ -427,9 +434,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK0535ITU20",
@@ -442,7 +450,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK0608ITU20",
@@ -455,7 +464,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -480,7 +490,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK1001DUR21",
@@ -491,9 +502,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK1001ITU20",
@@ -506,7 +518,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK2017ITU20",
@@ -519,7 +532,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK2019BLE24",
@@ -532,7 +546,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK2019CHT221500",
@@ -545,7 +560,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK2019DRT191500CL",
@@ -558,7 +574,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK2019EPD18",
@@ -570,8 +587,9 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK2019FDT21F150",
@@ -584,7 +602,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK2019ITU20",
@@ -597,7 +616,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK2019TAH25",
@@ -609,8 +629,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "BK2168TAH25",
@@ -622,8 +643,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -758,8 +780,9 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -782,9 +805,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "FK0402TAH21",
@@ -796,8 +820,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "FK2271DUR21",
@@ -808,9 +833,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "FK2271ITU25",
@@ -823,7 +849,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "FK2271TAH21",
@@ -835,8 +862,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -859,9 +887,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "HK2272EPD22",
@@ -873,8 +902,9 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "HK2272FDT21F150",
@@ -887,7 +917,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "HK2272ITU25",
@@ -900,7 +931,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "HK2272TAH21",
@@ -912,8 +944,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "HK2273DUR21",
@@ -924,9 +957,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "HK2273ITU25",
@@ -939,7 +973,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "HK2273TAH21",
@@ -951,8 +986,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -990,9 +1026,10 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -1017,7 +1054,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "HK0809DRT191500",
@@ -1029,8 +1067,9 @@
             "RAM-1500"
           ],
           "color": "",
-          "secondary_color": "red",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "HK0809TAH21",
@@ -1042,8 +1081,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -1071,7 +1111,8 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONB",
@@ -1084,7 +1125,8 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IOND",
@@ -1097,7 +1139,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONE",
@@ -1110,7 +1153,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONF",
@@ -1123,7 +1167,8 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONJ",
@@ -1136,7 +1181,8 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONR",
@@ -1149,7 +1195,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "XONB",
@@ -1162,7 +1209,8 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "XONR",
@@ -1175,7 +1223,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "I2D",
@@ -1188,7 +1237,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "I2E",
@@ -1201,7 +1251,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "I2F",
@@ -1214,7 +1265,8 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "I2J",
@@ -1227,7 +1279,8 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "XI2D",
@@ -1240,7 +1293,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "XI2E",
@@ -1253,7 +1307,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "XI3JC",
@@ -1264,9 +1319,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
-          "secondary_color": "",
-          "lens_type": "smoked"
+          "color": "red",
+          "secondary_color": "blue",
+          "lens_type": "smoked",
+          "tertiary_color": "white"
         }
       ]
     },
@@ -1367,7 +1423,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "VX2DX",
@@ -1378,9 +1435,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "smoked"
+          "color": "red",
+          "secondary_color": "white",
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "VX2E",
@@ -1393,7 +1451,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "VX2EX",
@@ -1404,9 +1463,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "smoked"
+          "color": "blue",
+          "secondary_color": "white",
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "VX3BACX",
@@ -1417,9 +1477,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "smoked"
+          "color": "blue",
+          "secondary_color": "amber",
+          "lens_type": "smoked",
+          "tertiary_color": "white"
         },
         {
           "part_number": "VX3RACX",
@@ -1430,9 +1491,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "smoked"
+          "color": "red",
+          "secondary_color": "amber",
+          "lens_type": "smoked",
+          "tertiary_color": "white"
         },
         {
           "part_number": "VX3RBC",
@@ -1443,9 +1505,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "red",
           "secondary_color": "blue",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": "white"
         },
         {
           "part_number": "VXTD",
@@ -1458,7 +1521,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "VXTE",
@@ -1471,7 +1535,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         }
       ]
     },
@@ -1557,7 +1622,8 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONSMB",
@@ -1570,7 +1636,8 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONSMC",
@@ -1583,7 +1650,8 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONSMD",
@@ -1596,7 +1664,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONSME",
@@ -1609,7 +1678,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONSMF",
@@ -1622,7 +1692,8 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONSMR",
@@ -1635,7 +1706,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "XONSMB",
@@ -1648,7 +1720,8 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "XONSMR",
@@ -1661,7 +1734,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "I2SMD",
@@ -1674,7 +1748,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "I2SME",
@@ -1687,7 +1762,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "I2SMF",
@@ -1700,7 +1776,8 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "I3SMJC",
@@ -1711,9 +1788,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
-          "secondary_color": "",
-          "lens_type": "clear"
+          "color": "red",
+          "secondary_color": "blue",
+          "lens_type": "clear",
+          "tertiary_color": "white"
         },
         {
           "part_number": "XI2SMD",
@@ -1726,7 +1804,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "XI2SME",
@@ -1739,7 +1818,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "XI3SMJC",
@@ -1750,9 +1830,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
-          "secondary_color": "",
-          "lens_type": "smoked"
+          "color": "red",
+          "secondary_color": "blue",
+          "lens_type": "smoked",
+          "tertiary_color": "white"
         }
       ]
     },
@@ -2076,9 +2157,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -2105,7 +2187,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -2177,9 +2260,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "CHWLFE29",
@@ -2192,7 +2276,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "CHWLUNI",
@@ -2205,7 +2290,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -2327,7 +2413,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "U180DX",
@@ -2340,7 +2427,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "U180E",
@@ -2353,7 +2441,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "U180EX",
@@ -2366,7 +2455,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "U180J",
@@ -2379,7 +2469,8 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "U180JC",
@@ -2392,7 +2483,8 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": "white"
         },
         {
           "part_number": "U180KCX",
@@ -2403,9 +2495,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "smoked"
+          "color": "red",
+          "secondary_color": "amber",
+          "lens_type": "smoked",
+          "tertiary_color": "white"
         },
         {
           "part_number": "U180MCX",
@@ -2416,9 +2509,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "smoked"
+          "color": "blue",
+          "secondary_color": "amber",
+          "lens_type": "smoked",
+          "tertiary_color": "white"
         }
       ]
     },
@@ -2443,7 +2537,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "MBDC11",
@@ -2456,7 +2551,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "MBFX25",
@@ -2469,7 +2565,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -3510,7 +3607,8 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "TMS0B",
@@ -3523,7 +3621,8 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "TMS0D",
@@ -3536,7 +3635,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "TMS0F",
@@ -3549,7 +3649,8 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "TMS0R",
@@ -3562,7 +3663,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "TMSOE",
@@ -3575,7 +3677,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "TMT0A",
@@ -3922,9 +4025,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
-          "secondary_color": "white",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "EB2DEDE",
@@ -3935,9 +4039,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
-          "secondary_color": "blue",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "EB8DEDE",
@@ -3948,9 +4053,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
-          "secondary_color": "blue",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "ET9DEDEP",
@@ -3961,9 +4067,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -3988,7 +4095,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -4043,7 +4151,8 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "MCFLED2R",
@@ -4056,7 +4165,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         }
       ]
     },
@@ -4432,7 +4542,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -4472,7 +4583,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -4497,7 +4609,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -4567,7 +4680,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -4592,7 +4706,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -4617,7 +4732,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -5093,7 +5209,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0228DUR11",
@@ -5104,9 +5221,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0228ITU20TM",
@@ -5119,7 +5237,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0228TAH21",
@@ -5131,8 +5250,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0350TAH21",
@@ -5144,8 +5264,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0355ITU20TM",
@@ -5158,7 +5279,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0369ITU20TM",
@@ -5171,7 +5293,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0374CHT191500",
@@ -5184,7 +5307,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0374ITU20TM",
@@ -5197,7 +5321,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0419CHT191500",
@@ -5210,7 +5335,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0419DUR11",
@@ -5221,9 +5347,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0419EPD18",
@@ -5235,8 +5362,9 @@
             "EXPEDITION"
           ],
           "color": "",
-          "secondary_color": "purple",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0419FDT15F150",
@@ -5249,7 +5377,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0419ITU20TM",
@@ -5262,7 +5391,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0419TAH21",
@@ -5274,8 +5404,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0439ITU20TM",
@@ -5288,7 +5419,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -5313,7 +5445,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "1K0574DUR11",
@@ -5324,9 +5457,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "1K0574DUR11FSR",
@@ -5337,9 +5471,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "1K0574FDT15F150PDR",
@@ -5350,9 +5485,10 @@
           "vehicle_tags": [
             "F-150"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "1K0574FDT15F150WOD",
@@ -5365,7 +5501,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "1K0574ITU20FR",
@@ -5376,9 +5513,10 @@
           "vehicle_tags": [
             "PIU"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "1K0574ITU20WD",
@@ -5390,8 +5528,9 @@
             "PIU"
           ],
           "color": "",
-          "secondary_color": "white",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "1K0574TAH21FR",
@@ -5402,9 +5541,10 @@
           "vehicle_tags": [
             "TAHOE"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "1K0574TAH21WD",
@@ -5416,8 +5556,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "white",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "1K0576TAH21WD",
@@ -5429,8 +5570,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "white",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -5455,7 +5597,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK1152TAH21",
@@ -5467,8 +5610,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK1188CHT191500",
@@ -5481,7 +5625,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -5535,9 +5680,10 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK0595DUR11",
@@ -5548,9 +5694,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK0595FDT15F150P",
@@ -5561,9 +5708,10 @@
           "vehicle_tags": [
             "F-150"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK0595ITU20",
@@ -5576,7 +5724,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK0595TAH21",
@@ -5588,8 +5737,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -5659,9 +5809,10 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK0514CHT191500",
@@ -5674,7 +5825,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK0514DRT191500CL",
@@ -5687,7 +5839,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK0514DUR11",
@@ -5698,9 +5851,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK0514ITU20",
@@ -5713,7 +5867,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK0514TAH21",
@@ -5725,8 +5880,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -5751,7 +5907,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK0514ITU20H",
@@ -5764,7 +5921,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK0514TAH21H",
@@ -5777,7 +5935,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -5802,7 +5961,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK1491FDT15F150T",
@@ -5815,7 +5975,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK1491ITU20T",
@@ -5828,7 +5989,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "WK1491TAH21T",
@@ -5841,7 +6003,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -5896,7 +6059,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -5921,7 +6085,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0316DUR112ND",
@@ -5934,7 +6099,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0316EPD182ND",
@@ -5947,7 +6113,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "PK0316TAH212ND",
@@ -5960,7 +6127,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -7119,9 +7287,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK0566ITU20",
@@ -7134,7 +7303,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK0566ITU25",
@@ -7147,7 +7317,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK0634CGR11",
@@ -7158,9 +7329,10 @@
           "vehicle_tags": [
             "CHARGER"
           ],
-          "color": "red",
-          "secondary_color": "green",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK0634DUR11",
@@ -7171,9 +7343,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK0634ITU20",
@@ -7186,7 +7359,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK0635DUR11",
@@ -7197,9 +7371,10 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK1224BLE24",
@@ -7212,7 +7387,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK1374TAH21",
@@ -7224,8 +7400,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK1576BLE24",
@@ -7238,7 +7415,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK1684BLE24",
@@ -7251,7 +7429,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK2023TAH21",
@@ -7263,8 +7442,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK2024TAH21",
@@ -7276,8 +7456,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -7302,7 +7483,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK2412TAH21",
@@ -7314,8 +7496,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "QK2414TAH21",
@@ -7327,8 +7510,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "amber",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -7353,7 +7537,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -7376,9 +7561,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -7403,7 +7589,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "GK0069M",
@@ -7416,7 +7603,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "GK10271UHK",
@@ -7429,7 +7617,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -7454,7 +7643,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "GK10342UHK",
@@ -7467,7 +7657,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "GK11191B1SHK",
@@ -7480,7 +7671,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "GK2001E",
@@ -7493,7 +7685,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -7516,9 +7709,10 @@
           "vehicle_tags": [
             "CHEVY-1500"
           ],
-          "color": "white",
-          "secondary_color": "red",
-          "lens_type": "clear"
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "2K0035ITU20RPFRTM",
@@ -7531,7 +7725,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "2K0035TAH21FPWD",
@@ -7543,8 +7738,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "white",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "2K0035TAH21RPFC",
@@ -7557,7 +7753,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8062,7 +8259,8 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8087,7 +8285,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8110,9 +8309,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8137,7 +8337,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "HHS3206",
@@ -8150,7 +8351,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "HHS3207",
@@ -8163,7 +8365,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8188,7 +8391,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8213,7 +8417,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8236,9 +8441,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "CCP9",
@@ -8249,9 +8455,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "purple",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "CCPKT",
@@ -8264,7 +8471,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8289,7 +8497,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "VSG1FR",
@@ -8300,9 +8509,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "VSG1V1",
@@ -8315,7 +8525,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "VSG1VR",
@@ -8326,9 +8537,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8430,7 +8642,8 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONV3AW",
@@ -8443,7 +8656,8 @@
           ],
           "color": "amber",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONV3B",
@@ -8456,7 +8670,8 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONV3R",
@@ -8469,7 +8684,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "XONV3B",
@@ -8482,7 +8698,8 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "XONV3R",
@@ -8495,7 +8712,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "tertiary_color": ""
         },
         {
           "part_number": "IONSV3A",
@@ -8508,7 +8726,8 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8532,8 +8751,9 @@
             "PIU"
           ],
           "color": "",
-          "secondary_color": "white",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "RPWD54",
@@ -8545,8 +8765,9 @@
             "TAHOE"
           ],
           "color": "",
-          "secondary_color": "white",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "RPWT50",
@@ -8558,8 +8779,9 @@
             "PIU"
           ],
           "color": "",
-          "secondary_color": "white",
-          "lens_type": "clear"
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8584,7 +8806,8 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "M2RC",
@@ -8597,7 +8820,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "ML2A",
@@ -8610,7 +8834,8 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "ML2DD",
@@ -8623,7 +8848,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "ML2DE",
@@ -8636,7 +8862,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8661,7 +8888,8 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "M4BC",
@@ -8674,7 +8902,8 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "M4DD",
@@ -8687,7 +8916,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "M4DE",
@@ -8700,7 +8930,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "M4R",
@@ -8713,7 +8944,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "M4RC",
@@ -8726,7 +8958,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "M4V2A",
@@ -8739,7 +8972,8 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "M4V2R",
@@ -8752,7 +8986,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8777,7 +9012,8 @@
           ],
           "color": "blue",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "M6DD",
@@ -8790,7 +9026,8 @@
           ],
           "color": "red",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "M6DE",
@@ -8803,7 +9040,8 @@
           ],
           "color": "blue",
           "secondary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "M6R",
@@ -8816,7 +9054,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "M6V2C",
@@ -8829,7 +9068,8 @@
           ],
           "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8854,7 +9094,8 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "M7AC",
@@ -8867,7 +9108,8 @@
           ],
           "color": "amber",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8893,7 +9135,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "M9RCZ",
@@ -8906,7 +9149,8 @@
           ],
           "color": "red",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8930,9 +9174,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "blue",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         },
         {
           "part_number": "904SLC",
@@ -8945,7 +9190,8 @@
           ],
           "color": "",
           "secondary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -8969,9 +9215,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "blue",
+          "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "S161MB",
@@ -8982,9 +9229,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "blue",
+          "color": "white",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "tertiary_color": ""
         },
         {
           "part_number": "S30MB",
@@ -8995,9 +9243,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "blue",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear"
+          "lens_type": "",
+          "tertiary_color": ""
         }
       ]
     },
@@ -9122,7 +9371,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Forward Warning {n}",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "warning"
     },
     "fw_bracket": {
       "label": "FW Bracket",
@@ -9144,7 +9394,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Front Side Warning {n}",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "warning"
     },
     "front_side_bracket": {
       "label": "Front Side Bracket",
@@ -9166,7 +9417,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Pit Bar Warning",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "warning"
     },
     "headlight_flasher": {
       "label": "Headlight Flasher",
@@ -9179,7 +9431,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Headlight Flasher",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "warning"
     },
     "front_scene": {
       "label": "Front Scene",
@@ -9192,7 +9445,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Front Scene",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "scene"
     },
     "siren_speaker": {
       "label": "Siren Speaker",
@@ -9305,7 +9559,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Front Dome Light",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "interior"
     },
     "cradle_point": {
       "label": "Cloud System",
@@ -9345,7 +9600,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Mirror Warning {n}",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "warning"
     },
     "mirror_warning_bracket": {
       "label": "Mirror Warning Bracket",
@@ -9367,7 +9623,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Front Interior Light Bar",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "interior_bar"
     },
     "side_warning": {
       "label": "Side Warning",
@@ -9384,7 +9641,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Side Warning {n}",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "warning"
     },
     "side_warning_bracket": {
       "label": "Side Warning Bracket",
@@ -9406,7 +9664,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Side Scene",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "scene"
     },
     "roof_light_bar": {
       "label": "Light Bar",
@@ -9419,7 +9678,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Roof Light Bar",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "roof_bar"
     },
     "rear_interior_light_bar": {
       "label": "Interior Light Bar",
@@ -9432,7 +9692,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Rear Interior Light Bar",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "interior_bar"
     },
     "rear_warning": {
       "label": "Rear Warning",
@@ -9445,7 +9706,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Rear Warning {n}",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "warning"
     },
     "rear_warning_bracket": {
       "label": "Rear Warning Bracket",
@@ -9467,7 +9729,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Rear Scene",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "scene"
     },
     "lower_liftgate_warning": {
       "label": "Lower Lift Gate Warning",
@@ -9480,7 +9743,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Lower Lift Gate Warning",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "warning"
     },
     "lower_liftgate_warning_bracket": {
       "label": "Lower Lift Gate Warning Bracket",
@@ -9502,7 +9766,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Tail Light Flasher",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "warning"
     },
     "radar_display_unit": {
       "label": "Radar Display Unit",
@@ -9978,7 +10243,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Rear Seat Lights {n}",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "interior"
     },
     "rear_seat_cargo_lights": {
       "label": "Rear Seat Cargo Lights",
@@ -9991,7 +10257,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Rear Seat Cargo Lights",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "interior"
     },
     "rear_seat_divider": {
       "label": "Rear Seat Divider",
@@ -10108,7 +10375,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Cargo Lighting",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "interior"
     },
     "door_lock_button": {
       "label": "Door Lock Button",
@@ -10426,7 +10694,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "2-Lamp Tracer",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "warning"
     },
     "tracer_5_lamp": {
       "label": "5-Lamp Tracer",
@@ -10439,7 +10708,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "5-Lamp Tracer",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "warning"
     },
     "tracer_6_lamp": {
       "label": "6-Lamp Tracer",
@@ -10452,7 +10722,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "6-Lamp Tracer",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "category": "warning"
     },
     "radio_speaker": {
       "label": "Radio Speaker",
