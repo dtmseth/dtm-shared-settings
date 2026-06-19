@@ -246,7 +246,21 @@
               "orientation": "h",
               "slot_count": 4,
               "pattern": "horizontal",
-              "h_spacing": 0.095
+              "h_spacing": 0.095,
+              "quantity_rules": [
+                {
+                  "qty": 2,
+                  "slot_count": 4,
+                  "slot_indices": [
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "qty": 4,
+                  "slot_count": 4
+                }
+              ]
             },
             "CENTER PLATE OF PB": {
               "x": 0.5,
@@ -676,8 +690,8 @@
               "pattern": "single"
             },
             "HEADLIGHT CUT OUTS": {
-              "x": 0.5,
-              "y": 0.5,
+              "x": 0.094,
+              "y": 0.458,
               "units": "relative_image",
               "orientation": "h",
               "slot_count": 1,
@@ -1234,7 +1248,21 @@
               "orientation": "h",
               "slot_count": 4,
               "pattern": "horizontal",
-              "h_spacing": 0.095
+              "h_spacing": 0.095,
+              "quantity_rules": [
+                {
+                  "qty": 2,
+                  "slot_count": 4,
+                  "slot_indices": [
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "qty": 4,
+                  "slot_count": 4
+                }
+              ]
             },
             "CENTER PLATE OF PB": {
               "x": 0.5,
@@ -2257,7 +2285,21 @@
               "orientation": "h",
               "slot_count": 4,
               "pattern": "horizontal",
-              "h_spacing": 0.095
+              "h_spacing": 0.095,
+              "quantity_rules": [
+                {
+                  "qty": 2,
+                  "slot_count": 4,
+                  "slot_indices": [
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "qty": 4,
+                  "slot_count": 4
+                }
+              ]
             },
             "CENTER PLATE OF PB": {
               "x": 0.5,
@@ -3281,7 +3323,21 @@
               "orientation": "h",
               "slot_count": 4,
               "pattern": "horizontal",
-              "h_spacing": 0.095
+              "h_spacing": 0.095,
+              "quantity_rules": [
+                {
+                  "qty": 2,
+                  "slot_count": 4,
+                  "slot_indices": [
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "qty": 4,
+                  "slot_count": 4
+                }
+              ]
             },
             "CENTER PLATE OF PB": {
               "x": 0.5,
@@ -4288,7 +4344,21 @@
               "orientation": "h",
               "slot_count": 4,
               "pattern": "horizontal",
-              "h_spacing": 0.095
+              "h_spacing": 0.095,
+              "quantity_rules": [
+                {
+                  "qty": 2,
+                  "slot_count": 4,
+                  "slot_indices": [
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "qty": 4,
+                  "slot_count": 4
+                }
+              ]
             },
             "CENTER PLATE OF PB": {
               "x": 0.5,
