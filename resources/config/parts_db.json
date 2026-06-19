@@ -664,87 +664,6 @@
         }
       ]
     },
-    "stalker_specify_model": {
-      "manufacturer_id": "stalker",
-      "model": "SPECIFY MODEL",
-      "fits_part_types": [
-        "push_bumper",
-        "pit_bar",
-        "wing_wraps",
-        "forward_warning",
-        "front_side_warning",
-        "front_side_bracket",
-        "pit_bar_warning",
-        "headlight_flasher",
-        "front_scene",
-        "siren_speaker",
-        "external_amp",
-        "howler",
-        "front_dome_light",
-        "cradle_point",
-        "cloud_antenna",
-        "mirror_warning",
-        "front_interior_light_bar",
-        "side_warning",
-        "rear_interior_light_bar",
-        "rear_warning",
-        "rear_scene",
-        "lower_liftgate_warning",
-        "lower_liftgate_warning_bracket",
-        "tail_light_flasher",
-        "radar_display_unit",
-        "front_radar_antenna_mount",
-        "rear_radar_antenna_mount",
-        "thermal_imager",
-        "thermal_imager_monitor",
-        "light_controller",
-        "control_head",
-        "vehicle_interface",
-        "expansion_module",
-        "radio_head",
-        "console",
-        "special_face_plate",
-        "arm_rest",
-        "motion_attachment",
-        "printer",
-        "printer_mount",
-        "aux_12v_ports",
-        "camera_dvr",
-        "front_partition",
-        "chicago_barrier",
-        "rear_seat_lights",
-        "rear_seat_cargo_lights",
-        "rear_seat_divider",
-        "rear_window_bars",
-        "replacement_rear_seat",
-        "rear_partition",
-        "bullet_proof_door_panel",
-        "bullet_proof_door_window",
-        "cargo_lighting",
-        "equipment_tray",
-        "gun_lock",
-        "gun_lock_bracket",
-        "k9_kennel",
-        "k9_heat_alarm_popper",
-        "auto_eject",
-        "cloud_system_tray",
-        "arges_face",
-        "arges_controller",
-        "arges_mount",
-        "floor_mats",
-        "seat_covers",
-        "window_tint",
-        "harness"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "SPECIFY MODEL"
-        }
-      ]
-    },
     "westin_pit_bars": {
       "manufacturer_id": "westin",
       "model": "PIT BARS",
@@ -2219,7 +2138,18 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "SAK1"
+          "part_number": "SAK1",
+          "qb_item_id": "966",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -2234,7 +2164,18 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "SAK9"
+          "part_number": "SAK9",
+          "qb_item_id": "981",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -4738,7 +4679,18 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "CCTL7"
+          "part_number": "CCTL7",
+          "qb_item_id": "421",
+          "qb_sku": "",
+          "qb_unit_price": 473.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -4768,7 +4720,18 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "CCTL9"
+          "part_number": "CCTL9",
+          "qb_item_id": "422",
+          "qb_sku": "",
+          "qb_unit_price": 473.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -7040,21 +7003,6 @@
         }
       ]
     },
-    "arcti_start_specify": {
-      "manufacturer_id": "arcti_start",
-      "model": "SPECIFY",
-      "fits_part_types": [
-        "remote_start"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "SPECIFY"
-        }
-      ]
-    },
     "whelen_pro_focus": {
       "manufacturer_id": "whelen",
       "model": "PRO-FOCUS",
@@ -7238,21 +7186,6 @@
         }
       ]
     },
-    "whelen_specify_location": {
-      "manufacturer_id": "whelen",
-      "model": "SPECIFY LOCATION",
-      "fits_part_types": [
-        "photo_eye"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "SPECIFY LOCATION"
-        }
-      ]
-    },
     "globesat_front_right_of_dash": {
       "manufacturer_id": "globesat",
       "model": "FRONT RIGHT OF DASH",
@@ -7280,21 +7213,6 @@
       "part_numbers": [
         {
           "part_number": "ROOF MOUNTED"
-        }
-      ]
-    },
-    "globesat_specify_loaction": {
-      "manufacturer_id": "globesat",
-      "model": "SPECIFY LOACTION",
-      "fits_part_types": [
-        "gpd"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "SPECIFY LOACTION"
         }
       ]
     },
@@ -10987,7 +10905,6 @@
     "SIDE OF PUSH BUMPER": {
       "placement_zone": "primary_front"
     },
-    "SPECIFY LOCATION": {},
     "SPOT LIGHT MOUNT": {},
     "TAIL LIGHTS": {
       "placement_zone": "rear"
