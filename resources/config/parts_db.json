@@ -1262,7 +1262,7 @@
     },
     "whelen_2_lamp_tracer": {
       "manufacturer_id": "whelen",
-      "model": "2 LAMP TRACER",
+      "model": "Tracer 2-Lamp",
       "fits_part_types": [
         "forward_warning"
       ],
@@ -1522,7 +1522,7 @@
     },
     "whelen_surface_mount_ion": {
       "manufacturer_id": "whelen",
-      "model": "SURFACE MOUNT ION",
+      "model": "ION Surface Mount",
       "fits_part_types": [
         "front_side_warning",
         "pit_bar_warning"
@@ -1807,7 +1807,7 @@
     },
     "whelen_vertex": {
       "manufacturer_id": "whelen",
-      "model": "VERTEX",
+      "model": "Vertex",
       "fits_part_types": [
         "front_side_warning",
         "pit_bar_warning",
@@ -1935,7 +1935,7 @@
     },
     "whelen_field_series": {
       "manufacturer_id": "whelen",
-      "model": "FIELD SERIES",
+      "model": "Field Series",
       "fits_part_types": [
         "front_scene",
         "rear_scene"
@@ -2073,7 +2073,7 @@
     },
     "whelen_sa315p": {
       "manufacturer_id": "whelen",
-      "model": "SA315P",
+      "model": "SA315P Speaker",
       "fits_part_types": [
         "siren_speaker"
       ],
@@ -2101,7 +2101,7 @@
     },
     "whelen_sa315u": {
       "manufacturer_id": "whelen",
-      "model": "SA315U",
+      "model": "SA315U Speaker",
       "fits_part_types": [
         "siren_speaker"
       ],
@@ -2198,7 +2198,7 @@
     },
     "whelen_wcx_howler": {
       "manufacturer_id": "whelen",
-      "model": "WCX HOWLER",
+      "model": "Howler WCX",
       "fits_part_types": [
         "howler"
       ],
@@ -2351,7 +2351,7 @@
     },
     "whelen_u_series": {
       "manufacturer_id": "whelen",
-      "model": "U-SERIES",
+      "model": "U-Series",
       "fits_part_types": [
         "mirror_warning"
       ],
@@ -2475,7 +2475,7 @@
     },
     "whelen_mirror_beams": {
       "manufacturer_id": "whelen",
-      "model": "MIRROR BEAMS",
+      "model": "Mirror-Beam",
       "fits_part_types": [
         "mirror_warning"
       ],
@@ -2544,7 +2544,7 @@
     },
     "whelen_fst": {
       "manufacturer_id": "whelen",
-      "model": "FST",
+      "model": "Inner Edge FST",
       "fits_part_types": [
         "front_interior_light_bar"
       ],
@@ -2822,7 +2822,7 @@
     },
     "whelen_xlp": {
       "manufacturer_id": "whelen",
-      "model": "XLP",
+      "model": "Inner Edge XLP",
       "fits_part_types": [
         "front_interior_light_bar",
         "rear_interior_light_bar"
@@ -2908,7 +2908,7 @@
     },
     "whelen_t_series": {
       "manufacturer_id": "whelen",
-      "model": "T-SERIES",
+      "model": "T-Series",
       "fits_part_types": [
         "side_warning",
         "rear_warning",
@@ -3428,7 +3428,7 @@
     },
     "whelen_mega_t_series": {
       "manufacturer_id": "whelen",
-      "model": "MEGA T-SERIES",
+      "model": "Mega T-Series",
       "fits_part_types": [
         "side_warning",
         "rear_warning",
@@ -3952,7 +3952,7 @@
     },
     "whelen_tracer_5_lamp": {
       "manufacturer_id": "whelen",
-      "model": "TRACER 5 LAMP",
+      "model": "Tracer 5-Lamp",
       "fits_part_types": [
         "side_warning",
         "rear_warning"
@@ -3979,7 +3979,7 @@
     },
     "whelen_tracer_6_lamp": {
       "manufacturer_id": "whelen",
-      "model": "TRACER 6 LAMP",
+      "model": "Tracer 6-Lamp",
       "fits_part_types": [
         "side_warning"
       ],
@@ -4120,7 +4120,7 @@
     },
     "whelen_liberty": {
       "manufacturer_id": "whelen",
-      "model": "LIBERTY",
+      "model": "Liberty II",
       "fits_part_types": [
         "roof_light_bar"
       ],
@@ -4176,7 +4176,7 @@
     },
     "whelen_freedom": {
       "manufacturer_id": "whelen",
-      "model": "FREEDOM",
+      "model": "Micro Freedom",
       "fits_part_types": [
         "roof_light_bar"
       ],
@@ -4216,7 +4216,7 @@
     },
     "whelen_rst": {
       "manufacturer_id": "whelen",
-      "model": "RST",
+      "model": "Inner Edge RST",
       "fits_part_types": [
         "rear_interior_light_bar"
       ],
@@ -4577,7 +4577,7 @@
     },
     "whelen_core": {
       "manufacturer_id": "whelen",
-      "model": "CORE",
+      "model": "CenCom Core",
       "fits_part_types": [
         "light_controller"
       ],
@@ -7005,7 +7005,7 @@
     },
     "whelen_pro_focus": {
       "manufacturer_id": "whelen",
-      "model": "PRO-FOCUS",
+      "model": "ProFocus",
       "fits_part_types": [
         "arges_face"
       ],
@@ -8275,7 +8275,7 @@
     },
     "whelen_century": {
       "manufacturer_id": "whelen",
-      "model": "CENTURY",
+      "model": "Mini Century",
       "fits_part_types": [
         "roof_light_bar"
       ],
@@ -8301,7 +8301,7 @@
     },
     "whelen_alpha_sl": {
       "manufacturer_id": "whelen",
-      "model": "ALPHA SL",
+      "model": "Alpha SL",
       "fits_part_types": [
         "external_amp"
       ],
@@ -8327,7 +8327,7 @@
     },
     "whelen_external_amplifier": {
       "manufacturer_id": "whelen",
-      "model": "WECANX EXTERNAL AMP",
+      "model": "WeCanX External Amp",
       "fits_part_types": [
         "external_amp"
       ],
@@ -8353,7 +8353,7 @@
     },
     "whelen_hhs_siren_amp": {
       "manufacturer_id": "whelen",
-      "model": "HHS SIREN AMP",
+      "model": "HHS Siren Amp",
       "fits_part_types": [
         "external_amp"
       ],
@@ -8407,7 +8407,7 @@
     },
     "whelen_sa350mh": {
       "manufacturer_id": "whelen",
-      "model": "SA-350MH",
+      "model": "SA-350MH Speaker",
       "fits_part_types": [
         "siren_speaker"
       ],
@@ -8459,7 +8459,7 @@
     },
     "whelen_core_control_point": {
       "manufacturer_id": "whelen",
-      "model": "CORE CONTROL POINT",
+      "model": "Core Control Point",
       "fits_part_types": [
         "control_head"
       ],
@@ -8513,7 +8513,7 @@
     },
     "whelen_vsg": {
       "manufacturer_id": "whelen",
-      "model": "CORE+ VSG",
+      "model": "Core+ VSG",
       "fits_part_types": [
         "cloud_antenna"
       ],
@@ -8581,7 +8581,7 @@
     },
     "whelen_outer_edge": {
       "manufacturer_id": "whelen",
-      "model": "OUTER EDGE",
+      "model": "Outer Edge",
       "fits_part_types": [
         "rear_interior_light_bar"
       ],
@@ -8607,7 +8607,7 @@
     },
     "whelen_tracer_3_lamp": {
       "manufacturer_id": "whelen",
-      "model": "TRACER 3 LAMP",
+      "model": "Tracer 3-Lamp",
       "fits_part_types": [
         "side_warning",
         "rear_warning"
@@ -8634,7 +8634,7 @@
     },
     "whelen_traffic_advisor": {
       "manufacturer_id": "whelen",
-      "model": "TRAFFIC ADVISOR",
+      "model": "Traffic Advisor",
       "fits_part_types": [
         "rear_warning"
       ],
@@ -8660,7 +8660,7 @@
     },
     "whelen_ion_v_series": {
       "manufacturer_id": "whelen",
-      "model": "ION V-SERIES",
+      "model": "ION V-Series",
       "fits_part_types": [
         "front_side_warning",
         "rear_warning"
@@ -8771,7 +8771,7 @@
     },
     "whelen_ion_rear_pillar": {
       "manufacturer_id": "whelen",
-      "model": "ION REAR PILLAR",
+      "model": "ION Rear Pillar",
       "fits_part_types": [
         "rear_warning"
       ],
@@ -8825,7 +8825,7 @@
     },
     "whelen_m2": {
       "manufacturer_id": "whelen",
-      "model": "M2 SERIES",
+      "model": "M2 Series",
       "fits_part_types": [
         "front_side_warning"
       ],
@@ -8907,7 +8907,7 @@
     },
     "whelen_m4": {
       "manufacturer_id": "whelen",
-      "model": "M4 SERIES",
+      "model": "M4 Series",
       "fits_part_types": [
         "front_side_warning"
       ],
@@ -9031,7 +9031,7 @@
     },
     "whelen_m6": {
       "manufacturer_id": "whelen",
-      "model": "M6 SERIES",
+      "model": "M6 Series",
       "fits_part_types": [
         "front_side_warning"
       ],
@@ -9113,7 +9113,7 @@
     },
     "whelen_m7": {
       "manufacturer_id": "whelen",
-      "model": "M7 SERIES",
+      "model": "M7 Series",
       "fits_part_types": [
         "front_side_warning"
       ],
@@ -9153,7 +9153,7 @@
     },
     "whelen_m9_scene": {
       "manufacturer_id": "whelen",
-      "model": "M9 SCENE",
+      "model": "M9 Scene",
       "fits_part_types": [
         "front_scene",
         "rear_scene"
@@ -9194,7 +9194,7 @@
     },
     "whelen_ez_scene": {
       "manufacturer_id": "whelen",
-      "model": "EZ SCENE LIGHT",
+      "model": "EZ Scene Light",
       "fits_part_types": [
         "front_scene",
         "rear_scene"
@@ -9235,7 +9235,7 @@
     },
     "whelen_summit_flood": {
       "manufacturer_id": "whelen",
-      "model": "SUMMIT FLOOD",
+      "model": "Summit Flood",
       "fits_part_types": [
         "front_scene",
         "rear_scene"
@@ -9290,7 +9290,7 @@
     },
     "whelen_500_series": {
       "manufacturer_id": "whelen",
-      "model": "500 SERIES TIR",
+      "model": "500 Series TIR6",
       "fits_part_types": [
         "forward_warning",
         "side_warning"
