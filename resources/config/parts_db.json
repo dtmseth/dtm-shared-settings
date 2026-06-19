@@ -1013,7 +1013,9 @@
         "forward_warning",
         "side_warning",
         "rear_warning",
-        "lower_liftgate_warning"
+        "lower_liftgate_warning",
+        "front_side_warning",
+        "pit_bar_warning"
       ],
       "tag_ids": [],
       "description": "",
@@ -1242,21 +1244,6 @@
           "secondary_color": "blue",
           "lens_type": "smoked",
           "tertiary_color": "white"
-        }
-      ]
-    },
-    "whelen_t_ion": {
-      "manufacturer_id": "whelen",
-      "model": "T-ION",
-      "fits_part_types": [
-        "forward_warning"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "T-ION"
         }
       ]
     },
@@ -1754,38 +1741,6 @@
           "secondary_color": "blue",
           "lens_type": "smoked",
           "tertiary_color": "white"
-        }
-      ]
-    },
-    "whelen_standard_mount_ion": {
-      "manufacturer_id": "whelen",
-      "model": "STANDARD MOUNT ION",
-      "fits_part_types": [
-        "front_side_warning",
-        "pit_bar_warning"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "STANDARD MOUNT ION"
-        }
-      ]
-    },
-    "whelen_t_series_ion": {
-      "manufacturer_id": "whelen",
-      "model": "T-SERIES ION",
-      "fits_part_types": [
-        "front_side_warning",
-        "pit_bar_warning"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "T-SERIES ION"
         }
       ]
     },
@@ -2780,21 +2735,6 @@
         }
       ]
     },
-    "whelen_t_ions_w_shorud": {
-      "manufacturer_id": "whelen",
-      "model": "T-IONS W/SHORUD",
-      "fits_part_types": [
-        "front_interior_light_bar"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "T-IONS W/SHORUD"
-        }
-      ]
-    },
     "whelen_t_series": {
       "manufacturer_id": "whelen",
       "model": "T-Series",
@@ -2803,7 +2743,11 @@
         "rear_warning",
         "lower_liftgate_warning",
         "rear_seat_cargo_lights",
-        "cargo_lighting"
+        "cargo_lighting",
+        "forward_warning",
+        "front_side_warning",
+        "pit_bar_warning",
+        "front_interior_light_bar"
       ],
       "tag_ids": [],
       "description": "",
@@ -4021,7 +3965,7 @@
     },
     "whelen_9x_edge": {
       "manufacturer_id": "whelen",
-      "model": "9X EDGE",
+      "model": "Edge 9X",
       "fits_part_types": [
         "roof_light_bar"
       ],
@@ -4287,36 +4231,6 @@
         }
       ]
     },
-    "whelen_am_900": {
-      "manufacturer_id": "whelen",
-      "model": "AM-900",
-      "fits_part_types": [
-        "rear_scene"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "AM-900"
-        }
-      ]
-    },
-    "whelen_flashed_with_core": {
-      "manufacturer_id": "whelen",
-      "model": "FLASHED WITH CORE",
-      "fits_part_types": [
-        "tail_light_flasher"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "FLASHED WITH CORE"
-        }
-      ]
-    },
     "stalker_dsr": {
       "manufacturer_id": "stalker",
       "model": "DSR",
@@ -4473,21 +4387,6 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": ""
-        }
-      ]
-    },
-    "whelen_blueprint": {
-      "manufacturer_id": "whelen",
-      "model": "BLUEPRINT",
-      "fits_part_types": [
-        "light_controller"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "BLUEPRINT"
         }
       ]
     },
@@ -6985,21 +6884,6 @@
         }
       ]
     },
-    "whelen_vehicle_specific_mount": {
-      "manufacturer_id": "whelen",
-      "model": "VEHICLE SPECIFIC MOUNT",
-      "fits_part_types": [
-        "arges_mount"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "VEHICLE SPECIFIC MOUNT"
-        }
-      ]
-    },
     "whelen_light_bar_mount": {
       "manufacturer_id": "whelen",
       "model": "LIGHT BAR MOUNT",
@@ -7015,22 +6899,6 @@
         }
       ]
     },
-    "whelen_center_of_dash": {
-      "manufacturer_id": "whelen",
-      "model": "CENTER OF DASH",
-      "fits_part_types": [
-        "photo_eye",
-        "gpd"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "CENTER OF DASH"
-        }
-      ]
-    },
     "whelen_rear_view_mirror_plastic": {
       "manufacturer_id": "whelen",
       "model": "REAR VIEW MIRROR PLASTIC",
@@ -7043,21 +6911,6 @@
       "part_numbers": [
         {
           "part_number": "REAR VIEW MIRROR PLASTIC"
-        }
-      ]
-    },
-    "whelen_in_light_bar": {
-      "manufacturer_id": "whelen",
-      "model": "IN LIGHT BAR",
-      "fits_part_types": [
-        "photo_eye"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "IN LIGHT BAR"
         }
       ]
     },
