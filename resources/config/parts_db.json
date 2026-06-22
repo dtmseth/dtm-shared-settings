@@ -1488,7 +1488,18 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "TRACER L BRACKETS X2 PER"
+          "part_number": "TCRLBKT",
+          "qb_item_id": "1096",
+          "qb_sku": "",
+          "qb_unit_price": 16.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
         }
       ]
     },
@@ -10777,6 +10788,336 @@
           "qb_item_id": "408",
           "qb_sku": "",
           "qb_unit_price": 177.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        }
+      ]
+    },
+    "whelen_sa315_mount_kit": {
+      "manufacturer_id": "whelen",
+      "model": "SA-315 Siren Speaker Mount Kit",
+      "fits_part_types": [
+        "siren_speaker_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SAK37",
+          "qb_item_id": "967",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "SAK47",
+          "qb_item_id": "968",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "SAK54CM",
+          "qb_item_id": "969",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "SAK61AD",
+          "qb_item_id": "970",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "SAK63D",
+          "qb_item_id": "971",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "SAK63P",
+          "qb_item_id": "972",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "SAK64D",
+          "qb_item_id": "973",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "SAK64P",
+          "qb_item_id": "974",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "SAK67D",
+          "qb_item_id": "975",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "SAK70",
+          "qb_item_id": "976",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "SAK72P",
+          "qb_item_id": "977",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "SAK73",
+          "qb_item_id": "978",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "SAK75D",
+          "qb_item_id": "979",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "SAK75P",
+          "qb_item_id": "980",
+          "qb_sku": "",
+          "qb_unit_price": 53.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        }
+      ]
+    },
+    "whelen_sa350m_mount_kit": {
+      "manufacturer_id": "whelen",
+      "model": "SA-350M Siren Speaker Mount Kit",
+      "fits_part_types": [
+        "siren_speaker_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SA350MB1",
+          "qb_item_id": "964",
+          "qb_sku": "",
+          "qb_unit_price": 126.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        }
+      ]
+    },
+    "whelen_u_mirror_mount": {
+      "manufacturer_id": "whelen",
+      "model": "U-Series Under-Mirror Mount",
+      "fits_part_types": [
+        "mirror_warning_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "U18013",
+          "qb_item_id": "1211",
+          "qb_sku": "",
+          "qb_unit_price": 35.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "U18044",
+          "qb_item_id": "1212",
+          "qb_sku": "",
+          "qb_unit_price": 35.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "U18047",
+          "qb_item_id": "1213",
+          "qb_sku": "",
+          "qb_unit_price": 35.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "U18050",
+          "qb_item_id": "1214",
+          "qb_sku": "",
+          "qb_unit_price": 35.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "U18054",
+          "qb_item_id": "1215",
+          "qb_sku": "",
+          "qb_unit_price": 35.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "U18059",
+          "qb_item_id": "1216",
+          "qb_sku": "",
+          "qb_unit_price": 35.0,
           "qb_inactive": false,
           "vehicle_tags": [
             "any"
