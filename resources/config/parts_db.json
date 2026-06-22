@@ -11105,7 +11105,7 @@
       "accessory_category": "bracket_mount"
     },
     "front_interior_light_bar": {
-      "label": "Front Interior Light Bar",
+      "label": "Interior Light Bar",
       "type_id": "lights",
       "tree_positions": [
         {
@@ -11175,7 +11175,7 @@
       "category": "roof_bar"
     },
     "rear_interior_light_bar": {
-      "label": "Rear Interior Light Bar",
+      "label": "Interior Light Bar",
       "type_id": "lights",
       "tree_positions": [
         {
