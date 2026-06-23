@@ -1245,6 +1245,13 @@
           "lens_type": "smoked",
           "tertiary_color": "white"
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_ion_grille_mount",
+          "required": false
+        }
       ]
     },
     "whelen_2_lamp_tracer": {
@@ -1499,7 +1506,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Tracer L-bracket kit (2 per)"
         }
       ]
     },
@@ -2105,6 +2113,13 @@
           "lens_type": "",
           "tertiary_color": ""
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_howler_mount_bracket",
+          "required": false
+        }
       ]
     },
     "whelen_wc_howler": {
@@ -2122,6 +2137,13 @@
         {
           "part_number": "WC HOWLER"
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_howler_mount_bracket",
+          "required": false
+        }
       ]
     },
     "whelen_lc_howler": {
@@ -2138,6 +2160,13 @@
       "part_numbers": [
         {
           "part_number": "LC HOWLER"
+        }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_howler_mount_bracket",
+          "required": false
         }
       ]
     },
@@ -10534,6 +10563,13 @@
           "tertiary_color": "",
           "lens_type": ""
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_ion_t_mount_kit",
+          "required": false
+        }
       ]
     },
     "whelen_wecan_control_point": {
@@ -10851,12 +10887,13 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "CHARGER"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Charger '11-23"
         },
         {
           "part_number": "SAK47",
@@ -10865,12 +10902,13 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "RAM-1500"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Ram 1500 '12-18 / Classic '19-24, pass"
         },
         {
           "part_number": "SAK54CM",
@@ -10879,12 +10917,13 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "DURANGO"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Durango '15-25, center (dual)"
         },
         {
           "part_number": "SAK61AD",
@@ -10893,12 +10932,13 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "SUPER-DUTY"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Ford F-250/350/450/550 '17-26, driver"
         },
         {
           "part_number": "SAK63D",
@@ -10907,12 +10947,13 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "TAHOE"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Tahoe '17-20, driver"
         },
         {
           "part_number": "SAK63P",
@@ -10921,12 +10962,13 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "TAHOE"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Tahoe '17-20, pass"
         },
         {
           "part_number": "SAK64D",
@@ -10935,12 +10977,13 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "EXPEDITION"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Expedition SSV '18-21, driver"
         },
         {
           "part_number": "SAK64P",
@@ -10949,12 +10992,13 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "EXPEDITION"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Expedition SSV '18-21, pass"
         },
         {
           "part_number": "SAK67D",
@@ -10963,12 +11007,13 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "MUSTANG"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Mustang '24-25, driver"
         },
         {
           "part_number": "SAK70",
@@ -10977,12 +11022,15 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "TAHOE",
+            "CHEVY-1500",
+            "SUBURBAN"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Tahoe/Silverado/Suburban '19-26, driver or pass"
         },
         {
           "part_number": "SAK72P",
@@ -10991,12 +11039,13 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "MACH-E"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Mach-E '21-25, pass"
         },
         {
           "part_number": "SAK73",
@@ -11005,12 +11054,14 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "F-150",
+            "EXPEDITION"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "F-150 PPV '21-26 / Expedition '22-24, center"
         },
         {
           "part_number": "SAK75D",
@@ -11019,12 +11070,13 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "PIU"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "PIU '25, driver grille"
         },
         {
           "part_number": "SAK75P",
@@ -11033,12 +11085,13 @@
           "qb_unit_price": 53.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "PIU"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "PIU '25, pass grille"
         }
       ]
     },
@@ -11064,7 +11117,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "SA350M mounting kit"
         }
       ]
     },
@@ -11085,12 +11139,14 @@
           "qb_unit_price": 35.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "CHEVY-1500",
+            "SILVERADO-HD"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Silverado 1500/2500 '19-24"
         },
         {
           "part_number": "U18044",
@@ -11099,12 +11155,13 @@
           "qb_unit_price": 35.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "DURANGO"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Durango '13-24"
         },
         {
           "part_number": "U18047",
@@ -11113,12 +11170,14 @@
           "qb_unit_price": 35.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "F-150",
+            "F-150-LIGHTNING"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "F-150 PPV '22-24 / Lightning '22-23"
         },
         {
           "part_number": "U18050",
@@ -11127,12 +11186,13 @@
           "qb_unit_price": 35.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "PIU"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "PIU '20-25"
         },
         {
           "part_number": "U18054",
@@ -11141,12 +11201,14 @@
           "qb_unit_price": 35.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "TAHOE",
+            "SUBURBAN"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Tahoe '21-24 / Suburban '24"
         },
         {
           "part_number": "U18059",
@@ -11155,12 +11217,13 @@
           "qb_unit_price": 35.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "BLAZER"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Blazer EV PPV '24"
         }
       ]
     },
@@ -11181,12 +11244,13 @@
           "qb_unit_price": 100.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "CHARGER"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "E-Z mount: Charger '11-23, 48-50\""
         },
         {
           "part_number": "MKEZ86",
@@ -11195,12 +11259,14 @@
           "qb_unit_price": 100.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "RAM-1500",
+            "RAM-HD"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "E-Z mount: Ram 1500 '12-25 / 2500-3500 '19-24, 54-56\""
         },
         {
           "part_number": "MKEZ101",
@@ -11209,12 +11275,14 @@
           "qb_unit_price": 100.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "TAHOE",
+            "SILVERADO-HD"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "E-Z mount: Tahoe '21-24 / Silverado HD '23-24, 54-56\""
         },
         {
           "part_number": "MKEZ105",
@@ -11223,12 +11291,13 @@
           "qb_unit_price": 100.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "PIU"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "E-Z mount: PIU '20-25, 54-56\""
         },
         {
           "part_number": "MKJA101",
@@ -11242,7 +11311,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Adjustable mount kit #101"
         },
         {
           "part_number": "STPKT85",
@@ -11251,12 +11321,13 @@
           "qb_unit_price": 122.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "DURANGO"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Strap kit: Durango '18-21, 48\" Legacy"
         },
         {
           "part_number": "STPKT93",
@@ -11265,12 +11336,15 @@
           "qb_unit_price": 122.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "TAHOE",
+            "SUBURBAN",
+            "YUKON"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Strap kit: GM SUVs '15+ (Tahoe/Suburban/Yukon)"
         },
         {
           "part_number": "STPKT94",
@@ -11279,12 +11353,13 @@
           "qb_unit_price": 122.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "F-150"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Adjustable strap kit: F-150"
         },
         {
           "part_number": "STPKT98",
@@ -11293,12 +11368,13 @@
           "qb_unit_price": 122.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "EXPEDITION"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Strap kit: Expedition SSV '22, 54\" Legacy"
         },
         {
           "part_number": "STPKT101",
@@ -11307,12 +11383,13 @@
           "qb_unit_price": 122.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "TAHOE"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Strap kit: Tahoe, 54\" Legacy WCX Duo"
         },
         {
           "part_number": "STPKT105",
@@ -11321,12 +11398,13 @@
           "qb_unit_price": 122.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "PIU"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Strap kit: PIU '20-21, 54\" Legacy WCX Duo"
         },
         {
           "part_number": "CMK93",
@@ -11335,12 +11413,13 @@
           "qb_unit_price": 100.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "TAHOE"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Ceridian strap kit: Tahoe '15+"
         },
         {
           "part_number": "RMKAJ#",
@@ -11354,7 +11433,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Adjustable foot kit w/ strap (specify #)"
         },
         {
           "part_number": "RMKEZ85",
@@ -11363,12 +11443,306 @@
           "qb_unit_price": 203.0,
           "qb_inactive": false,
           "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Replacement mount kit: Durango '11-20"
+        }
+      ]
+    },
+    "whelen_howler_mount_bracket": {
+      "manufacturer_id": "whelen",
+      "model": "Howler Mounting Bracket",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "HWLRB32",
+          "qb_item_id": "611",
+          "qb_sku": "",
+          "qb_unit_price": 274.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE",
+            "SUBURBAN"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Tahoe PPV/SSV '21-24 / Suburban '24"
+        },
+        {
+          "part_number": "HWLRB35",
+          "qb_item_id": "612",
+          "qb_sku": "",
+          "qb_unit_price": 274.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150",
+            "F-150-LIGHTNING",
+            "SUPER-DUTY",
+            "EXPEDITION"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "F-150 '15-25 / Lightning '22-24 / Super-Duty '17-25 / Expedition '18-24"
+        }
+      ]
+    },
+    "whelen_ion_grille_mount": {
+      "manufacturer_id": "whelen",
+      "model": "ION Grille Mount",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "IONBKT9",
+          "qb_item_id": "626",
+          "qb_sku": "",
+          "qb_unit_price": 40.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE",
+            "SUBURBAN"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Grille-mount pair: Tahoe '21-24 / Suburban '21-26"
+        }
+      ]
+    },
+    "whelen_ion_t_mount_kit": {
+      "manufacturer_id": "whelen",
+      "model": "ION-T Mount Kit",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TIONBKT1",
+          "qb_item_id": "1125",
+          "qb_sku": "",
+          "qb_unit_price": 20.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
             "any"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "T-Series universal mount"
+        },
+        {
+          "part_number": "TIONBKT2",
+          "qb_item_id": "1126",
+          "qb_sku": "",
+          "qb_unit_price": 50.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "T-Series license-plate bracket"
+        },
+        {
+          "part_number": "TIONMBK2",
+          "qb_item_id": "1130",
+          "qb_sku": "",
+          "qb_unit_price": 45.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Mini ION-T license-plate mount"
+        },
+        {
+          "part_number": "TIONWEDG",
+          "qb_item_id": "1131",
+          "qb_sku": "",
+          "qb_unit_price": 24.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "T-Series mounting wedges"
+        }
+      ]
+    },
+    "whelen_fender_mount": {
+      "manufacturer_id": "whelen",
+      "model": "Fender Mount",
+      "fits_part_types": [
+        "front_side_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ARG44AD",
+          "qb_item_id": "254",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Durango '15-25, driver"
+        },
+        {
+          "part_number": "ARG47CD",
+          "qb_item_id": "255",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "F-150 PPV '21-26, driver"
+        },
+        {
+          "part_number": "ARG47DD",
+          "qb_item_id": "256",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "SUPER-DUTY"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "F-250/350/450/550/600 Super-Duty '23-26, driver"
+        },
+        {
+          "part_number": "ARG47ED",
+          "qb_item_id": "257",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150-LIGHTNING"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "F-150 Lightning '22-25, driver"
+        },
+        {
+          "part_number": "ARG49D",
+          "qb_item_id": "258",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "CHEVY-1500"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Silverado 1500 PPV '19-26, driver"
+        },
+        {
+          "part_number": "ARG50D",
+          "qb_item_id": "259",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "PIU '20-25, driver"
+        },
+        {
+          "part_number": "ARG50P",
+          "qb_item_id": "260",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "PIU '20-25, passenger"
+        },
+        {
+          "part_number": "ARG54D",
+          "qb_item_id": "261",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Tahoe '21-26, driver"
+        },
+        {
+          "part_number": "ARG54P",
+          "qb_item_id": "262",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Tahoe '21-26, passenger"
         }
       ]
     }
