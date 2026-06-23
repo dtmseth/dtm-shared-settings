@@ -1245,6 +1245,13 @@
           "lens_type": "smoked",
           "tertiary_color": "white"
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_ion_grille_mount",
+          "required": false
+        }
       ]
     },
     "whelen_2_lamp_tracer": {
@@ -2106,6 +2113,13 @@
           "lens_type": "",
           "tertiary_color": ""
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_howler_mount_bracket",
+          "required": false
+        }
       ]
     },
     "whelen_wc_howler": {
@@ -2123,6 +2137,13 @@
         {
           "part_number": "WC HOWLER"
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_howler_mount_bracket",
+          "required": false
+        }
       ]
     },
     "whelen_lc_howler": {
@@ -2139,6 +2160,13 @@
       "part_numbers": [
         {
           "part_number": "LC HOWLER"
+        }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_howler_mount_bracket",
+          "required": false
         }
       ]
     },
@@ -9080,6 +9108,13 @@
           "lens_type": "clear",
           "tertiary_color": ""
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_m2_lp_bracket",
+          "required": false
+        }
       ]
     },
     "whelen_m4": {
@@ -10042,6 +10077,13 @@
           "tertiary_color": "",
           "lens_type": "clear"
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_avenger_headliner",
+          "required": false
+        }
       ]
     },
     "whelen_round_lighthead": {
@@ -10111,6 +10153,13 @@
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "clear"
+        }
+      ],
+      "accessories": [
+        {
+          "category": "flange",
+          "product_id": "whelen_round_grommet_mount",
+          "required": false
         }
       ]
     },
@@ -10534,6 +10583,13 @@
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": ""
+        }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_ion_t_mount_kit",
+          "required": false
         }
       ]
     },
@@ -11209,7 +11265,7 @@
           "qb_unit_price": 100.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "CHARGER"
           ],
           "color": "",
           "secondary_color": "",
@@ -11224,7 +11280,8 @@
           "qb_unit_price": 100.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "RAM-1500",
+            "RAM-HD"
           ],
           "color": "",
           "secondary_color": "",
@@ -11239,7 +11296,8 @@
           "qb_unit_price": 100.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "TAHOE",
+            "SILVERADO-HD"
           ],
           "color": "",
           "secondary_color": "",
@@ -11254,7 +11312,7 @@
           "qb_unit_price": 100.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "PIU"
           ],
           "color": "",
           "secondary_color": "",
@@ -11284,7 +11342,7 @@
           "qb_unit_price": 122.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "DURANGO"
           ],
           "color": "",
           "secondary_color": "",
@@ -11299,7 +11357,9 @@
           "qb_unit_price": 122.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "TAHOE",
+            "SUBURBAN",
+            "YUKON"
           ],
           "color": "",
           "secondary_color": "",
@@ -11314,7 +11374,7 @@
           "qb_unit_price": 122.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "F-150"
           ],
           "color": "",
           "secondary_color": "",
@@ -11329,7 +11389,7 @@
           "qb_unit_price": 122.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "EXPEDITION"
           ],
           "color": "",
           "secondary_color": "",
@@ -11344,7 +11404,7 @@
           "qb_unit_price": 122.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "TAHOE"
           ],
           "color": "",
           "secondary_color": "",
@@ -11359,7 +11419,7 @@
           "qb_unit_price": 122.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "PIU"
           ],
           "color": "",
           "secondary_color": "",
@@ -11374,7 +11434,7 @@
           "qb_unit_price": 100.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "TAHOE"
           ],
           "color": "",
           "secondary_color": "",
@@ -11404,13 +11464,387 @@
           "qb_unit_price": 203.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "DURANGO"
           ],
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "",
           "friendly_name": "Replacement mount kit: Durango '11-20"
+        }
+      ]
+    },
+    "whelen_howler_mount_bracket": {
+      "manufacturer_id": "whelen",
+      "model": "Howler Mounting Bracket",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "HWLRB32",
+          "qb_item_id": "611",
+          "qb_sku": "",
+          "qb_unit_price": 274.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE",
+            "SUBURBAN"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Tahoe PPV/SSV '21-24 / Suburban '24"
+        },
+        {
+          "part_number": "HWLRB35",
+          "qb_item_id": "612",
+          "qb_sku": "",
+          "qb_unit_price": 274.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150",
+            "F-150-LIGHTNING",
+            "SUPER-DUTY",
+            "EXPEDITION"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "F-150 '15-25 / Lightning '22-24 / Super-Duty '17-25 / Expedition '18-24"
+        }
+      ]
+    },
+    "whelen_ion_grille_mount": {
+      "manufacturer_id": "whelen",
+      "model": "ION Grille Mount",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "IONBKT9",
+          "qb_item_id": "626",
+          "qb_sku": "",
+          "qb_unit_price": 40.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE",
+            "SUBURBAN"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Grille-mount pair: Tahoe '21-24 / Suburban '21-26"
+        }
+      ]
+    },
+    "whelen_ion_t_mount_kit": {
+      "manufacturer_id": "whelen",
+      "model": "ION-T Mount Kit",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TIONBKT1",
+          "qb_item_id": "1125",
+          "qb_sku": "",
+          "qb_unit_price": 20.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "T-Series universal mount"
+        },
+        {
+          "part_number": "TIONBKT2",
+          "qb_item_id": "1126",
+          "qb_sku": "",
+          "qb_unit_price": 50.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "T-Series license-plate bracket"
+        },
+        {
+          "part_number": "TIONMBK2",
+          "qb_item_id": "1130",
+          "qb_sku": "",
+          "qb_unit_price": 45.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Mini ION-T license-plate mount"
+        },
+        {
+          "part_number": "TIONWEDG",
+          "qb_item_id": "1131",
+          "qb_sku": "",
+          "qb_unit_price": 24.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "T-Series mounting wedges"
+        }
+      ]
+    },
+    "whelen_fender_mount": {
+      "manufacturer_id": "whelen",
+      "model": "Fender Mount",
+      "fits_part_types": [
+        "front_side_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ARG44AD",
+          "qb_item_id": "254",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Durango '15-25, driver"
+        },
+        {
+          "part_number": "ARG47CD",
+          "qb_item_id": "255",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "F-150 PPV '21-26, driver"
+        },
+        {
+          "part_number": "ARG47DD",
+          "qb_item_id": "256",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "SUPER-DUTY"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "F-250/350/450/550/600 Super-Duty '23-26, driver"
+        },
+        {
+          "part_number": "ARG47ED",
+          "qb_item_id": "257",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150-LIGHTNING"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "F-150 Lightning '22-25, driver"
+        },
+        {
+          "part_number": "ARG49D",
+          "qb_item_id": "258",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "CHEVY-1500"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Silverado 1500 PPV '19-26, driver"
+        },
+        {
+          "part_number": "ARG50D",
+          "qb_item_id": "259",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "PIU '20-25, driver"
+        },
+        {
+          "part_number": "ARG50P",
+          "qb_item_id": "260",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "PIU '20-25, passenger"
+        },
+        {
+          "part_number": "ARG54D",
+          "qb_item_id": "261",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Tahoe '21-26, driver"
+        },
+        {
+          "part_number": "ARG54P",
+          "qb_item_id": "262",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Tahoe '21-26, passenger"
+        }
+      ]
+    },
+    "whelen_m2_lp_bracket": {
+      "manufacturer_id": "whelen",
+      "model": "M2 License-Plate Bracket",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "M2KTHD1",
+          "qb_item_id": "695",
+          "qb_sku": "",
+          "qb_unit_price": 47.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "M2 license-plate mount bracket"
+        }
+      ]
+    },
+    "whelen_avenger_headliner": {
+      "manufacturer_id": "whelen",
+      "model": "Avenger Headliner Mount",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "AVBKT5D",
+          "qb_item_id": "274",
+          "qb_sku": "",
+          "qb_unit_price": 34.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Dual headliner mount kit"
+        }
+      ]
+    },
+    "whelen_round_grommet_mount": {
+      "manufacturer_id": "whelen",
+      "model": "4\" Round Grommet Mount",
+      "fits_part_types": [
+        "flange"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "2GROMMET",
+          "qb_item_id": "97",
+          "qb_sku": "",
+          "qb_unit_price": 13.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "4\" round grommet mount"
         }
       ]
     }
