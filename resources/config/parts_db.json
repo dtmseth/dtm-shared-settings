@@ -1245,6 +1245,13 @@
           "lens_type": "smoked",
           "tertiary_color": "white"
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_ion_grille_mount",
+          "required": false
+        }
       ]
     },
     "whelen_2_lamp_tracer": {
@@ -10556,6 +10563,13 @@
           "tertiary_color": "",
           "lens_type": ""
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_ion_t_mount_kit",
+          "required": false
+        }
       ]
     },
     "whelen_wecan_control_point": {
@@ -11482,6 +11496,106 @@
           "tertiary_color": "",
           "lens_type": "",
           "friendly_name": "F-150 '15-25 / Lightning '22-24 / Super-Duty '17-25 / Expedition '18-24"
+        }
+      ]
+    },
+    "whelen_ion_grille_mount": {
+      "manufacturer_id": "whelen",
+      "model": "ION Grille Mount",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "IONBKT9",
+          "qb_item_id": "626",
+          "qb_sku": "",
+          "qb_unit_price": 40.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE",
+            "SUBURBAN"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Grille-mount pair: Tahoe '21-24 / Suburban '21-26"
+        }
+      ]
+    },
+    "whelen_ion_t_mount_kit": {
+      "manufacturer_id": "whelen",
+      "model": "ION-T Mount Kit",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TIONBKT1",
+          "qb_item_id": "1125",
+          "qb_sku": "",
+          "qb_unit_price": 20.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "T-Series universal mount"
+        },
+        {
+          "part_number": "TIONBKT2",
+          "qb_item_id": "1126",
+          "qb_sku": "",
+          "qb_unit_price": 50.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "T-Series license-plate bracket"
+        },
+        {
+          "part_number": "TIONMBK2",
+          "qb_item_id": "1130",
+          "qb_sku": "",
+          "qb_unit_price": 45.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Mini ION-T license-plate mount"
+        },
+        {
+          "part_number": "TIONWEDG",
+          "qb_item_id": "1131",
+          "qb_sku": "",
+          "qb_unit_price": 24.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "T-Series mounting wedges"
         }
       ]
     }
