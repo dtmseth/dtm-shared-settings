@@ -9108,6 +9108,13 @@
           "lens_type": "clear",
           "tertiary_color": ""
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_m2_lp_bracket",
+          "required": false
+        }
       ]
     },
     "whelen_m4": {
@@ -9836,6 +9843,81 @@
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "smoked"
+        },
+        {
+          "part_number": "MCRNTA",
+          "qb_item_id": "756",
+          "qb_sku": "",
+          "qb_unit_price": 161.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "amber",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "Stud mount"
+        },
+        {
+          "part_number": "MCRNTB",
+          "qb_item_id": "757",
+          "qb_sku": "",
+          "qb_unit_price": 161.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "Stud mount"
+        },
+        {
+          "part_number": "MCRNTBX",
+          "qb_item_id": "758",
+          "qb_sku": "",
+          "qb_unit_price": 174.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "Stud mount"
+        },
+        {
+          "part_number": "MCRNTR",
+          "qb_item_id": "759",
+          "qb_sku": "",
+          "qb_unit_price": 161.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "Stud mount"
+        },
+        {
+          "part_number": "MCRNTRX",
+          "qb_item_id": "760",
+          "qb_sku": "",
+          "qb_unit_price": 174.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "Stud mount"
         }
       ]
     },
@@ -10070,6 +10152,13 @@
           "tertiary_color": "",
           "lens_type": "clear"
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_avenger_headliner",
+          "required": false
+        }
       ]
     },
     "whelen_round_lighthead": {
@@ -10139,6 +10228,13 @@
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "clear"
+        }
+      ],
+      "accessories": [
+        {
+          "category": "flange",
+          "product_id": "whelen_round_grommet_mount",
+          "required": false
         }
       ]
     },
@@ -11743,6 +11839,87 @@
           "tertiary_color": "",
           "lens_type": "",
           "friendly_name": "Tahoe '21-26, passenger"
+        }
+      ]
+    },
+    "whelen_m2_lp_bracket": {
+      "manufacturer_id": "whelen",
+      "model": "M2 License-Plate Bracket",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "M2KTHD1",
+          "qb_item_id": "695",
+          "qb_sku": "",
+          "qb_unit_price": 47.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "M2 license-plate mount bracket"
+        }
+      ]
+    },
+    "whelen_avenger_headliner": {
+      "manufacturer_id": "whelen",
+      "model": "Avenger Headliner Mount",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "AVBKT5D",
+          "qb_item_id": "274",
+          "qb_sku": "",
+          "qb_unit_price": 34.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Dual headliner mount kit"
+        }
+      ]
+    },
+    "whelen_round_grommet_mount": {
+      "manufacturer_id": "whelen",
+      "model": "4\" Round Grommet Mount",
+      "fits_part_types": [
+        "flange"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "2GROMMET",
+          "qb_item_id": "97",
+          "qb_sku": "",
+          "qb_unit_price": 13.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "4\" round grommet mount"
         }
       ]
     }
