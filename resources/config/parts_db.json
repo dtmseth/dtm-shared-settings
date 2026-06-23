@@ -1251,6 +1251,11 @@
           "category": "bracket_mount",
           "product_id": "whelen_ion_grille_mount",
           "required": false
+        },
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_ion_lp_bracket",
+          "required": false
         }
       ]
     },
@@ -1277,6 +1282,18 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": ""
+        }
+      ],
+      "accessories": [
+        {
+          "category": "lighthead",
+          "product_id": "whelen_tracer_wcx_primary",
+          "required": true
+        },
+        {
+          "category": "lighthead",
+          "product_id": "whelen_tracer_wcx_secondary",
+          "required": false
         }
       ]
     },
@@ -1889,6 +1906,18 @@
           "secondary_color": "amber",
           "lens_type": "clear",
           "tertiary_color": ""
+        }
+      ],
+      "accessories": [
+        {
+          "category": "flange",
+          "product_id": "whelen_vertex_flange",
+          "required": false
+        },
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_vertex_adapter",
+          "required": false
         }
       ]
     },
@@ -3986,6 +4015,23 @@
           "lens_type": "",
           "tertiary_color": ""
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_tracer_mount_kit",
+          "required": false
+        },
+        {
+          "category": "lighthead",
+          "product_id": "whelen_tracer_wcx_primary",
+          "required": true
+        },
+        {
+          "category": "lighthead",
+          "product_id": "whelen_tracer_wcx_secondary",
+          "required": false
+        }
       ]
     },
     "whelen_tracer_6_lamp": {
@@ -4011,6 +4057,23 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": ""
+        }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_tracer_mount_kit",
+          "required": false
+        },
+        {
+          "category": "lighthead",
+          "product_id": "whelen_tracer_wcx_primary",
+          "required": true
+        },
+        {
+          "category": "lighthead",
+          "product_id": "whelen_tracer_wcx_secondary",
+          "required": false
         }
       ]
     },
@@ -8709,6 +8772,23 @@
           "lens_type": "",
           "tertiary_color": ""
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_tracer_mount_kit",
+          "required": false
+        },
+        {
+          "category": "lighthead",
+          "product_id": "whelen_tracer_wcx_primary",
+          "required": true
+        },
+        {
+          "category": "lighthead",
+          "product_id": "whelen_tracer_wcx_secondary",
+          "required": false
+        }
       ]
     },
     "whelen_traffic_advisor": {
@@ -9108,6 +9188,18 @@
           "lens_type": "clear",
           "tertiary_color": ""
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_m2_lp_bracket",
+          "required": false
+        },
+        {
+          "category": "flange",
+          "product_id": "whelen_m2_flange",
+          "required": false
+        }
       ]
     },
     "whelen_m4": {
@@ -9232,6 +9324,13 @@
           "lens_type": "clear",
           "tertiary_color": ""
         }
+      ],
+      "accessories": [
+        {
+          "category": "flange",
+          "product_id": "whelen_m4_flange",
+          "required": false
+        }
       ]
     },
     "whelen_m6": {
@@ -9314,6 +9413,13 @@
           "lens_type": "clear",
           "tertiary_color": ""
         }
+      ],
+      "accessories": [
+        {
+          "category": "flange",
+          "product_id": "whelen_m6_flange",
+          "required": false
+        }
       ]
     },
     "whelen_m7": {
@@ -9353,6 +9459,13 @@
           "secondary_color": "",
           "lens_type": "clear",
           "tertiary_color": ""
+        }
+      ],
+      "accessories": [
+        {
+          "category": "flange",
+          "product_id": "whelen_m7_flange",
+          "required": false
         }
       ]
     },
@@ -9394,6 +9507,13 @@
           "secondary_color": "",
           "lens_type": "clear",
           "tertiary_color": ""
+        }
+      ],
+      "accessories": [
+        {
+          "category": "flange",
+          "product_id": "whelen_m9_flange",
+          "required": false
         }
       ]
     },
@@ -9545,6 +9665,13 @@
           "secondary_color": "",
           "lens_type": "clear",
           "tertiary_color": ""
+        }
+      ],
+      "accessories": [
+        {
+          "category": "flange",
+          "product_id": "whelen_500_flange",
+          "required": false
         }
       ]
     },
@@ -9836,6 +9963,88 @@
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "smoked"
+        },
+        {
+          "part_number": "MCRNTA",
+          "qb_item_id": "756",
+          "qb_sku": "",
+          "qb_unit_price": 161.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "amber",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "Stud mount"
+        },
+        {
+          "part_number": "MCRNTB",
+          "qb_item_id": "757",
+          "qb_sku": "",
+          "qb_unit_price": 161.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "Stud mount"
+        },
+        {
+          "part_number": "MCRNTBX",
+          "qb_item_id": "758",
+          "qb_sku": "",
+          "qb_unit_price": 174.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "Stud mount"
+        },
+        {
+          "part_number": "MCRNTR",
+          "qb_item_id": "759",
+          "qb_sku": "",
+          "qb_unit_price": 161.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "Stud mount"
+        },
+        {
+          "part_number": "MCRNTRX",
+          "qb_item_id": "760",
+          "qb_sku": "",
+          "qb_unit_price": 174.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "Stud mount"
+        }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_micron_lp_bracket",
+          "required": false
         }
       ]
     },
@@ -10070,6 +10279,13 @@
           "tertiary_color": "",
           "lens_type": "clear"
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_avenger_headliner",
+          "required": false
+        }
       ]
     },
     "whelen_round_lighthead": {
@@ -10139,6 +10355,13 @@
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "clear"
+        }
+      ],
+      "accessories": [
+        {
+          "category": "flange",
+          "product_id": "whelen_round_grommet_mount",
+          "required": false
         }
       ]
     },
@@ -10485,6 +10708,13 @@
           "tertiary_color": "",
           "lens_type": "clear"
         }
+      ],
+      "accessories": [
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_linz_mirror_mount",
+          "required": false
+        }
       ]
     },
     "whelen_strip_lite_plus": {
@@ -10510,6 +10740,18 @@
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": ""
+        }
+      ],
+      "accessories": [
+        {
+          "category": "flange",
+          "product_id": "whelen_strip_lite_flange",
+          "required": false
+        },
+        {
+          "category": "bracket_mount",
+          "product_id": "whelen_strip_lite_mount",
+          "required": false
         }
       ]
     },
@@ -10569,6 +10811,11 @@
           "category": "bracket_mount",
           "product_id": "whelen_ion_t_mount_kit",
           "required": false
+        },
+        {
+          "category": "flange",
+          "product_id": "whelen_ion_t_flange",
+          "required": false
         }
       ]
     },
@@ -10621,6 +10868,13 @@
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": ""
+        }
+      ],
+      "accessories": [
+        {
+          "category": "cable",
+          "product_id": "whelen_mic_extension_cable",
+          "required": false
         }
       ]
     },
@@ -10867,6 +11121,69 @@
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": ""
+        },
+        {
+          "part_number": "C399K3",
+          "qb_item_id": "406",
+          "qb_sku": "",
+          "qb_unit_price": 64.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "OBD-II CANPORT: Durango '18-26"
+        },
+        {
+          "part_number": "C399K6",
+          "qb_item_id": "409",
+          "qb_sku": "",
+          "qb_unit_price": 189.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE",
+            "SUBURBAN"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "OBD-II CANPORT: Tahoe/Suburban '21-22"
+        },
+        {
+          "part_number": "C399K7",
+          "qb_item_id": "410",
+          "qb_sku": "",
+          "qb_unit_price": 64.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150",
+            "F-150-LIGHTNING",
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "OBD-II CANPORT: F-150 PPV '21-23 / Lightning '22-24 / PIU"
+        },
+        {
+          "part_number": "C399SP",
+          "qb_item_id": "411",
+          "qb_sku": "",
+          "qb_unit_price": 189.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "ScanPort kit for C399"
         }
       ]
     },
@@ -11596,6 +11913,1239 @@
           "tertiary_color": "",
           "lens_type": "",
           "friendly_name": "T-Series mounting wedges"
+        },
+        {
+          "part_number": "TIONHDRS",
+          "qb_item_id": "1128",
+          "qb_sku": "",
+          "qb_unit_price": 28.52,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Rear saddlebag mount (motorcycle)"
+        },
+        {
+          "part_number": "TIONHDSS",
+          "qb_item_id": "1129",
+          "qb_sku": "",
+          "qb_unit_price": 69.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Side saddlebag mount (motorcycle)"
+        }
+      ]
+    },
+    "whelen_fender_mount": {
+      "manufacturer_id": "whelen",
+      "model": "Fender Mount",
+      "fits_part_types": [
+        "front_side_bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ARG44AD",
+          "qb_item_id": "254",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Durango '15-25, driver"
+        },
+        {
+          "part_number": "ARG47CD",
+          "qb_item_id": "255",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "F-150 PPV '21-26, driver"
+        },
+        {
+          "part_number": "ARG47DD",
+          "qb_item_id": "256",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "SUPER-DUTY"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "F-250/350/450/550/600 Super-Duty '23-26, driver"
+        },
+        {
+          "part_number": "ARG47ED",
+          "qb_item_id": "257",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150-LIGHTNING"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "F-150 Lightning '22-25, driver"
+        },
+        {
+          "part_number": "ARG49D",
+          "qb_item_id": "258",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "CHEVY-1500"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Silverado 1500 PPV '19-26, driver"
+        },
+        {
+          "part_number": "ARG50D",
+          "qb_item_id": "259",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "PIU '20-25, driver"
+        },
+        {
+          "part_number": "ARG50P",
+          "qb_item_id": "260",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "PIU '20-25, passenger"
+        },
+        {
+          "part_number": "ARG54D",
+          "qb_item_id": "261",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Tahoe '21-26, driver"
+        },
+        {
+          "part_number": "ARG54P",
+          "qb_item_id": "262",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Tahoe '21-26, passenger"
+        }
+      ]
+    },
+    "whelen_m2_lp_bracket": {
+      "manufacturer_id": "whelen",
+      "model": "M2 License-Plate Bracket",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "M2KTHD1",
+          "qb_item_id": "695",
+          "qb_sku": "",
+          "qb_unit_price": 47.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "M2 license-plate mount bracket"
+        }
+      ]
+    },
+    "whelen_avenger_headliner": {
+      "manufacturer_id": "whelen",
+      "model": "Avenger Mount Kit",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "AVBKT5D",
+          "qb_item_id": "274",
+          "qb_sku": "",
+          "qb_unit_price": 34.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Dual headliner mount kit"
+        },
+        {
+          "part_number": "AVBKT2",
+          "qb_item_id": "273",
+          "qb_sku": "",
+          "qb_unit_price": 22.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Dual rear-view mirror mount kit"
+        }
+      ]
+    },
+    "whelen_round_grommet_mount": {
+      "manufacturer_id": "whelen",
+      "model": "4\" Round Grommet Mount",
+      "fits_part_types": [
+        "flange"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "2GROMMET",
+          "qb_item_id": "97",
+          "qb_sku": "",
+          "qb_unit_price": 13.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "4\" round grommet mount"
+        }
+      ]
+    },
+    "whelen_500_flange": {
+      "manufacturer_id": "whelen",
+      "model": "500 Series Flange",
+      "fits_part_types": [
+        "flange"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "5FLANGEB",
+          "qb_item_id": "159",
+          "qb_sku": "",
+          "qb_unit_price": 16.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Black"
+        },
+        {
+          "part_number": "5FLANGEC",
+          "qb_item_id": "160",
+          "qb_sku": "",
+          "qb_unit_price": 24.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Chrome"
+        }
+      ]
+    },
+    "whelen_m2_flange": {
+      "manufacturer_id": "whelen",
+      "model": "M2 Series Flange",
+      "fits_part_types": [
+        "flange"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "M2FC",
+          "qb_item_id": "694",
+          "qb_sku": "",
+          "qb_unit_price": 24.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Chrome"
+        }
+      ]
+    },
+    "whelen_m4_flange": {
+      "manufacturer_id": "whelen",
+      "model": "M4 Series Flange",
+      "fits_part_types": [
+        "flange"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "M4FB",
+          "qb_item_id": "704",
+          "qb_sku": "",
+          "qb_unit_price": 16.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Black"
+        },
+        {
+          "part_number": "M4FC",
+          "qb_item_id": "705",
+          "qb_sku": "",
+          "qb_unit_price": 24.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Chrome"
+        }
+      ]
+    },
+    "whelen_m6_flange": {
+      "manufacturer_id": "whelen",
+      "model": "M6 Series Flange",
+      "fits_part_types": [
+        "flange"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "M6FC",
+          "qb_item_id": "714",
+          "qb_sku": "",
+          "qb_unit_price": 24.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Chrome"
+        },
+        {
+          "part_number": "M6P15C",
+          "qb_item_id": "715",
+          "qb_sku": "",
+          "qb_unit_price": 102.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Chrome, 15\u00b0 scene"
+        }
+      ]
+    },
+    "whelen_m7_flange": {
+      "manufacturer_id": "whelen",
+      "model": "M7 Series Flange",
+      "fits_part_types": [
+        "flange"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "M7FB",
+          "qb_item_id": "720",
+          "qb_sku": "",
+          "qb_unit_price": 16.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Black"
+        }
+      ]
+    },
+    "whelen_m9_flange": {
+      "manufacturer_id": "whelen",
+      "model": "M9 Series Flange",
+      "fits_part_types": [
+        "flange"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "M9FC",
+          "qb_item_id": "721",
+          "qb_sku": "",
+          "qb_unit_price": 37.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Chrome"
+        }
+      ]
+    },
+    "whelen_strip_lite_flange": {
+      "manufacturer_id": "whelen",
+      "model": "Strip-Lite+ Flange",
+      "fits_part_types": [
+        "flange"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PSFC",
+          "qb_item_id": "881",
+          "qb_sku": "",
+          "qb_unit_price": 23.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Chrome"
+        }
+      ]
+    },
+    "whelen_ion_t_flange": {
+      "manufacturer_id": "whelen",
+      "model": "ION-T Flange",
+      "fits_part_types": [
+        "flange"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TIONF2B",
+          "qb_item_id": "1127",
+          "qb_sku": "",
+          "qb_unit_price": 22.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Dual-head, black"
+        }
+      ]
+    },
+    "whelen_vertex_flange": {
+      "manufacturer_id": "whelen",
+      "model": "Vertex Flange",
+      "fits_part_types": [
+        "flange"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "VTXFC",
+          "qb_item_id": "1243",
+          "qb_sku": "",
+          "qb_unit_price": 24.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Surface-mount, chrome"
+        }
+      ]
+    },
+    "whelen_mic_extension_cable": {
+      "manufacturer_id": "whelen",
+      "model": "Mic Extension Cable",
+      "fits_part_types": [
+        "cable"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "46-0748144-00",
+          "qb_item_id": "145",
+          "qb_sku": "",
+          "qb_unit_price": 94.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Mic extension cable"
+        }
+      ]
+    },
+    "whelen_linz_mirror_mount": {
+      "manufacturer_id": "whelen",
+      "model": "Linz V-Series Mirror Mount",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "LSVBKT13",
+          "qb_item_id": "684",
+          "qb_sku": "",
+          "qb_unit_price": 35.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "CHEVY-1500",
+            "SILVERADO-HD"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Silverado 1500/2500 '14-18"
+        },
+        {
+          "part_number": "LSVBKT42",
+          "qb_item_id": "685",
+          "qb_sku": "",
+          "qb_unit_price": 35.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "RAM-1500"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Ram 1500 Classic '19-24"
+        },
+        {
+          "part_number": "LSVBKT44",
+          "qb_item_id": "686",
+          "qb_sku": "",
+          "qb_unit_price": 35.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Durango '13-25"
+        },
+        {
+          "part_number": "LSVBKT50",
+          "qb_item_id": "687",
+          "qb_sku": "",
+          "qb_unit_price": 35.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Ford Utility '20-25"
+        },
+        {
+          "part_number": "LSVBKT54",
+          "qb_item_id": "688",
+          "qb_sku": "",
+          "qb_unit_price": 35.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Tahoe '21-24"
+        },
+        {
+          "part_number": "LSVBKT59",
+          "qb_item_id": "689",
+          "qb_sku": "",
+          "qb_unit_price": 35.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "BLAZER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Blazer '24"
+        }
+      ]
+    },
+    "whelen_tracer_mount_kit": {
+      "manufacturer_id": "whelen",
+      "model": "Tracer Mounting Kit",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TCRB47",
+          "qb_item_id": "1092",
+          "qb_sku": "",
+          "qb_unit_price": 110.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "F-150"
+        },
+        {
+          "part_number": "TCRB49",
+          "qb_item_id": "1093",
+          "qb_sku": "",
+          "qb_unit_price": 63.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "CHEVY-1500",
+            "SILVERADO-HD"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Silverado 1500 '19-24 / 2500-3500 '23-24"
+        },
+        {
+          "part_number": "TCRB50",
+          "qb_item_id": "1094",
+          "qb_sku": "",
+          "qb_unit_price": 51.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "PIU '20-25"
+        },
+        {
+          "part_number": "TCRB54A",
+          "qb_item_id": "1095",
+          "qb_sku": "",
+          "qb_unit_price": 110.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Tahoe '21-24"
+        }
+      ]
+    },
+    "whelen_ion_lp_bracket": {
+      "manufacturer_id": "whelen",
+      "model": "ION License-Plate Bracket",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "IONBKT1",
+          "qb_item_id": "625",
+          "qb_sku": "",
+          "qb_unit_price": 45.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Horizontal license-plate bracket"
+        }
+      ]
+    },
+    "whelen_micron_lp_bracket": {
+      "manufacturer_id": "whelen",
+      "model": "Micron License-Plate Bracket",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "MCRNB2",
+          "qb_item_id": "748",
+          "qb_sku": "",
+          "qb_unit_price": 45.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Horizontal license-plate bracket"
+        }
+      ]
+    },
+    "whelen_strip_lite_mount": {
+      "manufacturer_id": "whelen",
+      "model": "Strip-Lite+ Mount Kit",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PSBKT90",
+          "qb_item_id": "876",
+          "qb_sku": "",
+          "qb_unit_price": 32.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "90\u00b0 mount kit"
+        }
+      ]
+    },
+    "whelen_vertex_adapter": {
+      "manufacturer_id": "whelen",
+      "model": "Vertex Adapter Kit",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "VTXADAPT",
+          "qb_item_id": "1242",
+          "qb_sku": "",
+          "qb_unit_price": 16.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Twist-in adapter kit"
+        }
+      ]
+    },
+    "whelen_tracer_wcx_primary": {
+      "manufacturer_id": "whelen",
+      "model": "Tracer WCX Primary Lighthead",
+      "fits_part_types": [
+        "lighthead"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TCRWXPD",
+          "qb_item_id": "1102",
+          "qb_sku": "",
+          "qb_unit_price": 59.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXPE",
+          "qb_item_id": "1103",
+          "qb_sku": "",
+          "qb_unit_price": 59.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXPJ",
+          "qb_item_id": "1104",
+          "qb_sku": "",
+          "qb_unit_price": 59.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXPK",
+          "qb_item_id": "1105",
+          "qb_sku": "",
+          "qb_unit_price": 59.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "amber",
+          "tertiary_color": "",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXPKC",
+          "qb_item_id": "1106",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "amber",
+          "tertiary_color": "white",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXPMC",
+          "qb_item_id": "1107",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "amber",
+          "tertiary_color": "white",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRXXPD",
+          "qb_item_id": "1116",
+          "qb_sku": "",
+          "qb_unit_price": 72.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "smoked"
+        },
+        {
+          "part_number": "TCRXXPE",
+          "qb_item_id": "1117",
+          "qb_sku": "",
+          "qb_unit_price": 72.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "smoked"
+        },
+        {
+          "part_number": "TCRXXPJC",
+          "qb_item_id": "1118",
+          "qb_sku": "",
+          "qb_unit_price": 129.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "white",
+          "lens_type": "smoked"
+        },
+        {
+          "part_number": "TCRWXPM",
+          "friendly_name": "",
+          "price_usd": 59.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "amber",
+          "tertiary_color": "",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXPJC",
+          "friendly_name": "",
+          "price_usd": 116.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "white",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXPJA",
+          "friendly_name": "",
+          "price_usd": 116.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "amber",
+          "lens_type": "clear"
+        }
+      ]
+    },
+    "whelen_tracer_wcx_secondary": {
+      "manufacturer_id": "whelen",
+      "model": "Tracer WCX Secondary Lighthead",
+      "fits_part_types": [
+        "lighthead"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TCRWXSD",
+          "qb_item_id": "1109",
+          "qb_sku": "",
+          "qb_unit_price": 59.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXSE",
+          "qb_item_id": "1110",
+          "qb_sku": "",
+          "qb_unit_price": 59.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXSJ",
+          "qb_item_id": "1111",
+          "qb_sku": "",
+          "qb_unit_price": 59.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXSK",
+          "qb_item_id": "1112",
+          "qb_sku": "",
+          "qb_unit_price": 59.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "amber",
+          "tertiary_color": "",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXSM",
+          "qb_item_id": "1114",
+          "qb_sku": "",
+          "qb_unit_price": 59.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "amber",
+          "tertiary_color": "",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXSKC",
+          "qb_item_id": "1113",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "amber",
+          "tertiary_color": "white",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXSMC",
+          "qb_item_id": "1115",
+          "qb_sku": "",
+          "qb_unit_price": 116.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "amber",
+          "tertiary_color": "white",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRXXSD",
+          "qb_item_id": "1119",
+          "qb_sku": "",
+          "qb_unit_price": 72.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "smoked"
+        },
+        {
+          "part_number": "TCRXXSE",
+          "qb_item_id": "1120",
+          "qb_sku": "",
+          "qb_unit_price": 72.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "smoked"
+        },
+        {
+          "part_number": "TCRWXSJC",
+          "friendly_name": "",
+          "price_usd": 116.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "white",
+          "lens_type": "clear"
+        },
+        {
+          "part_number": "TCRWXSJA",
+          "friendly_name": "",
+          "price_usd": 116.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "amber",
+          "lens_type": "clear"
         }
       ]
     }
