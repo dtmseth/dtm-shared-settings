@@ -12677,6 +12677,21 @@
           "tertiary_color": "",
           "lens_type": "",
           "friendly_name": "Tahoe '21-24"
+        },
+        {
+          "part_number": "TCRLBKT",
+          "qb_item_id": "1096",
+          "qb_sku": "",
+          "qb_unit_price": 16.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "\"L\" brackets (universal; qty by lamp count)"
         }
       ]
     },
