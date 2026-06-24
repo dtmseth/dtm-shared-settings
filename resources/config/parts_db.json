@@ -12692,6 +12692,177 @@
           "tertiary_color": "",
           "lens_type": "",
           "friendly_name": "\"L\" brackets (universal; qty by lamp count)"
+        },
+        {
+          "part_number": "TCRB35",
+          "friendly_name": "Charger '15-23 (5-lamp)",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "CHARGER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "TCRB44",
+          "friendly_name": "Durango '15-25 (5-lamp)",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "TCRB42",
+          "friendly_name": "Ram 1500 '15-24 / 2500-3500 '19-24 (6-lamp)",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "RAM-1500",
+            "RAM-HD"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "TCRB59",
+          "friendly_name": "Blazer EV PPV '24 (6-lamp)",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "BLAZER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "TCRB54S",
+          "friendly_name": "Suburban '21-26 (6-lamp)",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "SUBURBAN"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "TCRB45",
+          "friendly_name": "Tahoe '09-20 (5-lamp)",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "TCRB34",
+          "friendly_name": "PIU '13-19 (5-lamp)",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "TCRB57",
+          "friendly_name": "Mach-E '21-25 (5-lamp)",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "MACH-E"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "TCRB56",
+          "friendly_name": "Tesla Model Y '21-22 (5-lamp)",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "TESLA"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "TCRB51",
+          "friendly_name": "Ram 1500 SSV '25 (6-lamp)",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "RAM-1500"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
         }
       ]
     },
