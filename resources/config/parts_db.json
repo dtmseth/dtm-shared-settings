@@ -4146,7 +4146,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "54\" Legacy WCX, Red/White (white front / amber rear)"
         },
         {
           "part_number": "EB2DEDE",
@@ -4160,7 +4161,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "54\" Legacy WCX Duo, Red/Blue (white front / amber rear)"
         },
         {
           "part_number": "EB8DEDE",
@@ -4174,7 +4176,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "48\" Legacy WCX Duo, Red/Blue (white front / amber rear)"
         }
       ],
       "accessories": [
@@ -4207,7 +4210,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "54\" Liberty II WeCanX Duo"
         },
         {
           "part_number": "ITL12",
@@ -4221,7 +4225,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "Liberty II + two 12-LED takedowns"
         }
       ],
       "accessories": [
@@ -4298,7 +4303,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "Micro Freedom lighthead, Amber"
         },
         {
           "part_number": "MCFLED2R",
@@ -4312,7 +4318,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "Micro Freedom lighthead, Red"
         }
       ]
     },
@@ -9697,7 +9704,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "Mini Legacy WCX, perm mount, Duo Red/Blue"
         }
       ]
     },
