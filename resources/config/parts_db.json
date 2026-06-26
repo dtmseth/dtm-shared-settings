@@ -4382,11 +4382,9 @@
     "whelen_cenator": {
       "manufacturer_id": "whelen",
       "model": "CENATOR",
-      "fits_part_types": [
-        "roof_light_bar"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
-      "description": "",
+      "description": "Discontinued \u2014 not orderable. Kept for reference only (Whelen dropped it from the printed PL26 list; DTM no longer sells it). fits_part_types intentionally emptied so it is never offered in the picker. Re-add 'roof_light_bar' to fits if it returns.",
       "images": {},
       "part_numbers": [
         {
