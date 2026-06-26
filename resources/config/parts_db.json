@@ -4221,27 +4221,17 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "54\" Liberty II WeCanX Duo"
-        },
-        {
-          "part_number": "ITL12",
-          "qb_item_id": "655",
-          "qb_sku": "",
-          "qb_unit_price": 513.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "",
-          "friendly_name": "Liberty II + two 12-LED takedowns"
         }
       ],
       "accessories": [
         {
           "category": "bracket_mount",
           "product_id": "whelen_lightbar_mount_kit",
+          "required": false
+        },
+        {
+          "category": "takedown",
+          "product_id": "whelen_liberty_takedown",
           "required": false
         }
       ]
@@ -13564,6 +13554,33 @@
           "lens_type": "clear"
         }
       ]
+    },
+    "whelen_liberty_takedown": {
+      "manufacturer_id": "whelen",
+      "model": "Liberty II Take-Downs",
+      "fits_part_types": [
+        "bar_takedown"
+      ],
+      "tag_ids": [],
+      "description": "Take-down / alley light option for the Liberty II roof bar.",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ITL12",
+          "qb_item_id": "655",
+          "qb_sku": "",
+          "qb_unit_price": 513.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "Two Long 12-LED Take-Down Lights"
+        }
+      ]
     }
   },
   "part_types": {
@@ -15061,6 +15078,13 @@
       "tree_positions": [],
       "tag_ids": [],
       "accessory_category": "bracket_mount"
+    },
+    "bar_takedown": {
+      "label": "Take-Down / Alley",
+      "type_id": "lights",
+      "tree_positions": [],
+      "tag_ids": [],
+      "accessory_category": "takedown"
     }
   },
   "placements": {
@@ -15396,6 +15420,9 @@
     },
     "flasher_power": {
       "label": "Flasher / Power"
+    },
+    "takedown": {
+      "label": "Take-Down / Alley Lights"
     },
     "other": {
       "label": "Other"
