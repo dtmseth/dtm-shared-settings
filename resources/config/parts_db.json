@@ -11775,6 +11775,110 @@
           "tertiary_color": "",
           "lens_type": "",
           "friendly_name": "Replacement mount kit: Durango '11-20"
+        },
+        {
+          "part_number": "STPBK85",
+          "friendly_name": "Black straps: Durango '18-21, 48\" Legacy",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "STPBK93",
+          "friendly_name": "Black straps: GM SUVs '15+ (Tahoe/Suburban/Yukon)",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "TAHOE",
+            "SUBURBAN",
+            "YUKON"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "STPBK94",
+          "friendly_name": "Black straps: F-150 (adjustable)",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "F-150"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "STPBK98",
+          "friendly_name": "Black straps: Expedition SSV '22, 54\" Legacy",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "EXPEDITION"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "STPBK101",
+          "friendly_name": "Black straps: Tahoe, 54\" Legacy WCX Duo",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "STPBK105",
+          "friendly_name": "Black straps: PIU '20-21, 54\" Legacy WCX Duo",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
         }
       ]
     },
