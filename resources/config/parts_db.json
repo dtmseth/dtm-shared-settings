@@ -4141,7 +4141,10 @@
           "qb_unit_price": 4492.31,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "PIU",
+            "TRAVERSE",
+            "TAHOE",
+            "F-150"
           ],
           "color": "",
           "secondary_color": "",
@@ -4156,7 +4159,10 @@
           "qb_unit_price": 4492.31,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "PIU",
+            "TRAVERSE",
+            "TAHOE",
+            "F-150"
           ],
           "color": "",
           "secondary_color": "",
@@ -4171,7 +4177,7 @@
           "qb_unit_price": 4992.31,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "DURANGO"
           ],
           "color": "",
           "secondary_color": "",
@@ -4205,7 +4211,10 @@
           "qb_unit_price": 8134.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "any"
+            "PIU",
+            "TRAVERSE",
+            "TAHOE",
+            "F-150"
           ],
           "color": "",
           "secondary_color": "",
@@ -4248,7 +4257,118 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "9X EDGE"
+          "part_number": "9XS2DDDD",
+          "friendly_name": "Edge 9X (short) 54\" WCX, Red/White",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "PIU",
+            "TRAVERSE",
+            "TAHOE",
+            "F-150"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "9XS2DEDE",
+          "friendly_name": "Edge 9X (short) 54\" WCX Duo, Red/Blue",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "PIU",
+            "TRAVERSE",
+            "TAHOE",
+            "F-150"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "9XS8DEDE",
+          "friendly_name": "Edge 9X (short) 48\" WCX Duo, Red/Blue",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "9XT2DDDD",
+          "friendly_name": "Edge 9X (tall) 54\" WCX, Red/White",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "PIU",
+            "TRAVERSE",
+            "TAHOE",
+            "F-150"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "9XT2DEDE",
+          "friendly_name": "Edge 9X (tall) 54\" WCX Duo, Red/Blue",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "PIU",
+            "TRAVERSE",
+            "TAHOE",
+            "F-150"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
+        },
+        {
+          "part_number": "9XT8DEDE",
+          "friendly_name": "Edge 9X (tall) 48\" WCX Duo, Red/Blue",
+          "price_usd": 0.0,
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": ""
         }
       ],
       "accessories": [
