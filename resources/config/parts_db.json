@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T20:15:38.893239+00:00",
+    "last_updated": "2026-06-29T20:26:09.420316+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2256,31 +2256,8 @@
           "product_id": "whelen_howler_mount_bracket",
           "required": false
         }
-      ]
-    },
-    "whelen_lc_howler": {
-      "manufacturer_id": "whelen",
-      "model": "LC HOWLER",
-      "fits_part_types": [
-        "howler"
       ],
-      "tag_ids": [
-        "siren"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "LC HOWLER"
-        }
-      ],
-      "accessories": [
-        {
-          "category": "bracket_mount",
-          "product_id": "whelen_howler_mount_bracket",
-          "required": false
-        }
-      ]
+      "reviewed": true
     },
     "specify_3_round_s": {
       "manufacturer_id": "specify",
@@ -12483,7 +12460,8 @@
           "lens_type": "",
           "friendly_name": "F-150 '15-25 / Lightning '22-24 / Super-Duty '17-25 / Expedition '18-24"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "whelen_ion_grille_mount": {
       "manufacturer_id": "whelen",
