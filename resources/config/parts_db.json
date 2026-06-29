@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T20:43:39.058534+00:00",
+    "last_updated": "2026-06-29T20:43:45.023813+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -5600,7 +5600,8 @@
         "camera_dvr"
       ],
       "tag_ids": [
-        "camera"
+        "camera",
+        "unbilled"
       ],
       "description": "",
       "images": {},
