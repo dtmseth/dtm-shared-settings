@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T19:01:37.585891+00:00",
+    "last_updated": "2026-06-29T20:12:50.474180+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -135,6 +135,9 @@
     },
     "service_2": {
       "label": "Service"
+    },
+    "unbilled": {
+      "label": "Unbilled"
     }
   },
   "manufacturers": {
@@ -3055,36 +3058,6 @@
         }
       ]
     },
-    "federal_signal_avenger_x1": {
-      "manufacturer_id": "federal_signal",
-      "model": "AVENGER X1",
-      "fits_part_types": [
-        "front_interior_light_bar"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "AVENGER X1"
-        }
-      ]
-    },
-    "federal_signal_avenger_x2": {
-      "manufacturer_id": "federal_signal",
-      "model": "AVENGER X2",
-      "fits_part_types": [
-        "front_interior_light_bar"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "AVENGER X2"
-        }
-      ]
-    },
     "whelen_t_series": {
       "manufacturer_id": "whelen",
       "model": "T-Series",
@@ -4873,7 +4846,8 @@
         "radar_display_unit"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -4890,7 +4864,8 @@
         "radar_display_unit"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -4908,7 +4883,8 @@
         "rear_radar_antenna_mount"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -4926,7 +4902,8 @@
         "rear_radar_antenna_mount"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -4944,7 +4921,8 @@
         "rear_radar_antenna_mount"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -5381,8 +5359,8 @@
       ]
     },
     "arges_arges_control_head": {
-      "manufacturer_id": "arges",
-      "model": "ARGES CONTROL HEAD",
+      "manufacturer_id": "gamber_johnson",
+      "model": "ARGES CONTROLER FACE PLATE",
       "fits_part_types": [
         "special_face_plate"
       ],
@@ -5391,7 +5369,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "ARGES CONTROL HEAD"
+          "part_number": "ARGES Faceplate"
         }
       ]
     },
@@ -5556,9 +5534,11 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "PJ-822"
+          "part_number": "PJ-822",
+          "friendly_name": "PocketJet 8 portable thermal printer"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "sho_me_usb_type_a": {
       "manufacturer_id": "sho_me",
@@ -5627,15 +5607,18 @@
         "camera_dvr"
       ],
       "tag_ids": [
-        "camera"
+        "camera",
+        "unbilled"
       ],
       "description": "",
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 3"
+          "part_number": "FLEET 3",
+          "friendly_name": "Axon Fleet 3 Camera System"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "watchguard_m500": {
       "manufacturer_id": "watchguard",
@@ -5678,15 +5661,18 @@
         "camera_dvr"
       ],
       "tag_ids": [
-        "camera"
+        "camera",
+        "unbilled"
       ],
       "description": "",
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 2"
+          "part_number": "FLEET 2",
+          "friendly_name": "Axon Fleet 2 Camera System"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "setina_full_partition": {
       "manufacturer_id": "setina",
@@ -7211,23 +7197,8 @@
         }
       ]
     },
-    "ace_k_9_ultimate": {
-      "manufacturer_id": "ace_k_9",
-      "model": "ULTIMATE",
-      "fits_part_types": [
-        "k9_kennel"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "ULTIMATE"
-        }
-      ]
-    },
     "ace_k_9_ultimate_ii": {
-      "manufacturer_id": "ace_k_9",
+      "manufacturer_id": "setina",
       "model": "ULTIMATE II",
       "fits_part_types": [
         "k9_kennel"
@@ -7363,7 +7334,7 @@
     },
     "arcti_start_1_button_1_way": {
       "manufacturer_id": "arcti_start",
-      "model": "1 BUTTON 1 WAY",
+      "model": "Bolt 1A",
       "fits_part_types": [
         "remote_start"
       ],
@@ -7386,16 +7357,17 @@
           "tertiary_color": "",
           "friendly_name": "ONE BUTTON, ONE WAY COMMUNICATION, 800 FT RANGE REMOTE START KIT"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "arcti_start_4_button_1_way": {
       "manufacturer_id": "arcti_start",
-      "model": "4 BUTTON 1 WAY",
+      "model": "Flex 1",
       "fits_part_types": [
         "remote_start"
       ],
       "tag_ids": [],
-      "description": "",
+      "description": "4 BUTTON 1 WAY",
       "images": {},
       "part_numbers": [
         {
@@ -7411,13 +7383,14 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "FOUR BUTTON, ONE WAY COMMUNICATION, 1000FT RANGE, ARCTIC START REMOTE START KIT"
+          "friendly_name": "FOUR BUTTON, ONE WAY COMMUNICATION, 1500FT RANGE, ARCTIC START REMOTE START KIT"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "arcti_start_1_button_2_way": {
       "manufacturer_id": "arcti_start",
-      "model": "1 BUTTON 2 WAY",
+      "model": "Bolt 2",
       "fits_part_types": [
         "remote_start"
       ],
@@ -7440,7 +7413,8 @@
           "tertiary_color": "",
           "friendly_name": "ONE BUTTON, TWO WAY COMMUNICATION, 3000 FT RANGE ARCTIC START REMOTE START KIT"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "arcti_start_4_button_2_way": {
       "manufacturer_id": "arcti_start",
@@ -7482,22 +7456,8 @@
           "tertiary_color": "",
           "friendly_name": "LCD SCREEN, FOUR BUTTON, TWO WAY COMMUNICATION, 1 MILE RANGE, ARTIC START REMOTE START KIT"
         }
-      ]
-    },
-    "arcti_start_5_button_lcd": {
-      "manufacturer_id": "arcti_start",
-      "model": "5 BUTTON LCD",
-      "fits_part_types": [
-        "remote_start"
       ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "5 BUTTON LCD"
-        }
-      ]
+      "reviewed": true
     },
     "whelen_pro_focus": {
       "manufacturer_id": "whelen",
@@ -7711,9 +7671,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "COMPLETE SQUAD HARNESS"
+          "part_number": "COMPLETE PIU SQUAD HARNESS",
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "friendly_name": "DTM PIU Squard Harness"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "advanced_graphics_custom_graphics_work_with_mfg": {
       "manufacturer_id": "advanced_graphics",
@@ -7757,7 +7722,8 @@
           "tertiary_color": "",
           "friendly_name": "MOBILE PHONE APP CONTROLLED, TWO WAY COMMUNICATION, UNLIMITED RANGE (WITH CELL SERVICE), ARCTIC START KIT W/ INSTALL"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "setina_full_replacement_seat": {
       "manufacturer_id": "setina",
@@ -10867,7 +10833,8 @@
           "product_id": "whelen_avenger_headliner",
           "required": false
         }
-      ]
+      ],
+      "reviewed": true
     },
     "whelen_round_lighthead": {
       "manufacturer_id": "whelen",
