@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T19:00:20.338136+00:00",
+    "last_updated": "2026-06-29T19:45:25.402008+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -5426,8 +5426,8 @@
       ]
     },
     "ace_k_9_ace_k_9": {
-      "manufacturer_id": "ace_k_9",
-      "model": "ACE K-9",
+      "manufacturer_id": "gamber_johnson",
+      "model": "ACE K-9 Faceplate",
       "fits_part_types": [
         "special_face_plate"
       ],
@@ -7211,23 +7211,8 @@
         }
       ]
     },
-    "ace_k_9_ultimate": {
-      "manufacturer_id": "ace_k_9",
-      "model": "ULTIMATE",
-      "fits_part_types": [
-        "k9_kennel"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "ULTIMATE"
-        }
-      ]
-    },
     "ace_k_9_ultimate_ii": {
-      "manufacturer_id": "ace_k_9",
+      "manufacturer_id": "setina",
       "model": "ULTIMATE II",
       "fits_part_types": [
         "k9_kennel"
@@ -7363,7 +7348,7 @@
     },
     "arcti_start_1_button_1_way": {
       "manufacturer_id": "arcti_start",
-      "model": "1 BUTTON 1 WAY",
+      "model": "Bolt 1A",
       "fits_part_types": [
         "remote_start"
       ],
@@ -7386,16 +7371,17 @@
           "tertiary_color": "",
           "friendly_name": "ONE BUTTON, ONE WAY COMMUNICATION, 800 FT RANGE REMOTE START KIT"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "arcti_start_4_button_1_way": {
       "manufacturer_id": "arcti_start",
-      "model": "4 BUTTON 1 WAY",
+      "model": "Flex 1",
       "fits_part_types": [
         "remote_start"
       ],
       "tag_ids": [],
-      "description": "",
+      "description": "4 BUTTON 1 WAY",
       "images": {},
       "part_numbers": [
         {
@@ -7411,13 +7397,14 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "FOUR BUTTON, ONE WAY COMMUNICATION, 1000FT RANGE, ARCTIC START REMOTE START KIT"
+          "friendly_name": "FOUR BUTTON, ONE WAY COMMUNICATION, 1500FT RANGE, ARCTIC START REMOTE START KIT"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "arcti_start_1_button_2_way": {
       "manufacturer_id": "arcti_start",
-      "model": "1 BUTTON 2 WAY",
+      "model": "Bolt 2",
       "fits_part_types": [
         "remote_start"
       ],
@@ -7440,7 +7427,8 @@
           "tertiary_color": "",
           "friendly_name": "ONE BUTTON, TWO WAY COMMUNICATION, 3000 FT RANGE ARCTIC START REMOTE START KIT"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "arcti_start_4_button_2_way": {
       "manufacturer_id": "arcti_start",
@@ -7482,22 +7470,8 @@
           "tertiary_color": "",
           "friendly_name": "LCD SCREEN, FOUR BUTTON, TWO WAY COMMUNICATION, 1 MILE RANGE, ARTIC START REMOTE START KIT"
         }
-      ]
-    },
-    "arcti_start_5_button_lcd": {
-      "manufacturer_id": "arcti_start",
-      "model": "5 BUTTON LCD",
-      "fits_part_types": [
-        "remote_start"
       ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "5 BUTTON LCD"
-        }
-      ]
+      "reviewed": true
     },
     "whelen_pro_focus": {
       "manufacturer_id": "whelen",
@@ -7721,7 +7695,9 @@
       "fits_part_types": [
         "decals"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "service_2"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -7755,7 +7731,8 @@
           "tertiary_color": "",
           "friendly_name": "MOBILE PHONE APP CONTROLLED, TWO WAY COMMUNICATION, UNLIMITED RANGE (WITH CELL SERVICE), ARCTIC START KIT W/ INSTALL"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "setina_full_replacement_seat": {
       "manufacturer_id": "setina",
