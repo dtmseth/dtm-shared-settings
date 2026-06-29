@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T19:24:29.210799+00:00",
+    "last_updated": "2026-06-29T19:26:10.937073+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -7376,12 +7376,12 @@
     },
     "arcti_start_4_button_1_way": {
       "manufacturer_id": "arcti_start",
-      "model": "4 BUTTON 1 WAY",
+      "model": "Flex 1",
       "fits_part_types": [
         "remote_start"
       ],
       "tag_ids": [],
-      "description": "",
+      "description": "4 BUTTON 1 WAY",
       "images": {},
       "part_numbers": [
         {
@@ -7397,13 +7397,14 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "FOUR BUTTON, ONE WAY COMMUNICATION, 1000FT RANGE, ARCTIC START REMOTE START KIT"
+          "friendly_name": "FOUR BUTTON, ONE WAY COMMUNICATION, 1500FT RANGE, ARCTIC START REMOTE START KIT"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "arcti_start_1_button_2_way": {
       "manufacturer_id": "arcti_start",
-      "model": "1 BUTTON 2 WAY",
+      "model": "Bolt 2",
       "fits_part_types": [
         "remote_start"
       ],
@@ -7426,7 +7427,8 @@
           "tertiary_color": "",
           "friendly_name": "ONE BUTTON, TWO WAY COMMUNICATION, 3000 FT RANGE ARCTIC START REMOTE START KIT"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "arcti_start_4_button_2_way": {
       "manufacturer_id": "arcti_start",
