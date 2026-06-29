@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T20:13:30.457746+00:00",
+    "last_updated": "2026-06-29T20:25:54.952682+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2256,31 +2256,8 @@
           "product_id": "whelen_howler_mount_bracket",
           "required": false
         }
-      ]
-    },
-    "whelen_wc_howler": {
-      "manufacturer_id": "whelen",
-      "model": "WC HOWLER",
-      "fits_part_types": [
-        "howler"
       ],
-      "tag_ids": [
-        "siren"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "WC HOWLER"
-        }
-      ],
-      "accessories": [
-        {
-          "category": "bracket_mount",
-          "product_id": "whelen_howler_mount_bracket",
-          "required": false
-        }
-      ]
+      "reviewed": true
     },
     "whelen_lc_howler": {
       "manufacturer_id": "whelen",
@@ -7634,7 +7611,7 @@
     },
     "tiger_tough_standard": {
       "manufacturer_id": "tiger_tough",
-      "model": "STANDARD Seat Cover",
+      "model": "Seat Cover",
       "fits_part_types": [
         "seat_covers"
       ],
@@ -7644,6 +7621,9 @@
       "part_numbers": [
         {
           "part_number": "STANDARD"
+        },
+        {
+          "part_number": "w/ CUSTOM PATCH"
         }
       ]
     },
@@ -7656,11 +7636,7 @@
       "tag_ids": [],
       "description": "",
       "images": {},
-      "part_numbers": [
-        {
-          "part_number": "WITH CUSTOM PATCH"
-        }
-      ]
+      "part_numbers": []
     },
     "5_0_fab_dtm_complete_squad_harness": {
       "manufacturer_id": "5_0_fab_dtm",
@@ -12508,7 +12484,8 @@
           "lens_type": "",
           "friendly_name": "F-150 '15-25 / Lightning '22-24 / Super-Duty '17-25 / Expedition '18-24"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "whelen_ion_grille_mount": {
       "manufacturer_id": "whelen",
