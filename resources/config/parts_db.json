@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T20:05:24.886350+00:00",
+    "last_updated": "2026-06-29T20:02:14.610253+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -5355,7 +5355,7 @@
     },
     "arges_arges_control_head": {
       "manufacturer_id": "arges",
-      "model": "ARGES CONTROLER",
+      "model": "ARGES CONTROL HEAD",
       "fits_part_types": [
         "special_face_plate"
       ],
@@ -10828,8 +10828,7 @@
           "product_id": "whelen_avenger_headliner",
           "required": false
         }
-      ],
-      "reviewed": true
+      ]
     },
     "whelen_round_lighthead": {
       "manufacturer_id": "whelen",
