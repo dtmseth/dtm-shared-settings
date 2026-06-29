@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T19:45:25.402008+00:00",
+    "last_updated": "2026-06-29T19:52:54.579519+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -135,6 +135,9 @@
     },
     "service_2": {
       "label": "Service"
+    },
+    "unbilled": {
+      "label": "Unbilled"
     }
   },
   "manufacturers": {
@@ -5556,9 +5559,11 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "PJ-822"
+          "part_number": "PJ-822",
+          "friendly_name": "PocketJet 8 portable thermal printer"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "sho_me_usb_type_a": {
       "manufacturer_id": "sho_me",
@@ -5627,7 +5632,8 @@
         "camera_dvr"
       ],
       "tag_ids": [
-        "camera"
+        "camera",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -5635,7 +5641,8 @@
         {
           "part_number": "FLEET 3"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "watchguard_m500": {
       "manufacturer_id": "watchguard",
@@ -5678,15 +5685,18 @@
         "camera_dvr"
       ],
       "tag_ids": [
-        "camera"
+        "camera",
+        "unbilled"
       ],
       "description": "",
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 2"
+          "part_number": "FLEET 2",
+          "friendly_name": "Axon Fleet 2"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "setina_full_partition": {
       "manufacturer_id": "setina",
