@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T18:02:59.932321+00:00",
+    "last_updated": "2026-06-29T17:53:08.731043+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -1883,7 +1883,9 @@
       "model": "Vertex",
       "fits_part_types": [
         "front_side_warning",
-        "rear_warning"
+        "pit_bar_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
       ],
       "tag_ids": [],
       "description": "",
@@ -2006,8 +2008,7 @@
           "product_id": "whelen_vertex_adapter",
           "required": false
         }
-      ],
-      "reviewed": true
+      ]
     },
     "soundoff_m4": {
       "manufacturer_id": "soundoff",
