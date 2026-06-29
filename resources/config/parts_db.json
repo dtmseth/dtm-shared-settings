@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T19:00:17.480241+00:00",
+    "last_updated": "2026-06-29T19:24:25.390777+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -131,6 +131,9 @@
       "label": "Communications"
     },
     "service": {
+      "label": "Service"
+    },
+    "service_2": {
       "label": "Service"
     }
   },
@@ -5423,8 +5426,8 @@
       ]
     },
     "ace_k_9_ace_k_9": {
-      "manufacturer_id": "ace_k_9",
-      "model": "ACE K-9",
+      "manufacturer_id": "gamber_johnson",
+      "model": "ACE K-9 Faceplate",
       "fits_part_types": [
         "special_face_plate"
       ],
@@ -7208,23 +7211,8 @@
         }
       ]
     },
-    "ace_k_9_ultimate": {
-      "manufacturer_id": "ace_k_9",
-      "model": "ULTIMATE",
-      "fits_part_types": [
-        "k9_kennel"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "ULTIMATE"
-        }
-      ]
-    },
     "ace_k_9_ultimate_ii": {
-      "manufacturer_id": "ace_k_9",
+      "manufacturer_id": "setina",
       "model": "ULTIMATE II",
       "fits_part_types": [
         "k9_kennel"
@@ -7360,7 +7348,7 @@
     },
     "arcti_start_1_button_1_way": {
       "manufacturer_id": "arcti_start",
-      "model": "1 BUTTON 1 WAY",
+      "model": "Bolt 1A",
       "fits_part_types": [
         "remote_start"
       ],
@@ -7718,7 +7706,9 @@
       "fits_part_types": [
         "decals"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "service_2"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
