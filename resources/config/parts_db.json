@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T19:53:33.869740+00:00",
+    "last_updated": "2026-06-29T19:44:53.964092+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -135,9 +135,6 @@
     },
     "service_2": {
       "label": "Service"
-    },
-    "unbilled": {
-      "label": "Unbilled"
     }
   },
   "manufacturers": {
@@ -5559,11 +5556,9 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "PJ-822",
-          "friendly_name": "PocketJet 8 portable thermal printer"
+          "part_number": "PJ-822"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "sho_me_usb_type_a": {
       "manufacturer_id": "sho_me",
@@ -5632,18 +5627,15 @@
         "camera_dvr"
       ],
       "tag_ids": [
-        "camera",
-        "unbilled"
+        "camera"
       ],
       "description": "",
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 3",
-          "friendly_name": "Axon Fleet 3"
+          "part_number": "FLEET 3"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "watchguard_m500": {
       "manufacturer_id": "watchguard",
@@ -5686,18 +5678,15 @@
         "camera_dvr"
       ],
       "tag_ids": [
-        "camera",
-        "unbilled"
+        "camera"
       ],
       "description": "",
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 2",
-          "friendly_name": "Axon Fleet 2 Camera System"
+          "part_number": "FLEET 2"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_full_partition": {
       "manufacturer_id": "setina",
@@ -7484,6 +7473,21 @@
       ],
       "reviewed": true
     },
+    "arcti_start_5_button_lcd": {
+      "manufacturer_id": "arcti_start",
+      "model": "5 BUTTON LCD",
+      "fits_part_types": [
+        "remote_start"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "5 BUTTON LCD"
+        }
+      ]
+    },
     "whelen_pro_focus": {
       "manufacturer_id": "whelen",
       "model": "ProFocus",
@@ -7742,8 +7746,7 @@
           "tertiary_color": "",
           "friendly_name": "MOBILE PHONE APP CONTROLLED, TWO WAY COMMUNICATION, UNLIMITED RANGE (WITH CELL SERVICE), ARCTIC START KIT W/ INSTALL"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_full_replacement_seat": {
       "manufacturer_id": "setina",
