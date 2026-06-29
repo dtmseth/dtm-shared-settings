@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T20:12:22.240012+00:00",
+    "last_updated": "2026-06-29T20:13:30.457746+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2181,7 +2181,9 @@
         "front_radar_antenna_mount",
         "rear_radar_antenna_mount"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "unbilled"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4864,7 +4866,8 @@
         "radar_display_unit"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -4882,7 +4885,8 @@
         "rear_radar_antenna_mount"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -4900,7 +4904,8 @@
         "rear_radar_antenna_mount"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -4918,7 +4923,8 @@
         "rear_radar_antenna_mount"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -7628,7 +7634,7 @@
     },
     "tiger_tough_standard": {
       "manufacturer_id": "tiger_tough",
-      "model": "STANDARD",
+      "model": "STANDARD Seat Cover",
       "fits_part_types": [
         "seat_covers"
       ],
