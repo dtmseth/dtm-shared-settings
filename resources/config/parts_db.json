@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T19:24:25.390777+00:00",
+    "last_updated": "2026-06-29T19:24:29.210799+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -7371,7 +7371,8 @@
           "tertiary_color": "",
           "friendly_name": "ONE BUTTON, ONE WAY COMMUNICATION, 800 FT RANGE REMOTE START KIT"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "arcti_start_4_button_1_way": {
       "manufacturer_id": "arcti_start",
