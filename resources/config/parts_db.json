@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T19:54:57.401713+00:00",
+    "last_updated": "2026-06-29T19:25:47.009537+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -135,9 +135,6 @@
     },
     "service_2": {
       "label": "Service"
-    },
-    "unbilled": {
-      "label": "Unbilled"
     }
   },
   "manufacturers": {
@@ -5559,11 +5556,9 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "PJ-822",
-          "friendly_name": "PocketJet 8 portable thermal printer"
+          "part_number": "PJ-822"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "sho_me_usb_type_a": {
       "manufacturer_id": "sho_me",
@@ -5632,18 +5627,15 @@
         "camera_dvr"
       ],
       "tag_ids": [
-        "camera",
-        "unbilled"
+        "camera"
       ],
       "description": "",
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 3",
-          "friendly_name": "Axon Fleet 3 Camera System"
+          "part_number": "FLEET 3"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "watchguard_m500": {
       "manufacturer_id": "watchguard",
@@ -5686,18 +5678,15 @@
         "camera_dvr"
       ],
       "tag_ids": [
-        "camera",
-        "unbilled"
+        "camera"
       ],
       "description": "",
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 2",
-          "friendly_name": "Axon Fleet 2 Camera System"
+          "part_number": "FLEET 2"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_full_partition": {
       "manufacturer_id": "setina",
@@ -7410,8 +7399,7 @@
           "tertiary_color": "",
           "friendly_name": "FOUR BUTTON, ONE WAY COMMUNICATION, 1500FT RANGE, ARCTIC START REMOTE START KIT"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "arcti_start_1_button_2_way": {
       "manufacturer_id": "arcti_start",
@@ -7481,8 +7469,22 @@
           "tertiary_color": "",
           "friendly_name": "LCD SCREEN, FOUR BUTTON, TWO WAY COMMUNICATION, 1 MILE RANGE, ARTIC START REMOTE START KIT"
         }
+      ]
+    },
+    "arcti_start_5_button_lcd": {
+      "manufacturer_id": "arcti_start",
+      "model": "5 BUTTON LCD",
+      "fits_part_types": [
+        "remote_start"
       ],
-      "reviewed": true
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "5 BUTTON LCD"
+        }
+      ]
     },
     "whelen_pro_focus": {
       "manufacturer_id": "whelen",
@@ -7696,14 +7698,9 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "COMPLETE PIU SQUAD HARNESS",
-          "vehicle_tags": [
-            "PIU"
-          ],
-          "friendly_name": "DTM PIU Squard Harness"
+          "part_number": "COMPLETE SQUAD HARNESS"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "advanced_graphics_custom_graphics_work_with_mfg": {
       "manufacturer_id": "advanced_graphics",
@@ -7747,8 +7744,7 @@
           "tertiary_color": "",
           "friendly_name": "MOBILE PHONE APP CONTROLLED, TWO WAY COMMUNICATION, UNLIMITED RANGE (WITH CELL SERVICE), ARCTIC START KIT W/ INSTALL"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_full_replacement_seat": {
       "manufacturer_id": "setina",
