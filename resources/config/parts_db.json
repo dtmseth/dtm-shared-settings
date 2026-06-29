@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T20:12:55.674050+00:00",
+    "last_updated": "2026-06-29T19:53:03.618070+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2181,9 +2181,7 @@
         "front_radar_antenna_mount",
         "rear_radar_antenna_mount"
       ],
-      "tag_ids": [
-        "unbilled"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -3057,6 +3055,36 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN WCX DUO IE XLP 12LT 20 UTILITY"
+        }
+      ]
+    },
+    "federal_signal_avenger_x1": {
+      "manufacturer_id": "federal_signal",
+      "model": "AVENGER X1",
+      "fits_part_types": [
+        "front_interior_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "AVENGER X1"
+        }
+      ]
+    },
+    "federal_signal_avenger_x2": {
+      "manufacturer_id": "federal_signal",
+      "model": "AVENGER X2",
+      "fits_part_types": [
+        "front_interior_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "AVENGER X2"
         }
       ]
     },
@@ -4848,8 +4876,7 @@
         "radar_display_unit"
       ],
       "tag_ids": [
-        "radar",
-        "unbilled"
+        "radar"
       ],
       "description": "",
       "images": {},
@@ -4866,8 +4893,7 @@
         "radar_display_unit"
       ],
       "tag_ids": [
-        "radar",
-        "unbilled"
+        "radar"
       ],
       "description": "",
       "images": {},
@@ -4885,8 +4911,7 @@
         "rear_radar_antenna_mount"
       ],
       "tag_ids": [
-        "radar",
-        "unbilled"
+        "radar"
       ],
       "description": "",
       "images": {},
@@ -4904,8 +4929,7 @@
         "rear_radar_antenna_mount"
       ],
       "tag_ids": [
-        "radar",
-        "unbilled"
+        "radar"
       ],
       "description": "",
       "images": {},
@@ -4923,8 +4947,7 @@
         "rear_radar_antenna_mount"
       ],
       "tag_ids": [
-        "radar",
-        "unbilled"
+        "radar"
       ],
       "description": "",
       "images": {},
@@ -5361,8 +5384,8 @@
       ]
     },
     "arges_arges_control_head": {
-      "manufacturer_id": "gamber_johnson",
-      "model": "ARGES CONTROLER FACE PLATE",
+      "manufacturer_id": "arges",
+      "model": "ARGES CONTROL HEAD",
       "fits_part_types": [
         "special_face_plate"
       ],
@@ -5371,7 +5394,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "ARGES Faceplate"
+          "part_number": "ARGES CONTROL HEAD"
         }
       ]
     },
@@ -5617,7 +5640,7 @@
       "part_numbers": [
         {
           "part_number": "FLEET 3",
-          "friendly_name": "Axon Fleet 3 Camera System"
+          "friendly_name": "Axon Fleet 3"
         }
       ],
       "reviewed": true
@@ -5671,7 +5694,7 @@
       "part_numbers": [
         {
           "part_number": "FLEET 2",
-          "friendly_name": "Axon Fleet 2 Camera System"
+          "friendly_name": "Axon Fleet 2"
         }
       ],
       "reviewed": true
@@ -7673,14 +7696,9 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "COMPLETE PIU SQUAD HARNESS",
-          "vehicle_tags": [
-            "PIU"
-          ],
-          "friendly_name": "DTM PIU Squard Harness"
+          "part_number": "COMPLETE SQUAD HARNESS"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "advanced_graphics_custom_graphics_work_with_mfg": {
       "manufacturer_id": "advanced_graphics",
@@ -10835,8 +10853,7 @@
           "product_id": "whelen_avenger_headliner",
           "required": false
         }
-      ],
-      "reviewed": true
+      ]
     },
     "whelen_round_lighthead": {
       "manufacturer_id": "whelen",
