@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T19:44:53.964092+00:00",
+    "last_updated": "2026-06-29T20:14:10.362455+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -135,6 +135,9 @@
     },
     "service_2": {
       "label": "Service"
+    },
+    "unbilled": {
+      "label": "Unbilled"
     }
   },
   "manufacturers": {
@@ -2178,7 +2181,9 @@
         "front_radar_antenna_mount",
         "rear_radar_antenna_mount"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "unbilled"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -3052,36 +3057,6 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN WCX DUO IE XLP 12LT 20 UTILITY"
-        }
-      ]
-    },
-    "federal_signal_avenger_x1": {
-      "manufacturer_id": "federal_signal",
-      "model": "AVENGER X1",
-      "fits_part_types": [
-        "front_interior_light_bar"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "AVENGER X1"
-        }
-      ]
-    },
-    "federal_signal_avenger_x2": {
-      "manufacturer_id": "federal_signal",
-      "model": "AVENGER X2",
-      "fits_part_types": [
-        "front_interior_light_bar"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "AVENGER X2"
         }
       ]
     },
@@ -4873,7 +4848,8 @@
         "radar_display_unit"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -4890,7 +4866,8 @@
         "radar_display_unit"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -4908,7 +4885,8 @@
         "rear_radar_antenna_mount"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -4926,7 +4904,8 @@
         "rear_radar_antenna_mount"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -4944,7 +4923,8 @@
         "rear_radar_antenna_mount"
       ],
       "tag_ids": [
-        "radar"
+        "radar",
+        "unbilled"
       ],
       "description": "",
       "images": {},
@@ -5381,8 +5361,8 @@
       ]
     },
     "arges_arges_control_head": {
-      "manufacturer_id": "arges",
-      "model": "ARGES CONTROL HEAD",
+      "manufacturer_id": "gamber_johnson",
+      "model": "ARGES CONTROLER FACE PLATE",
       "fits_part_types": [
         "special_face_plate"
       ],
@@ -5391,7 +5371,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "ARGES CONTROL HEAD"
+          "part_number": "ARGES Faceplate"
         }
       ]
     },
@@ -5556,9 +5536,11 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "PJ-822"
+          "part_number": "PJ-822",
+          "friendly_name": "PocketJet 8 portable thermal printer"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "sho_me_usb_type_a": {
       "manufacturer_id": "sho_me",
@@ -5627,15 +5609,18 @@
         "camera_dvr"
       ],
       "tag_ids": [
-        "camera"
+        "camera",
+        "unbilled"
       ],
       "description": "",
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 3"
+          "part_number": "FLEET 3",
+          "friendly_name": "Axon Fleet 3 Camera System"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "watchguard_m500": {
       "manufacturer_id": "watchguard",
@@ -5678,15 +5663,18 @@
         "camera_dvr"
       ],
       "tag_ids": [
-        "camera"
+        "camera",
+        "unbilled"
       ],
       "description": "",
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 2"
+          "part_number": "FLEET 2",
+          "friendly_name": "Axon Fleet 2 Camera System"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "setina_full_partition": {
       "manufacturer_id": "setina",
@@ -7473,21 +7461,6 @@
       ],
       "reviewed": true
     },
-    "arcti_start_5_button_lcd": {
-      "manufacturer_id": "arcti_start",
-      "model": "5 BUTTON LCD",
-      "fits_part_types": [
-        "remote_start"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "5 BUTTON LCD"
-        }
-      ]
-    },
     "whelen_pro_focus": {
       "manufacturer_id": "whelen",
       "model": "ProFocus",
@@ -7661,7 +7634,7 @@
     },
     "tiger_tough_standard": {
       "manufacturer_id": "tiger_tough",
-      "model": "STANDARD",
+      "model": "Seat Cover",
       "fits_part_types": [
         "seat_covers"
       ],
@@ -7671,6 +7644,9 @@
       "part_numbers": [
         {
           "part_number": "STANDARD"
+        },
+        {
+          "part_number": "WITH CUSTOM PATCH"
         }
       ]
     },
@@ -7683,11 +7659,7 @@
       "tag_ids": [],
       "description": "",
       "images": {},
-      "part_numbers": [
-        {
-          "part_number": "WITH CUSTOM PATCH"
-        }
-      ]
+      "part_numbers": []
     },
     "5_0_fab_dtm_complete_squad_harness": {
       "manufacturer_id": "5_0_fab_dtm",
@@ -7700,9 +7672,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "COMPLETE SQUAD HARNESS"
+          "part_number": "COMPLETE PIU SQUAD HARNESS",
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "friendly_name": "DTM PIU Squard Harness"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "advanced_graphics_custom_graphics_work_with_mfg": {
       "manufacturer_id": "advanced_graphics",
@@ -7746,7 +7723,8 @@
           "tertiary_color": "",
           "friendly_name": "MOBILE PHONE APP CONTROLLED, TWO WAY COMMUNICATION, UNLIMITED RANGE (WITH CELL SERVICE), ARCTIC START KIT W/ INSTALL"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "setina_full_replacement_seat": {
       "manufacturer_id": "setina",
@@ -10856,7 +10834,8 @@
           "product_id": "whelen_avenger_headliner",
           "required": false
         }
-      ]
+      ],
+      "reviewed": true
     },
     "whelen_round_lighthead": {
       "manufacturer_id": "whelen",
