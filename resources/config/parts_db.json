@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T20:02:08.887993+00:00",
+    "last_updated": "2026-06-29T19:48:17.301975+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -135,9 +135,6 @@
     },
     "service_2": {
       "label": "Service"
-    },
-    "unbilled": {
-      "label": "Unbilled"
     }
   },
   "manufacturers": {
@@ -3058,6 +3055,21 @@
         }
       ]
     },
+    "federal_signal_avenger_x1": {
+      "manufacturer_id": "federal_signal",
+      "model": "AVENGER X1",
+      "fits_part_types": [
+        "front_interior_light_bar"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "AVENGER X1"
+        }
+      ]
+    },
     "federal_signal_avenger_x2": {
       "manufacturer_id": "federal_signal",
       "model": "AVENGER X2",
@@ -5547,8 +5559,7 @@
           "part_number": "PJ-822",
           "friendly_name": "PocketJet 8 portable thermal printer"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "sho_me_usb_type_a": {
       "manufacturer_id": "sho_me",
@@ -5617,18 +5628,15 @@
         "camera_dvr"
       ],
       "tag_ids": [
-        "camera",
-        "unbilled"
+        "camera"
       ],
       "description": "",
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 3",
-          "friendly_name": "Axon Fleet 3 Camera System"
+          "part_number": "FLEET 3"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "watchguard_m500": {
       "manufacturer_id": "watchguard",
@@ -5671,18 +5679,15 @@
         "camera_dvr"
       ],
       "tag_ids": [
-        "camera",
-        "unbilled"
+        "camera"
       ],
       "description": "",
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 2",
-          "friendly_name": "Axon Fleet 2 Camera System"
+          "part_number": "FLEET 2"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_full_partition": {
       "manufacturer_id": "setina",
@@ -7681,14 +7686,9 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "COMPLETE PIU SQUAD HARNESS",
-          "vehicle_tags": [
-            "PIU"
-          ],
-          "friendly_name": "DTM PIU Squard Harness"
+          "part_number": "COMPLETE SQUAD HARNESS"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "advanced_graphics_custom_graphics_work_with_mfg": {
       "manufacturer_id": "advanced_graphics",
