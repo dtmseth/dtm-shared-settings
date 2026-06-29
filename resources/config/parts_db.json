@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T19:52:44.636816+00:00",
+    "last_updated": "2026-06-29T20:03:10.892062+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -3058,36 +3058,6 @@
         }
       ]
     },
-    "federal_signal_avenger_x1": {
-      "manufacturer_id": "federal_signal",
-      "model": "AVENGER X1",
-      "fits_part_types": [
-        "front_interior_light_bar"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "AVENGER X1"
-        }
-      ]
-    },
-    "federal_signal_avenger_x2": {
-      "manufacturer_id": "federal_signal",
-      "model": "AVENGER X2",
-      "fits_part_types": [
-        "front_interior_light_bar"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "AVENGER X2"
-        }
-      ]
-    },
     "whelen_t_series": {
       "manufacturer_id": "whelen",
       "model": "T-Series",
@@ -5639,7 +5609,8 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 3"
+          "part_number": "FLEET 3",
+          "friendly_name": "Axon Fleet 3 Camera System"
         }
       ],
       "reviewed": true
@@ -5692,7 +5663,8 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 2"
+          "part_number": "FLEET 2",
+          "friendly_name": "Axon Fleet 2 Camera System"
         }
       ],
       "reviewed": true
@@ -7694,9 +7666,14 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "COMPLETE SQUAD HARNESS"
+          "part_number": "COMPLETE PIU SQUAD HARNESS",
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "friendly_name": "DTM PIU Squard Harness"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "advanced_graphics_custom_graphics_work_with_mfg": {
       "manufacturer_id": "advanced_graphics",
@@ -10851,7 +10828,8 @@
           "product_id": "whelen_avenger_headliner",
           "required": false
         }
-      ]
+      ],
+      "reviewed": true
     },
     "whelen_round_lighthead": {
       "manufacturer_id": "whelen",
