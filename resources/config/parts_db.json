@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T19:54:56.355801+00:00",
+    "last_updated": "2026-06-29T19:52:44.636816+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -5639,8 +5639,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 3",
-          "friendly_name": "Axon Fleet 3 Camera System"
+          "part_number": "FLEET 3"
         }
       ],
       "reviewed": true
@@ -5693,8 +5692,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "FLEET 2",
-          "friendly_name": "Axon Fleet 2 Camera System"
+          "part_number": "FLEET 2"
         }
       ],
       "reviewed": true
@@ -7696,11 +7694,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "COMPLETE PIU SQUAD HARNESS",
-          "vehicle_tags": [
-            "PIU"
-          ],
-          "friendly_name": "DTM PIU Squard Harness"
+          "part_number": "COMPLETE SQUAD HARNESS"
         }
       ]
     },
