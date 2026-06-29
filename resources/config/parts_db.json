@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-11T00:00:00Z",
-    "updated_by": "migrate_workbook_to_parts_db.py"
+    "last_updated": "2026-06-29T18:02:47.028067+00:00",
+    "updated_by": "part-manager-ui"
   },
   "types": {
     "extras": {
@@ -339,7 +339,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB400 VS BUMPER FULL BUMPER ALUMINUM 2024-2026 CHEVROLET BLAZER EV"
         },
         {
           "part_number": "BK0534DRT191500CL",
@@ -353,7 +354,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB400 VS BUMPER FULL BUMPER ALUMINUM 2019-2024 DODGE RAM 1500"
         },
         {
           "part_number": "BK0534DUR21",
@@ -367,7 +369,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB400 VS BUMPER FULL BUMPER ALUMINUM 2021-2026 DODGE DURANGO"
         },
         {
           "part_number": "BK0534EPD18",
@@ -381,7 +384,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB400 VS BUMPER FULL BUMPER ALUMINUM 2018-2024 FORD EXPEDITION"
         },
         {
           "part_number": "BK0534FDT21F150",
@@ -395,7 +399,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB400 VS BUMPER FULL BUMPER ALUMINUM 2021-2026 FORD TRUCK F150"
         },
         {
           "part_number": "BK0534ITU20",
@@ -409,7 +414,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB400 VS BUMPER FULL BUMPER ALUMINUM 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "BK0534TAH25",
@@ -423,7 +429,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB400 VS BUMPER FULL BUMPER ALUMINUM 2025-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "BK0535DUR21",
@@ -437,7 +444,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB400 VS BUMPER STEEL FULL BUMPER 2021-2026 DODGE DURANGO"
         },
         {
           "part_number": "BK0535ITU20",
@@ -451,7 +459,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB400 VS BUMPER FULL BUMPER STEEL 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "BK0608ITU20",
@@ -465,7 +474,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB400 VS BUMPER FULL BUMPER ALUMINUM WITH CROSSBAR PAD 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         }
       ]
     },
@@ -491,7 +501,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB450L6 LIGHTED PUSH BUMPER WITH WHELEN ION TRI-COLOR 6 TOTAL LIGHTS: 4 FORWARD FACING, 1 EACH SIDE 2024-2026 CHEVROLET BLAZER EV"
         },
         {
           "part_number": "BK1001DUR21",
@@ -505,7 +516,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB450L6 LIGHTED PUSH BUMPER WITH WHELEN ION TRI-COLOR 6 TOTAL LIGHTS: 4 FORWARD FACING, 1 EACH SIDE 2021-2026 DODGE DURANGO"
         },
         {
           "part_number": "BK1001ITU20",
@@ -519,7 +531,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB450L6 LIGHTED PUSH BUMPER WITH WHELEN ION TRI-COLOR 6 LIGHTS TOTAL: 4 FORWARD FACING, 1 EACH SIDE 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "BK2017ITU20",
@@ -533,7 +546,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB450L2 LIGHTED PUSH BUMPER WITH WHELEN ION TRI-COLOR 2 FORWARD FACING LIGHTS 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "BK2019BLE24",
@@ -547,7 +561,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB450L4 LIGHTED PUSH BUMPER WITH WHELEN ION TRI-COLOR 2024-2026 CHEVROLET BLAZER EV"
         },
         {
           "part_number": "BK2019CHT221500",
@@ -561,7 +576,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB450L4 LIGHTED PUSH BUMPER WITH WHELEN ION TRI-COLOR 4 TOTAL LIGHTS: 2 FORWARD FACING, 1 EACH SIDE 2022-2026 CHEVROLET TRUCK 1500"
         },
         {
           "part_number": "BK2019DRT191500CL",
@@ -575,7 +591,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB450L4 FORWARD FACING LIGHTS WITH WHELEN ION TRI-COLOR 4 TOTAL LIGHTS: 2 FORWARD FACING, 1 EACH SIDE 2019-2024 DODGE RAM 1500"
         },
         {
           "part_number": "BK2019EPD18",
@@ -589,7 +606,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB450L4 LIGHTED PUSH BUMPER WITH WHELEN ION TRI-COLOR 4 TOTAL LIGHTS: 2 FORWARD FACING, 1 EACH SIDE 2018-2024 FORD EXPEDTION"
         },
         {
           "part_number": "BK2019FDT21F150",
@@ -603,7 +621,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB450L4 LIGHTED PUSH BUMPER WITH WHELEN ION TRI-COLOR 4 TOTAL LIGHTS: 2 FORWARD FACING, 1 EACH SIDE 2021-2026 FORD TRUCK F-150"
         },
         {
           "part_number": "BK2019ITU20",
@@ -617,7 +636,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB450L4 LIGHTED PUSH BUMPER WITH WHELEN ION TRI-COLOR 4 LIGHTS TOTAL: 2 FORWARD FACING, 1 EACH SIDE 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "BK2019TAH25",
@@ -631,7 +651,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB450L4 LIGHTED PUSH BUMPERS WITH WHELEN ION TRI-COLOR 4 LIGHTS TOTAL: 2 FORWARD FACING, 1 EACH SIDE 2025-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "BK2168TAH25",
@@ -645,7 +666,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB450L4 LIGHTED PUSH BUMPER WITH SOUNDOFF SIGNAL MPOWER TRI-COLOR 18-LED 4 LIGHTS TOTAL: 2 FORWARD FACING, 1 EACH SIDE 2025-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -701,7 +723,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB5 FENDER WRAPS ALUMINUM PB400/450 2018-2021 FORD EXPEDITION"
         }
       ]
     },
@@ -727,7 +750,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB9A FENDER WRAPS ALUMINUM PB400/450 2021-2026 DODGE DURANGO"
         },
         {
           "part_number": "FK0402TAH21",
@@ -741,7 +765,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB9A FENDER WRAPS ALUMINUM PB400/450 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "FK2271DUR21",
@@ -755,7 +780,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB9S FENDER WRAPS STEEL PB400/450 2021-2026 DODGE DURANGO"
         },
         {
           "part_number": "FK2271ITU25",
@@ -769,7 +795,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB9S FENDER WRAPS STEEL PB400/450 202-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "FK2271TAH21",
@@ -783,7 +810,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB9S FENDER WRAPS STEEL PB400/450 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -809,7 +837,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB10 HEADLIGHT GUARD STEEL WITH PB9S WRAP STEEL 2021-2026 DODGE DURANGO"
         },
         {
           "part_number": "HK2272EPD22",
@@ -823,7 +852,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB10 HEADLIGHT GUARD STEEL WITH PB9S WRAP STEEL 2022-2024 FORD EXPEDITION"
         },
         {
           "part_number": "HK2272FDT21F150",
@@ -837,7 +867,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB10 HEADLIGHT GUARD STEEL WITH PB9S FENDER WRAP STEEL 2021-2026 FORD TRUCK F150"
         },
         {
           "part_number": "HK2272ITU25",
@@ -851,7 +882,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB10 HEADLIGHT GUARD STEEL WITH PB9S WRAP STEEL 2025-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "HK2272TAH21",
@@ -865,7 +897,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB10 HEADLIGHT GUARD STEEL WITH PB9S WRAP STEEL 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "HK2273DUR21",
@@ -879,7 +912,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB10 HEADLIGHT GUARD STEEL WITH PB9A WRAP ALUMINUM 2021-2026 DODGE DURANGO"
         },
         {
           "part_number": "HK2273ITU25",
@@ -893,7 +927,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB10 HEADLIGHT GUARD STEEL WITH PB9A WRAP ALUMINUM 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "HK2273TAH21",
@@ -907,7 +942,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB10 HEADLIGHT GUARD STEEL WITH PB9S WRAP ALUMINUM 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -948,7 +984,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB6 HEADLIGHT GUARD WITH PB5 WRAP 2015-2023 DODGE CHARGER"
         }
       ]
     },
@@ -974,7 +1011,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB8 HEADLIGHT GUARD DOUBLE LOOP 2022-2026 CHEVY TRUCK 1500"
         },
         {
           "part_number": "HK0809DRT191500",
@@ -988,7 +1026,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB8 HEADLIGHT GUARD DOUBLE LOOP 2019- 2024 DODGE RAM 1500"
         },
         {
           "part_number": "HK0809TAH21",
@@ -1002,7 +1041,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PB8 HEADLIGHT GUARD STEEL DOUBLE LOOP 2021-2026 CHEVY TAHOE"
         }
       ]
     },
@@ -1033,7 +1073,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION LIGHT AMBER"
         },
         {
           "part_number": "IONB",
@@ -1047,7 +1088,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION LIGHT BLUE"
         },
         {
           "part_number": "IOND",
@@ -1061,7 +1103,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION LIGHT RED/WHITE"
         },
         {
           "part_number": "IONE",
@@ -1075,7 +1118,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION 6 SUPER LED LIGHTHEAD WITH BRACKET - BLUE/WHITE"
         },
         {
           "part_number": "IONF",
@@ -1089,7 +1133,8 @@
           "color": "amber",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION 6 SUPER LED LIGHTHEAD WITH BRACKET - SPLIT AMBER/WHITE"
         },
         {
           "part_number": "IONJ",
@@ -1103,7 +1148,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION LIGHT RED/BLUE"
         },
         {
           "part_number": "IONR",
@@ -1117,7 +1163,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION LIGHT RED"
         },
         {
           "part_number": "XONB",
@@ -1131,7 +1178,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION LIGHT BLUE W/ SMOKE LENS"
         },
         {
           "part_number": "XONR",
@@ -1145,7 +1193,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION LIGHT RED W/SMOKE LENS"
         },
         {
           "part_number": "I2D",
@@ -1159,7 +1208,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN DUO LINEAR ION RED/WHITE BLK"
         },
         {
           "part_number": "I2E",
@@ -1173,7 +1223,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN DUO LINEAR ION BLUE/WHITE BLK"
         },
         {
           "part_number": "I2F",
@@ -1187,7 +1238,8 @@
           "color": "amber",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN DUO LINEAR ION AMBER/WHITE BLK"
         },
         {
           "part_number": "I2J",
@@ -1201,7 +1253,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN DUO LINEAR ION RED/BLUE BLK"
         },
         {
           "part_number": "XI2D",
@@ -1215,7 +1268,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN DUO LINEAR ION RED/WHT SMK BLK"
         },
         {
           "part_number": "XI2E",
@@ -1229,7 +1283,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN DUO LINEAR ION BLU/WHT SMK BLK"
         },
         {
           "part_number": "XI3JC",
@@ -1243,7 +1298,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "smoked",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN TRIO ION R/B WHT OVERRIDE SMK"
         }
       ],
       "accessories": [
@@ -1281,7 +1337,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN TWO LAMP TRACER WXC"
         }
       ],
       "accessories": [
@@ -1355,7 +1412,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN VXE DUO DIRECTIONAL LT RED/WHT"
         },
         {
           "part_number": "VX2DX",
@@ -1369,7 +1427,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN VXE DUO DIRECTIONAL LT R-W/SMK"
         },
         {
           "part_number": "VX2E",
@@ -1383,7 +1442,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN VXE DUO DIRECTIONAL LT BLU/WHT"
         },
         {
           "part_number": "VX2EX",
@@ -1397,7 +1457,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN VXE DUO DIRECTIONAL LT B-W/SMK"
         },
         {
           "part_number": "VX3BACX",
@@ -1411,7 +1472,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "lens_type": "smoked",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN VXE TRIO DIRECTIONAL BAW/SMK"
         },
         {
           "part_number": "VX3RACX",
@@ -1425,7 +1487,8 @@
           "color": "red",
           "secondary_color": "amber",
           "lens_type": "smoked",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN VXE TRIO DIRECTIONAL RAW/SMK"
         },
         {
           "part_number": "VX3RBC",
@@ -1439,7 +1502,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "clear",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN VXE TRIO DIRECTIONAL LT R/B/W"
         },
         {
           "part_number": "VXTD",
@@ -1453,7 +1517,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN VXE, HIDEAWAY TWIST-IN OMNIDIRECTIONAL DUO LIGHTHEAD, 12\u201d PIGTAIL, RED/WHITE"
         },
         {
           "part_number": "VXTE",
@@ -1467,7 +1532,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN VXE, HIDEAWAY TWIST-IN OMNIDIRECTIONAL DUO LIGHTHEAD, 12\u201d PIGTAIL, BLUE/WHITE"
         }
       ]
     },
@@ -1566,7 +1632,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT ION LT AMBER"
         },
         {
           "part_number": "IONSMB",
@@ -1580,7 +1647,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT ION LT BLUE"
         },
         {
           "part_number": "IONSMC",
@@ -1594,7 +1662,8 @@
           "color": "white",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT ION LT WHITE"
         },
         {
           "part_number": "IONSMD",
@@ -1608,7 +1677,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT ION LT RED/WHT"
         },
         {
           "part_number": "IONSME",
@@ -1622,7 +1692,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT ION LT BLU/WHT"
         },
         {
           "part_number": "IONSMF",
@@ -1636,7 +1707,8 @@
           "color": "amber",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT ION LT AMB/WHT"
         },
         {
           "part_number": "IONSMR",
@@ -1650,7 +1722,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT ION LT RED"
         },
         {
           "part_number": "XONSMB",
@@ -1664,7 +1737,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT ION LT BLUE/SMOKE"
         },
         {
           "part_number": "XONSMR",
@@ -1678,7 +1752,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT ION LT RED/SMOKE"
         },
         {
           "part_number": "I2SMD",
@@ -1692,7 +1767,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT DUO ION RED/WHITE"
         },
         {
           "part_number": "I2SME",
@@ -1706,7 +1782,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT DUO ION BLUE/WHITE"
         },
         {
           "part_number": "I2SMF",
@@ -1720,7 +1797,8 @@
           "color": "amber",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT DUO ION AMBER/WHITE"
         },
         {
           "part_number": "I3SMJC",
@@ -1734,7 +1812,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "clear",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN SURFACE MT TRIO ION R/B W/WHT"
         },
         {
           "part_number": "XI2SMD",
@@ -1748,7 +1827,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT DUO ION RED/WHT SMK"
         },
         {
           "part_number": "XI2SME",
@@ -1762,7 +1842,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SURFACE MT DUO ION BLU/WHT SMK"
         },
         {
           "part_number": "XI3SMJC",
@@ -1776,7 +1857,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "smoked",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN SURFACE MT TRIO ION R/B W/WHT"
         }
       ]
     },
@@ -1802,8 +1884,7 @@
       "fits_part_types": [
         "front_side_warning",
         "pit_bar_warning",
-        "rear_warning",
-        "lower_liftgate_warning"
+        "rear_warning"
       ],
       "tag_ids": [],
       "description": "",
@@ -1821,7 +1902,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN VERTEX SUPER-LED LIGHT AMBER"
         },
         {
           "part_number": "VTX609B",
@@ -1835,7 +1917,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN VERTEX SUPER-LED LIGHT BLUE"
         },
         {
           "part_number": "VTX609C",
@@ -1849,7 +1932,8 @@
           "color": "white",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN VERTEX SUPER-LED LIGHT WHITE"
         },
         {
           "part_number": "VTX609R",
@@ -1863,7 +1947,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN VERTEX SUPER-LED LIGHT RED"
         },
         {
           "part_number": "VTX9D",
@@ -1877,7 +1962,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN VERTEX SUPER-LED DUO RED/WHT"
         },
         {
           "part_number": "VTX9E",
@@ -1891,7 +1977,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN VERTEX SUPER-LED DUO BLU/WHT"
         },
         {
           "part_number": "VTX9F",
@@ -1905,7 +1992,8 @@
           "color": "white",
           "secondary_color": "amber",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN VERTEX SUPER-LED DUO WHT/AMB"
         }
       ],
       "accessories": [
@@ -1959,7 +2047,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN 20\" FIELD SERIES BROW 3-LT BLK"
         }
       ]
     },
@@ -1987,7 +2076,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SA315P SPEAKER, BLACK PLASTIC"
         }
       ]
     },
@@ -2015,7 +2105,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SA315U SPEAKER, BLACK PLASTIC"
         }
       ]
     },
@@ -2041,7 +2132,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN HEAVY-DUTY UNIVERSAL \u201cL\u201d MOUNTING BRACKET"
         }
       ]
     },
@@ -2067,7 +2159,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN HEAVY-DUTY UNIVERSAL/SWIVEL BAIL TYPE MOUNTING BRACKET"
         }
       ]
     },
@@ -2112,7 +2205,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WCX LOW FREQUENCY SIREN SYSTEM"
         },
         {
           "part_number": "CHWLFE29",
@@ -2126,7 +2220,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WCX LO FREQ SIREN AMP EXPLORER"
         },
         {
           "part_number": "CHWLUNI",
@@ -2140,7 +2235,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WCX LOW FREQ SIREN AMP UNIV MT"
         }
       ],
       "accessories": [
@@ -2284,7 +2380,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN U-SERIES LIGHTHEAD RED/WHITE"
         },
         {
           "part_number": "U180DX",
@@ -2298,7 +2395,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN U-SERIES LIGHTHEADS RED/WHITE SMOKED"
         },
         {
           "part_number": "U180E",
@@ -2312,7 +2410,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN U-SERIES LIGHTHEADS BLUE/WHITE"
         },
         {
           "part_number": "U180EX",
@@ -2326,7 +2425,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN U-SERIES LIGHTHEADS BLUE/WHITE SMOKED"
         },
         {
           "part_number": "U180J",
@@ -2340,7 +2440,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN U-SERIES LIGHTHEADS RED/BLUE"
         },
         {
           "part_number": "U180JC",
@@ -2354,7 +2455,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "clear",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN U-SERIES TRIO RED/BLU/WHT"
         },
         {
           "part_number": "U180KCX",
@@ -2368,7 +2470,8 @@
           "color": "red",
           "secondary_color": "amber",
           "lens_type": "smoked",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN U-SERIES TRIO R-A-W/SMOKE"
         },
         {
           "part_number": "U180MCX",
@@ -2382,7 +2485,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "lens_type": "smoked",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN U-SERIES TRIO B-A-W/SMOKE"
         }
       ]
     },
@@ -2408,7 +2512,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION MIRROR-BEAM HSGS 2021-2024 CHEVY TAHOE/2024 SUBURBAN"
         },
         {
           "part_number": "MBDC11",
@@ -2422,7 +2527,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION MIRROR-BEAM HSGS 2011-2023 DODGE CHARGER"
         },
         {
           "part_number": "MBFX25",
@@ -2436,7 +2542,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION MIRROR-BEAM HSGS, 2025 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "MBI2D",
@@ -2450,7 +2557,8 @@
           "color": "red",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R/W"
         },
         {
           "part_number": "MBI2E",
@@ -2464,7 +2572,8 @@
           "color": "blue",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO B/W"
         },
         {
           "part_number": "MBXI2D",
@@ -2478,7 +2587,8 @@
           "color": "red",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R-W/SMK"
         },
         {
           "part_number": "MBXI2E",
@@ -2492,7 +2602,8 @@
           "color": "blue",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO B/W"
         },
         {
           "part_number": "MBXI2J",
@@ -2506,7 +2617,8 @@
           "color": "red",
           "secondary_color": "blue",
           "tertiary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R-B/SMK"
         },
         {
           "part_number": "MBIONVB",
@@ -2520,7 +2632,8 @@
           "color": "blue",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V LT BLUE"
         },
         {
           "part_number": "MBIONVR",
@@ -2534,7 +2647,8 @@
           "color": "red",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V LT RED"
         },
         {
           "part_number": "MBXONVB",
@@ -2548,7 +2662,8 @@
           "color": "blue",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V BLU/SMK"
         },
         {
           "part_number": "MBXONVR",
@@ -2562,7 +2677,8 @@
           "color": "red",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V RED/SMK"
         }
       ]
     },
@@ -2603,7 +2719,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 10-LT CHARGER"
         },
         {
           "part_number": "BSFW42X",
@@ -2617,7 +2734,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 12-LT RAM"
         },
         {
           "part_number": "BSFW444",
@@ -2631,7 +2749,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 4-LT DURANGO, PASSENGER SIDE UNIT ONLY"
         },
         {
           "part_number": "BSFW445",
@@ -2645,7 +2764,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 5-LT DURANGO, PASSENGER SIDE ONLY"
         },
         {
           "part_number": "BSFW448",
@@ -2659,7 +2779,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 8-LT DURANGO"
         },
         {
           "part_number": "BSFW44Z",
@@ -2673,7 +2794,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 10-LT DURANGO"
         },
         {
           "part_number": "BSFW44ZT",
@@ -2687,7 +2809,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX TRIO 10-LT DURANGO"
         },
         {
           "part_number": "BSFW475",
@@ -2701,7 +2824,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 5-LT F-SERIES"
         },
         {
           "part_number": "BSFW47Z",
@@ -2715,7 +2839,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 10-LT F-SERIES"
         },
         {
           "part_number": "BSFW48X",
@@ -2729,7 +2854,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX SD 12LT EXPEDITION"
         },
         {
           "part_number": "BSFW49X",
@@ -2743,7 +2869,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 12LT SILVERADO"
         },
         {
           "part_number": "BSFW505",
@@ -2757,7 +2884,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 5-LT UTILITY"
         },
         {
           "part_number": "BSFW50Z",
@@ -2771,7 +2899,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 10-LT UTILITY"
         },
         {
           "part_number": "BSFW50ZT",
@@ -2785,7 +2914,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX TRIO 10-LT UTILITY"
         },
         {
           "part_number": "BSFW54X",
@@ -2799,7 +2929,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 12-LT TAHOE"
         },
         {
           "part_number": "BSFW54XT",
@@ -2813,7 +2944,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX TRIO 12-LT TAHOE"
         },
         {
           "part_number": "BSFW56X",
@@ -2827,7 +2959,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 12-LT TESLA Y"
         },
         {
           "part_number": "BSFW57Z",
@@ -2841,7 +2974,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E FST WCX S/D 10-LT MACH-E"
         },
         {
           "part_number": "BSFW59Z",
@@ -2855,7 +2989,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN INNER EDGE FST CHEVY BLAZER EV PPZ, 2024 10 LAMP"
         }
       ],
       "accessories": [
@@ -2894,7 +3029,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WCX DUO IE XLP 6-LT 20 UTILITY"
         },
         {
           "part_number": "BW50UFX",
@@ -2908,7 +3044,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WCX DUO IE XLP 12LT 20 UTILITY"
         }
       ]
     },
@@ -2972,7 +3109,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, AMBER"
         },
         {
           "part_number": "TSS0B",
@@ -2986,7 +3124,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, BLUE"
         },
         {
           "part_number": "TSS0BX",
@@ -3000,7 +3139,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, BLUE, SMOKED LENSES"
         },
         {
           "part_number": "TSS0C",
@@ -3014,7 +3154,8 @@
           "color": "white",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, WHITE"
         },
         {
           "part_number": "TSS0D",
@@ -3028,7 +3169,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, RED/WHITE"
         },
         {
           "part_number": "TSS0DX",
@@ -3042,7 +3184,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, RED/WHITE, SMOKED LENS"
         },
         {
           "part_number": "TSS0E",
@@ -3056,7 +3199,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, BLUE/WHITE"
         },
         {
           "part_number": "TSS0EX",
@@ -3070,7 +3214,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, BLUE/WHITE, SMOKED LENS"
         },
         {
           "part_number": "TSS0F",
@@ -3084,7 +3229,8 @@
           "color": "amber",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, AMBER/WHITE"
         },
         {
           "part_number": "TSS0J",
@@ -3098,7 +3244,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, RED/BLUE"
         },
         {
           "part_number": "TSS0JC",
@@ -3112,7 +3259,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "clear",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN T-SERIES SURFACE MT TRIO R/B/W"
         },
         {
           "part_number": "TSS0K",
@@ -3126,7 +3274,8 @@
           "color": "red",
           "secondary_color": "amber",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, RED/AMBER"
         },
         {
           "part_number": "TSS0KC",
@@ -3140,7 +3289,8 @@
           "color": "red",
           "secondary_color": "amber",
           "lens_type": "clear",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, RED/AMBER/WHITE"
         },
         {
           "part_number": "TSS0KCX",
@@ -3154,7 +3304,8 @@
           "color": "red",
           "secondary_color": "amber",
           "lens_type": "smoked",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN T-SERIES SURFACE TRIO RAW/SMK"
         },
         {
           "part_number": "TSS0M",
@@ -3168,7 +3319,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHEELN T-SERIES SURFACE MOUNT, BLUE/AMBER"
         },
         {
           "part_number": "TSS0MCK",
@@ -3182,7 +3334,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "lens_type": "smoked",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN T-SERIES SURFACE TRIO BAW/SMK"
         },
         {
           "part_number": "TSS0R",
@@ -3196,7 +3349,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, RED"
         },
         {
           "part_number": "TSS0RX",
@@ -3210,7 +3364,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES SURFACE MOUNT, RED, SMOKED"
         },
         {
           "part_number": "TST0A",
@@ -3224,7 +3379,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, AMBER"
         },
         {
           "part_number": "TST0AX",
@@ -3238,7 +3394,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, AMBER, SMOKED"
         },
         {
           "part_number": "TST0B",
@@ -3252,7 +3409,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, BLUE"
         },
         {
           "part_number": "TST0BX",
@@ -3266,7 +3424,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, BLUE, SMOKED"
         },
         {
           "part_number": "TST0C",
@@ -3280,7 +3439,8 @@
           "color": "white",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, WHITE"
         },
         {
           "part_number": "TST0D",
@@ -3294,7 +3454,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, RED/WHITE"
         },
         {
           "part_number": "TST0DX",
@@ -3308,7 +3469,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, RED/WHITE, SMOKED"
         },
         {
           "part_number": "TST0E",
@@ -3322,7 +3484,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, BLUE/WHITE"
         },
         {
           "part_number": "TST0EX",
@@ -3336,7 +3499,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, BLUE/WHITE, SMOKED"
         },
         {
           "part_number": "TST0FX",
@@ -3350,7 +3514,8 @@
           "color": "amber",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, AMBER/WHITE, SMOKED"
         },
         {
           "part_number": "TST0J",
@@ -3364,7 +3529,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, RED/BLUE"
         },
         {
           "part_number": "TST0JX",
@@ -3378,7 +3544,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, RED/BLUE, SMOKED"
         },
         {
           "part_number": "TST0K",
@@ -3392,7 +3559,8 @@
           "color": "red",
           "secondary_color": "amber",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, RED/AMBER"
         },
         {
           "part_number": "TST0KX",
@@ -3406,7 +3574,8 @@
           "color": "red",
           "secondary_color": "amber",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, RED/AMBER, SMOKED"
         },
         {
           "part_number": "TST0M",
@@ -3420,7 +3589,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, BLUE/AMBER"
         },
         {
           "part_number": "TST0MX",
@@ -3434,7 +3604,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, BLUE/AMBER, SMOKED"
         },
         {
           "part_number": "TST0R",
@@ -3448,7 +3619,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, RED"
         },
         {
           "part_number": "TST0RX",
@@ -3462,7 +3634,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN T-SERIES STUD MOUNT, RED, SMOKED"
         }
       ]
     },
@@ -3492,7 +3665,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MEGA T-SERIES AMBER"
         },
         {
           "part_number": "PSB01FCR",
@@ -3506,7 +3680,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MEGA T-SERIES BLUE"
         },
         {
           "part_number": "PSC01FCR",
@@ -3520,7 +3695,8 @@
           "color": "white",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MEGA T-SERIES WHITE"
         },
         {
           "part_number": "PSD02FCR",
@@ -3534,7 +3710,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MEGA T-SERIES RED/WHT"
         },
         {
           "part_number": "PSE02FCR",
@@ -3548,7 +3725,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MEGA T-SERIES BLU/WHT"
         },
         {
           "part_number": "PSJ02FCR",
@@ -3562,7 +3740,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MEGA T-SERIES RED/BLU"
         },
         {
           "part_number": "PSJC3FCR",
@@ -3576,7 +3755,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "clear",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN MEGA T-SERIES TRIO FLASHER RBW"
         },
         {
           "part_number": "PSK02FCR",
@@ -3590,7 +3770,8 @@
           "color": "red",
           "secondary_color": "amber",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MEGA T-SERIES RED/AMB"
         },
         {
           "part_number": "PSKC3FCR",
@@ -3604,7 +3785,8 @@
           "color": "red",
           "secondary_color": "amber",
           "lens_type": "clear",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN MEGA T-SERIES TRIO FLASHER RAW"
         },
         {
           "part_number": "PSM02FCR",
@@ -3618,7 +3800,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MEGA T-SERIES BLU/AMB"
         },
         {
           "part_number": "PSMC3FCR",
@@ -3632,7 +3815,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "lens_type": "clear",
-          "tertiary_color": "white"
+          "tertiary_color": "white",
+          "friendly_name": "WHELEN MEGA T-SERIES TRIO FLASHER BAW"
         },
         {
           "part_number": "PSR01FCR",
@@ -3646,7 +3830,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MEGA T-SERIES RED"
         }
       ]
     },
@@ -3674,7 +3859,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI ION T-SERIES LIGHT AMBER"
         },
         {
           "part_number": "TMS0B",
@@ -3688,7 +3874,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI ION T-SERIES LIGHT BLUE"
         },
         {
           "part_number": "TMS0D",
@@ -3702,7 +3889,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI ION T-SERIES LT RED/WHT"
         },
         {
           "part_number": "TMS0F",
@@ -3716,7 +3904,8 @@
           "color": "amber",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN DUO MINI T-SERIES ION AMBER/WHITE"
         },
         {
           "part_number": "TMS0R",
@@ -3730,7 +3919,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI ION T-SERIES LIGHT RED"
         },
         {
           "part_number": "TMSOE",
@@ -3744,7 +3934,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI ION T-SERIES LT BLU/WHT"
         },
         {
           "part_number": "TMT0A",
@@ -3758,7 +3949,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, AMBER"
         },
         {
           "part_number": "TMT0B",
@@ -3772,7 +3964,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, BLUE"
         },
         {
           "part_number": "TMT0BX",
@@ -3786,7 +3979,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, BLUE, SMOKED"
         },
         {
           "part_number": "TMT0C",
@@ -3800,7 +3994,8 @@
           "color": "white",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, WHITE"
         },
         {
           "part_number": "TMT0D",
@@ -3814,7 +4009,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, RED/WHITE"
         },
         {
           "part_number": "TMT0DX",
@@ -3828,7 +4024,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, RED/WHITE, SMOKED"
         },
         {
           "part_number": "TMT0E",
@@ -3842,7 +4039,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, BLUE/WHITE"
         },
         {
           "part_number": "TMT0EX",
@@ -3856,7 +4054,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, BLUE/WHITE, SMOKED"
         },
         {
           "part_number": "TMT0J",
@@ -3870,7 +4069,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, RED/BLUE"
         },
         {
           "part_number": "TMT0JX",
@@ -3884,7 +4084,8 @@
           "color": "red",
           "secondary_color": "blue",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, RED/BLUE, SMOKED"
         },
         {
           "part_number": "TMT0K",
@@ -3898,7 +4099,8 @@
           "color": "red",
           "secondary_color": "amber",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, RED/AMBER"
         },
         {
           "part_number": "TMT0KX",
@@ -3912,7 +4114,8 @@
           "color": "red",
           "secondary_color": "amber",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, RED/AMBER, SMOKED"
         },
         {
           "part_number": "TMT0M",
@@ -3926,7 +4129,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, BLUE/AMBER"
         },
         {
           "part_number": "TMT0MX",
@@ -3940,7 +4144,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN Mini T-Series Stud Mount, Blue/Amber, Smoked"
         },
         {
           "part_number": "TMT0R",
@@ -3954,7 +4159,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, RED"
         },
         {
           "part_number": "TMT0RX",
@@ -3968,7 +4174,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI T-SERIES STUD MOUNT, RED, SMOKED"
         }
       ]
     },
@@ -4013,7 +4220,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WECANX TRACER 5-LAMP HOUSING"
         }
       ],
       "accessories": [
@@ -4056,7 +4264,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WECANX TRACER 6-LAMP HOUSING"
         }
       ],
       "accessories": [
@@ -4453,7 +4662,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E RST WCX 10-LT S/D DURANGO"
         },
         {
           "part_number": "BS44ZT",
@@ -4467,7 +4677,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E RST WCX 10-LT TRIO DURANGO"
         },
         {
           "part_number": "BS48Z",
@@ -4481,7 +4692,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E RST WCX 10LT S/D EXPEDITION"
         },
         {
           "part_number": "BS50Z",
@@ -4495,7 +4707,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E RST WCX 10-LT S/D UTILITY"
         },
         {
           "part_number": "BS50ZT",
@@ -4509,7 +4722,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E RST WCX 10-LT TRIO UTILITY"
         },
         {
           "part_number": "BS54Z",
@@ -4523,7 +4737,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E RST WCX 10-LT S/D 21 TAHOE"
         },
         {
           "part_number": "BS54ZT",
@@ -4537,7 +4752,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E RST WCX 10-LT TRIO TAHOE"
         },
         {
           "part_number": "BS578",
@@ -4551,7 +4767,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN I-E RST WCX 8-LT S/D 22 MACH-E"
         },
         {
           "part_number": "BSRW10",
@@ -4565,7 +4782,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN INNER EDGE RST WCX 10-LT TRAY"
         },
         {
           "part_number": "BSRW12",
@@ -4579,7 +4797,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN INNER EDGE RST WCX 12-LT TRAY"
         }
       ],
       "accessories": [
@@ -4796,7 +5015,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN CENCOM CORE WCX CONTROL CENTER"
         }
       ],
       "accessories": [
@@ -4829,7 +5049,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WECANX HAND-HELD CONTROL HEAD"
         }
       ]
     },
@@ -4855,7 +5076,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WECANX KNOB/SLIDE CONTROL HEAD"
         }
       ]
     },
@@ -4881,7 +5103,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN WECANX 21 BUTTON/SLIDE CTRL HD"
         }
       ]
     },
@@ -4922,7 +5145,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN WECANX 6 BUTTON/KNOB CTRL HEAD"
         }
       ]
     },
@@ -4948,7 +5172,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WECANX 8 OUTPUT EXPANSION MOD"
         }
       ]
     },
@@ -4974,7 +5199,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WECANX 16 OUTPUT EXPANSION MOD"
         }
       ]
     },
@@ -5000,7 +5226,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WECANX 24 OUTPUT EXPANSION MOD"
         }
       ]
     },
@@ -5477,7 +5704,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10VS C2 RP HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH SLOTTED POLY WINDOW SECURITY SCREEN RECESSED PANEL PARTITION 2019-2026 CHEVROLET TRUCK 1500"
         },
         {
           "part_number": "PK0228DUR11",
@@ -5491,7 +5719,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10VS C2 RP HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH SLOTTED POLY WINDOW SECURITY SCREEN RECESSED PANEL PARTITION 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "PK0228ITU20TM",
@@ -5505,7 +5734,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10VS RP C2 HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH SLOTTED POLY WINDOW SECURITY SCREEN RECESSED PANEL PARTITION TM (TALL MAN) 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "PK0228TAH21",
@@ -5519,7 +5749,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10VS C2 RP HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH SLOTTED POLY WINDOW SECURITY SCREEN RECESSED PANEL PARTITION 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "PK0350TAH21",
@@ -5533,7 +5764,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10VS C HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH EXPANDED METAL WINDOW SECURITY SCREEN FLAT PANEL PARTITION 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "PK0355ITU20TM",
@@ -5547,7 +5779,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10VS RP HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE RECESSED PANEL PARTITION TM (TALL MAN) 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "PK0369ITU20TM",
@@ -5561,7 +5794,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #8VS RP Stationary Window 1/2 Coated Polycarbonate 1/2 Vinyl Coated Expanded Metal Recessed Panel Partition TM (Tall Man) 2020-2027 Ford Police Interceptor Utility"
         },
         {
           "part_number": "PK0374CHT191500",
@@ -5575,7 +5809,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #6VS RP Stationary Window Coated Polycarbonate Recessed Panel Partition 2019-2026 Chevrolet Truck 1500"
         },
         {
           "part_number": "PK0374ITU20TM",
@@ -5589,7 +5824,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #6VS RP STATIONARY WINDOW COATED POLYCARBONATE RECESSED PANEL PARTITION TM (TALL MAN) 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "PK0419CHT191500",
@@ -5603,7 +5839,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "Setina #10VS C RP HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH EXPANDED METAL WINDOW SECURITY SCREEN RECESSED PANEL PARTITION 2019-2026 CHEVY TRUCK 1500 CREW CAB"
         },
         {
           "part_number": "PK0419DUR11",
@@ -5617,7 +5854,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10VS C RP HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH EXPANDED METAL WINDOW SECURITY SCREEN RECESSED PANEL PARTITION 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "PK0419EPD18",
@@ -5631,7 +5869,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10VS C RP HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH EXPANDED METAL WINDOW SECURITY SCREEN RECESSED PANEL PARTITION 2018-2026 FORD EXPEDITION"
         },
         {
           "part_number": "PK0419FDT15F150",
@@ -5645,7 +5884,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10VS C RP HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH EXPANDED METAL WINDOW SECURITY SCREEN RECESSED PANEL PARTITION 2015-2026 FORD TRUCK F150"
         },
         {
           "part_number": "PK0419ITU20TM",
@@ -5659,7 +5899,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10VS RP C HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH EXPANDED METAL WINDOW SECURITY SCREEN RECESSED PANEL PARTITION TM (TALL MAN) 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "PK0419TAH21",
@@ -5673,7 +5914,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10VS C RP HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH EXPANDED METAL WINDOW SECURITY SCREEN RECESSED PANEL PARTITION 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "PK0439ITU20TM",
@@ -5687,7 +5929,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10VS RP HORIZONTAL SLIDING WINDOW UNCOATED POLYCARBONATE RECESSED PANEL PARTITION TM (TALL MAN) 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         }
       ]
     },
@@ -5713,7 +5956,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA SINGLE PRISONER TRANSPORT PARTITION #6VS STATIONARY WINDOW COATED POLYCARBONATE *FOR USE WITH STOCK SEAT ONLY 2019-2026 CHEVROLET TRUCK 1500"
         },
         {
           "part_number": "1K0574DUR11",
@@ -5727,7 +5971,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA SINGLE PRISONER TRANSPORT PARTITION #6VS STATIONARY WINDOW COATED POLYCARBONATE FOR USE WITH: - FULL STOCK SEAT 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "1K0574DUR11FSR",
@@ -5741,7 +5986,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA SINGLE PRISONER TRANSPORT PARTITION #6VS STATIONARY WINDOW COATED PLYCARBONATE FOR USE WITH: - SETINA REPLACEMENT SEAT 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "1K0574FDT15F150PDR",
@@ -5755,7 +6001,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA SINGLE PRISONER TRANSPORT PARTITION #6VS STATIONARY WINDOW COATED POLYCARBONATE *ONLY COMPATIBLE WITH: -STOCK SEAT *FOR USE WITH: -DRIVER'S SIDE REAR SEAT 2015-2026 FORD TRUCK F-150"
         },
         {
           "part_number": "1K0574FDT15F150WOD",
@@ -5769,7 +6016,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA SINGLE PRISONER TRASNPORT PARTITION #6VS STATIONARY WINDOW COATED POLYCARBONATE *ONLY COMPATIBLE WITH: -PARTIAL STOCK SEAT -SPT Seat *FOR USE WITHOUT: -DRIVER'S SIDE REAR SEAT 2015-2026 FORD TRUCK F-150"
         },
         {
           "part_number": "1K0574ITU20FR",
@@ -5783,7 +6031,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA SINGLE PRISONER TRANSPORT PARTITION #6VS SPT STAATIONARY WINDOW COATED POLYCARBONATE *FOR USE WITH: -FULL REPLACEMENT TRANSPORT PARTITION SEAT 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "1K0574ITU20WD",
@@ -5797,7 +6046,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA SINGLE PRISONER TRANPORT PARTITION #6VS SPT STATIONARY WINDOW COATED POLYCARBONATE *FOR USE WITH: -STOCK SEAT 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "1K0574TAH21FR",
@@ -5811,7 +6061,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA SINGLE PRISONER TRANSPORT PARTITION #6VS STATIONARY WINDOW COATED POLYCARBONATE *FOR USE WITH: -SETINA FULL REPLACEMENT TRANSPORT SEAT 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "1K0574TAH21WD",
@@ -5825,7 +6076,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA SINGLE PRISONER TRANSPORT PARTITION #6VS STATIONARY WINDOW COATED POLYCARBOANTE *FOR USE WITH: -STOCK SEAT 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "1K0576TAH21WD",
@@ -5839,7 +6091,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA SINGLE PRISONER TRANSPORT PARTITION #7VS STATIONARY WINDOW VINYL COATED EXPANDED METAL *FOR USE WITH: -STOCK SEAT 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -5865,7 +6118,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10XL C HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH EXPANDED METAL WINDOW SECURITY SCREEN XL PANEL PARTITION TM (TALL MAN) 2024-2026 CHEVROLET BLAZER EV"
         },
         {
           "part_number": "PK1152TAH21",
@@ -5879,7 +6133,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10XL C HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH EXPANDED METAL WINDOW SECURITY SCREEN XL PANEL PARTITION 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "PK1188CHT191500",
@@ -5893,7 +6148,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #10XL C2 HORIZONTAL SLIDING WINDOW COATED POLYCARBONATE WITH SLOTTED POLYCARBONATE WINDOW SECURITY SCREEN XL PANEL PARTITION 2019-2026 CHEVROLET TRUCK 1500"
         }
       ]
     },
@@ -5950,7 +6206,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE 2011-2023 DODGE CHARGER"
         },
         {
           "part_number": "WK0595DUR11",
@@ -5964,7 +6221,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "WK0595FDT15F150P",
@@ -5978,7 +6236,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER REAR WINDOW POLYCARBONATE 2015-2026 FORD TRUCK F150"
         },
         {
           "part_number": "WK0595ITU20",
@@ -5992,7 +6251,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER VS POLYCARBONATE 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "WK0595TAH21",
@@ -6006,7 +6266,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -6079,7 +6340,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER STEEL VERTICAL 2011-2023 DODGE CHARGER"
         },
         {
           "part_number": "WK0514CHT191500",
@@ -6093,7 +6355,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER STEEL VERTICAL *FOR USE WITH STOCK OR ALUMINUM DOOR PANEL 2019-2026 CHEVROLET TRUCK 1500"
         },
         {
           "part_number": "WK0514DRT191500CL",
@@ -6107,7 +6370,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER STEEL VERTICAL *FOR USE WITH: -STOCK DOOR PANELS -CREW CAB 2019-2024 DODGE RAM 1500 CLASSIC"
         },
         {
           "part_number": "WK0514DUR11",
@@ -6121,7 +6385,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER STEEL VERTICAL *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "WK0514ITU20",
@@ -6135,7 +6400,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER VS STEEL VERTICAL 2020-2026 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "WK0514TAH21",
@@ -6149,7 +6415,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER STEEL VERTICAL *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -6175,7 +6442,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER VS STEEL HORIZONTAL 2024-2025 CHEVROVLET BLAZER EV"
         },
         {
           "part_number": "WK0514ITU20H",
@@ -6189,7 +6457,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER VS STEEL HORIZONTAL 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "WK0514TAH21H",
@@ -6203,7 +6472,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER STEEL HORIZONTAL *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -6229,7 +6499,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "WK1491FDT15F150T",
@@ -6243,7 +6514,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED 2015-2026 FORD TRUCK F150"
         },
         {
           "part_number": "WK1491ITU20T",
@@ -6257,7 +6529,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER VS POLYCARBONATE TINTED 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "WK1491TAH21T",
@@ -6271,7 +6544,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -6327,7 +6601,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO AREA PARTITION FOR 2ND ROW SEAT #12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -6353,7 +6628,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO AREA REAR PARTITION #12VS STATIONARY WINDOW COATED POLYCARBONATE *FOR USE WITH: -2ND ROW SEAT 2024-2026 CHEVROLET BLAZER EV"
         },
         {
           "part_number": "PK0316DUR112ND",
@@ -6367,7 +6643,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO AREA REAR PARTITION #12VS STATIONARY WINDOW COATED POLYCARBONATE PARTITION *FOR USE WITH: -2ND ROW SEAT 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "PK0316EPD182ND",
@@ -6381,7 +6658,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO AREA REAR PARTITION #12VS STATIONARY WINDOW COATED POLYCARBONATE STANDARD LENGTH *FOR USE WITH: -2ND ROW SEAT *ONLY COMPATIBLE WITH: -STOCK SEAT 2018-2024 FORD EXPEDITION"
         },
         {
           "part_number": "PK0316TAH212ND",
@@ -6395,7 +6673,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO AREA REAR PARTITION FOR 2ND ROW SEAT #12VS STATIONARY WINDOW COATED POLYCARBONATE PARTITION 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -6483,7 +6762,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO STORAGE SYSTEM DSE - DRAWER, SLIDING WITH ELECTRONIC COMBO LOCK BSN - BASE SLIDING WITH NO LOCK -WITHOUT E-Z LIFT CARGO BOX"
         },
         {
           "part_number": "TK1261FDT15F150",
@@ -6497,7 +6777,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO DECK W/ DRAWER MAX *NOT COMPATIBLE WITH: REAR WINDOW BARRIER *NOT COMPATIBLE WITH: SPT PARTITION *INCLUDES REQUIRED: -DUAL POLY WALL FOR RECESSED PANEL FRONT PARTITION -RADIO BOX -LOWER CARGO DECK W/ RUBBER MAT -STORAGE BOX -DOOR PANEL ALUMINUM 1PC DRIVER SIDE ONLY *DOES NOT INCLUDE REQUIRED: -RECESSED PANEL FRONT PARTITION 2015-2026 FORD TRUCK F150"
         },
         {
           "part_number": "TK1261FDT15F150RW",
@@ -6511,7 +6792,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO DECK W/ DRAWER MAX *COMPATIBLE WITH: REAR WINDOW BARRIER *NOT COMPATIBLE WITH: SPT PARTITION *INCLUDES REQUIRED: -DUAL POLY WALL FOR RECESSED PANEL FRONT PARTITION -RADIO BOX -LOWER CARGO DECK W/ RUBBER MAT -STORAGE BOX -DOOR PANEL ALUMINUM 1PC DRIVER SIDE ONLY *DOES NOT INCLUDE REQUIRED: -RECESSED PANEL FRONT PARTITION 2015-2026 FORD TRUCK F150"
         },
         {
           "part_number": "TK1338FDT15F150",
@@ -6525,7 +6807,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO DECK W/ DRAWER SUPER MAX FOR 2022 FORD F-150 RESPONDER *COMPATIBLE WITH: REAR WINDOW BARRIER *NOT COMPATIBLE WITH: SPT PARTITION *INCLUDES REQUIRED: -DUAL POLY WALL FOR RECESSED PANEL FRONT PARTITION -RADIO BOX -LOWER CARGO DECK W/ RUBBER MAT -STORAGE BOX -DOOR PANEL 1PC DRIVER SIDE ONLY *INCLUDES OPTIONAL ACCESSORIES: -UPPER CARGO DECK -TPO SINGLE REPLACEMENT SEAT W/ CENTER PULL SEAT BELT -DOOR PANEL ALUMINUM 1PC PASSENGER SIDE ONLY -WINDOW BARRIER 2PC SET HORIZONTAL BARS -REAR WINDOW BARRIER 1PC *DOES NOT INCLUDE REQUIRED: -RECESSED PANEL FRONT PARTITION 2015-2026 FORD TRUCK F150"
         },
         {
           "part_number": "TK1339CHT191500",
@@ -6539,7 +6822,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO DECK W/ DRAWER SUPER MAX *COMPATIBLE WITH: REAR WINDOW BARRIER *NOT COMPATIBLE WITH: DOUBLE CAB *INCLUDES REQUIRED: -DUAL POLY WALL FOR RECESSED PANEL FRONT PARTITION -RADIO BOX -LOWER CARGO DECK W/ RUBBER MAT -STORAGE BOX -TPO SINGLE REPLACEMENT SEAT W/ CENTER PULL SEAT BELT -DOOR PANEL ALUMINUM 2PC SET *INCLUDES OPTIONAL ACCESSORIES: -UPPER CARGO DECK -WINDOW BARRIER 2PC SET HORIZONTAL BARS -REAR WINDOW BARRIER 1PC 2019-2026 CHEVROLET TRUCK 1500"
         },
         {
           "part_number": "TK1459CHT191500RW",
@@ -6553,7 +6837,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO DECK W/ DRAWER MAX *COMPATIBLE WITH: REAR WINDOW BARRIER *NOT COMPATIBLE WITH: DOUBLE CAB *INCLUDES REQUIRED: -DUAL POLY WALL FOR RECESSED PANEL FRONT PARTITION -RADIO BOX -LOWER CARGO DECK W/ RUBBER MAT -STORAGE BOX -TPO SINGLE REPLACEMENT SEAT W/ CENTER PULL SEAT BELT -DOOR PANEL ALUMINUM 2PC SET *DOES NOT INCLUDE REQUIRED: -RECESSED PANEL FRONT PARTITION 2019-2026 CHEVROLET TRUCK 1500"
         },
         {
           "part_number": "TK1488TAH21",
@@ -6567,7 +6852,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO DECK W/ DRAWER SUPER MAX *NOT COMPATIBLE WITH: SPT PARTITION *INCLUDES REQUIRED: -DUAL POLY WALL FOR RECESSED PANEL OR XL FRONT PARTITION -LOWER CARGO DECK W/ RUBBER MAT -STORAGE BOX -DOOR PANEL 1PC DRIVER SIDE ONLY *INCLUDES OPTIONAL ACCESSORIES: -UPPER CARGO DECK -TPO SINGLE REPLACEMENT SEAT W/ CENTER PULL SEAT BELT -DOOR PANEL ALUMINUM 1PC PASSENGER SIDE ONLY -WINDOW BARRIER 2PC SET HORIZONTAL BARS *DOES NOT INCLUDE REQUIRED: -RECESSED PANEL OR XL FRONT PARTITION -#12VS REAR PARTITION 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -6593,7 +6879,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO BOX TOA- TRAY, OPEN TOP WITH ANCHOR POINTS BSN- BASE SLIDING WITH NO LOCK 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "TPA9289",
@@ -6607,7 +6894,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO RADIO TRAY WITH NO LOCK TRN"
         }
       ]
     },
@@ -6633,7 +6921,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO BOX DSK- DRAWER, SLIDING WITH KEY LOCK BSN- BASE SLIDING WITH NO LOCK 2011-2026 DURANGO PURSUIT/SSV"
         },
         {
           "part_number": "TK0233ITU20",
@@ -6647,7 +6936,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO BOX DSK- DRAWER, SLIDING WITH KEY LOCK BSN- BASE SLIDING WITH NO LOCK 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "TK0233TAH21",
@@ -6661,7 +6951,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO BOX DSK- DRAWER, SLIDING WITH KEY LOCK BSN- BASE SLIDING WITH NO LOCK 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -6687,7 +6978,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FLOOR PAN TPO PLASTIC 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "QK0491ITU20",
@@ -6701,7 +6993,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FLOOR PAN TPO PLASTIC 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         }
       ]
     },
@@ -6727,7 +7020,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO REAR DECK 2024-2026 CHEVROLET BLAZER EV"
         }
       ]
     },
@@ -7083,7 +7377,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "ONE BUTTON, ONE WAY COMMUNICATION, 800 FT RANGE REMOTE START KIT"
         }
       ]
     },
@@ -7109,7 +7404,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "FOUR BUTTON, ONE WAY COMMUNICATION, 1000FT RANGE, ARCTIC START REMOTE START KIT"
         }
       ]
     },
@@ -7135,7 +7431,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "ONE BUTTON, TWO WAY COMMUNICATION, 3000 FT RANGE ARCTIC START REMOTE START KIT"
         }
       ]
     },
@@ -7161,7 +7458,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "FOUR BUTTON, TWO WAY COMMUNICATION, 3000FT RANGE ARCTIC START REMOTE START KIT"
         },
         {
           "part_number": "AS-Edge 2x",
@@ -7175,7 +7473,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "LCD SCREEN, FOUR BUTTON, TWO WAY COMMUNICATION, 1 MILE RANGE, ARTIC START REMOTE START KIT"
         }
       ]
     },
@@ -7216,7 +7515,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN PRO FOCUS ARGES SPOT AND/OR FLOOD LIGHT"
         }
       ]
     },
@@ -7242,7 +7542,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ARGES 5 DEG REMOTE SPOTLIGHT"
         },
         {
           "part_number": "ARGCH1",
@@ -7256,7 +7557,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ARGES BAIL MT CONTROL HEAD"
         }
       ]
     },
@@ -7282,7 +7584,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ARGES SWIVEL MT CONTROL HEAD"
         }
       ]
     },
@@ -7395,7 +7698,6 @@
       "manufacturer_id": "5_0_fab_dtm",
       "model": "COMPLETE SQUAD HARNESS",
       "fits_part_types": [
-        "window_tint",
         "harness"
       ],
       "tag_ids": [],
@@ -7444,7 +7746,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "MOBILE PHONE APP CONTROLLED, TWO WAY COMMUNICATION, UNLIMITED RANGE (WITH CELL SERVICE), ARCTIC START KIT W/ INSTALL"
         }
       ]
     },
@@ -7470,7 +7773,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "QK0566ITU20",
@@ -7484,7 +7788,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2020-2024 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "QK0566ITU25",
@@ -7498,7 +7803,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT SEAT,2-CPSB,#12VS P CENTER PULL SEAT BELTS 25-25 INTERCEPTOR UTILITY NOT COMPATIBLE WITH RETAIL EXPLORER INCLUDES: REPLACEMENT SEAT 2 - CENTER PULL SEAT BELTS #12VS 2ND COATED POLY PARTITION INCLUDES: REPLACEMENT SEAT 2 - CENTER PULL SEAT BELTS #12VS 2ND COATED POLY PARTITION 202-2027 Ford Police Interceptor Utility"
         },
         {
           "part_number": "QK0634CGR11",
@@ -7512,7 +7818,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2011-2023 DODGE CHARGER"
         },
         {
           "part_number": "QK0634DUR11",
@@ -7526,7 +7833,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "QK0634ITU20",
@@ -7540,7 +7848,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "QK0635DUR11",
@@ -7554,7 +7863,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "QK1224BLE24",
@@ -7568,7 +7878,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH SETINA SMARTBELT SYSTEM 2024-2026 CHERVOLET BLAZER EV"
         },
         {
           "part_number": "QK1374TAH21",
@@ -7582,7 +7893,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "QK1576BLE24",
@@ -7596,7 +7908,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2024-2026 CHEVROLET BLAZER EV"
         },
         {
           "part_number": "QK1684BLE24",
@@ -7610,7 +7923,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2024-2026 CHEVROLET BLAZER EV"
         },
         {
           "part_number": "QK2023TAH21",
@@ -7624,7 +7938,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "QK2024TAH21",
@@ -7638,7 +7953,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -7664,7 +7980,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL COVER TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2025-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "QK2412TAH21",
@@ -7678,7 +7995,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL COVER TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME *ONLY COMPATIBLE WITH: -XL PANEL FRONT PARTITIONS -SPT SINGLE PRISONER TRANSPORTS PARTITIONS 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "QK2414TAH21",
@@ -7692,7 +8010,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL COVER TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME *ONLY COMPATIBLE WITH: -XL PANEL FRONT PARTITIONS -SPT SINGLE PRISONER TRANSPORTS PARTITIONS 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -7718,7 +8037,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA TPO SINGLE REPLACEMENT SEAT W/ CENTER PULL SEAT BELT *REQUIRED: -CARGO DECK W/ DRAWER MAX OR SPT W/O DRIVER SIDE SEAT NOT INCLUDED 2015-2026 FORD TRUCK F150"
         }
       ]
     },
@@ -7744,7 +8064,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CENTER PULL SEAT BELT RETRACTOR 11-24 DURANGO/20-25 UTILITY/21-25 TAHOE/15-25 FORD TRUCK F150"
         }
       ]
     },
@@ -7770,7 +8091,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA SINGLE T-RAIL MOUNT 1082E BLAC-RAC, TRIGGER GUARD AND RECEIVER ***NEW COLD WIRE TECHNOLOGY INCLUDED*** SOLD SEPARATELY MOMENTARY SWITCH, REQUIRED IF NOT WIRING INTO SMART SIREN CONTROLLER"
         },
         {
           "part_number": "GK0069M",
@@ -7784,7 +8106,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA SINGLE T-RAIL MOUNT 1080M BLAC-RAC"
         },
         {
           "part_number": "GK10271UHK",
@@ -7798,7 +8121,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA SINGLE T-RAIL MOUNT UNIVERSAL XL WITH HANDCUFF KEY OVERRIDE"
         }
       ]
     },
@@ -7824,7 +8148,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA DUAL T-RAIL MOUNT 1 SMALL, 1 UNIVERSAL XL WITH HANDCUFF KEY OVERRIDE"
         },
         {
           "part_number": "GK10342UHK",
@@ -7838,7 +8163,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA DUAL T-RAIL MOUNT 2 UNIVERSAL XL HANDCUFF KEY OVERRIDE"
         },
         {
           "part_number": "GK11191B1SHK",
@@ -7852,7 +8178,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA DUAL T-RAIL MOUNT 1 SMALL WITH HANDCUFF KEY OVERRIDE 1 1082E BLAC-RAC, TRIGGER GUARD AND RECEIVER ***NEW COLD WIRE TECHNOLOGY INCLUDED*** SOLD SEPARATELY MOMENTARY SWITCH, REQUIRED IF NOT WIRING INTO SMART SIREN CONTROLLER"
         },
         {
           "part_number": "GK2001E",
@@ -7866,7 +8193,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA DUAL T-RAIL MOUNT 1082E BLAC-RAC, TRIGGER GUARD AND RECEIVER ***NEW COLD WIRE TECHNOLOGY INCLUDED*** SOLD SEPARATELY MOMENTARY SWITCH, REQUIRED IF NOT WIRING INTO SMART SIREN CONTROLLER"
         }
       ]
     },
@@ -7892,7 +8220,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETNA DUAL PRISONER TRANSPORT PARTITION *FOR USE WITH: - CREW CAB - RECESSED OR XL PANEL PARTITION - FULL STOCK SEAT -REAR WINDOW BARRIER 2019-2026 CHEVROLET TRUCK 1500"
         },
         {
           "part_number": "2K0035ITU20RPFRTM",
@@ -7906,7 +8235,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA DUAL PRISONER TRANSPORT PARTITION *FOR USE WITH: -RECESSED OR XL PANEL Partition -Full REPLACEMENT TRANSPORT PARTITION SEAT 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "2K0035TAH21FPWD",
@@ -7920,7 +8250,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION *FOR USE WITH: -FLAT PANEL PARTITION -FULL STOCK SEAT 2021-2026 CHEROLET TAHOE"
         },
         {
           "part_number": "2K0035TAH21RPFC",
@@ -7934,7 +8265,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION FOR USE WITH: 2021-2026 CHEVY TAHOE -RECESSED OR XL PANEL PARTITION -FULL COVER TRANSPORT PARTITION SEAT 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -7960,7 +8292,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA ULTIMATE K9 2 K9 EXIT POINTS 2: DRIVERS SIDE & BETWEEN FRONT SEATS PRISONER PASSENGER SIDE EXIT *RECOMMENDED: -CARGO BOX NOT INCLUDED *FOR USE WITH: -10\"\" FAN NOT INCLUDED 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "CK2052TAH21-10",
@@ -7974,7 +8307,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA ULTIMATE K9 2 K9 EXIT POINTS 2: 1 DRIVERS SIDE & 1 BETWEEN FRONT SEATS PRISONER PASSENGER SIDE EXIT *FOR USE WITH: -10\" FAN NOT INCLUDED *COMPATIBLE WITH: -CARGO BOX: NOT INCLUDED *NOT COMPATIBLE WITH -REAR SEAT DELETE OPTION CODE ATZ 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "CK2386ITU20-10",
@@ -7988,7 +8322,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA ULTIMATE K9 2 K9 EXIT POINTS 2: DRIVERS SIDE & BETWEEN FRONT SEATS PRISONER PASSENGER SIDE EXIT *RECOMMENDED: -CARGO BOX NOT INCLUDED *FOR USE WITH: -10\" FAN NOT INCLUDED 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "CK2417TAH21-10",
@@ -8002,7 +8337,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA ULTIMATE K9 2 K9 EXIT POINTS 2: 1 DRIVERS SIDE & 1 BETWEEN FRONT SEATS PRISONER PASSENGER SIDE EXIT *FOR USE WITH: -10\" FAN NOT INCLUDED *COMPATIBLE WITH: -CARGO BOX: NOT INCLUDED -REAR SEAT DELETE OPTION CODE ATZ *INCLUDES: -PASSENGER SIDE SINGLE PRISONER REPLACEMENT SEAT 2021-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -8028,7 +8364,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PREMIER K-9 TEMPERATURE MONITOR/ALERT SYSTEM *FAN NOT INCLUDED 2000-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -8054,7 +8391,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA MAXI THIN FAN *10\" FAN ONLY 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "EK0689ITU12",
@@ -8068,7 +8406,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA MAXI THIN FAN *10\" FAN ONLY 2012-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "EK0689TAH00",
@@ -8082,7 +8421,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PREMIER K-9 10\" MAXI-THIN FAN FOR K-9 KENNEL 2000-2026 CHEVROLET TAHOE"
         }
       ]
     },
@@ -8108,7 +8448,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA K-9 NO SPILL DOG BOWL ASSEMBLY"
         }
       ]
     },
@@ -8134,7 +8475,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA T-RAIL MOUNT KIT FREE STANDING 2011-2026 DODGE DURANGO"
         },
         {
           "part_number": "GF1092ITU20",
@@ -8148,7 +8490,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA T-RAIL MOUNT KIT FREE STANDING 2020-2027 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "GF1092TAH21",
@@ -8162,7 +8505,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA T-RAIL MOUNT KIT FREE STANDING 2021-2026 CHEVROLET TAHOE"
         },
         {
           "part_number": "GF1382CHT191500",
@@ -8176,7 +8520,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA T-RAIL FREE STANDING KIT 2019-2026 CHEVROLET TRUCK 1500"
         }
       ]
     },
@@ -8202,7 +8547,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FIREARM MOUNT TRANSFER KIT FORWARD FACING PARTITION MOUNT WITH MOUNT PLATE *ONLY COMPATIBLE WITH: -SPT SINGLE PRISONER TRANSPORT PARTITION *NOT COMPATIBLE WITH: -CENTER CONSOLES EXCEEDING 23\"\" LENGTH 2020-2025 FORD POLICE INTERCEPTOR UTILITY"
         }
       ]
     },
@@ -8228,7 +8574,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PARTITION TRANSFER KIT FLAT PANEL PARTITION TM (TALL MAN) WITH LOWER EXTENSION PANEL INCLUDED 2020+ FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "PT2185DUR11",
@@ -8242,7 +8589,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PARTITION TRANSFER KIT RECESSED PANEL PARTITION WITH 2 PC LOWER EXTENSION PANEL & RECESSED PANEL INSERT INCLUDED 2011+ DODGE DURANGO"
         },
         {
           "part_number": "PT2185ITU20TM",
@@ -8256,7 +8604,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PARTITION TRANSFER KIT RECESSED PANEL PARTITION TM (TALL MAN) WITH 2 PC LOWER EXTENSION PANEL & RECESSED PANEL INSERT INCLUDED 2020+ FORD POLICE INTERCEPTOR UTILIT"
         },
         {
           "part_number": "PT2185TAH21",
@@ -8270,7 +8619,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA PARTITION TRANSFER KIT RECESSED PANEL PARTITION WITH 2 PC LOWER EXTENSION PANEL & RECESSED PANEL INSERT INCLUDED 2021+ CHEVROLET TAHOE"
         }
       ]
     },
@@ -8296,7 +8646,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #12VS 2ND MODULE RELOCATION PLATE 2024 TO 2025 INTERCEPTOR UTILITY"
         }
       ]
     },
@@ -8322,7 +8673,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA LOWER EXTENSION PANEL 2 PIECES 2011+ DODGE CHARGER"
         }
       ]
     },
@@ -8348,7 +8700,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA #12VS 2ND UPPER BRACKET NUT PLATE WELD"
         }
       ]
     },
@@ -8374,7 +8727,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA FREE STANDING CARGO BRKT KIT (24-26 TRAVERSE)"
         }
       ]
     },
@@ -8400,7 +8754,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA TRANSFER KIT CARGO BOX *REQUIRED: -#12VS CARGO AREA REAR PARTITION NOT INCLUDED 2021+ CHEVROLET TAHOE"
         },
         {
           "part_number": "TT0242TAH21K9",
@@ -8414,7 +8769,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO BOX TRANSFER KIT K9"
         }
       ]
     },
@@ -8440,7 +8796,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MINI CENTURY LIGHTBAR 23\" WITH PERM KIT (AMBER)"
         },
         {
           "part_number": "MC11MA",
@@ -8454,7 +8811,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MINI CENTURY 11\" AMBER MAG MT"
         },
         {
           "part_number": "MC11PA",
@@ -8468,7 +8826,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MINI CENTURY 11\" AMBER PERM MT"
         },
         {
           "part_number": "MC11SA",
@@ -8482,7 +8841,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MINI CENTURY 11\" AMBER STUD MT"
         },
         {
           "part_number": "MC16MA",
@@ -8496,7 +8856,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MINI CENTURY 16\" AMBER MAG MT"
         },
         {
           "part_number": "MC16MCG",
@@ -8510,7 +8871,8 @@
           "color": "green",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MINI CENTURY 16\" GREEN MAG MT"
         },
         {
           "part_number": "MC16MF",
@@ -8524,7 +8886,8 @@
           "color": "amber",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MINI CENTURY 16\" AMB/WHT MAG"
         },
         {
           "part_number": "MC16PA",
@@ -8538,7 +8901,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MINI CENTURY 16\" AMBER PERM MT"
         },
         {
           "part_number": "MC16PCA",
@@ -8552,7 +8916,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MINI CENTURY 16 \" AMBER WITH CLEAR LENSE PERMINATE MOUNT"
         }
       ]
     },
@@ -8578,7 +8943,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ALPHA SL REMOTE SIREN, FOR USE WITH REMOTE SWITCHES"
         }
       ]
     },
@@ -8604,7 +8970,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WECANX EXTERNAL AMPLIFIER"
         }
       ]
     },
@@ -8630,7 +8997,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SIREN AMP W/ HAND-HELD CONTROL"
         },
         {
           "part_number": "HHS3206",
@@ -8644,7 +9012,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SIREN AMP W/ KNOB & SLIDE CTRL"
         },
         {
           "part_number": "HHS3207",
@@ -8658,7 +9027,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SIREN AMP W/ 21 BUTTON & SLIDE"
         }
       ]
     },
@@ -8684,7 +9054,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SA-350MH SIREN SPEAKER"
         }
       ]
     },
@@ -8710,7 +9081,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN TACTL5 CONTROL HEAD"
         }
       ]
     },
@@ -8736,7 +9108,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN CORE CONTROL POINT"
         },
         {
           "part_number": "CCP9",
@@ -8750,7 +9123,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN CORE-C CONTROL PT/SWITCH COMBO"
         },
         {
           "part_number": "CCPKT",
@@ -8764,7 +9138,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN CORE CONTROL POINT"
         }
       ]
     },
@@ -8790,7 +9165,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN CORE+ VSG/INTERNAL ANTENNA - FRONTLINE"
         },
         {
           "part_number": "VSG1FR",
@@ -8804,7 +9180,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN CORE+ VSG/ROOF MT L ANTENNA - FRONTLINE"
         },
         {
           "part_number": "VSG1V1",
@@ -8818,7 +9195,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WHELEN CORE+ VSG/INTERNAL ANTENNA - VERIZON"
         },
         {
           "part_number": "VSG1VR",
@@ -8832,7 +9210,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WHELEN CORE+ VSG/ROOF MT ANTENNA - VERIZON"
         }
       ]
     },
@@ -8858,7 +9237,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION OUTER EDGE WC DUO 21 TAHOE"
         }
       ]
     },
@@ -8885,7 +9265,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN WECANX TRACER 3-LAMP HOUSING"
         }
       ],
       "accessories": [
@@ -8928,7 +9309,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN 8-LT TRAFFIC ADVISOR 30' CABLE"
         },
         {
           "part_number": "TA2230F",
@@ -8942,7 +9324,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN 6-LIGHT 30\" 2250 T/A FLAT"
         },
         {
           "part_number": "TA2240F",
@@ -8956,7 +9339,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN 8-LIGHT 40\" 2250 T/A FLAT"
         },
         {
           "part_number": "WX2230",
@@ -8970,7 +9354,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN 6-LIGHT 30\" ANGLED WCX 2250"
         }
       ]
     },
@@ -8997,7 +9382,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION V-SERIES LIGHT AMB/BLK HSG"
         },
         {
           "part_number": "IONV3AW",
@@ -9011,7 +9397,8 @@
           "color": "amber",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION V-SERIES LIGHT AMB/WHT HSG"
         },
         {
           "part_number": "IONV3B",
@@ -9025,7 +9412,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION V-SERIES LIGHT BLU/BLK HSG"
         },
         {
           "part_number": "IONV3R",
@@ -9039,7 +9427,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION V-SERIES LIGHT RED/BLK HSG"
         },
         {
           "part_number": "XONV3B",
@@ -9053,7 +9442,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION VSERIES LT BLU/SMK BLK HSG"
         },
         {
           "part_number": "XONV3R",
@@ -9067,7 +9457,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "smoked",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION VSERIES LT RED/SMK BLK HSG"
         },
         {
           "part_number": "IONSV3A",
@@ -9081,7 +9472,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION V-SERIES SURFACE MT AMB"
         },
         {
           "part_number": "IONHD3FM",
@@ -9095,7 +9487,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN FORK MT ION-V HD ELECTRA GLIDE"
         }
       ]
     },
@@ -9121,7 +9514,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION REAR PILLAR WC DUO UTILITY"
         },
         {
           "part_number": "RPWD54",
@@ -9135,7 +9529,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION REAR PILLAR WC DUO TAHOE"
         },
         {
           "part_number": "RPWT50",
@@ -9149,7 +9544,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN ION REAR PILLAR WC TRIO UTILITY"
         },
         {
           "part_number": "OEI2D",
@@ -9163,7 +9559,8 @@
           "color": "red",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
         },
         {
           "part_number": "OEI2E",
@@ -9177,7 +9574,8 @@
           "color": "blue",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES BLUE/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
         },
         {
           "part_number": "OEI2K",
@@ -9191,7 +9589,8 @@
           "color": "red",
           "secondary_color": "amber",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/AMBER, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
         },
         {
           "part_number": "OEI2M",
@@ -9205,7 +9604,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES BLUE/AMBER, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
         },
         {
           "part_number": "OEI3RBA",
@@ -9219,7 +9619,8 @@
           "color": "red",
           "secondary_color": "blue",
           "tertiary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN TRIO\u2122 LIGHTHEAD, RED/BLUE/WHITE, FOR RPWT SERIES ONLY, SIX REQUIRED, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
         }
       ]
     },
@@ -9245,7 +9646,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M2 LED FLASHER BLU W/CLR LENS"
         },
         {
           "part_number": "M2RC",
@@ -9259,7 +9661,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M2 LED FLASHER RED W/ CLR LENS"
         },
         {
           "part_number": "ML2A",
@@ -9273,7 +9676,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M2 LED FLASHER AMBER"
         },
         {
           "part_number": "ML2DD",
@@ -9287,7 +9691,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M2 LINEAR SERIES SUPER-LED\u00ae SURFACE MOUNT, DUO RED/WHITE"
         },
         {
           "part_number": "ML2DE",
@@ -9301,7 +9706,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M2 LINEAR SERIES SUPER-LED\u00ae SURFACE MOUNT, DUO BLUE/WHITE"
         }
       ],
       "accessories": [
@@ -9339,7 +9745,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M4 LED FLASHER BLUE"
         },
         {
           "part_number": "M4BC",
@@ -9353,7 +9760,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M4 LED FLASHER BLU W/CLR LENS"
         },
         {
           "part_number": "M4DD",
@@ -9367,7 +9775,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M4 DUO LED FLASHER RED/WHITE"
         },
         {
           "part_number": "M4DE",
@@ -9381,7 +9790,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M4 DUO LED FLASHER BLUE/WHITE"
         },
         {
           "part_number": "M4R",
@@ -9395,7 +9805,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M4 LED FLASHER RED"
         },
         {
           "part_number": "M4RC",
@@ -9409,7 +9820,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M4 LED FLASHER RED W/CLR LENS"
         },
         {
           "part_number": "M4V2A",
@@ -9423,7 +9835,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M4 V-SERIES LIGHT AMBER"
         },
         {
           "part_number": "M4V2R",
@@ -9437,7 +9850,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M4 V-SERIES LIGHT RED"
         }
       ],
       "accessories": [
@@ -9470,7 +9884,8 @@
           "color": "blue",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M6 LED FLASHER BLUE"
         },
         {
           "part_number": "M6DD",
@@ -9484,7 +9899,8 @@
           "color": "red",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M6 DUO LED FLASHER RED/WHITE"
         },
         {
           "part_number": "M6DE",
@@ -9498,7 +9914,8 @@
           "color": "blue",
           "secondary_color": "white",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M6 DUO LED FLASHER BLUE/WHITE"
         },
         {
           "part_number": "M6R",
@@ -9512,7 +9929,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M6 LED FLASHER RED"
         },
         {
           "part_number": "M6V2C",
@@ -9526,7 +9944,8 @@
           "color": "white",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M6 V-SERIES LIGHT WHITE"
         }
       ],
       "accessories": [
@@ -9559,7 +9978,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M7 LED FLASHER AMBER"
         },
         {
           "part_number": "M7AC",
@@ -9573,7 +9993,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M7 LED FLASHER AMB W/CLR LENS"
         }
       ],
       "accessories": [
@@ -9607,7 +10028,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M9 SURFACE MT LED SCENE LT"
         },
         {
           "part_number": "M9RCZ",
@@ -9621,7 +10043,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN M9 COMBINATION RED WARN/SCENE"
         }
       ],
       "accessories": [
@@ -9655,7 +10078,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN 600 EZ SCENE LT 10-30V BLACK"
         },
         {
           "part_number": "904SLC",
@@ -9669,7 +10093,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN 900 EZ SCENELIGHT 12V CHROME"
         }
       ]
     },
@@ -9696,7 +10121,8 @@
           "color": "white",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN 9\" SUMMIT WIDE FLOOD W/MKR BLK"
         },
         {
           "part_number": "S161MB",
@@ -9710,7 +10136,8 @@
           "color": "white",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN 16\" SUMMIT WIDE FLOOD W/MKR BLK"
         },
         {
           "part_number": "S30MB",
@@ -9724,7 +10151,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN 30\" SUMMIT W/ MARKER BLK"
         }
       ]
     },
@@ -9751,7 +10179,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN 500 TIR/6 LED SYNC. AMB/CLR"
         },
         {
           "part_number": "50R03ZCR",
@@ -9765,7 +10194,8 @@
           "color": "red",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN 500 TIR/6 LED SYNC RED/CLR"
         },
         {
           "part_number": "50S03ZAR",
@@ -9779,7 +10209,8 @@
           "color": "amber",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN 500 TIR6 LED SYNC AMB/AMB 24V"
         }
       ],
       "accessories": [
@@ -9840,7 +10271,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MICRO PIONEER BAIL MT 12V BLK"
         },
         {
           "part_number": "MPPBBS",
@@ -9854,7 +10286,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN MICRO PIONEER LP PED MT 12V BK"
         }
       ]
     },
@@ -9881,7 +10314,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN NANO-6 PIONEER BAIL MT 12V BLK"
         }
       ]
     },
@@ -9908,7 +10342,8 @@
           "color": "white",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN PIONEER+ DUAL RECESS MT WHT"
         },
         {
           "part_number": "PFH2",
@@ -9922,7 +10357,8 @@
           "color": "white",
           "secondary_color": "",
           "lens_type": "clear",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN PIONEER+ DUAL FLOOD 12V WHT"
         }
       ]
     },
@@ -9949,7 +10385,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN SINGLE SL PIONEER BAIL MT 12V"
         },
         {
           "part_number": "PSL2BB",
@@ -9963,7 +10400,8 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": ""
+          "tertiary_color": "",
+          "friendly_name": "WHELEN DUAL SL PIONEER BAIL MT 12V BK"
         }
       ]
     },
@@ -9994,7 +10432,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN SURFACE MT MICRON AMBER BLACK"
         },
         {
           "part_number": "MCRNSB",
@@ -10008,7 +10447,8 @@
           "color": "blue",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN SURFACE MT MICRON BLUE BLACK"
         },
         {
           "part_number": "MCRNSBX",
@@ -10022,7 +10462,8 @@
           "color": "blue",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN SURFACE MT MICRON BLU SMK BLK"
         },
         {
           "part_number": "MCRNSD",
@@ -10036,7 +10477,8 @@
           "color": "red",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN SURFACE MT MICRON R/W BLACK"
         },
         {
           "part_number": "MCRNSF",
@@ -10050,7 +10492,8 @@
           "color": "amber",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN SURFACE MT MICRON A/W BLACK"
         },
         {
           "part_number": "MCRNSR",
@@ -10064,7 +10507,8 @@
           "color": "red",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN SURFACE MT MICRON RED BLACK"
         },
         {
           "part_number": "MCRNSRX",
@@ -10078,7 +10522,8 @@
           "color": "red",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN SURFACE MT MICRON RED SMK BLK"
         },
         {
           "part_number": "MCRNTA",
@@ -10186,7 +10631,8 @@
           "color": "amber",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN RESPONDER LP 500 CON3 A/W MAG"
         },
         {
           "part_number": "R1LPPA",
@@ -10200,7 +10646,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN RESPONDER LP 500 CON3 AMB PERM"
         },
         {
           "part_number": "R2LPHPA",
@@ -10214,7 +10661,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN RESPONDER LP 500 LIN6 AMB PERM"
         },
         {
           "part_number": "R2LPPA",
@@ -10228,7 +10676,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN RESPONDER LP 500 LIN6 AMB PERM"
         }
       ],
       "accessories": [
@@ -10263,7 +10712,8 @@
           "color": "red",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN 700 LED BRAKE/TAIL/TURN RED"
         },
         {
           "part_number": "704BU",
@@ -10277,7 +10727,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN 700 LED BACK-UP LIGHT"
         },
         {
           "part_number": "70B02FCR",
@@ -10291,7 +10742,8 @@
           "color": "blue",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN 700 LIN.SUPER-LED FLASH BLU/CL"
         },
         {
           "part_number": "70R02FCR",
@@ -10305,7 +10757,8 @@
           "color": "red",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN 700 LIN.SUPER-LED FLASH RED/CL"
         }
       ]
     },
@@ -10339,7 +10792,8 @@
           "color": "red",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN 900 LIN.SUPER-LED FLASH, R/W/C"
         }
       ]
     },
@@ -10365,7 +10819,8 @@
           "color": "red",
           "secondary_color": "blue",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN AVENGER II SOLO RED/BLUE"
         },
         {
           "part_number": "AVC22DD",
@@ -10379,7 +10834,8 @@
           "color": "red",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUAL AVENGER II DUO RW/RW CORD"
         },
         {
           "part_number": "AVC22EE",
@@ -10393,7 +10849,8 @@
           "color": "blue",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUAL AVENGER II DUO BW/BW CORD"
         }
       ],
       "accessories": [
@@ -10428,7 +10885,8 @@
           "color": "blue",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN 3\" ROUND SPLIT BLU/WHT COMPART"
         },
         {
           "part_number": "3SC0CDCR",
@@ -10442,7 +10900,8 @@
           "color": "white",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN 3\" ROUND COMPARTMENT LT WHITE"
         },
         {
           "part_number": "3SRCCDCR",
@@ -10456,7 +10915,8 @@
           "color": "red",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN 3\" ROUND SPLIT RED/WHT COMPART"
         },
         {
           "part_number": "2FC00ZCR",
@@ -10470,7 +10930,8 @@
           "color": "white",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN 4\" FLAT SYNCH SUPER-LED WHT."
         }
       ],
       "accessories": [
@@ -10503,7 +10964,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN 54\" FLUORENT+ CLR COMPARTMENT"
         },
         {
           "part_number": "F63PC",
@@ -10517,7 +10979,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN 63\" FLUORENT+ CLR COMPARTMENT"
         }
       ]
     },
@@ -10548,7 +11011,8 @@
           "color": "blue",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN R416 LED ROT. BEACON B/B FLAT"
         },
         {
           "part_number": "R416RF",
@@ -10562,7 +11026,8 @@
           "color": "red",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN R416 LED ROT. BEACON R/R FLAT"
         }
       ]
     },
@@ -10588,7 +11053,8 @@
           "color": "purple",
           "secondary_color": "amber",
           "tertiary_color": "red",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN PAR-46 8 DEG LED SPOT LT 12V"
         },
         {
           "part_number": "P46SC",
@@ -10602,7 +11068,8 @@
           "color": "purple",
           "secondary_color": "amber",
           "tertiary_color": "red",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN PAR-46 SUPER-LED SPOT LT 12V"
         }
       ]
     },
@@ -10628,7 +11095,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN PAR32 DRIVE/WARN FAIRING LT RB"
         }
       ]
     },
@@ -10659,7 +11127,8 @@
           "color": "red",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN L31 SUPER-LED FLAT MT. RED"
         }
       ]
     },
@@ -10690,7 +11159,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN L32 SUPER-LED, FLAT MT. AMBER"
         }
       ]
     },
@@ -10721,7 +11191,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN V2 SERIES LIGHT AMBER/BLACK"
         }
       ]
     },
@@ -10752,7 +11223,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN SURFACE MT LINZ V-SERIES AMBER"
         },
         {
           "part_number": "LINSV2B",
@@ -10766,7 +11238,8 @@
           "color": "blue",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN SURFACE MT LINZ V-SERIES BLUE"
         },
         {
           "part_number": "LINSV2BX",
@@ -10780,7 +11253,8 @@
           "color": "blue",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN SURFACE MT LINZ-V BLUE/SMOKE"
         },
         {
           "part_number": "LINSV2R",
@@ -10794,7 +11268,8 @@
           "color": "red",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN SURFACE MT LINZ V-SERIES RED"
         },
         {
           "part_number": "LINSV2RX",
@@ -10808,7 +11283,8 @@
           "color": "red",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN SURFACE MT LINZ-V RED/SMOKE"
         },
         {
           "part_number": "LINV2A",
@@ -10822,7 +11298,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN LINZ V-SERIES LIGHT AMBER"
         }
       ],
       "accessories": [
@@ -10855,7 +11332,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN STRIP-LITE+ COMPARTMENT LT HI"
         }
       ],
       "accessories": [
@@ -10893,7 +11371,8 @@
           "color": "amber",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WING PLOW OPERATING LT. AMBER"
         }
       ]
     },
@@ -10919,7 +11398,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN DUO ION-T ARRAY ELECTRA GLIDE"
         }
       ],
       "accessories": [
@@ -10957,7 +11437,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN WECAN UNIVERSAL CONTROL POINT"
         }
       ]
     },
@@ -10983,7 +11464,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN MICROPHONE FOR WS-321"
         }
       ],
       "accessories": [
@@ -11016,7 +11498,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN ONE SOLO\u2122 LIGHTHEAD FOR FST\u2122 AND RST\u2122 SERIES, NO CHARGE WHEN ORDERED WITH INNER EDGE\u00ae"
         },
         {
           "part_number": "ISSR",
@@ -11030,7 +11513,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN ONE SOLO\u2122 LIGHTHEAD FOR FST\u2122 AND RST\u2122 SERIES, NO CHARGE WHEN ORDERED WITH INNER EDGE\u00ae"
         },
         {
           "part_number": "ISTRBA",
@@ -11044,7 +11528,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN ONE TRIO\u2122 LIGHTHEAD, RED/BLUE/AMBER, FOR WECANX\u00ae SERIES ONLY, PRICE AVAILABLE WHEN ORDERED WITH INNER EDGE\u00ae"
         },
         {
           "part_number": "ISTRBC",
@@ -11058,7 +11543,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN ONE TRIO\u2122 LIGHTHEAD, RED/WHITE/AMBER, FOR WECANX\u00ae SERIES ONLY, PRICE AVAILABLE WHEN ORDERED WITH INNER EDGE\u00ae"
         },
         {
           "part_number": "ISDD",
@@ -11072,7 +11558,8 @@
           "color": "red",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN INNER EDGE FST/RST DUO RED/WHT"
         },
         {
           "part_number": "ISDE",
@@ -11086,7 +11573,8 @@
           "color": "blue",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN INNER EDGE FST/RST DUO BLU/WHT"
         },
         {
           "part_number": "ISDJ",
@@ -11100,7 +11588,8 @@
           "color": "red",
           "secondary_color": "blue",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN INNER EDGE FST/RST DUO RED/BLU"
         },
         {
           "part_number": "ISDK",
@@ -11114,7 +11603,8 @@
           "color": "red",
           "secondary_color": "amber",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN INNER EDGE FST/RST DUO RED/AMB"
         },
         {
           "part_number": "ISDM",
@@ -11128,7 +11618,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN INNER EDGE FST/RST DUO BLU/AMB"
         },
         {
           "part_number": "ISTBCA",
@@ -11142,7 +11633,8 @@
           "color": "blue",
           "secondary_color": "white",
           "tertiary_color": "amber",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN INNER EDGE FST/RST TRIO B/W/A"
         }
       ]
     },
@@ -11168,7 +11660,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN SINGLE SHROUD WITH MOUNTING ADHESIVE, FOR USE WITH ONE STUD-MOUNT T-SERIES LIGHTHEAD"
         },
         {
           "part_number": "THSG2",
@@ -11182,7 +11675,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN DUAL SHROUD WITH MOUNTING ADHESIVE, FOR USE WITH TWO STUD-MOUNT T-SERIES LIGHTHEADS"
         }
       ]
     },
@@ -11208,7 +11702,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN OBDII CANPORT CABLE KIT CHEVY 2017-2020 CHEVROLET TAHOE"
         },
         {
           "part_number": "C399K4",
@@ -11222,7 +11717,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN OBDII CANPORT CABLE KIT FORD 2020-2022 FORD POLICE INTERCEPTOR UTILITY"
         },
         {
           "part_number": "C399K5",
@@ -11236,7 +11732,8 @@
           "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": ""
+          "lens_type": "",
+          "friendly_name": "WHELEN OBDII CANPORT CABLE KIT FORD 2018-2022 FORD SUPER DUTY"
         },
         {
           "part_number": "C399K3",
@@ -13216,7 +13713,8 @@
           "color": "red",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WCX TRACER PRIMARY DUO LT R/W"
         },
         {
           "part_number": "TCRWXPE",
@@ -13230,7 +13728,8 @@
           "color": "blue",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WCX TRACER PRIMARY DUO LT B/W"
         },
         {
           "part_number": "TCRWXPJ",
@@ -13244,7 +13743,8 @@
           "color": "red",
           "secondary_color": "blue",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WCX TRACER PRIMARY DUO LT R/B"
         },
         {
           "part_number": "TCRWXPK",
@@ -13258,7 +13758,8 @@
           "color": "red",
           "secondary_color": "amber",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WCX TRACER PRIMARY DUO LT R/A"
         },
         {
           "part_number": "TCRWXPKC",
@@ -13272,7 +13773,8 @@
           "color": "red",
           "secondary_color": "amber",
           "tertiary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WCX TRACER PRIMARY TRIO R/A/W"
         },
         {
           "part_number": "TCRWXPMC",
@@ -13286,7 +13788,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "tertiary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WCX TRACER PRIMARY TRIO B/A/W"
         },
         {
           "part_number": "TCRXXPD",
@@ -13300,7 +13803,8 @@
           "color": "red",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN WCX TRACER PRIMARY DUO R-W/SMK"
         },
         {
           "part_number": "TCRXXPE",
@@ -13314,7 +13818,8 @@
           "color": "blue",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN WCX TRACER PRIMARY DUO B-W/SMK"
         },
         {
           "part_number": "TCRXXPJC",
@@ -13328,7 +13833,8 @@
           "color": "red",
           "secondary_color": "blue",
           "tertiary_color": "white",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN WCX TRACER PRIMARY TRIO RBW/SM"
         },
         {
           "part_number": "TCRWXPM",
@@ -13405,7 +13911,8 @@
           "color": "red",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WCX TRACER SECONDARY DUO R/W"
         },
         {
           "part_number": "TCRWXSE",
@@ -13419,7 +13926,8 @@
           "color": "blue",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WCX TRACER SECONDARY DUO B/W"
         },
         {
           "part_number": "TCRWXSJ",
@@ -13433,7 +13941,8 @@
           "color": "red",
           "secondary_color": "blue",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WCX TRACER SECONDARY DUO R/B"
         },
         {
           "part_number": "TCRWXSK",
@@ -13447,7 +13956,8 @@
           "color": "red",
           "secondary_color": "amber",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WCX TRACER SECONDARY DUO R/A"
         },
         {
           "part_number": "TCRWXSM",
@@ -13461,7 +13971,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "tertiary_color": "",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WCX TRACER SECONDARY DUO B/A"
         },
         {
           "part_number": "TCRWXSKC",
@@ -13475,7 +13986,8 @@
           "color": "red",
           "secondary_color": "amber",
           "tertiary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WCX TRACER SECONDARY TRIO R/A/W"
         },
         {
           "part_number": "TCRWXSMC",
@@ -13489,7 +14001,8 @@
           "color": "blue",
           "secondary_color": "amber",
           "tertiary_color": "white",
-          "lens_type": "clear"
+          "lens_type": "clear",
+          "friendly_name": "WHELEN WCX TRACER SECONDARY TRIO BAW"
         },
         {
           "part_number": "TCRXXSD",
@@ -13503,7 +14016,8 @@
           "color": "red",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN WCX TRACER 2NDARY DUO R-W/SMK"
         },
         {
           "part_number": "TCRXXSE",
@@ -13517,7 +14031,8 @@
           "color": "blue",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "smoked"
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN WCX TRACER 2NDARY DUO B-W/SMK"
         },
         {
           "part_number": "TCRWXSJC",
