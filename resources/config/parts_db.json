@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T14:56:19.756860+00:00",
+    "last_updated": "2026-06-30T14:27:43.047523+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -4274,7 +4274,7 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "WHELEN LIBERTY\u2122 II WECANX DUO 54\" LIGHTBAR"
+          "friendly_name": "54\" Liberty II WeCanX Duo"
         }
       ],
       "accessories": [
@@ -9818,9 +9818,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear",
+          "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN M9 SURFACE MT LED SCENE LT"
         },
@@ -9834,7 +9834,7 @@
             "any"
           ],
           "color": "red",
-          "secondary_color": "white",
+          "secondary_color": "",
           "lens_type": "clear",
           "tertiary_color": "",
           "friendly_name": "WHELEN M9 COMBINATION RED WARN/SCENE"
@@ -10043,7 +10043,7 @@
             "any"
           ],
           "color": "red",
-          "secondary_color": "blue",
+          "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "Mini Legacy WCX, perm mount, Duo Red/Blue"
@@ -11240,9 +11240,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
-          "secondary_color": "blue",
-          "tertiary_color": "white",
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
           "lens_type": "",
           "friendly_name": "WHELEN DUO ION-T ARRAY ELECTRA GLIDE"
         }
@@ -14184,14 +14184,6 @@
       "accessory_of_products": [
         "whelen_mirror_beams"
       ]
-    },
-    "whelen_fork_mt_ion_v_hd_electra_glide": {
-      "manufacturer_id": "whelen",
-      "model": "FORK MT ION-V HD ELECTRA GLIDE",
-      "description": "",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "part_numbers": []
     }
   },
   "part_types": {
