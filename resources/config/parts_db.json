@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T16:31:14.503062+00:00",
+    "last_updated": "2026-06-30T16:27:12.609794+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -14134,18 +14134,6 @@
         "whelen_surface_mount_ion"
       ],
       "accessory_required": false
-    },
-    "soundoff_soundoff_dome_light_2": {
-      "manufacturer_id": "soundoff",
-      "model": "SOUNDOFF DOME LIGHT",
-      "description": "",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "part_numbers": [
-        {
-          "part_number": "NEW-SKU"
-        }
-      ]
     }
   },
   "part_types": {
