@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T15:21:34.073834+00:00",
+    "last_updated": "2026-06-30T15:22:56.464259+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2545,9 +2545,7 @@
       "fits_part_types": [
         "front_interior_light_bar"
       ],
-      "tag_ids": [
-        "light"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4478,9 +4476,7 @@
       "fits_part_types": [
         "rear_interior_light_bar"
       ],
-      "tag_ids": [
-        "light"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -11342,9 +11338,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "tertiary_color": "",
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "amber",
           "lens_type": "",
           "friendly_name": "WHELEN ONE TRIO\u2122 LIGHTHEAD, RED/WHITE/AMBER, FOR WECANX\u00ae SERIES ONLY, PRICE AVAILABLE WHEN ORDERED WITH INNER EDGE\u00ae"
         },
