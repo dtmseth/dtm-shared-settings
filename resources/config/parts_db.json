@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T16:31:27.359064+00:00",
+    "last_updated": "2026-06-30T16:31:14.503062+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -14143,8 +14143,7 @@
       "tag_ids": [],
       "part_numbers": [
         {
-          "part_number": "ECVDMLTAL00",
-          "friendly_name": "SOUNDOFF DOME LIGHT - 6\" ROUND, WHITE AND RED NIGHT LIGHT LEDS, WHITE LENS"
+          "part_number": "NEW-SKU"
         }
       ]
     }
