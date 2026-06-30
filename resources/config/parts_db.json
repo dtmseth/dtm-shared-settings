@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T14:58:05.493868+00:00",
+    "last_updated": "2026-06-30T16:32:12.329249+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2280,42 +2280,6 @@
       ],
       "reviewed": true
     },
-    "specify_3_round_s": {
-      "manufacturer_id": "specify",
-      "model": "3\"\" ROUND(S)",
-      "fits_part_types": [
-        "front_dome_light"
-      ],
-      "tag_ids": [
-        "light"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "3\"\" ROUND(S)"
-        }
-      ]
-    },
-    "specify_6_round": {
-      "manufacturer_id": "specify",
-      "model": "6\"\" ROUND",
-      "fits_part_types": [
-        "front_dome_light",
-        "rear_seat_cargo_lights",
-        "cargo_lighting"
-      ],
-      "tag_ids": [
-        "light"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "6\"\" ROUND"
-        }
-      ]
-    },
     "cradle_point_roof_mount": {
       "manufacturer_id": "cradle_point",
       "model": "ROOF MOUNT",
@@ -2539,32 +2503,13 @@
         }
       ]
     },
-    "whelen_intersectors": {
-      "manufacturer_id": "whelen",
-      "model": "INTERSECTORS",
-      "fits_part_types": [
-        "mirror_warning"
-      ],
-      "tag_ids": [
-        "light"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "INTERSECTORS"
-        }
-      ]
-    },
     "whelen_fst": {
       "manufacturer_id": "whelen",
       "model": "Inner Edge FST",
       "fits_part_types": [
         "front_interior_light_bar"
       ],
-      "tag_ids": [
-        "light"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4495,9 +4440,7 @@
       "fits_part_types": [
         "rear_interior_light_bar"
       ],
-      "tag_ids": [
-        "light"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -6137,25 +6080,6 @@
         }
       ]
     },
-    "specify_3_round": {
-      "manufacturer_id": "specify",
-      "model": "3\"\" ROUND",
-      "fits_part_types": [
-        "rear_seat_lights",
-        "rear_seat_cargo_lights",
-        "cargo_lighting"
-      ],
-      "tag_ids": [
-        "light"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "3\"\" ROUND"
-        }
-      ]
-    },
     "setina_poly_divider": {
       "manufacturer_id": "setina",
       "model": "POLY DIVIDER",
@@ -7523,17 +7447,6 @@
           "part_number": "w/ CUSTOM PATCH"
         }
       ]
-    },
-    "tiger_tough_with_custom_patch": {
-      "manufacturer_id": "tiger_tough",
-      "model": "WITH CUSTOM PATCH",
-      "fits_part_types": [
-        "seat_covers"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": []
     },
     "5_0_fab_dtm_complete_squad_harness": {
       "manufacturer_id": "5_0_fab_dtm",
@@ -9335,13 +9248,11 @@
     },
     "whelen_ion_rear_pillar": {
       "manufacturer_id": "whelen",
-      "model": "ION Rear Pillar",
+      "model": "Outer Edge Rear Pillar",
       "fits_part_types": [
         "rear_warning"
       ],
-      "tag_ids": [
-        "light"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10771,7 +10682,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "clear",
@@ -10786,7 +10697,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "clear",
@@ -11327,7 +11238,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "blue",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "",
@@ -11342,7 +11253,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "red",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "",
@@ -11357,9 +11268,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "tertiary_color": "",
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "amber",
           "lens_type": "",
           "friendly_name": "WHELEN ONE TRIO\u2122 LIGHTHEAD, RED/BLUE/AMBER, FOR WECANX\u00ae SERIES ONLY, PRICE AVAILABLE WHEN ORDERED WITH INNER EDGE\u00ae"
         },
@@ -11372,9 +11283,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "tertiary_color": "",
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "amber",
           "lens_type": "",
           "friendly_name": "WHELEN ONE TRIO\u2122 LIGHTHEAD, RED/WHITE/AMBER, FOR WECANX\u00ae SERIES ONLY, PRICE AVAILABLE WHEN ORDERED WITH INNER EDGE\u00ae"
         },
@@ -11468,6 +11379,11 @@
           "lens_type": "clear",
           "friendly_name": "WHELEN INNER EDGE FST/RST TRIO B/W/A"
         }
+      ],
+      "accessory_category": "lighthead",
+      "accessory_of_products": [
+        "whelen_rst",
+        "whelen_fst"
       ]
     },
     "whelen_ie_shroud": {
@@ -14019,7 +13935,8 @@
       ],
       "accessory_category": "lighthead",
       "accessory_of_products": [
-        "whelen_outer_edge"
+        "whelen_outer_edge",
+        "whelen_ion_rear_pillar"
       ]
     },
     "whelen_mirror_beam_lightheads": {
@@ -14197,7 +14114,27 @@
       "accessory_of_products": [
         "whelen_surface_mount_ion"
       ],
-      "accessory_required": true
+      "accessory_required": false
+    },
+    "soundoff_soundoff_dome_light_2": {
+      "manufacturer_id": "soundoff",
+      "model": "SOUNDOFF DOME LIGHT",
+      "description": "",
+      "fits_part_types": [
+        "cargo_lighting",
+        "front_dome_light"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "part_numbers": [
+        {
+          "part_number": "ECVDMLTAL00",
+          "friendly_name": "SOUNDOFF DOME LIGHT - 6\" ROUND, WHITE AND RED NIGHT LIGHT LEDS, WHITE LENS",
+          "color": "white",
+          "secondary_color": "red"
+        }
+      ]
     }
   },
   "part_types": {
