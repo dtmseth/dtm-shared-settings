@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T14:52:56.590390+00:00",
+    "last_updated": "2026-06-30T15:20:35.775115+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2536,23 +2536,6 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN ION MIRROR-BEAM HSGS, 2025 FORD POLICE INTERCEPTOR UTILITY"
-        }
-      ]
-    },
-    "whelen_intersectors": {
-      "manufacturer_id": "whelen",
-      "model": "INTERSECTORS",
-      "fits_part_types": [
-        "mirror_warning"
-      ],
-      "tag_ids": [
-        "light"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "INTERSECTORS"
         }
       ]
     },
@@ -7524,17 +7507,6 @@
         }
       ]
     },
-    "tiger_tough_with_custom_patch": {
-      "manufacturer_id": "tiger_tough",
-      "model": "WITH CUSTOM PATCH",
-      "fits_part_types": [
-        "seat_covers"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": []
-    },
     "5_0_fab_dtm_complete_squad_harness": {
       "manufacturer_id": "5_0_fab_dtm",
       "model": "COMPLETE SQUAD HARNESS",
@@ -9330,33 +9302,16 @@
           "lens_type": "clear",
           "tertiary_color": "",
           "friendly_name": "WHELEN ION V-SERIES SURFACE MT AMB"
-        },
-        {
-          "part_number": "IONHD3FM",
-          "qb_item_id": "630",
-          "qb_sku": "",
-          "qb_unit_price": 33.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "",
-          "friendly_name": "WHELEN FORK MT ION-V HD ELECTRA GLIDE"
         }
       ]
     },
     "whelen_ion_rear_pillar": {
       "manufacturer_id": "whelen",
-      "model": "ION Rear Pillar",
+      "model": "Outer Edge Rear Pillar",
       "fits_part_types": [
         "rear_warning"
       ],
-      "tag_ids": [
-        "light"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10786,7 +10741,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "clear",
@@ -10801,7 +10756,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "clear",
@@ -11483,6 +11438,10 @@
           "lens_type": "clear",
           "friendly_name": "WHELEN INNER EDGE FST/RST TRIO B/W/A"
         }
+      ],
+      "accessory_category": "lighthead",
+      "accessory_of_products": [
+        "whelen_rst"
       ]
     },
     "whelen_ie_shroud": {
@@ -14034,7 +13993,8 @@
       ],
       "accessory_category": "lighthead",
       "accessory_of_products": [
-        "whelen_outer_edge"
+        "whelen_outer_edge",
+        "whelen_ion_rear_pillar"
       ]
     },
     "whelen_mirror_beam_lightheads": {
@@ -14184,6 +14144,35 @@
       "accessory_of_products": [
         "whelen_mirror_beams"
       ]
+    },
+    "whelen_fork_mt_ion_v_hd_electra_glide": {
+      "manufacturer_id": "whelen",
+      "model": "FORK MT ION-V HD ELECTRA GLIDE",
+      "description": "",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "part_numbers": [
+        {
+          "part_number": "IONHD3FM",
+          "qb_item_id": "630",
+          "qb_sku": "",
+          "qb_unit_price": 33.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "WHELEN FORK MT ION-V HD ELECTRA GLIDE"
+        }
+      ],
+      "accessory_category": "bracket_mount",
+      "accessory_of_products": [
+        "whelen_surface_mount_ion"
+      ],
+      "accessory_required": false
     }
   },
   "part_types": {
