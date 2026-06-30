@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T14:43:56.250388+00:00",
+    "last_updated": "2026-06-30T14:40:05.456302+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -4231,8 +4231,8 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
-          "secondary_color": "blue",
+          "color": "",
+          "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "48\" Legacy WCX Duo, Red/Blue (white front / amber rear)"
@@ -4274,7 +4274,7 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "WHELEN LIBERTY\u2122 II WECANX DUO 54\" LIGHTBAR"
+          "friendly_name": "54\" Liberty II"
         }
       ],
       "accessories": [
