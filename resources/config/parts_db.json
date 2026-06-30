@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T16:32:30.327350+00:00",
+    "last_updated": "2026-06-30T17:41:58.220762+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2819,9 +2819,7 @@
         "front_interior_light_bar",
         "rear_interior_light_bar"
       ],
-      "tag_ids": [
-        "light"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4373,7 +4371,9 @@
     "whelen_cenator": {
       "manufacturer_id": "whelen",
       "model": "CENATOR",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "roof_light_bar"
+      ],
       "tag_ids": [],
       "description": "Discontinued \u2014 not orderable. Kept for reference only (Whelen dropped it from the printed PL26 list; DTM no longer sells it). fits_part_types intentionally emptied so it is never offered in the picker. Re-add 'roof_light_bar' to fits if it returns.",
       "images": {},
@@ -6210,7 +6210,8 @@
           "tertiary_color": "",
           "friendly_name": "SETINA WINDOW BARRIER STEEL VERTICAL *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "setina_steel_horizontal": {
       "manufacturer_id": "setina",
@@ -8129,7 +8130,8 @@
           "tertiary_color": "",
           "friendly_name": "SETINA PREMIER K-9 TEMPERATURE MONITOR/ALERT SYSTEM *FAN NOT INCLUDED 2000-2026 CHEVROLET TAHOE"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "setina_k9_fan": {
       "manufacturer_id": "setina",
@@ -8186,7 +8188,8 @@
           "tertiary_color": "",
           "friendly_name": "SETINA PREMIER K-9 10\" MAXI-THIN FAN FOR K-9 KENNEL 2000-2026 CHEVROLET TAHOE"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "setina_k9_dog_bowl": {
       "manufacturer_id": "setina",
@@ -8213,7 +8216,8 @@
           "tertiary_color": "",
           "friendly_name": "SETINA K-9 NO SPILL DOG BOWL ASSEMBLY"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "setina_t_rail_mount_kit": {
       "manufacturer_id": "setina",
@@ -8438,7 +8442,8 @@
           "tertiary_color": "",
           "friendly_name": "SETINA LOWER EXTENSION PANEL 2 PIECES 2011+ DODGE CHARGER"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "setina_upper_bracket_nut_plate": {
       "manufacturer_id": "setina",
@@ -10436,7 +10441,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "",
@@ -14135,7 +14140,8 @@
           "color": "white",
           "secondary_color": "red"
         }
-      ]
+      ],
+      "reviewed": true
     }
   },
   "part_types": {
