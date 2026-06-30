@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-29T20:43:45.023813+00:00",
+    "last_updated": "2026-06-30T13:59:08.661643+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -138,6 +138,9 @@
     },
     "unbilled": {
       "label": "Unbilled"
+    },
+    "light": {
+      "label": "Light"
     }
   },
   "manufacturers": {
@@ -1066,7 +1069,9 @@
         "front_side_warning",
         "pit_bar_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -1369,7 +1374,9 @@
       "fits_part_types": [
         "forward_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -1386,7 +1393,9 @@
         "front_side_warning",
         "pit_bar_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -1405,7 +1414,9 @@
         "rear_warning",
         "lower_liftgate_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -1625,7 +1636,9 @@
         "front_side_warning",
         "pit_bar_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -1878,7 +1891,9 @@
         "front_side_warning",
         "pit_bar_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -1894,7 +1909,9 @@
         "front_side_warning",
         "rear_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -2024,7 +2041,9 @@
       "fits_part_types": [
         "front_side_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -2040,7 +2059,9 @@
         "front_scene",
         "rear_scene"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -2265,7 +2286,9 @@
       "fits_part_types": [
         "front_dome_light"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -2282,7 +2305,9 @@
         "rear_seat_cargo_lights",
         "cargo_lighting"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -2328,7 +2353,9 @@
       "fits_part_types": [
         "mirror_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -2460,7 +2487,9 @@
       "fits_part_types": [
         "mirror_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -2652,7 +2681,9 @@
       "fits_part_types": [
         "mirror_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -2667,7 +2698,9 @@
       "fits_part_types": [
         "front_interior_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -2977,7 +3010,9 @@
         "front_interior_light_bar",
         "rear_interior_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -3027,7 +3062,9 @@
         "pit_bar_warning",
         "front_interior_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -3583,7 +3620,9 @@
         "rear_seat_cargo_lights",
         "cargo_lighting"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -3777,7 +3816,9 @@
         "rear_warning",
         "lower_liftgate_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4122,7 +4163,9 @@
         "rear_warning",
         "lower_liftgate_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4273,7 +4316,9 @@
       "fits_part_types": [
         "roof_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4343,7 +4388,9 @@
       "fits_part_types": [
         "roof_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4385,7 +4432,9 @@
       "fits_part_types": [
         "roof_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4538,7 +4587,9 @@
       "fits_part_types": [
         "roof_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4580,7 +4631,9 @@
       "fits_part_types": [
         "rear_interior_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -6228,7 +6281,9 @@
         "rear_seat_cargo_lights",
         "cargo_lighting"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -8710,7 +8765,9 @@
       "fits_part_types": [
         "roof_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9170,7 +9227,8 @@
           "tertiary_color": "",
           "friendly_name": "WHELEN ION OUTER EDGE WC DUO 21 TAHOE"
         }
-      ]
+      ],
+      "reviewed": false
     },
     "whelen_tracer_3_lamp": {
       "manufacturer_id": "whelen",
@@ -9223,7 +9281,9 @@
       "fits_part_types": [
         "rear_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9255,7 +9315,7 @@
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "clear",
-          "friendly_name": "WHELEN 6-LIGHT 30\" 2250 T/A FLAT"
+          "friendly_name": "WHELEN 6-LIGHT 30 2250 T/A Flat"
         },
         {
           "part_number": "TA2240F",
@@ -9285,7 +9345,7 @@
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "",
-          "friendly_name": "WHELEN 6-LIGHT 30\" ANGLED WCX 2250"
+          "friendly_name": "WHELEN 6-LIGHT 30 Angled WCX 2250"
         }
       ]
     },
@@ -9296,7 +9356,9 @@
         "front_side_warning",
         "rear_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9428,7 +9490,9 @@
       "fits_part_types": [
         "rear_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9476,21 +9540,6 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN ION REAR PILLAR WC TRIO UTILITY"
-        },
-        {
-          "part_number": "OEI2D",
-          "qb_item_id": "819",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
         },
         {
           "part_number": "OEI2E",
@@ -9560,7 +9609,9 @@
       "fits_part_types": [
         "front_side_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9659,7 +9710,9 @@
       "fits_part_types": [
         "front_side_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9798,7 +9851,9 @@
       "fits_part_types": [
         "front_side_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9892,7 +9947,9 @@
       "fits_part_types": [
         "front_side_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9942,7 +9999,9 @@
         "front_scene",
         "rear_scene"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9992,7 +10051,9 @@
         "front_scene",
         "rear_scene"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10035,7 +10096,9 @@
         "front_scene",
         "rear_scene"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10078,9 +10141,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
+          "color": "white",
+          "secondary_color": "amber",
+          "lens_type": "clear",
           "tertiary_color": "",
           "friendly_name": "WHELEN 30\" SUMMIT W/ MARKER BLK"
         }
@@ -10093,7 +10156,9 @@
         "forward_warning",
         "side_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10157,7 +10222,9 @@
       "fits_part_types": [
         "roof_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10185,7 +10252,9 @@
         "front_scene",
         "rear_scene"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10198,7 +10267,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10213,7 +10282,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10228,7 +10297,9 @@
         "front_scene",
         "rear_scene"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10241,7 +10312,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10256,7 +10327,9 @@
         "front_scene",
         "rear_scene"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10299,7 +10372,9 @@
         "front_scene",
         "rear_scene"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10312,7 +10387,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10327,7 +10402,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10346,7 +10421,9 @@
         "rear_warning",
         "lower_liftgate_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10545,7 +10622,9 @@
       "fits_part_types": [
         "roof_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10626,7 +10705,9 @@
         "side_scene",
         "rear_scene"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10706,7 +10787,9 @@
         "rear_warning",
         "lower_liftgate_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10733,7 +10816,9 @@
       "fits_part_types": [
         "forward_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10800,7 +10885,9 @@
         "cargo_lighting",
         "lower_liftgate_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10879,7 +10966,9 @@
       "fits_part_types": [
         "cargo_lighting"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10926,7 +11015,9 @@
         "rear_warning",
         "lower_liftgate_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10968,7 +11059,9 @@
       "fits_part_types": [
         "front_scene"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -11010,7 +11103,9 @@
       "fits_part_types": [
         "front_scene"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -11023,10 +11118,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "",
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "white",
+          "lens_type": "clear",
           "friendly_name": "WHELEN PAR32 DRIVE/WARN FAIRING LT RB"
         }
       ]
@@ -11042,7 +11137,9 @@
         "rear_warning",
         "lower_liftgate_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -11074,7 +11171,9 @@
         "rear_warning",
         "lower_liftgate_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -11106,7 +11205,9 @@
         "rear_warning",
         "lower_liftgate_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -11138,7 +11239,9 @@
         "rear_warning",
         "lower_liftgate_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -11247,7 +11350,9 @@
       "fits_part_types": [
         "cargo_lighting"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -11260,10 +11365,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "",
+          "lens_type": "clear",
           "friendly_name": "WHELEN STRIP-LITE+ COMPARTMENT LT HI"
         }
       ],
@@ -11286,7 +11391,9 @@
       "fits_part_types": [
         "front_scene"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -11313,7 +11420,9 @@
       "fits_part_types": [
         "forward_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -11413,7 +11522,9 @@
       "fits_part_types": [
         "lighthead"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -13629,7 +13740,9 @@
       "fits_part_types": [
         "lighthead"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -13827,7 +13940,9 @@
       "fits_part_types": [
         "lighthead"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -14026,6 +14141,30 @@
           "tertiary_color": "",
           "lens_type": "",
           "friendly_name": "Two Long 12-LED Take-Down Lights"
+        }
+      ]
+    },
+    "whelen_outer_edge_lightheads": {
+      "manufacturer_id": "whelen",
+      "model": "Outer Edge Lightheads",
+      "description": "",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "part_numbers": [
+        {
+          "part_number": "OEI2D",
+          "qb_item_id": "819",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
         }
       ]
     }
