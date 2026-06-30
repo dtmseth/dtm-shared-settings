@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T16:32:12.329249+00:00",
+    "last_updated": "2026-06-30T16:31:41.941789+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -14120,19 +14120,14 @@
       "manufacturer_id": "soundoff",
       "model": "SOUNDOFF DOME LIGHT",
       "description": "",
-      "fits_part_types": [
-        "cargo_lighting",
-        "front_dome_light"
-      ],
+      "fits_part_types": [],
       "tag_ids": [
         "light"
       ],
       "part_numbers": [
         {
           "part_number": "ECVDMLTAL00",
-          "friendly_name": "SOUNDOFF DOME LIGHT - 6\" ROUND, WHITE AND RED NIGHT LIGHT LEDS, WHITE LENS",
-          "color": "white",
-          "secondary_color": "red"
+          "friendly_name": "SOUNDOFF DOME LIGHT - 6\" ROUND, WHITE AND RED NIGHT LIGHT LEDS, WHITE LENS"
         }
       ]
     }
