@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T13:52:23.134000+00:00",
+    "last_updated": "2026-06-30T13:46:05.349549+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -1335,7 +1335,9 @@
       "fits_part_types": [
         "forward_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4181,7 +4183,9 @@
         "side_warning",
         "rear_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9238,7 +9242,9 @@
         "side_warning",
         "rear_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10157,9 +10163,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
-          "secondary_color": "amber",
-          "lens_type": "clear",
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN 30\" SUMMIT W/ MARKER BLK"
         }
@@ -10328,7 +10334,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10403,7 +10409,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10418,7 +10424,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -11381,10 +11387,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear",
+          "lens_type": "",
           "friendly_name": "WHELEN STRIP-LITE+ COMPARTMENT LT HI"
         }
       ],
