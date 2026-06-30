@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T14:24:39.289709+00:00",
+    "last_updated": "2026-06-30T14:24:09.142202+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2538,6 +2538,36 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN ION MIRROR-BEAM HSGS, 2025 FORD POLICE INTERCEPTOR UTILITY"
+        },
+        {
+          "part_number": "MBI2D",
+          "qb_item_id": "728",
+          "qb_sku": "",
+          "qb_unit_price": 32.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R/W"
+        },
+        {
+          "part_number": "MBI2E",
+          "qb_item_id": "729",
+          "qb_sku": "",
+          "qb_unit_price": 32.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO B/W"
         },
         {
           "part_number": "MBXI2D",
@@ -14150,38 +14180,7 @@
       "description": "",
       "fits_part_types": [],
       "tag_ids": [],
-      "part_numbers": [
-        {
-          "part_number": "MBI2D",
-          "qb_item_id": "728",
-          "qb_sku": "",
-          "qb_unit_price": 32.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R/W"
-        },
-        {
-          "part_number": "MBI2E",
-          "qb_item_id": "729",
-          "qb_sku": "",
-          "qb_unit_price": 32.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "blue",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO B/W"
-        }
-      ]
+      "part_numbers": []
     }
   },
   "part_types": {
