@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T15:02:08.520898+00:00",
+    "last_updated": "2026-06-30T14:58:33.734671+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -9335,11 +9335,13 @@
     },
     "whelen_ion_rear_pillar": {
       "manufacturer_id": "whelen",
-      "model": "Outer Edge Rear Pillar",
+      "model": "ION Rear Pillar",
       "fits_part_types": [
         "rear_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10784,7 +10786,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "clear",
