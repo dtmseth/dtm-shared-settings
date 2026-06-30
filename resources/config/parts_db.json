@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T13:46:11.461487+00:00",
+    "last_updated": "2026-06-30T13:51:25.686547+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -1335,9 +1335,7 @@
       "fits_part_types": [
         "forward_warning"
       ],
-      "tag_ids": [
-        "light"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9240,9 +9238,7 @@
         "side_warning",
         "rear_warning"
       ],
-      "tag_ids": [
-        "light"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10161,9 +10157,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
+          "color": "white",
+          "secondary_color": "amber",
+          "lens_type": "clear",
           "tertiary_color": "",
           "friendly_name": "WHELEN 30\" SUMMIT W/ MARKER BLK"
         }
@@ -11385,10 +11381,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "",
+          "lens_type": "clear",
           "friendly_name": "WHELEN STRIP-LITE+ COMPARTMENT LT HI"
         }
       ],
