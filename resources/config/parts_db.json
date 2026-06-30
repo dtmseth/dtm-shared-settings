@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T17:41:44.730400+00:00",
+    "last_updated": "2026-06-30T16:30:55.234533+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2280,6 +2280,25 @@
       ],
       "reviewed": true
     },
+    "specify_6_round": {
+      "manufacturer_id": "specify",
+      "model": "6\"\" ROUND",
+      "fits_part_types": [
+        "front_dome_light",
+        "rear_seat_cargo_lights",
+        "cargo_lighting"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "6\"\" ROUND"
+        }
+      ]
+    },
     "cradle_point_roof_mount": {
       "manufacturer_id": "cradle_point",
       "model": "ROOF MOUNT",
@@ -2819,7 +2838,9 @@
         "front_interior_light_bar",
         "rear_interior_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4371,9 +4392,7 @@
     "whelen_cenator": {
       "manufacturer_id": "whelen",
       "model": "CENATOR",
-      "fits_part_types": [
-        "roof_light_bar"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "Discontinued \u2014 not orderable. Kept for reference only (Whelen dropped it from the printed PL26 list; DTM no longer sells it). fits_part_types intentionally emptied so it is never offered in the picker. Re-add 'roof_light_bar' to fits if it returns.",
       "images": {},
@@ -6210,8 +6229,7 @@
           "tertiary_color": "",
           "friendly_name": "SETINA WINDOW BARRIER STEEL VERTICAL *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_steel_horizontal": {
       "manufacturer_id": "setina",
@@ -8214,8 +8232,7 @@
           "tertiary_color": "",
           "friendly_name": "SETINA K-9 NO SPILL DOG BOWL ASSEMBLY"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_t_rail_mount_kit": {
       "manufacturer_id": "setina",
@@ -8440,8 +8457,7 @@
           "tertiary_color": "",
           "friendly_name": "SETINA LOWER EXTENSION PANEL 2 PIECES 2011+ DODGE CHARGER"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_upper_bracket_nut_plate": {
       "manufacturer_id": "setina",
@@ -10439,7 +10455,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "",
@@ -14119,27 +14135,13 @@
       ],
       "accessory_required": false
     },
-    "soundoff_soundoff_dome_light_2": {
+    "soundoff_soundoff_dome_light": {
       "manufacturer_id": "soundoff",
       "model": "SOUNDOFF DOME LIGHT",
       "description": "",
-      "fits_part_types": [
-        "cargo_lighting",
-        "front_dome_light",
-        "rear_seat_lights"
-      ],
-      "tag_ids": [
-        "light"
-      ],
-      "part_numbers": [
-        {
-          "part_number": "ECVDMLTAL00",
-          "friendly_name": "SOUNDOFF DOME LIGHT - 6\" ROUND, WHITE AND RED NIGHT LIGHT LEDS, WHITE LENS",
-          "color": "white",
-          "secondary_color": "red"
-        }
-      ],
-      "reviewed": true
+      "fits_part_types": [],
+      "tag_ids": [],
+      "part_numbers": []
     }
   },
   "part_types": {
