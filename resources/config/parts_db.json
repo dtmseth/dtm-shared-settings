@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T16:30:55.234533+00:00",
+    "last_updated": "2026-06-30T16:32:30.327350+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2279,25 +2279,6 @@
         }
       ],
       "reviewed": true
-    },
-    "specify_6_round": {
-      "manufacturer_id": "specify",
-      "model": "6\"\" ROUND",
-      "fits_part_types": [
-        "front_dome_light",
-        "rear_seat_cargo_lights",
-        "cargo_lighting"
-      ],
-      "tag_ids": [
-        "light"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "6\"\" ROUND"
-        }
-      ]
     },
     "cradle_point_roof_mount": {
       "manufacturer_id": "cradle_point",
@@ -14135,13 +14116,26 @@
       ],
       "accessory_required": false
     },
-    "soundoff_soundoff_dome_light": {
+    "soundoff_soundoff_dome_light_2": {
       "manufacturer_id": "soundoff",
       "model": "SOUNDOFF DOME LIGHT",
       "description": "",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "part_numbers": []
+      "fits_part_types": [
+        "cargo_lighting",
+        "front_dome_light",
+        "rear_seat_lights"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "part_numbers": [
+        {
+          "part_number": "ECVDMLTAL00",
+          "friendly_name": "SOUNDOFF DOME LIGHT - 6\" ROUND, WHITE AND RED NIGHT LIGHT LEDS, WHITE LENS",
+          "color": "white",
+          "secondary_color": "red"
+        }
+      ]
     }
   },
   "part_types": {
