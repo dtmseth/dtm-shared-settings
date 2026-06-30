@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T14:40:25.043581+00:00",
+    "last_updated": "2026-06-30T14:25:33.471519+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2487,7 +2487,9 @@
       "fits_part_types": [
         "mirror_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -2536,6 +2538,21 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN ION MIRROR-BEAM HSGS, 2025 FORD POLICE INTERCEPTOR UTILITY"
+        },
+        {
+          "part_number": "MBXONVR",
+          "qb_item_id": "736",
+          "qb_sku": "",
+          "qb_unit_price": 129.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V RED/SMK"
         }
       ]
     },
@@ -4274,7 +4291,7 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": ""
+          "friendly_name": "54\" Liberty II WeCanX Duo"
         }
       ],
       "accessories": [
@@ -9818,9 +9835,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
-          "lens_type": "clear",
+          "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN M9 SURFACE MT LED SCENE LT"
         },
@@ -9834,7 +9851,7 @@
             "any"
           ],
           "color": "red",
-          "secondary_color": "white",
+          "secondary_color": "",
           "lens_type": "clear",
           "tertiary_color": "",
           "friendly_name": "WHELEN M9 COMBINATION RED WARN/SCENE"
@@ -10042,8 +10059,8 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
-          "secondary_color": "blue",
+          "color": "",
+          "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "Mini Legacy WCX, perm mount, Duo Red/Blue"
@@ -14163,26 +14180,7 @@
           "tertiary_color": "",
           "lens_type": "smoked",
           "friendly_name": "WHELEN MIRROR-BEAM MT ION-V BLU/SMK"
-        },
-        {
-          "part_number": "MBXONVR",
-          "qb_item_id": "736",
-          "qb_sku": "",
-          "qb_unit_price": 129.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "smoked",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V RED/SMK"
         }
-      ],
-      "accessory_category": "lighthead",
-      "accessory_of_products": [
-        "whelen_mirror_beams"
       ]
     }
   },
