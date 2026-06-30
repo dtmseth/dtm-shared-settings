@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T14:40:55.800445+00:00",
+    "last_updated": "2026-06-30T14:44:26.649353+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -4234,7 +4234,7 @@
           "color": "",
           "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": "",
+          "tertiary_color": "white",
           "friendly_name": "48\" Legacy WCX Duo, Red/Blue (white front / amber rear)"
         }
       ],
