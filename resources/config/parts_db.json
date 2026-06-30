@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T17:34:53.853445+00:00",
+    "last_updated": "2026-06-30T17:41:44.730400+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -6210,7 +6210,8 @@
           "tertiary_color": "",
           "friendly_name": "SETINA WINDOW BARRIER STEEL VERTICAL *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "setina_steel_horizontal": {
       "manufacturer_id": "setina",
@@ -8213,7 +8214,8 @@
           "tertiary_color": "",
           "friendly_name": "SETINA K-9 NO SPILL DOG BOWL ASSEMBLY"
         }
-      ]
+      ],
+      "reviewed": true
     },
     "setina_t_rail_mount_kit": {
       "manufacturer_id": "setina",
