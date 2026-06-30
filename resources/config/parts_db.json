@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T14:35:10.225138+00:00",
+    "last_updated": "2026-06-30T14:26:41.949771+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -9818,7 +9818,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10042,8 +10042,8 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
-          "secondary_color": "blue",
+          "color": "",
+          "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "Mini Legacy WCX, perm mount, Duo Red/Blue"
