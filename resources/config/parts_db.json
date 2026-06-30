@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T14:26:16.775144+00:00",
+    "last_updated": "2026-06-30T14:00:10.901893+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2074,7 +2074,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -2487,7 +2487,9 @@
       "fits_part_types": [
         "mirror_warning"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -2498,8 +2500,7 @@
           "qb_unit_price": 495.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "TAHOE",
-            "SUBURBAN"
+            "TAHOE"
           ],
           "color": "",
           "secondary_color": "",
@@ -2536,6 +2537,141 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN ION MIRROR-BEAM HSGS, 2025 FORD POLICE INTERCEPTOR UTILITY"
+        },
+        {
+          "part_number": "MBI2D",
+          "qb_item_id": "728",
+          "qb_sku": "",
+          "qb_unit_price": 32.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R/W"
+        },
+        {
+          "part_number": "MBI2E",
+          "qb_item_id": "729",
+          "qb_sku": "",
+          "qb_unit_price": 32.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO B/W"
+        },
+        {
+          "part_number": "MBXI2D",
+          "qb_item_id": "732",
+          "qb_sku": "",
+          "qb_unit_price": 45.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R-W/SMK"
+        },
+        {
+          "part_number": "MBXI2E",
+          "qb_item_id": "733",
+          "qb_sku": "",
+          "qb_unit_price": 45.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO B/W"
+        },
+        {
+          "part_number": "MBXI2J",
+          "qb_item_id": "734",
+          "qb_sku": "",
+          "qb_unit_price": 45.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R-B/SMK"
+        },
+        {
+          "part_number": "MBIONVB",
+          "qb_item_id": "730",
+          "qb_sku": "",
+          "qb_unit_price": 117.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V LT BLUE"
+        },
+        {
+          "part_number": "MBIONVR",
+          "qb_item_id": "731",
+          "qb_sku": "",
+          "qb_unit_price": 117.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V LT RED"
+        },
+        {
+          "part_number": "MBXONVB",
+          "qb_item_id": "735",
+          "qb_sku": "",
+          "qb_unit_price": 129.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V BLU/SMK"
+        },
+        {
+          "part_number": "MBXONVR",
+          "qb_item_id": "736",
+          "qb_sku": "",
+          "qb_unit_price": 129.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V RED/SMK"
         }
       ]
     },
@@ -9853,8 +9989,7 @@
       "model": "EZ Scene Light",
       "fits_part_types": [
         "front_scene",
-        "rear_scene",
-        "side_scene"
+        "rear_scene"
       ],
       "tag_ids": [
         "light"
@@ -9871,7 +10006,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -9886,7 +10021,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -14035,150 +14170,6 @@
       "accessory_category": "lighthead",
       "accessory_of_products": [
         "whelen_outer_edge"
-      ]
-    },
-    "whelen_mirror_beam_lightheads": {
-      "manufacturer_id": "whelen",
-      "model": "Mirror Beam Lightheads",
-      "description": "",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "part_numbers": [
-        {
-          "part_number": "MBI2D",
-          "qb_item_id": "728",
-          "qb_sku": "",
-          "qb_unit_price": 32.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R/W"
-        },
-        {
-          "part_number": "MBI2E",
-          "qb_item_id": "729",
-          "qb_sku": "",
-          "qb_unit_price": 32.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "blue",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO B/W"
-        },
-        {
-          "part_number": "MBXI2D",
-          "qb_item_id": "732",
-          "qb_sku": "",
-          "qb_unit_price": 45.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "smoked",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R-W/SMK"
-        },
-        {
-          "part_number": "MBXI2E",
-          "qb_item_id": "733",
-          "qb_sku": "",
-          "qb_unit_price": 45.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "blue",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "smoked",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO B/W"
-        },
-        {
-          "part_number": "MBXI2J",
-          "qb_item_id": "734",
-          "qb_sku": "",
-          "qb_unit_price": 45.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "blue",
-          "tertiary_color": "",
-          "lens_type": "smoked",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R-B/SMK"
-        },
-        {
-          "part_number": "MBIONVB",
-          "qb_item_id": "730",
-          "qb_sku": "",
-          "qb_unit_price": 117.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "blue",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V LT BLUE"
-        },
-        {
-          "part_number": "MBIONVR",
-          "qb_item_id": "731",
-          "qb_sku": "",
-          "qb_unit_price": 117.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V LT RED"
-        },
-        {
-          "part_number": "MBXONVB",
-          "qb_item_id": "735",
-          "qb_sku": "",
-          "qb_unit_price": 129.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "blue",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "smoked",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V BLU/SMK"
-        },
-        {
-          "part_number": "MBXONVR",
-          "qb_item_id": "736",
-          "qb_sku": "",
-          "qb_unit_price": 129.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "smoked",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V RED/SMK"
-        }
       ]
     }
   },
