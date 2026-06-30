@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T14:22:45.741443+00:00",
+    "last_updated": "2026-06-30T13:52:23.134000+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2074,7 +2074,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -2500,8 +2500,7 @@
           "qb_unit_price": 495.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "TAHOE",
-            "SUBURBAN"
+            "TAHOE"
           ],
           "color": "",
           "secondary_color": "",
@@ -2596,7 +2595,7 @@
           "color": "blue",
           "secondary_color": "white",
           "tertiary_color": "",
-          "lens_type": "smoked",
+          "lens_type": "clear",
           "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO B/W"
         },
         {
@@ -9209,7 +9208,9 @@
       "fits_part_types": [
         "rear_interior_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9228,8 +9229,7 @@
           "tertiary_color": "",
           "friendly_name": "WHELEN ION OUTER EDGE WC DUO 21 TAHOE"
         }
-      ],
-      "reviewed": false
+      ]
     },
     "whelen_tracer_3_lamp": {
       "manufacturer_id": "whelen",
@@ -9541,6 +9541,81 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN ION REAR PILLAR WC TRIO UTILITY"
+        },
+        {
+          "part_number": "OEI2D",
+          "qb_item_id": "819",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
+        },
+        {
+          "part_number": "OEI2E",
+          "qb_item_id": "820",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES BLUE/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
+        },
+        {
+          "part_number": "OEI2K",
+          "qb_item_id": "821",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "amber",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/AMBER, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
+        },
+        {
+          "part_number": "OEI2M",
+          "qb_item_id": "822",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "amber",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES BLUE/AMBER, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
+        },
+        {
+          "part_number": "OEI3RBA",
+          "qb_item_id": "823",
+          "qb_sku": "",
+          "qb_unit_price": 16.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "white",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN TRIO\u2122 LIGHTHEAD, RED/BLUE/WHITE, FOR RPWT SERIES ONLY, SIX REQUIRED, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
         }
       ]
     },
@@ -9990,8 +10065,7 @@
       "model": "EZ Scene Light",
       "fits_part_types": [
         "front_scene",
-        "rear_scene",
-        "side_scene"
+        "rear_scene"
       ],
       "tag_ids": [
         "light"
@@ -10008,7 +10082,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10023,7 +10097,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10209,7 +10283,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10224,7 +10298,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -11060,10 +11134,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
-          "secondary_color": "blue",
-          "tertiary_color": "white",
-          "lens_type": "clear",
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
           "friendly_name": "WHELEN PAR32 DRIVE/WARN FAIRING LT RB"
         }
       ]
@@ -14084,94 +14158,6 @@
           "lens_type": "",
           "friendly_name": "Two Long 12-LED Take-Down Lights"
         }
-      ]
-    },
-    "whelen_outer_edge_lightheads": {
-      "manufacturer_id": "whelen",
-      "model": "Outer Edge Lightheads",
-      "description": "",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "part_numbers": [
-        {
-          "part_number": "OEI2D",
-          "qb_item_id": "819",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
-        },
-        {
-          "part_number": "OEI2E",
-          "qb_item_id": "820",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "blue",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES BLUE/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
-        },
-        {
-          "part_number": "OEI2K",
-          "qb_item_id": "821",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "amber",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/AMBER, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
-        },
-        {
-          "part_number": "OEI2M",
-          "qb_item_id": "822",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "blue",
-          "secondary_color": "amber",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES BLUE/AMBER, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
-        },
-        {
-          "part_number": "OEI3RBA",
-          "qb_item_id": "823",
-          "qb_sku": "",
-          "qb_unit_price": 16.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "blue",
-          "tertiary_color": "white",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN TRIO\u2122 LIGHTHEAD, RED/BLUE/WHITE, FOR RPWT SERIES ONLY, SIX REQUIRED, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
-        }
-      ],
-      "accessory_category": "lighthead",
-      "accessory_of_products": [
-        "whelen_outer_edge"
       ]
     }
   },
