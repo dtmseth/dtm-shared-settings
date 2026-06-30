@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T15:13:45.064103+00:00",
+    "last_updated": "2026-06-30T15:21:14.959429+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -7507,17 +7507,6 @@
         }
       ]
     },
-    "tiger_tough_with_custom_patch": {
-      "manufacturer_id": "tiger_tough",
-      "model": "WITH CUSTOM PATCH",
-      "fits_part_types": [
-        "seat_covers"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": []
-    },
     "5_0_fab_dtm_complete_squad_harness": {
       "manufacturer_id": "5_0_fab_dtm",
       "model": "COMPLETE SQUAD HARNESS",
@@ -11308,7 +11297,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "blue",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "",
@@ -11449,6 +11438,11 @@
           "lens_type": "clear",
           "friendly_name": "WHELEN INNER EDGE FST/RST TRIO B/W/A"
         }
+      ],
+      "accessory_category": "lighthead",
+      "accessory_of_products": [
+        "whelen_rst",
+        "whelen_fst"
       ]
     },
     "whelen_ie_shroud": {
