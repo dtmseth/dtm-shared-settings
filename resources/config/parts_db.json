@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T17:23:29.886080+00:00",
+    "last_updated": "2026-06-30T16:31:45.517255+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2819,7 +2819,9 @@
         "front_interior_light_bar",
         "rear_interior_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4371,9 +4373,7 @@
     "whelen_cenator": {
       "manufacturer_id": "whelen",
       "model": "CENATOR",
-      "fits_part_types": [
-        "roof_light_bar"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "Discontinued \u2014 not orderable. Kept for reference only (Whelen dropped it from the printed PL26 list; DTM no longer sells it). fits_part_types intentionally emptied so it is never offered in the picker. Re-add 'roof_light_bar' to fits if it returns.",
       "images": {},
@@ -10436,7 +10436,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "",
@@ -14120,11 +14120,7 @@
       "manufacturer_id": "soundoff",
       "model": "SOUNDOFF DOME LIGHT",
       "description": "",
-      "fits_part_types": [
-        "cargo_lighting",
-        "front_dome_light",
-        "rear_seat_lights"
-      ],
+      "fits_part_types": [],
       "tag_ids": [
         "light"
       ],
@@ -14132,11 +14128,9 @@
         {
           "part_number": "ECVDMLTAL00",
           "friendly_name": "SOUNDOFF DOME LIGHT - 6\" ROUND, WHITE AND RED NIGHT LIGHT LEDS, WHITE LENS",
-          "color": "white",
-          "secondary_color": "red"
+          "color": "white"
         }
-      ],
-      "reviewed": true
+      ]
     }
   },
   "part_types": {
