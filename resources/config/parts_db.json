@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T16:32:05.747111+00:00",
+    "last_updated": "2026-06-30T17:23:29.886080+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2819,9 +2819,7 @@
         "front_interior_light_bar",
         "rear_interior_light_bar"
       ],
-      "tag_ids": [
-        "light"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -4373,7 +4371,9 @@
     "whelen_cenator": {
       "manufacturer_id": "whelen",
       "model": "CENATOR",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "roof_light_bar"
+      ],
       "tag_ids": [],
       "description": "Discontinued \u2014 not orderable. Kept for reference only (Whelen dropped it from the printed PL26 list; DTM no longer sells it). fits_part_types intentionally emptied so it is never offered in the picker. Re-add 'roof_light_bar' to fits if it returns.",
       "images": {},
@@ -10436,7 +10436,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "",
@@ -14121,7 +14121,9 @@
       "model": "SOUNDOFF DOME LIGHT",
       "description": "",
       "fits_part_types": [
-        "cargo_lighting"
+        "cargo_lighting",
+        "front_dome_light",
+        "rear_seat_lights"
       ],
       "tag_ids": [
         "light"
@@ -14133,7 +14135,8 @@
           "color": "white",
           "secondary_color": "red"
         }
-      ]
+      ],
+      "reviewed": true
     }
   },
   "part_types": {
