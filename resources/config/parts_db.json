@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T14:40:18.873772+00:00",
+    "last_updated": "2026-06-30T15:13:45.064103+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2539,23 +2539,6 @@
         }
       ]
     },
-    "whelen_intersectors": {
-      "manufacturer_id": "whelen",
-      "model": "INTERSECTORS",
-      "fits_part_types": [
-        "mirror_warning"
-      ],
-      "tag_ids": [
-        "light"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "INTERSECTORS"
-        }
-      ]
-    },
     "whelen_fst": {
       "manufacturer_id": "whelen",
       "model": "Inner Edge FST",
@@ -4274,7 +4257,7 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "54\" Liberty II"
+          "friendly_name": "WHELEN LIBERTY\u2122 II WECANX DUO 54\" LIGHTBAR"
         }
       ],
       "accessories": [
@@ -9330,33 +9313,16 @@
           "lens_type": "clear",
           "tertiary_color": "",
           "friendly_name": "WHELEN ION V-SERIES SURFACE MT AMB"
-        },
-        {
-          "part_number": "IONHD3FM",
-          "qb_item_id": "630",
-          "qb_sku": "",
-          "qb_unit_price": 33.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "",
-          "friendly_name": "WHELEN FORK MT ION-V HD ELECTRA GLIDE"
         }
       ]
     },
     "whelen_ion_rear_pillar": {
       "manufacturer_id": "whelen",
-      "model": "ION Rear Pillar",
+      "model": "Outer Edge Rear Pillar",
       "fits_part_types": [
         "rear_warning"
       ],
-      "tag_ids": [
-        "light"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -10786,7 +10752,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "clear",
@@ -10801,7 +10767,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "clear",
@@ -11240,9 +11206,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "tertiary_color": "",
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "white",
           "lens_type": "",
           "friendly_name": "WHELEN DUO ION-T ARRAY ELECTRA GLIDE"
         }
@@ -14034,7 +14000,8 @@
       ],
       "accessory_category": "lighthead",
       "accessory_of_products": [
-        "whelen_outer_edge"
+        "whelen_outer_edge",
+        "whelen_ion_rear_pillar"
       ]
     },
     "whelen_mirror_beam_lightheads": {
@@ -14184,6 +14151,35 @@
       "accessory_of_products": [
         "whelen_mirror_beams"
       ]
+    },
+    "whelen_fork_mt_ion_v_hd_electra_glide": {
+      "manufacturer_id": "whelen",
+      "model": "FORK MT ION-V HD ELECTRA GLIDE",
+      "description": "",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "part_numbers": [
+        {
+          "part_number": "IONHD3FM",
+          "qb_item_id": "630",
+          "qb_sku": "",
+          "qb_unit_price": 33.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "WHELEN FORK MT ION-V HD ELECTRA GLIDE"
+        }
+      ],
+      "accessory_category": "bracket_mount",
+      "accessory_of_products": [
+        "whelen_surface_mount_ion"
+      ],
+      "accessory_required": false
     }
   },
   "part_types": {
