@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T13:51:25.686547+00:00",
+    "last_updated": "2026-06-30T14:52:07.535679+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -2074,7 +2074,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -2487,9 +2487,7 @@
       "fits_part_types": [
         "mirror_warning"
       ],
-      "tag_ids": [
-        "light"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -2500,7 +2498,8 @@
           "qb_unit_price": 495.0,
           "qb_inactive": false,
           "vehicle_tags": [
-            "TAHOE"
+            "TAHOE",
+            "SUBURBAN"
           ],
           "color": "",
           "secondary_color": "",
@@ -2537,141 +2536,6 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN ION MIRROR-BEAM HSGS, 2025 FORD POLICE INTERCEPTOR UTILITY"
-        },
-        {
-          "part_number": "MBI2D",
-          "qb_item_id": "728",
-          "qb_sku": "",
-          "qb_unit_price": 32.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R/W"
-        },
-        {
-          "part_number": "MBI2E",
-          "qb_item_id": "729",
-          "qb_sku": "",
-          "qb_unit_price": 32.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "blue",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO B/W"
-        },
-        {
-          "part_number": "MBXI2D",
-          "qb_item_id": "732",
-          "qb_sku": "",
-          "qb_unit_price": 45.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "smoked",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R-W/SMK"
-        },
-        {
-          "part_number": "MBXI2E",
-          "qb_item_id": "733",
-          "qb_sku": "",
-          "qb_unit_price": 45.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "blue",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO B/W"
-        },
-        {
-          "part_number": "MBXI2J",
-          "qb_item_id": "734",
-          "qb_sku": "",
-          "qb_unit_price": 45.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "blue",
-          "tertiary_color": "",
-          "lens_type": "smoked",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R-B/SMK"
-        },
-        {
-          "part_number": "MBIONVB",
-          "qb_item_id": "730",
-          "qb_sku": "",
-          "qb_unit_price": 117.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "blue",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V LT BLUE"
-        },
-        {
-          "part_number": "MBIONVR",
-          "qb_item_id": "731",
-          "qb_sku": "",
-          "qb_unit_price": 117.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V LT RED"
-        },
-        {
-          "part_number": "MBXONVB",
-          "qb_item_id": "735",
-          "qb_sku": "",
-          "qb_unit_price": 129.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "blue",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "smoked",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V BLU/SMK"
-        },
-        {
-          "part_number": "MBXONVR",
-          "qb_item_id": "736",
-          "qb_sku": "",
-          "qb_unit_price": 129.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "smoked",
-          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V RED/SMK"
         }
       ]
     },
@@ -4410,7 +4274,7 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "54\" Liberty II WeCanX Duo"
+          "friendly_name": "WHELEN LIBERTY\u2122 II WECANX DUO 54\" LIGHTBAR"
         }
       ],
       "accessories": [
@@ -9208,9 +9072,7 @@
       "fits_part_types": [
         "rear_interior_light_bar"
       ],
-      "tag_ids": [
-        "light"
-      ],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9229,7 +9091,8 @@
           "tertiary_color": "",
           "friendly_name": "WHELEN ION OUTER EDGE WC DUO 21 TAHOE"
         }
-      ]
+      ],
+      "reviewed": false
     },
     "whelen_tracer_3_lamp": {
       "manufacturer_id": "whelen",
@@ -9541,81 +9404,6 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN ION REAR PILLAR WC TRIO UTILITY"
-        },
-        {
-          "part_number": "OEI2D",
-          "qb_item_id": "819",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
-        },
-        {
-          "part_number": "OEI2E",
-          "qb_item_id": "820",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "blue",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES BLUE/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
-        },
-        {
-          "part_number": "OEI2K",
-          "qb_item_id": "821",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "amber",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/AMBER, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
-        },
-        {
-          "part_number": "OEI2M",
-          "qb_item_id": "822",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "blue",
-          "secondary_color": "amber",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES BLUE/AMBER, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
-        },
-        {
-          "part_number": "OEI3RBA",
-          "qb_item_id": "823",
-          "qb_sku": "",
-          "qb_unit_price": 16.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "blue",
-          "tertiary_color": "white",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN TRIO\u2122 LIGHTHEAD, RED/BLUE/WHITE, FOR RPWT SERIES ONLY, SIX REQUIRED, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
         }
       ]
     },
@@ -10030,9 +9818,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
-          "lens_type": "",
+          "lens_type": "clear",
           "tertiary_color": "",
           "friendly_name": "WHELEN M9 SURFACE MT LED SCENE LT"
         },
@@ -10046,7 +9834,7 @@
             "any"
           ],
           "color": "red",
-          "secondary_color": "",
+          "secondary_color": "white",
           "lens_type": "clear",
           "tertiary_color": "",
           "friendly_name": "WHELEN M9 COMBINATION RED WARN/SCENE"
@@ -10065,7 +9853,8 @@
       "model": "EZ Scene Light",
       "fits_part_types": [
         "front_scene",
-        "rear_scene"
+        "rear_scene",
+        "side_scene"
       ],
       "tag_ids": [
         "light"
@@ -10082,7 +9871,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10097,7 +9886,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10253,8 +10042,8 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
+          "color": "red",
+          "secondary_color": "blue",
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "Mini Legacy WCX, perm mount, Duo Red/Blue"
@@ -10283,7 +10072,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10298,7 +10087,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10328,7 +10117,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10403,7 +10192,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10418,7 +10207,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "white",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -11134,10 +10923,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "",
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "white",
+          "lens_type": "clear",
           "friendly_name": "WHELEN PAR32 DRIVE/WARN FAIRING LT RB"
         }
       ]
@@ -11451,7 +11240,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "",
+          "color": "red",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "",
@@ -14158,6 +13947,242 @@
           "lens_type": "",
           "friendly_name": "Two Long 12-LED Take-Down Lights"
         }
+      ]
+    },
+    "whelen_outer_edge_lightheads": {
+      "manufacturer_id": "whelen",
+      "model": "Outer Edge Lightheads",
+      "description": "",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "part_numbers": [
+        {
+          "part_number": "OEI2D",
+          "qb_item_id": "819",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
+        },
+        {
+          "part_number": "OEI2E",
+          "qb_item_id": "820",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES BLUE/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
+        },
+        {
+          "part_number": "OEI2K",
+          "qb_item_id": "821",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "amber",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/AMBER, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
+        },
+        {
+          "part_number": "OEI2M",
+          "qb_item_id": "822",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "amber",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES BLUE/AMBER, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
+        },
+        {
+          "part_number": "OEI3RBA",
+          "qb_item_id": "823",
+          "qb_sku": "",
+          "qb_unit_price": 16.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "white",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN TRIO\u2122 LIGHTHEAD, RED/BLUE/WHITE, FOR RPWT SERIES ONLY, SIX REQUIRED, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
+        }
+      ],
+      "accessory_category": "lighthead",
+      "accessory_of_products": [
+        "whelen_outer_edge"
+      ]
+    },
+    "whelen_mirror_beam_lightheads": {
+      "manufacturer_id": "whelen",
+      "model": "Mirror Beam Lightheads",
+      "description": "",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "part_numbers": [
+        {
+          "part_number": "MBI2D",
+          "qb_item_id": "728",
+          "qb_sku": "",
+          "qb_unit_price": 32.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R/W"
+        },
+        {
+          "part_number": "MBI2E",
+          "qb_item_id": "729",
+          "qb_sku": "",
+          "qb_unit_price": 32.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO B/W"
+        },
+        {
+          "part_number": "MBXI2D",
+          "qb_item_id": "732",
+          "qb_sku": "",
+          "qb_unit_price": 45.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R-W/SMK"
+        },
+        {
+          "part_number": "MBXI2E",
+          "qb_item_id": "733",
+          "qb_sku": "",
+          "qb_unit_price": 45.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO B/W"
+        },
+        {
+          "part_number": "MBXI2J",
+          "qb_item_id": "734",
+          "qb_sku": "",
+          "qb_unit_price": 45.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "blue",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION DUO R-B/SMK"
+        },
+        {
+          "part_number": "MBIONVB",
+          "qb_item_id": "730",
+          "qb_sku": "",
+          "qb_unit_price": 117.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V LT BLUE"
+        },
+        {
+          "part_number": "MBIONVR",
+          "qb_item_id": "731",
+          "qb_sku": "",
+          "qb_unit_price": 117.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V LT RED"
+        },
+        {
+          "part_number": "MBXONVB",
+          "qb_item_id": "735",
+          "qb_sku": "",
+          "qb_unit_price": 129.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "blue",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V BLU/SMK"
+        },
+        {
+          "part_number": "MBXONVR",
+          "qb_item_id": "736",
+          "qb_sku": "",
+          "qb_unit_price": 129.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "smoked",
+          "friendly_name": "WHELEN MIRROR-BEAM MT ION-V RED/SMK"
+        }
+      ],
+      "accessory_category": "lighthead",
+      "accessory_of_products": [
+        "whelen_mirror_beams"
       ]
     }
   },
