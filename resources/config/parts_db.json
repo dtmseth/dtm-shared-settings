@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T16:32:37.150982+00:00",
+    "last_updated": "2026-06-30T16:31:47.053722+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -14120,11 +14120,7 @@
       "manufacturer_id": "soundoff",
       "model": "SOUNDOFF DOME LIGHT",
       "description": "",
-      "fits_part_types": [
-        "cargo_lighting",
-        "front_dome_light",
-        "rear_seat_lights"
-      ],
+      "fits_part_types": [],
       "tag_ids": [
         "light"
       ],
@@ -14135,8 +14131,7 @@
           "color": "white",
           "secondary_color": "red"
         }
-      ],
-      "reviewed": true
+      ]
     }
   },
   "part_types": {
