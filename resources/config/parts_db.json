@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T14:44:22.306322+00:00",
+    "last_updated": "2026-06-30T14:43:52.824305+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -4232,9 +4232,9 @@
             "DURANGO"
           ],
           "color": "red",
-          "secondary_color": "blue",
+          "secondary_color": "",
           "lens_type": "",
-          "tertiary_color": "white",
+          "tertiary_color": "",
           "friendly_name": "48\" Legacy WCX Duo, Red/Blue (white front / amber rear)"
         }
       ],
