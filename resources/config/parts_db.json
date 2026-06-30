@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T14:58:37.007483+00:00",
+    "last_updated": "2026-06-30T14:43:56.250388+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -4231,8 +4231,8 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "",
-          "secondary_color": "",
+          "color": "red",
+          "secondary_color": "blue",
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "48\" Legacy WCX Duo, Red/Blue (white front / amber rear)"
@@ -9330,6 +9330,21 @@
           "lens_type": "clear",
           "tertiary_color": "",
           "friendly_name": "WHELEN ION V-SERIES SURFACE MT AMB"
+        },
+        {
+          "part_number": "IONHD3FM",
+          "qb_item_id": "630",
+          "qb_sku": "",
+          "qb_unit_price": 33.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "WHELEN FORK MT ION-V HD ELECTRA GLIDE"
         }
       ]
     },
@@ -10771,7 +10786,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "clear",
@@ -10786,7 +10801,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "tertiary_color": "",
           "lens_type": "clear",
@@ -11225,9 +11240,9 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
-          "secondary_color": "blue",
-          "tertiary_color": "white",
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
           "lens_type": "",
           "friendly_name": "WHELEN DUO ION-T ARRAY ELECTRA GLIDE"
         }
@@ -14169,35 +14184,6 @@
       "accessory_of_products": [
         "whelen_mirror_beams"
       ]
-    },
-    "whelen_fork_mt_ion_v_hd_electra_glide": {
-      "manufacturer_id": "whelen",
-      "model": "FORK MT ION-V HD ELECTRA GLIDE",
-      "description": "",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "part_numbers": [
-        {
-          "part_number": "IONHD3FM",
-          "qb_item_id": "630",
-          "qb_sku": "",
-          "qb_unit_price": 33.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "",
-          "friendly_name": "WHELEN FORK MT ION-V HD ELECTRA GLIDE"
-        }
-      ],
-      "accessory_category": "bracket_mount",
-      "accessory_of_products": [
-        "whelen_surface_mount_ion"
-      ],
-      "accessory_required": false
     }
   },
   "part_types": {
