@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T13:57:34.881950+00:00",
+    "last_updated": "2026-06-30T13:52:36.201158+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -9208,7 +9208,9 @@
       "fits_part_types": [
         "rear_interior_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9227,8 +9229,7 @@
           "tertiary_color": "",
           "friendly_name": "WHELEN ION OUTER EDGE WC DUO 21 TAHOE"
         }
-      ],
-      "reviewed": false
+      ]
     },
     "whelen_tracer_3_lamp": {
       "manufacturer_id": "whelen",
@@ -11133,10 +11134,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
-          "secondary_color": "blue",
-          "tertiary_color": "white",
-          "lens_type": "clear",
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
           "friendly_name": "WHELEN PAR32 DRIVE/WARN FAIRING LT RB"
         }
       ]
