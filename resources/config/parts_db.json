@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T13:59:08.661643+00:00",
+    "last_updated": "2026-06-30T13:51:19.403768+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -9208,7 +9208,9 @@
       "fits_part_types": [
         "rear_interior_light_bar"
       ],
-      "tag_ids": [],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -9227,8 +9229,7 @@
           "tertiary_color": "",
           "friendly_name": "WHELEN ION OUTER EDGE WC DUO 21 TAHOE"
         }
-      ],
-      "reviewed": false
+      ]
     },
     "whelen_tracer_3_lamp": {
       "manufacturer_id": "whelen",
@@ -9540,6 +9541,21 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN ION REAR PILLAR WC TRIO UTILITY"
+        },
+        {
+          "part_number": "OEI2D",
+          "qb_item_id": "819",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "red",
+          "secondary_color": "white",
+          "tertiary_color": "",
+          "lens_type": "clear",
+          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
         },
         {
           "part_number": "OEI2E",
@@ -10267,7 +10283,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10282,7 +10298,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10312,7 +10328,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10387,7 +10403,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -10402,7 +10418,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "white",
+          "color": "",
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
@@ -11118,10 +11134,10 @@
           "vehicle_tags": [
             "any"
           ],
-          "color": "red",
-          "secondary_color": "blue",
-          "tertiary_color": "white",
-          "lens_type": "clear",
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
           "friendly_name": "WHELEN PAR32 DRIVE/WARN FAIRING LT RB"
         }
       ]
@@ -11368,7 +11384,7 @@
           "color": "white",
           "secondary_color": "",
           "tertiary_color": "",
-          "lens_type": "clear",
+          "lens_type": "",
           "friendly_name": "WHELEN STRIP-LITE+ COMPARTMENT LT HI"
         }
       ],
@@ -14141,30 +14157,6 @@
           "tertiary_color": "",
           "lens_type": "",
           "friendly_name": "Two Long 12-LED Take-Down Lights"
-        }
-      ]
-    },
-    "whelen_outer_edge_lightheads": {
-      "manufacturer_id": "whelen",
-      "model": "Outer Edge Lightheads",
-      "description": "",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "part_numbers": [
-        {
-          "part_number": "OEI2D",
-          "qb_item_id": "819",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "red",
-          "secondary_color": "white",
-          "tertiary_color": "",
-          "lens_type": "clear",
-          "friendly_name": "WHELEN DUO LIGHTHEAD FOR RPWD SERIES RED/WHITE, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae"
         }
       ]
     }
