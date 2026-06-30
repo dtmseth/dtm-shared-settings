@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-06-30T13:55:38.734499+00:00",
+    "last_updated": "2026-06-30T13:55:42.756592+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -11135,8 +11135,8 @@
             "any"
           ],
           "color": "red",
-          "secondary_color": "",
-          "tertiary_color": "",
+          "secondary_color": "blue",
+          "tertiary_color": "white",
           "lens_type": "",
           "friendly_name": "WHELEN PAR32 DRIVE/WARN FAIRING LT RB"
         }
