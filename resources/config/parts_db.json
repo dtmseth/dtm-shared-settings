@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-07-01T21:02:38.658317+00:00",
+    "last_updated": "2026-07-01T21:01:08.701228+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -19345,11 +19345,7 @@
           "options": {}
         }
       ],
-      "reviewed": true,
-      "accessory_category": "bracket_mount",
-      "accessory_of_products": [
-        "whelen_ion"
-      ]
+      "reviewed": false
     },
     "qb_unassigned_bu_353n": {
       "manufacturer_id": "qb_unassigned",
@@ -21904,9 +21900,7 @@
     "5_0_fab_dtm_eb1u": {
       "manufacturer_id": "5_0_fab_dtm",
       "model": "EQUIPMENT BOX 4IN DEEP 36IN WIDE",
-      "fits_part_types": [
-        "rear_storage_box"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -21926,7 +21920,7 @@
           "options": {}
         }
       ],
-      "reviewed": true
+      "reviewed": false
     },
     "soundoff_ecvcsmledf": {
       "manufacturer_id": "soundoff",
@@ -22946,7 +22940,7 @@
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 350.0,
           "vehicle_tags": [
-            "PIU"
+            "any"
           ],
           "options": {}
         }
