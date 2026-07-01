@@ -30913,7 +30913,8 @@
       "sequence_scope": "global",
       "accessories": [
         "wire_covers"
-      ]
+      ],
+      "location_mode": "placement"
     },
     "pit_bar": {
       "label": "Pit Bar",
@@ -30926,7 +30927,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Pit Bar",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "placement"
     },
     "wing_wraps": {
       "label": "Wing Wraps",
@@ -30939,7 +30941,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Wing Wraps",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "placement"
     },
     "wire_covers": {
       "label": "Wire Covers",
@@ -30954,7 +30957,9 @@
       "workbook_label_pattern": "Wire Covers",
       "sequence_scope": "global",
       "accessory_of": "push_bumper",
-      "accessory_category": "other"
+      "accessory_category": "other",
+      "location_mode": "text",
+      "location_options": []
     },
     "forward_warning": {
       "label": "Forward Warning",
@@ -30968,7 +30973,8 @@
       "tag_ids": [],
       "workbook_label_pattern": "Forward Warning {n}",
       "sequence_scope": "global",
-      "category": "warning"
+      "category": "warning",
+      "location_mode": "placement"
     },
     "fw_bracket": {
       "label": "FW Bracket",
@@ -30978,7 +30984,9 @@
       "workbook_label_pattern": "FW {n} Bracket",
       "sequence_scope": "global",
       "accessory_of": "forward_warning",
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": []
     },
     "front_side_warning": {
       "label": "Front Side Warning",
@@ -30992,7 +31000,8 @@
       "tag_ids": [],
       "workbook_label_pattern": "Front Side Warning {n}",
       "sequence_scope": "global",
-      "category": "warning"
+      "category": "warning",
+      "location_mode": "placement"
     },
     "front_side_bracket": {
       "label": "Front Side Bracket",
@@ -31002,7 +31011,9 @@
       "workbook_label_pattern": "Front Side Brackets",
       "sequence_scope": "global",
       "accessory_of": "front_side_warning",
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": []
     },
     "pit_bar_warning": {
       "label": "Pit Bar Warning",
@@ -31016,7 +31027,8 @@
       "tag_ids": [],
       "workbook_label_pattern": "Pit Bar Warning",
       "sequence_scope": "global",
-      "category": "warning"
+      "category": "warning",
+      "location_mode": "placement"
     },
     "headlight_flasher": {
       "label": "Headlight Flasher",
@@ -31030,7 +31042,9 @@
       "tag_ids": [],
       "workbook_label_pattern": "Headlight Flasher",
       "sequence_scope": "global",
-      "category": "warning"
+      "category": "warning",
+      "location_mode": "text",
+      "location_options": []
     },
     "front_scene": {
       "label": "Front Scene",
@@ -31044,7 +31058,8 @@
       "tag_ids": [],
       "workbook_label_pattern": "Front Scene",
       "sequence_scope": "global",
-      "category": "scene"
+      "category": "scene",
+      "location_mode": "placement"
     },
     "siren_speaker": {
       "label": "Siren Speaker",
@@ -31059,7 +31074,8 @@
         "siren"
       ],
       "workbook_label_pattern": "Siren Speaker {n}",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "placement"
     },
     "siren_speaker_bracket": {
       "label": "Siren Speaker Bracket",
@@ -31069,7 +31085,11 @@
       "workbook_label_pattern": "Siren Speaker Bracket",
       "sequence_scope": "global",
       "accessory_of": "siren_speaker",
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": [
+        "FOLLOW SPEAKER LOCATION"
+      ]
     },
     "external_amp": {
       "label": "External Amp",
@@ -31085,7 +31105,9 @@
         "siren"
       ],
       "workbook_label_pattern": "External Amp",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "howler": {
       "label": "Howler",
@@ -31100,7 +31122,8 @@
         "siren"
       ],
       "workbook_label_pattern": "Howler",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "placement"
     },
     "pa_mic": {
       "label": "PA Mic",
@@ -31113,7 +31136,12 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Pa Mic",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "RIGHT SIDE OF CONSOLE",
+        "DRIVERS DOOR"
+      ]
     },
     "pa_mic_clip": {
       "label": "PA Mic Clip",
@@ -31123,7 +31151,9 @@
       "workbook_label_pattern": "Pa Mic Clip",
       "sequence_scope": "global",
       "accessory_of": "pa_mic",
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": []
     },
     "preemption": {
       "label": "Preemption",
@@ -31146,7 +31176,9 @@
         "IN_LIGHT_BAR",
         "UPPER_WINDSHIELD",
         "CENTER_OF_DASH"
-      ]
+      ],
+      "location_mode": "text",
+      "location_options": []
     },
     "front_dome_light": {
       "label": "Dome Light",
@@ -31160,7 +31192,9 @@
       "tag_ids": [],
       "workbook_label_pattern": "Front Dome Light",
       "sequence_scope": "global",
-      "category": "interior"
+      "category": "interior",
+      "location_mode": "text",
+      "location_options": []
     },
     "cradle_point": {
       "label": "Cloud System",
@@ -31174,7 +31208,12 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Cradle Point",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "ON EQUIPMENT TRAY",
+        "FRONT OF PARTITION"
+      ]
     },
     "cloud_antenna": {
       "label": "Cloud Antenna",
@@ -31187,7 +31226,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Cradle Point Antenna",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "mirror_warning": {
       "label": "Mirror Warning",
@@ -31201,7 +31242,8 @@
       "tag_ids": [],
       "workbook_label_pattern": "Mirror Warning {n}",
       "sequence_scope": "global",
-      "category": "warning"
+      "category": "warning",
+      "location_mode": "placement"
     },
     "mirror_warning_bracket": {
       "label": "Mirror Warning Bracket",
@@ -31211,7 +31253,9 @@
       "workbook_label_pattern": "Mirror Warning Bracket {n}",
       "sequence_scope": "global",
       "accessory_of": "mirror_warning",
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": []
     },
     "front_interior_light_bar": {
       "label": "Interior Light Bar",
@@ -31225,7 +31269,9 @@
       "tag_ids": [],
       "workbook_label_pattern": "Front Interior Light Bar",
       "sequence_scope": "global",
-      "category": "interior_bar"
+      "category": "interior_bar",
+      "location_mode": "text",
+      "location_options": []
     },
     "side_warning": {
       "label": "Side Warning",
@@ -31243,7 +31289,8 @@
       "tag_ids": [],
       "workbook_label_pattern": "Side Warning {n}",
       "sequence_scope": "global",
-      "category": "warning"
+      "category": "warning",
+      "location_mode": "placement"
     },
     "side_warning_bracket": {
       "label": "Side Warning Bracket",
@@ -31253,7 +31300,9 @@
       "workbook_label_pattern": "Side Warning Bracket {n}",
       "sequence_scope": "global",
       "accessory_of": "side_warning",
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": []
     },
     "side_scene": {
       "label": "Side Scene",
@@ -31267,7 +31316,8 @@
       "tag_ids": [],
       "workbook_label_pattern": "Side Scene",
       "sequence_scope": "global",
-      "category": "scene"
+      "category": "scene",
+      "location_mode": "placement"
     },
     "roof_light_bar": {
       "label": "Light Bar",
@@ -31281,7 +31331,9 @@
       "tag_ids": [],
       "workbook_label_pattern": "Roof Light Bar",
       "sequence_scope": "global",
-      "category": "roof_bar"
+      "category": "roof_bar",
+      "location_mode": "text",
+      "location_options": []
     },
     "rear_interior_light_bar": {
       "label": "Interior Light Bar",
@@ -31295,7 +31347,9 @@
       "tag_ids": [],
       "workbook_label_pattern": "Rear Interior Light Bar",
       "sequence_scope": "global",
-      "category": "interior_bar"
+      "category": "interior_bar",
+      "location_mode": "text",
+      "location_options": []
     },
     "rear_warning": {
       "label": "Rear Warning",
@@ -31309,7 +31363,8 @@
       "tag_ids": [],
       "workbook_label_pattern": "Rear Warning {n}",
       "sequence_scope": "global",
-      "category": "warning"
+      "category": "warning",
+      "location_mode": "placement"
     },
     "rear_warning_bracket": {
       "label": "Rear Warning Bracket",
@@ -31319,7 +31374,9 @@
       "workbook_label_pattern": "Rear Warning Bracket {n}",
       "sequence_scope": "global",
       "accessory_of": "rear_warning",
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": []
     },
     "rear_scene": {
       "label": "Rear Scene",
@@ -31333,7 +31390,8 @@
       "tag_ids": [],
       "workbook_label_pattern": "Rear Scene",
       "sequence_scope": "global",
-      "category": "scene"
+      "category": "scene",
+      "location_mode": "placement"
     },
     "lower_liftgate_warning": {
       "label": "Lower Lift Gate Warning",
@@ -31347,7 +31405,8 @@
       "tag_ids": [],
       "workbook_label_pattern": "Lower Lift Gate Warning",
       "sequence_scope": "global",
-      "category": "warning"
+      "category": "warning",
+      "location_mode": "placement"
     },
     "lower_liftgate_warning_bracket": {
       "label": "Lower Lift Gate Warning Bracket",
@@ -31357,7 +31416,9 @@
       "workbook_label_pattern": "Lower Lift Gate Warning Bracket",
       "sequence_scope": "global",
       "accessory_of": "lower_liftgate_warning",
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": []
     },
     "tail_light_flasher": {
       "label": "Tail Light Flasher",
@@ -31371,7 +31432,9 @@
       "tag_ids": [],
       "workbook_label_pattern": "Tail Light Flasher",
       "sequence_scope": "global",
-      "category": "warning"
+      "category": "warning",
+      "location_mode": "text",
+      "location_options": []
     },
     "radar_display_unit": {
       "label": "Radar Display Unit",
@@ -31386,7 +31449,9 @@
         "radar"
       ],
       "workbook_label_pattern": "Radar",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "front_radar_antenna_mount": {
       "label": "Front Radar Antenna Mount",
@@ -31398,7 +31463,11 @@
       "workbook_label_pattern": "Front Radar Antenna Mount",
       "sequence_scope": "global",
       "accessory_of": "radar_display_unit",
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": [
+        "DRIVER SIDE DASH"
+      ]
     },
     "rear_radar_antenna_mount": {
       "label": "Rear Radar Antenna Mount",
@@ -31410,7 +31479,11 @@
       "workbook_label_pattern": "Rear Radar Antenna Mount",
       "sequence_scope": "global",
       "accessory_of": "radar_display_unit",
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": [
+        "DRIVER SIDE PILLAR"
+      ]
     },
     "radar_interface_cable": {
       "label": "Radar Interface Cable",
@@ -31426,7 +31499,9 @@
         "camera"
       ],
       "workbook_label_pattern": "Radar Interface Cable (To Camera)",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "thermal_imager": {
       "label": "Thermal Imager",
@@ -31439,7 +31514,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Thermal Imager",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "placement"
     },
     "thermal_imager_monitor": {
       "label": "Thermal Imager Monitor",
@@ -31452,7 +31528,11 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Thermal Imager Monitor",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "ON DASH"
+      ]
     },
     "light_controller": {
       "label": "Light Controller",
@@ -31466,7 +31546,11 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Light Controller",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "ON EQUIPMENT TRAY"
+      ]
     },
     "control_head": {
       "label": "Light Control Head",
@@ -31480,7 +31564,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Control Head",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "vehicle_interface": {
       "label": "Vehicle Interface",
@@ -31494,7 +31580,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Vehicle interface",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "expansion_module": {
       "label": "Expansion Module",
@@ -31508,7 +31596,11 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Expansion Module",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "ON EQUIPMENT TRAY"
+      ]
     },
     "radio_head": {
       "label": "Radio Head",
@@ -31524,7 +31616,9 @@
         "comms"
       ],
       "workbook_label_pattern": "Radio {n}",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "radio_mic_clip": {
       "label": "Radio Mic Clip",
@@ -31539,7 +31633,9 @@
         "comms"
       ],
       "workbook_label_pattern": "Radio Mic Clip {n}",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "radio_antenna_cable": {
       "label": "Radio Communication Cable",
@@ -31554,7 +31650,9 @@
         "comms"
       ],
       "workbook_label_pattern": "Radio Antenna Cable",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "radio_antenna_top": {
       "label": "Radio Antenna Top",
@@ -31569,7 +31667,8 @@
         "comms"
       ],
       "workbook_label_pattern": "Radio Antenna Top",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "placement"
     },
     "console": {
       "label": "Console",
@@ -31583,7 +31682,9 @@
       "tag_ids": [],
       "workbook_label_pattern": "Center Console",
       "sequence_scope": "global",
-      "max_count": 1
+      "max_count": 1,
+      "location_mode": "text",
+      "location_options": []
     },
     "special_face_plate": {
       "label": "Special Face Plate",
@@ -31597,7 +31698,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Special Face Plate {n}",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "arm_rest": {
       "label": "Armrest",
@@ -31611,7 +31714,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Arm Rest",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "motion_attachment": {
       "label": "Motion Attachment",
@@ -31625,7 +31730,12 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Motion Attachment",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "MOUNTED TO CONSOLE",
+        "MOUNTED TO PEDESTAL"
+      ]
     },
     "docking_station": {
       "label": "Docking Station",
@@ -31639,7 +31749,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Docking Station",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "printer": {
       "label": "Printer",
@@ -31653,7 +31765,13 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Printer",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "PRINTER ARMREST MOUNT",
+        "IN CONSOLE",
+        "HEADREST MOUNT"
+      ]
     },
     "printer_mount": {
       "label": "Printer Mount",
@@ -31663,7 +31781,9 @@
       "workbook_label_pattern": "Printer Mount",
       "sequence_scope": "global",
       "accessory_of": "printer",
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": []
     },
     "printer_power": {
       "label": "Printer Power",
@@ -31678,7 +31798,9 @@
       "workbook_label_pattern": "Printer Power",
       "sequence_scope": "global",
       "accessory_of": "printer",
-      "accessory_category": "flasher_power"
+      "accessory_category": "flasher_power",
+      "location_mode": "text",
+      "location_options": []
     },
     "printer_usb": {
       "label": "Printer USB",
@@ -31693,7 +31815,9 @@
       "workbook_label_pattern": "Printer USB",
       "sequence_scope": "global",
       "accessory_of": "printer",
-      "accessory_category": "cable"
+      "accessory_category": "cable",
+      "location_mode": "text",
+      "location_options": []
     },
     "aux_12v_ports": {
       "label": "12v Aux Ports",
@@ -31706,7 +31830,13 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "12v Aux Ports",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "RIGHT SIDE ON CONSOLE",
+        "IN FACEPLATE",
+        "BACK OF CONSOLE"
+      ]
     },
     "camera_dvr": {
       "label": "Camera DVR",
@@ -31726,7 +31856,13 @@
         "camera"
       ],
       "workbook_label_pattern": "Camera DVR",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "ON FRONT PARTITION",
+        "ON EQUIPMENT TRAY",
+        "IN CENTER CONSOILE"
+      ]
     },
     "front_camera": {
       "label": "Front Camera",
@@ -31741,7 +31877,9 @@
         "camera"
       ],
       "workbook_label_pattern": "Front Camera",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "body_camera_dock": {
       "label": "Body Camera Dock",
@@ -31756,7 +31894,13 @@
         "camera"
       ],
       "workbook_label_pattern": "Body Camera Dock",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "PASSENGER SIDE VISOR",
+        "ON CENTER CONSOLE",
+        "IN GUNLOCK POCKET"
+      ]
     },
     "rear_seat_camera": {
       "label": "Rear Seat Camera",
@@ -31771,7 +31915,12 @@
         "camera"
       ],
       "workbook_label_pattern": "Rear Seat Camera",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "ON DRIVER SIDE HEADLINER",
+        "CENTER OF PARTITION"
+      ]
     },
     "rear_camera": {
       "label": "Rear Camera",
@@ -31786,7 +31935,9 @@
         "camera"
       ],
       "workbook_label_pattern": "Rear Camera",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "wireless_mic_charger": {
       "label": "Wireless Mic Charger",
@@ -31799,7 +31950,13 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Wireless Mic Charger",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "PASSENGER SIDE VISOR",
+        "ON CENTER CONSOLE",
+        "IN GUNLOCK POCKET"
+      ]
     },
     "front_partition": {
       "label": "Front Partition",
@@ -31812,7 +31969,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Front Partition",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "chicago_barrier": {
       "label": "Chicago Barrier",
@@ -31825,7 +31984,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Chicago Barrier",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "front_partition_transfer_kit": {
       "label": "Front Partition Transfer Kit",
@@ -31840,7 +32001,9 @@
       "workbook_label_pattern": "Front Partition Transfer Kit",
       "sequence_scope": "global",
       "accessory_of": "front_partition",
-      "accessory_category": "other"
+      "accessory_category": "other",
+      "location_mode": "text",
+      "location_options": []
     },
     "rear_seat_lights": {
       "label": "Rear Seat Lights",
@@ -31854,7 +32017,9 @@
       "tag_ids": [],
       "workbook_label_pattern": "Rear Seat Lights {n}",
       "sequence_scope": "global",
-      "category": "interior"
+      "category": "interior",
+      "location_mode": "text",
+      "location_options": []
     },
     "rear_seat_cargo_lights": {
       "label": "Rear Seat Cargo Lights",
@@ -31868,7 +32033,13 @@
       "tag_ids": [],
       "workbook_label_pattern": "Rear Seat Cargo Lights",
       "sequence_scope": "global",
-      "category": "interior"
+      "category": "interior",
+      "location_mode": "text",
+      "location_options": [
+        "HEADLINER",
+        "UNDER SHELF",
+        "HEADLINER AND UNDER SHELF"
+      ]
     },
     "rear_seat_divider": {
       "label": "Rear Seat Divider",
@@ -31881,7 +32052,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Rear Seat Divider",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "rear_window_bars": {
       "label": "Rear Window Bars",
@@ -31894,7 +32067,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Rear Window Bars",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "replacement_rear_seat": {
       "label": "Replacement Seat",
@@ -31907,7 +32082,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Replacement Rear Seat",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "rear_partition": {
       "label": "Rear Partition",
@@ -31920,7 +32097,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Rear Partition",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "floor_pan": {
       "label": "Floor Pan",
@@ -31933,7 +32112,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Floor Pan",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "bullet_proof_door_panel": {
       "label": "Bullet Proof Door Panel",
@@ -31946,7 +32127,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Bullet Proof Door Panel",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "bullet_proof_door_window": {
       "label": "Bullet Proof Door Window",
@@ -31959,7 +32142,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Bullet Proof Door Window",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "rear_storage_box": {
       "label": "Storage Box",
@@ -31972,7 +32157,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Storage Compartment",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "cargo_lighting": {
       "label": "Cargo Lighting",
@@ -31986,7 +32173,13 @@
       "tag_ids": [],
       "workbook_label_pattern": "Cargo Lighting",
       "sequence_scope": "global",
-      "category": "interior"
+      "category": "interior",
+      "location_mode": "text",
+      "location_options": [
+        "ON LIFT GATE",
+        "HEADLINER",
+        "ON LIFTGATE AND HEADLINER"
+      ]
     },
     "door_lock_button": {
       "label": "Door Lock Button",
@@ -32000,7 +32193,11 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Door Lock Button",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "ON LEFT D-PILLAR"
+      ]
     },
     "equipment_tray": {
       "label": "Equipment Tray",
@@ -32014,7 +32211,16 @@
       "tag_ids": [],
       "workbook_label_pattern": "Equipment Tray",
       "sequence_scope": "global",
-      "max_count": 1
+      "max_count": 1,
+      "location_mode": "text",
+      "location_options": [
+        "ON REAR PARTITION",
+        "UNDER CARGO BOX",
+        "PART OF CARGO MAXX",
+        "CARGO AREA FLOOR",
+        "ON REAR SEAT",
+        "IN CONSOLE"
+      ]
     },
     "gun_lock": {
       "label": "Gun Lock",
@@ -32036,7 +32242,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Gunlock {n}",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "gun_lock_bracket": {
       "label": "Gun Lock Bracket",
@@ -32046,7 +32254,9 @@
       "workbook_label_pattern": "Gunlock Bracket {n}",
       "sequence_scope": "global",
       "accessory_of": "gun_lock",
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": []
     },
     "k9_kennel": {
       "label": "K-9 Kennel",
@@ -32059,7 +32269,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "K-9 Kennel",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "k9_heat_alarm_popper": {
       "label": "K-9 Heat Alarm / Door Popper",
@@ -32072,7 +32284,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "K-9 Heat Alarm/Popper",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "k9_control_head": {
       "label": "K-9 Control Head",
@@ -32085,7 +32299,14 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "K-9 Control Head",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "IN CENTER CONSOLE",
+        "PASSENGER SIDE VISOR",
+        "TOP PLATE OF CONSOLE",
+        "RIGHT OF CONSOLE"
+      ]
     },
     "k9_add_ons": {
       "label": "K-9 Add-Ons",
@@ -32098,7 +32319,14 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "K-9 Add-Ons",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "IN CENTER CONSOLE",
+        "PASSENGER SIDE VISOR",
+        "TOP PLATE OF CONSOLE",
+        "RIGHT OF CONSOLE"
+      ]
     },
     "battery_tender": {
       "label": "Battery Tender",
@@ -32111,7 +32339,12 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Battery Tender",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "ON EQUIPMENT TRAY",
+        "UNDER HOOD"
+      ]
     },
     "auto_eject": {
       "label": "Auto Eject",
@@ -32124,7 +32357,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Auto Eject",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "placement"
     },
     "v2v_sync": {
       "label": "Vehicle to Vehicle Sync",
@@ -32138,7 +32372,12 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Vehicle to Vehicle Sync",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "IN LIGHT BAR",
+        "ON CARGO WINDOW"
+      ]
     },
     "cloud_system_tray": {
       "label": "Cloud System",
@@ -32152,7 +32391,12 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Cloud System",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "ON EQUIPMENT TRAY",
+        "FRONT OF PARTITION"
+      ]
     },
     "remote_start": {
       "label": "Remote Start",
@@ -32165,7 +32409,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Remote Start",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "arges_face": {
       "label": "Arges",
@@ -32179,7 +32425,8 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Arges",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "placement"
     },
     "arges_controller": {
       "label": "Arges Controller",
@@ -32192,7 +32439,12 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Arges Controller",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "LEFT ON DASH",
+        "IN CENTER CONSOLE"
+      ]
     },
     "arges_mount": {
       "label": "Arges Mount",
@@ -32202,7 +32454,9 @@
       "workbook_label_pattern": "Arges Mount",
       "sequence_scope": "global",
       "accessory_of": "arges_controller",
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": []
     },
     "photo_eye": {
       "label": "Photo Eye",
@@ -32215,7 +32469,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Photo Eye",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "gpd": {
       "label": "GPS",
@@ -32228,7 +32484,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "GPD W/ Extension",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "floor_mats": {
       "label": "Floor Mats",
@@ -32241,7 +32499,14 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Floor Mats",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "FRONT DRIVER AND PASSENGER",
+        "FRONT AND REAR",
+        "FRONT REAR AND CARGO",
+        "CARGO MAT"
+      ]
     },
     "seat_covers": {
       "label": "Seat Covers",
@@ -32254,7 +32519,15 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Seat Covers",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "DRIVER ONLY",
+        "DRIVER AND PASSENGER",
+        "FULL FRONT",
+        "FULL REAR",
+        "FRONT AND REAR"
+      ]
     },
     "window_tint": {
       "label": "Window Tint",
@@ -32267,7 +32540,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Window Tint",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "decals": {
       "label": "Decals",
@@ -32280,7 +32555,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Decals",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "harness": {
       "label": "Harness",
@@ -32293,7 +32570,9 @@
       ],
       "tag_ids": [],
       "workbook_label_pattern": "Harness",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "tracer_2_lamp": {
       "label": "2-Lamp Tracer",
@@ -32307,7 +32586,8 @@
       "tag_ids": [],
       "workbook_label_pattern": "2-Lamp Tracer",
       "sequence_scope": "global",
-      "category": "warning"
+      "category": "warning",
+      "location_mode": "placement"
     },
     "tracer_5_lamp": {
       "label": "5-Lamp Tracer",
@@ -32321,7 +32601,8 @@
       "tag_ids": [],
       "workbook_label_pattern": "5-Lamp Tracer",
       "sequence_scope": "global",
-      "category": "warning"
+      "category": "warning",
+      "location_mode": "placement"
     },
     "tracer_6_lamp": {
       "label": "6-Lamp Tracer",
@@ -32335,7 +32616,8 @@
       "tag_ids": [],
       "workbook_label_pattern": "6-Lamp Tracer",
       "sequence_scope": "global",
-      "category": "warning"
+      "category": "warning",
+      "location_mode": "placement"
     },
     "radio_speaker": {
       "label": "Radio Speaker",
@@ -32350,56 +32632,72 @@
         "comms"
       ],
       "workbook_label_pattern": "Radio Speaker",
-      "sequence_scope": "global"
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": []
     },
     "lighthead": {
       "label": "Lighthead",
       "type_id": "lights",
       "tree_positions": [],
       "tag_ids": [],
-      "accessory_category": "lighthead"
+      "accessory_category": "lighthead",
+      "location_mode": "text",
+      "location_options": []
     },
     "cable": {
       "label": "Cable",
       "type_id": "lights",
       "tree_positions": [],
       "tag_ids": [],
-      "accessory_category": "cable"
+      "accessory_category": "cable",
+      "location_mode": "text",
+      "location_options": []
     },
     "flange": {
       "label": "Flange",
       "type_id": "lights",
       "tree_positions": [],
       "tag_ids": [],
-      "accessory_category": "flange"
+      "accessory_category": "flange",
+      "location_mode": "text",
+      "location_options": []
     },
     "shroud": {
       "label": "Shroud",
       "type_id": "lights",
       "tree_positions": [],
       "tag_ids": [],
-      "accessory_category": "shroud"
+      "accessory_category": "shroud",
+      "location_mode": "text",
+      "location_options": []
     },
     "flasher_power": {
       "label": "Flasher / Power",
       "type_id": "lights",
       "tree_positions": [],
       "tag_ids": [],
-      "accessory_category": "flasher_power"
+      "accessory_category": "flasher_power",
+      "location_mode": "text",
+      "location_options": []
     },
     "bracket": {
       "label": "Bracket / Mount",
       "type_id": "lights",
       "tree_positions": [],
       "tag_ids": [],
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "location_mode": "text",
+      "location_options": []
     },
     "bar_takedown": {
       "label": "Take-Down / Alley",
       "type_id": "lights",
       "tree_positions": [],
       "tag_ids": [],
-      "accessory_category": "takedown"
+      "accessory_category": "takedown",
+      "location_mode": "text",
+      "location_options": []
     }
   },
   "placements": {
