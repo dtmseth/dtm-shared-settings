@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-07-01T21:01:51.701789+00:00",
+    "last_updated": "2026-07-01T21:02:12.931714+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -21904,7 +21904,9 @@
     "5_0_fab_dtm_eb1u": {
       "manufacturer_id": "5_0_fab_dtm",
       "model": "EQUIPMENT BOX 4IN DEEP 36IN WIDE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "rear_storage_box"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
