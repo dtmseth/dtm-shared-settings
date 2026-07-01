@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-07-01T21:02:21.955250+00:00",
+    "last_updated": "2026-07-01T21:02:38.658317+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -22946,7 +22946,7 @@
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 350.0,
           "vehicle_tags": [
-            "any"
+            "PIU"
           ],
           "options": {}
         }
