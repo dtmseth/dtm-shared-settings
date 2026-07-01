@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-07-01T21:03:03.422485+00:00",
+    "last_updated": "2026-07-01T21:02:58.815299+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -22953,7 +22953,7 @@
           "options": {}
         }
       ],
-      "reviewed": true
+      "reviewed": false
     },
     "soundoff_etsa461hpp_ext": {
       "manufacturer_id": "soundoff",
