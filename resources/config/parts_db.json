@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-07-01T21:01:18.111340+00:00",
+    "last_updated": "2026-07-01T21:01:39.996878+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -19346,7 +19346,10 @@
         }
       ],
       "reviewed": false,
-      "accessory_category": "bracket_mount"
+      "accessory_category": "bracket_mount",
+      "accessory_of_products": [
+        "whelen_ion"
+      ]
     },
     "qb_unassigned_bu_353n": {
       "manufacturer_id": "qb_unassigned",
