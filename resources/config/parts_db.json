@@ -19006,7 +19006,9 @@
     "intermotive_a_bom621_a": {
       "manufacturer_id": "intermotive",
       "model": "BLACK OUT MODULE FOR 2021+ CHEVY TAHOE PPV/SSV",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "vehicle_interface"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19418,7 +19420,9 @@
     "intermotive_b_bom560_cc": {
       "manufacturer_id": "intermotive",
       "model": "BLACKOUT MODULE FOR 2020+ FORD INTERCEPTOR UTILITY - MUST FILL OUT ORDER FORM",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "vehicle_interface"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20119,7 +20123,9 @@
     "qb_unassigned_c_bom701_bc": {
       "manufacturer_id": "qb_unassigned",
       "model": "BLACKOUT MODULE KIT FOR 2018-2020 DODGE CHARGER PURSUIT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "vehicle_interface"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20144,7 +20150,9 @@
     "qb_unassigned_c_bom760_b": {
       "manufacturer_id": "qb_unassigned",
       "model": "BLACKOUT MODULE KIT FOR 2018-2023 DODGE DURANGO",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "vehicle_interface"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -22823,7 +22831,9 @@
     "soundoff_englnk002": {
       "manufacturer_id": "soundoff",
       "model": "BLUEPRINT BLUELINK OBD II DATA MODULE FOR FORD INTERCEPTOR UTILITY",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "vehicle_interface"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -24381,7 +24391,9 @@
     "intermotive_h_bom560_dc": {
       "manufacturer_id": "intermotive",
       "model": "BLACKOUT MODULE FOR 2025+ FORD INTERCEPTOR UTILITY - MUST FILL OUT ORDER FORM",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "vehicle_interface"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -25601,7 +25613,9 @@
     "qb_unassigned_md_ic6": {
       "manufacturer_id": "qb_unassigned",
       "model": "MOMENTO INFRARED INTERIOR CAMERA",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -25909,7 +25923,9 @@
     "night_ride_nrp_sl": {
       "manufacturer_id": "night_ride",
       "model": "PRO-SL S04 384 (RING)",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -25934,7 +25950,9 @@
     "night_ride_nrp_sl_640": {
       "manufacturer_id": "night_ride",
       "model": "PRO-SL S04 640 (RING)",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -25984,7 +26002,9 @@
     "night_ride_nrp_slc": {
       "manufacturer_id": "night_ride",
       "model": "PRO-SL S04/S14 CABLELESS 384",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26009,7 +26029,9 @@
     "night_ride_nrp_slc_640": {
       "manufacturer_id": "night_ride",
       "model": "PRO-SL S04/S14 CABLELESS 640",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26109,7 +26131,9 @@
     "night_ride_nrr0010": {
       "manufacturer_id": "night_ride",
       "model": "TRAILBLAZER 384",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26184,7 +26208,9 @@
     "night_ride_nrr2ndck": {
       "manufacturer_id": "night_ride",
       "model": "TRAILBLAZER 2ND CAR KIT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26234,7 +26260,9 @@
     "night_ride_nrr640_13e": {
       "manufacturer_id": "night_ride",
       "model": "TRAILBLAZER 640",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26284,7 +26312,9 @@
     "night_ride_nrs10010": {
       "manufacturer_id": "night_ride",
       "model": "360 CLASSIC 384-13",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26309,7 +26339,9 @@
     "night_ride_nrs10010c": {
       "manufacturer_id": "night_ride",
       "model": "360 CLASSIC 384 -13 W CASE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26334,7 +26366,9 @@
     "night_ride_nrs384_19": {
       "manufacturer_id": "night_ride",
       "model": "360 CLASSIC 384 -19",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26359,7 +26393,9 @@
     "night_ride_nrs384_19c": {
       "manufacturer_id": "night_ride",
       "model": "360 CLASSIC 384-19 W CASE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26384,7 +26420,9 @@
     "night_ride_nrs384_35": {
       "manufacturer_id": "night_ride",
       "model": "360 CLASSIC TELEPHOTO 384-35",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26409,7 +26447,9 @@
     "night_ride_nrs384_35c": {
       "manufacturer_id": "night_ride",
       "model": "360 CLASSIC TELEPHOTO 384-35 W CASE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26434,7 +26474,9 @@
     "night_ride_nrs640_19": {
       "manufacturer_id": "night_ride",
       "model": "360 HIGHRES 640-19",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26459,7 +26501,9 @@
     "night_ride_nrs640_19c": {
       "manufacturer_id": "night_ride",
       "model": "360 HIGHRES 640-19 W CASE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26484,7 +26528,9 @@
     "night_ride_nrs640_35c": {
       "manufacturer_id": "night_ride",
       "model": "360 HIGHRES TELEPHOTO 640-35 W CASE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26509,7 +26555,9 @@
     "night_ride_nrsc0010": {
       "manufacturer_id": "night_ride",
       "model": "360 Hard Case",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26534,7 +26582,9 @@
     "night_ride_nrsn0010": {
       "manufacturer_id": "night_ride",
       "model": "SENTINEL 384",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26559,7 +26609,9 @@
     "night_ride_nrsn640_13": {
       "manufacturer_id": "night_ride",
       "model": "SENTINEL 640",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26584,7 +26636,9 @@
     "night_ride_nrsx2ndck": {
       "manufacturer_id": "night_ride",
       "model": "360 PLUS 2ND CAR KIT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26609,7 +26663,9 @@
     "night_ride_nrsx640_19c": {
       "manufacturer_id": "night_ride",
       "model": "360 PLUS 640-19 W CASE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26634,7 +26690,9 @@
     "night_ride_nrsx640_35c": {
       "manufacturer_id": "night_ride",
       "model": "360 PLUS TELEPHOT 640-35 W CASE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26684,7 +26742,9 @@
     "noptic_nv3_psv_3000": {
       "manufacturer_id": "noptic",
       "model": "NV3 PSV-3000 THERMAL IMAGING CAMERA",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "thermal_imager"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28200,7 +28260,9 @@
     "santa_cruz_sc_1201": {
       "manufacturer_id": "santa_cruz",
       "model": "INSERT FOR SC-1 GUNLOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28225,7 +28287,9 @@
     "santa_cruz_sc_1201_b": {
       "manufacturer_id": "santa_cruz",
       "model": "RUBBER INSERT FOR SC-1 GUNLOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28277,7 +28341,9 @@
     "santa_cruz_sc_1900": {
       "manufacturer_id": "santa_cruz",
       "model": "ADJUSTABLE STEEL BUTT PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28302,7 +28368,9 @@
     "santa_cruz_sc_1900_xl": {
       "manufacturer_id": "santa_cruz",
       "model": "EXTRA LARGE ADUSTABLE STEEL BUTT PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28327,7 +28395,9 @@
     "santa_cruz_sc_1901": {
       "manufacturer_id": "santa_cruz",
       "model": "SOLID ALUMINUM BUTT PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28402,7 +28472,9 @@
     "santa_cruz_sc_1903_ca": {
       "manufacturer_id": "santa_cruz",
       "model": "#CA - BARREL KEY",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28427,7 +28499,9 @@
     "santa_cruz_sc_1909": {
       "manufacturer_id": "santa_cruz",
       "model": "GUN LOCK SOLENOID",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28479,7 +28553,9 @@
     "santa_cruz_sc_2": {
       "manufacturer_id": "santa_cruz",
       "model": "SHOTGUN LOCK WITHOUT KEY OVERRIDE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28504,7 +28580,9 @@
     "santa_cruz_sc_2_ar": {
       "manufacturer_id": "santa_cruz",
       "model": "LARGE GUN LOCK WITHOUT KEY OVERRIDE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28529,7 +28607,9 @@
     "santa_cruz_sc_401": {
       "manufacturer_id": "santa_cruz",
       "model": "MUZZLE DOWN RACK UPRIGHT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28554,7 +28634,9 @@
     "santa_cruz_sc_403": {
       "manufacturer_id": "santa_cruz",
       "model": "L MUZZLE PLATE FOR CUP OR PLUG",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28579,7 +28661,9 @@
     "santa_cruz_sc_404": {
       "manufacturer_id": "santa_cruz",
       "model": "MUZZLE PLUG",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28631,7 +28715,9 @@
     "santa_cruz_sc_502": {
       "manufacturer_id": "santa_cruz",
       "model": "18\" LONG FLAT BAR",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28656,7 +28742,9 @@
     "santa_cruz_sc_503": {
       "manufacturer_id": "santa_cruz",
       "model": "24\" LONG FLAT BAR",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28681,7 +28769,9 @@
     "santa_cruz_sc_6": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL GUN LOCK #2 OR # KEY OVERRIDE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28706,7 +28796,9 @@
     "santa_cruz_sc_6000": {
       "manufacturer_id": "santa_cruz",
       "model": "EXTERNAL MAGNET RESISTANT SHEILD FOR SC-1 GUNLOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28731,7 +28823,9 @@
     "santa_cruz_sc_6001": {
       "manufacturer_id": "santa_cruz",
       "model": "EXTERNAL MAGNET RESISTANT SHIELD FOR SC-1-AR GUNLOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28964,7 +29058,9 @@
     "santa_cruz_sc_917_mr": {
       "manufacturer_id": "santa_cruz",
       "model": "RAPID-ADJUST MUZZLE DOWN RIFLE RACK WITH SC-6 XL LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28989,7 +29085,9 @@
     "santa_cruz_sc_917_ms_ksg": {
       "manufacturer_id": "santa_cruz",
       "model": "RAPID-ADJUST MUZZLE DOWN SHOTGUN OR KSG RACK W/SC-6 XL LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -29291,7 +29389,9 @@
     "santa_cruz_sc_920_mr": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL MUZZLE DOWN RIFLE RACK WITH SC-6 XL LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -29316,7 +29416,9 @@
     "santa_cruz_sc_920_ms_ksg": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL MUZZLE DOWN SHOTGUN OR KSG RACK W/SC-6 XL LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -29774,7 +29876,9 @@
     "santa_cruz_sc_9303": {
       "manufacturer_id": "santa_cruz",
       "model": "FLAT MUZZLE PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -29799,7 +29903,9 @@
     "santa_cruz_sc_931_1": {
       "manufacturer_id": "santa_cruz",
       "model": "SHOTGUN MUZZLE DOWN SETUP WITH SC-1 GUN LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -29824,7 +29930,9 @@
     "santa_cruz_sc_931_mr": {
       "manufacturer_id": "santa_cruz",
       "model": "RIFLE MUZZLE DOWN SETUP WITH SC-6 XL LOCK & MUZZLE CUP",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -29849,7 +29957,9 @@
     "santa_cruz_sc_931_ms": {
       "manufacturer_id": "santa_cruz",
       "model": "SHOTGUN MUZZLE DOWN SETUP WITH SC-6 XL LOCK & MUZZLE PLUG",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -29874,7 +29984,9 @@
     "santa_cruz_sc_9311": {
       "manufacturer_id": "santa_cruz",
       "model": "MUZZLE CUP",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -29899,7 +30011,9 @@
     "santa_cruz_sc_9311_xl": {
       "manufacturer_id": "santa_cruz",
       "model": "EXTRA LARGE MUZZLE CUP",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
