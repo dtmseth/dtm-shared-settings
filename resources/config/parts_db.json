@@ -4145,8 +4145,8 @@
             "TAHOE",
             "F-150"
           ],
-          "color": "",
-          "secondary_color": "",
+          "color": "red",
+          "secondary_color": "white",
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "54\" Legacy WCX, Red/White (white front / amber rear)"
@@ -4163,8 +4163,8 @@
             "TAHOE",
             "F-150"
           ],
-          "color": "",
-          "secondary_color": "",
+          "color": "red",
+          "secondary_color": "blue",
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "54\" Legacy WCX Duo, Red/Blue (white front / amber rear)"
@@ -4178,8 +4178,8 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "",
-          "secondary_color": "",
+          "color": "red",
+          "secondary_color": "blue",
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "48\" Legacy WCX Duo, Red/Blue (white front / amber rear)"
@@ -4264,8 +4264,8 @@
             "TAHOE",
             "F-150"
           ],
-          "color": "",
-          "secondary_color": "",
+          "color": "red",
+          "secondary_color": "white",
           "tertiary_color": "",
           "lens_type": ""
         },
@@ -4284,8 +4284,8 @@
             "TAHOE",
             "F-150"
           ],
-          "color": "",
-          "secondary_color": "",
+          "color": "red",
+          "secondary_color": "blue",
           "tertiary_color": "",
           "lens_type": ""
         },
@@ -4301,8 +4301,8 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "",
-          "secondary_color": "",
+          "color": "red",
+          "secondary_color": "blue",
           "tertiary_color": "",
           "lens_type": ""
         },
@@ -4321,8 +4321,8 @@
             "TAHOE",
             "F-150"
           ],
-          "color": "",
-          "secondary_color": "",
+          "color": "red",
+          "secondary_color": "white",
           "tertiary_color": "",
           "lens_type": ""
         },
@@ -4341,8 +4341,8 @@
             "TAHOE",
             "F-150"
           ],
-          "color": "",
-          "secondary_color": "",
+          "color": "red",
+          "secondary_color": "blue",
           "tertiary_color": "",
           "lens_type": ""
         },
@@ -4358,8 +4358,8 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "",
-          "secondary_color": "",
+          "color": "red",
+          "secondary_color": "blue",
           "tertiary_color": "",
           "lens_type": ""
         }
@@ -14503,206 +14503,6 @@
       ],
       "reviewed": false
     },
-    "stalker_155_2211_00": {
-      "manufacturer_id": "stalker",
-      "model": "REMOTE DISPLAY CABLE 10FT",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "155-2211-00",
-          "friendly_name": "STALKER REMOTE DISPLAY CABLE 10FT",
-          "qb_item_id": "33",
-          "qb_sku": "",
-          "qb_unit_price": 79.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 79.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "stalker_155_2211_25": {
-      "manufacturer_id": "stalker",
-      "model": "REMOTE DISPLAY CABLE 25 FT",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "155-2211-25",
-          "friendly_name": "STALKER REMOTE DISPLAY CABLE 25 FT",
-          "qb_item_id": "34",
-          "qb_sku": "",
-          "qb_unit_price": 134.4,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 134.4,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "stalker_155_2591_02": {
-      "manufacturer_id": "stalker",
-      "model": "2 FT. ANTENNA CABLE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "155-2591-02",
-          "friendly_name": "STALKER 2 FT. ANTENNA CABLE",
-          "qb_item_id": "35",
-          "qb_sku": "",
-          "qb_unit_price": 99.6,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 99.6,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "stalker_155_2591_04": {
-      "manufacturer_id": "stalker",
-      "model": "4 FT ANTENNA CABLE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "155-2591-04",
-          "friendly_name": "STALKER 4 FT ANTENNA CABLE",
-          "qb_item_id": "36",
-          "qb_sku": "",
-          "qb_unit_price": 124.8,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 124.8,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "stalker_155_2591_08": {
-      "manufacturer_id": "stalker",
-      "model": "8 FT ANTENNA CABLE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "155-2591-08",
-          "friendly_name": "STALKER 8 FT ANTENNA CABLE",
-          "qb_item_id": "37",
-          "qb_sku": "",
-          "qb_unit_price": 124.8,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 124.8,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "stalker_155_2591_16": {
-      "manufacturer_id": "stalker",
-      "model": "16 FT ANTENNA CABLE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "155-2591-16",
-          "friendly_name": "STALKER 16 FT ANTENNA CABLE",
-          "qb_item_id": "38",
-          "qb_sku": "",
-          "qb_unit_price": 168.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 168.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "stalker_155_2591_20": {
-      "manufacturer_id": "stalker",
-      "model": "20 FT ANTENNA CABLE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "155-2591-20",
-          "friendly_name": "STALKER 20 FT ANTENNA CABLE",
-          "qb_item_id": "39",
-          "qb_sku": "",
-          "qb_unit_price": 188.4,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 188.4,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "stalker_155_2591_25": {
-      "manufacturer_id": "stalker",
-      "model": "25 FT ANTENNA CABLE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "155-2591-25",
-          "friendly_name": "STALKER 25 FT ANTENNA CABLE",
-          "qb_item_id": "40",
-          "qb_sku": "",
-          "qb_unit_price": 188.4,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 188.4,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "gamber_johnson_16298": {
       "manufacturer_id": "gamber_johnson",
       "model": "POCKET, 4.5\" X 2\" DEEP KNOCKOUT",
@@ -22228,431 +22028,6 @@
       ],
       "reviewed": false
     },
-    "soundoff_emps1qms3f": {
-      "manufacturer_id": "soundoff",
-      "model": "MPOWER\u00ae 3\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, DUAL COLOR - AMBER/WHITE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS1QMS3F",
-          "friendly_name": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, DUAL COLOR - AMBER/WHITE",
-          "qb_item_id": "475",
-          "qb_sku": "",
-          "qb_unit_price": 127.02,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 127.02,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_emps1sls3d": {
-      "manufacturer_id": "soundoff",
-      "model": "3\" MPOWER STUD MOUNT RED/WHITE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS1SLS3D",
-          "friendly_name": "SOUNDOFF 3\" MPOWER STUD MOUNT RED/WHITE",
-          "qb_item_id": "476",
-          "qb_sku": "",
-          "qb_unit_price": 84.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 84.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_emps1sls3e": {
-      "manufacturer_id": "soundoff",
-      "model": "3\" MPOWER STUD MOUNT BLUE/WHITE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS1SLS3E",
-          "friendly_name": "SOUNDOFF 3\" MPOWER STUD MOUNT BLUE/WHITE",
-          "qb_item_id": "477",
-          "qb_sku": "",
-          "qb_unit_price": 84.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 84.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_emps1sms3b": {
-      "manufacturer_id": "soundoff",
-      "model": "MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS1SMS3B",
-          "friendly_name": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE",
-          "qb_item_id": "478",
-          "qb_sku": "",
-          "qb_unit_price": 127.02,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 127.02,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_emps1sms3r": {
-      "manufacturer_id": "soundoff",
-      "model": "MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - RED",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS1SMS3R",
-          "friendly_name": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - RED",
-          "qb_item_id": "479",
-          "qb_sku": "",
-          "qb_unit_price": 127.02,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 127.02,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_emps2qms4d": {
-      "manufacturer_id": "soundoff",
-      "model": "MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS2QMS4D",
-          "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
-          "qb_item_id": "480",
-          "qb_sku": "",
-          "qb_unit_price": 142.1,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 142.1,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_emps2qms4e": {
-      "manufacturer_id": "soundoff",
-      "model": "MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS2QMS4E",
-          "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
-          "qb_item_id": "481",
-          "qb_sku": "",
-          "qb_unit_price": 142.1,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 142.1,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_emps2sms4d": {
-      "manufacturer_id": "soundoff",
-      "model": "MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS2SMS4D",
-          "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
-          "qb_item_id": "482",
-          "qb_sku": "",
-          "qb_unit_price": 142.1,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 142.1,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_emps2sms4e": {
-      "manufacturer_id": "soundoff",
-      "model": "MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS2SMS4E",
-          "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
-          "qb_item_id": "483",
-          "qb_sku": "",
-          "qb_unit_price": 142.1,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 142.1,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_emps2sts3a_mpower_4_fascia_light_w_stud_mount_18_hard_wire_w_sync_option_sae_class_1_ca_tit": {
-      "manufacturer_id": "soundoff",
-      "model": "EMPS2STS3A MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - AMBER",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS2STS3A mpower\u00ae 4\" Fascia Light w/ Stud Mount, 18\" hard wire w/ sync option, SAE Class 1 & CA Tit",
-          "friendly_name": "SOUNDOFF EMPS2STS3A MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - AMBER",
-          "qb_item_id": "484",
-          "qb_sku": "",
-          "qb_unit_price": 120.96,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 120.96,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_emps2sts3b": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "SOUNDOF EMPS2STS3B MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS2STS3B",
-          "friendly_name": "SOUNDOF EMPS2STS3B MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE",
-          "qb_item_id": "485",
-          "qb_sku": "",
-          "qb_unit_price": 120.96,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 120.96,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_emps2sts4d": {
-      "manufacturer_id": "soundoff",
-      "model": "MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS2STS4D",
-          "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
-          "qb_item_id": "486",
-          "qb_sku": "",
-          "qb_unit_price": 142.1,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 142.1,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_emps2sts4e": {
-      "manufacturer_id": "soundoff",
-      "model": "MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS2STS4E",
-          "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
-          "qb_item_id": "487",
-          "qb_sku": "",
-          "qb_unit_price": 142.1,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 142.1,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_emps2sts4k": {
-      "manufacturer_id": "soundoff",
-      "model": "MPOWER STUD MOUNT LIGHTHEAD - RED/AMBER - 12 LED DUAL COLOR",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS2STS4K",
-          "friendly_name": "SOUNDOFF MPOWER STUD MOUNT LIGHTHEAD - RED/AMBER - 12 LED DUAL COLOR",
-          "qb_item_id": "488",
-          "qb_sku": "",
-          "qb_unit_price": 102.3,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 102.3,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_emps2sts4m": {
-      "manufacturer_id": "soundoff",
-      "model": "MPOWER STUD MOUNT LIGHTHEAD - BLUE/AMBER - 12 LED DUAL COLOR",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EMPS2STS4M",
-          "friendly_name": "SOUNDOFF MPOWER STUD MOUNT LIGHTHEAD - BLUE/AMBER - 12 LED DUAL COLOR",
-          "qb_item_id": "489",
-          "qb_sku": "",
-          "qb_unit_price": 102.3,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 102.3,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_enfsgs3d": {
-      "manufacturer_id": "soundoff",
-      "model": "NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "ENFSGS3D",
-          "friendly_name": "SOUNDOFF NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
-          "qb_item_id": "490",
-          "qb_sku": "",
-          "qb_unit_price": 154.28,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 154.28,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_enfsgs3e": {
-      "manufacturer_id": "soundoff",
-      "model": "NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "ENFSGS3E",
-          "friendly_name": "SOUNDOFF NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
-          "qb_item_id": "491",
-          "qb_sku": "",
-          "qb_unit_price": 154.28,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 154.28,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "soundoff_enftc001bw": {
       "manufacturer_id": "soundoff",
       "model": "NFORCE 8 HEAD INTERIOR TRAFFIC CONTROLLER - 35.5\" LONG - 12VDC - 12 LED DUAL COLOR - (DS) RA/RA/RA/RA/BA/BA/BA/BA (PS) - INCLUDES MEDIUM 2 HOLE BRACKETS",
@@ -23005,31 +22380,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_ent3b3d": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "SOUND OFF SURFACE MOUNT DUO COLOR INTERSECTOR SUPER LED LIGHT KIT - INCLUDES 1 LIGHT WITH MOUNTING GASKET AND INLINE FLASHER RED/WHT - CLEAR LENS - BLACK HSNG",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "ENT3B3D",
-          "friendly_name": "SOUND OFF SURFACE MOUNT DUO COLOR INTERSECTOR SUPER LED LIGHT KIT - INCLUDES 1 LIGHT WITH MOUNTING GASKET AND INLINE FLASHER RED/WHT - CLEAR LENS - BLACK HSNG",
-          "qb_item_id": "506",
-          "qb_sku": "",
-          "qb_unit_price": 163.9,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 163.9,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "whelen_es2me": {
       "manufacturer_id": "whelen",
       "model": "54\" LEGACY MIDNIGHT EDITION",
@@ -23210,7 +22560,9 @@
     "soundoff_etsa461hpp_ext": {
       "manufacturer_id": "soundoff",
       "model": "NERGY\u00ae 400 SERIES HANDHELD REMOTE SIREN W/ 13 FT COIL CABLE LENGTH, 10-16V - 100 WATT SINGLE-TONE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "control_head"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -23784,31 +23136,6 @@
       ],
       "reviewed": false
     },
-    "feniex_fsm": {
-      "manufacturer_id": "feniex",
-      "model": "FUSION SURFACE MOUNT (RED/WHITE 40\u00b0 OPTICS)",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "FSM",
-          "friendly_name": "FENIEX FUSION SURFACE MOUNT (RED/WHITE 40\u00b0 OPTICS)",
-          "qb_item_id": "546",
-          "qb_sku": "",
-          "qb_unit_price": 84.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 84.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "feniex_fsma": {
       "manufacturer_id": "feniex",
       "model": "FUSION SURFACE MOUNT AMBER",
@@ -23821,56 +23148,6 @@
           "part_number": "FSMA",
           "friendly_name": "FENIEX FUSION SURFACE MOUNT AMBER",
           "qb_item_id": "547",
-          "qb_sku": "",
-          "qb_unit_price": 49.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 49.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "feniex_fsmb": {
-      "manufacturer_id": "feniex",
-      "model": "FUSION SURFACE MOUNT BLUE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "FSMB",
-          "friendly_name": "FENIEX FUSION SURFACE MOUNT BLUE",
-          "qb_item_id": "548",
-          "qb_sku": "",
-          "qb_unit_price": 49.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 49.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "feniex_fsmr": {
-      "manufacturer_id": "feniex",
-      "model": "FUSION SURFACE MOUNT RED",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "FSMR",
-          "friendly_name": "FENIEX FUSION SURFACE MOUNT RED",
-          "qb_item_id": "549",
           "qb_sku": "",
           "qb_unit_price": 49.0,
           "qb_inactive": false,
@@ -27048,7 +26325,9 @@
     "motorola_pmkn4033a": {
       "manufacturer_id": "motorola",
       "model": "CABLE, MOBILE MIC EXTENSION",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "radio_cable"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27068,12 +26347,19 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "cable",
+      "accessory_of_products": [
+        "motorola_all_in_one_unit",
+        "motorola_split_unit"
+      ]
     },
     "soundoff_pmp2bkdgaj": {
       "manufacturer_id": "soundoff",
       "model": "90 DEGREE DECK/GRILLE ADJUSTABLE BRACKET KIT FOR MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT - BLACK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27093,12 +26379,20 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "bracket_mount",
+      "accessory_of_products": [
+        "soundoff_mpower_3_fascia",
+        "soundoff_mpower_4_fascia",
+        "soundoff_nforce_deck_grille"
+      ]
     },
     "soundoff_pmp2brk2lpv": {
       "manufacturer_id": "soundoff",
       "model": "LICENSE PLATE BRACKET, VERTICAL MOUNT FOR MPOWER 4\" FASCIA LIGHT W/ STUD MOUNT - MOUNTS 2 LIGHTS, ONE ON EACH SIDE OF THE LICENSE PLACE (EACH)",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27118,7 +26412,11 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "bracket_mount",
+      "accessory_of_products": [
+        "soundoff_mpower_4_fascia"
+      ]
     },
     "soundoff_pmp2wdg15b": {
       "manufacturer_id": "soundoff",
@@ -27148,7 +26446,9 @@
     "qb_unassigned_pmpsabk005": {
       "manufacturer_id": "qb_unassigned",
       "model": "SOUND OFF MPOWER\u00ae THIRD BRAKE LIGHT BRACKET FOR USE WITH (2) MPOWER 4X2 STUD MOUNT LIGHTS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27168,7 +26468,11 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "bracket_mount",
+      "accessory_of_products": [
+        "soundoff_mpower_4_fascia"
+      ]
     },
     "nova_preemption_light_head": {
       "manufacturer_id": "nova",
@@ -27577,7 +26881,9 @@
     "qb_unassigned_radio_antenna": {
       "manufacturer_id": "qb_unassigned",
       "model": "RADIO ANTENNA CABLE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "radio_cable"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27597,12 +26903,19 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "cable",
+      "accessory_of_products": [
+        "motorola_all_in_one_unit",
+        "motorola_split_unit"
+      ]
     },
     "motorola_radio_refresh_kit": {
       "manufacturer_id": "motorola",
       "model": "INCLUDES POWER CABLE, RADIO ANTENNA CABLE AND COMMUNICATION CABLE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "radio_cable"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27622,7 +26935,12 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "cable",
+      "accessory_of_products": [
+        "motorola_all_in_one_unit",
+        "motorola_split_unit"
+      ]
     },
     "ram_ram_201u_d": {
       "manufacturer_id": "ram",
@@ -31360,6 +30678,573 @@
         }
       ],
       "reviewed": false
+    },
+    "stalker_antenna_cable": {
+      "manufacturer_id": "stalker",
+      "model": "Antenna Cable",
+      "fits_part_types": [
+        "radar_cable"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "155-2591-02",
+          "friendly_name": "STALKER 2 FT. ANTENNA CABLE",
+          "qb_item_id": "35",
+          "qb_sku": "",
+          "qb_unit_price": 99.6,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 99.6,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        },
+        {
+          "part_number": "155-2591-04",
+          "friendly_name": "STALKER 4 FT ANTENNA CABLE",
+          "qb_item_id": "36",
+          "qb_sku": "",
+          "qb_unit_price": 124.8,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 124.8,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        },
+        {
+          "part_number": "155-2591-08",
+          "friendly_name": "STALKER 8 FT ANTENNA CABLE",
+          "qb_item_id": "37",
+          "qb_sku": "",
+          "qb_unit_price": 124.8,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 124.8,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        },
+        {
+          "part_number": "155-2591-16",
+          "friendly_name": "STALKER 16 FT ANTENNA CABLE",
+          "qb_item_id": "38",
+          "qb_sku": "",
+          "qb_unit_price": 168.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 168.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        },
+        {
+          "part_number": "155-2591-20",
+          "friendly_name": "STALKER 20 FT ANTENNA CABLE",
+          "qb_item_id": "39",
+          "qb_sku": "",
+          "qb_unit_price": 188.4,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 188.4,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        },
+        {
+          "part_number": "155-2591-25",
+          "friendly_name": "STALKER 25 FT ANTENNA CABLE",
+          "qb_item_id": "40",
+          "qb_sku": "",
+          "qb_unit_price": 188.4,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 188.4,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": true,
+      "accessory_category": "cable",
+      "accessory_of_products": [
+        "stalker_dsr",
+        "stalker_dsr_2x",
+        "stalker_806_0022_00",
+        "stalker_806_0036_00",
+        "stalker_vehicle_specific_bracket",
+        "stalker_low_a_bracket",
+        "stalker_high_a_bracket",
+        "stalker_dual_swivel_bracket"
+      ]
+    },
+    "stalker_remote_display_cable": {
+      "manufacturer_id": "stalker",
+      "model": "Remote Display Cable",
+      "fits_part_types": [
+        "radar_cable"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "155-2211-00",
+          "friendly_name": "STALKER REMOTE DISPLAY CABLE 10FT",
+          "qb_item_id": "33",
+          "qb_sku": "",
+          "qb_unit_price": 79.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 79.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        },
+        {
+          "part_number": "155-2211-25",
+          "friendly_name": "STALKER REMOTE DISPLAY CABLE 25 FT",
+          "qb_item_id": "34",
+          "qb_sku": "",
+          "qb_unit_price": 134.4,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 134.4,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": true,
+      "accessory_category": "cable",
+      "accessory_of_products": [
+        "stalker_dsr",
+        "stalker_dsr_2x",
+        "stalker_806_0022_00",
+        "stalker_806_0036_00"
+      ]
+    },
+    "soundoff_mpower_3_fascia": {
+      "manufacturer_id": "soundoff",
+      "model": "MPOWER 3\" Fascia Light",
+      "fits_part_types": [
+        "warning_light"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "EMPS1QMS3F",
+          "friendly_name": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, DUAL COLOR - AMBER/WHITE",
+          "qb_item_id": "475",
+          "qb_sku": "",
+          "qb_unit_price": 127.02,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 127.02,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "amber",
+          "secondary_color": "white"
+        },
+        {
+          "part_number": "EMPS1SLS3D",
+          "friendly_name": "SOUNDOFF 3\" MPOWER STUD MOUNT RED/WHITE",
+          "qb_item_id": "476",
+          "qb_sku": "",
+          "qb_unit_price": 84.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 84.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "red",
+          "secondary_color": "white"
+        },
+        {
+          "part_number": "EMPS1SLS3E",
+          "friendly_name": "SOUNDOFF 3\" MPOWER STUD MOUNT BLUE/WHITE",
+          "qb_item_id": "477",
+          "qb_sku": "",
+          "qb_unit_price": 84.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 84.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "blue",
+          "secondary_color": "white"
+        },
+        {
+          "part_number": "EMPS1SMS3B",
+          "friendly_name": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE",
+          "qb_item_id": "478",
+          "qb_sku": "",
+          "qb_unit_price": 127.02,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 127.02,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "blue",
+          "secondary_color": ""
+        },
+        {
+          "part_number": "EMPS1SMS3R",
+          "friendly_name": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - RED",
+          "qb_item_id": "479",
+          "qb_sku": "",
+          "qb_unit_price": 127.02,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 127.02,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "red",
+          "secondary_color": ""
+        }
+      ],
+      "reviewed": true
+    },
+    "soundoff_mpower_4_fascia": {
+      "manufacturer_id": "soundoff",
+      "model": "MPOWER 4\" Fascia Light",
+      "fits_part_types": [
+        "warning_light"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "EMPS2QMS4D",
+          "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
+          "qb_item_id": "480",
+          "qb_sku": "",
+          "qb_unit_price": 142.1,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 142.1,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "red",
+          "secondary_color": "white"
+        },
+        {
+          "part_number": "EMPS2QMS4E",
+          "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
+          "qb_item_id": "481",
+          "qb_sku": "",
+          "qb_unit_price": 142.1,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 142.1,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "blue",
+          "secondary_color": "white"
+        },
+        {
+          "part_number": "EMPS2SMS4D",
+          "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
+          "qb_item_id": "482",
+          "qb_sku": "",
+          "qb_unit_price": 142.1,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 142.1,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "red",
+          "secondary_color": "white"
+        },
+        {
+          "part_number": "EMPS2SMS4E",
+          "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
+          "qb_item_id": "483",
+          "qb_sku": "",
+          "qb_unit_price": 142.1,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 142.1,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "blue",
+          "secondary_color": "white"
+        },
+        {
+          "part_number": "EMPS2STS3A mpower\u00ae 4\" Fascia Light w/ Stud Mount, 18\" hard wire w/ sync option, SAE Class 1 & CA Tit",
+          "friendly_name": "SOUNDOFF EMPS2STS3A MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - AMBER",
+          "qb_item_id": "484",
+          "qb_sku": "",
+          "qb_unit_price": 120.96,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 120.96,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "amber",
+          "secondary_color": ""
+        },
+        {
+          "part_number": "EMPS2STS3B",
+          "friendly_name": "SOUNDOF EMPS2STS3B MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE",
+          "qb_item_id": "485",
+          "qb_sku": "",
+          "qb_unit_price": 120.96,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 120.96,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "blue",
+          "secondary_color": ""
+        },
+        {
+          "part_number": "EMPS2STS4D",
+          "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
+          "qb_item_id": "486",
+          "qb_sku": "",
+          "qb_unit_price": 142.1,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 142.1,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "red",
+          "secondary_color": "white"
+        },
+        {
+          "part_number": "EMPS2STS4E",
+          "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
+          "qb_item_id": "487",
+          "qb_sku": "",
+          "qb_unit_price": 142.1,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 142.1,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "blue",
+          "secondary_color": "white"
+        },
+        {
+          "part_number": "EMPS2STS4K",
+          "friendly_name": "SOUNDOFF MPOWER STUD MOUNT LIGHTHEAD - RED/AMBER - 12 LED DUAL COLOR",
+          "qb_item_id": "488",
+          "qb_sku": "",
+          "qb_unit_price": 102.3,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 102.3,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "red",
+          "secondary_color": "amber"
+        },
+        {
+          "part_number": "EMPS2STS4M",
+          "friendly_name": "SOUNDOFF MPOWER STUD MOUNT LIGHTHEAD - BLUE/AMBER - 12 LED DUAL COLOR",
+          "qb_item_id": "489",
+          "qb_sku": "",
+          "qb_unit_price": 102.3,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 102.3,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "blue",
+          "secondary_color": "amber"
+        }
+      ],
+      "reviewed": true
+    },
+    "soundoff_nforce_deck_grille": {
+      "manufacturer_id": "soundoff",
+      "model": "NForce Deck/Grille Light",
+      "fits_part_types": [
+        "warning_light"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ENFSGS3D",
+          "friendly_name": "SOUNDOFF NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
+          "qb_item_id": "490",
+          "qb_sku": "",
+          "qb_unit_price": 154.28,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 154.28,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "red",
+          "secondary_color": "white"
+        },
+        {
+          "part_number": "ENFSGS3E",
+          "friendly_name": "SOUNDOFF NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
+          "qb_item_id": "491",
+          "qb_sku": "",
+          "qb_unit_price": 154.28,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 154.28,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "blue",
+          "secondary_color": "white"
+        }
+      ],
+      "reviewed": true
+    },
+    "soundoff_intersector": {
+      "manufacturer_id": "soundoff",
+      "model": "Intersector Surface-Mount",
+      "fits_part_types": [
+        "warning_light"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ENT3B3D",
+          "friendly_name": "SOUND OFF SURFACE MOUNT DUO COLOR INTERSECTOR SUPER LED LIGHT KIT - INCLUDES 1 LIGHT WITH MOUNTING GASKET AND INLINE FLASHER RED/WHT - CLEAR LENS - BLACK HSNG",
+          "qb_item_id": "506",
+          "qb_sku": "",
+          "qb_unit_price": 163.9,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 163.9,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "red",
+          "secondary_color": ""
+        }
+      ],
+      "reviewed": true
+    },
+    "feniex_fusion_surface_mount": {
+      "manufacturer_id": "feniex",
+      "model": "Fusion Surface Mount",
+      "fits_part_types": [
+        "warning_light"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FSM",
+          "friendly_name": "FENIEX FUSION SURFACE MOUNT (RED/WHITE 40\u00b0 OPTICS)",
+          "qb_item_id": "546",
+          "qb_sku": "",
+          "qb_unit_price": 84.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 84.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "red",
+          "secondary_color": "white"
+        },
+        {
+          "part_number": "FSMB",
+          "friendly_name": "FENIEX FUSION SURFACE MOUNT BLUE",
+          "qb_item_id": "548",
+          "qb_sku": "",
+          "qb_unit_price": 49.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 49.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "blue",
+          "secondary_color": ""
+        },
+        {
+          "part_number": "FSMR",
+          "friendly_name": "FENIEX FUSION SURFACE MOUNT RED",
+          "qb_item_id": "549",
+          "qb_sku": "",
+          "qb_unit_price": 49.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 49.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {},
+          "color": "red",
+          "secondary_color": ""
+        }
+      ],
+      "reviewed": true
     }
   },
   "part_types": {
@@ -31948,24 +31833,6 @@
       "location_options": [
         "DRIVER SIDE PILLAR"
       ]
-    },
-    "radar_interface_cable": {
-      "label": "Radar Interface Cable",
-      "type_id": "equipment",
-      "tree_positions": [
-        {
-          "section": "interior",
-          "zone": "forward_of_cage"
-        }
-      ],
-      "tag_ids": [
-        "radar",
-        "camera"
-      ],
-      "workbook_label_pattern": "Radar Interface Cable (To Camera)",
-      "sequence_scope": "global",
-      "location_mode": "text",
-      "location_options": []
     },
     "thermal_imager": {
       "label": "Thermal Imager",
@@ -33162,6 +33029,30 @@
       "accessory_category": "takedown",
       "location_mode": "text",
       "location_options": []
+    },
+    "radar_cable": {
+      "label": "Radar Cable",
+      "type_id": "equipment",
+      "tree_positions": [],
+      "tag_ids": [],
+      "accessory_category": "cable",
+      "location_mode": "text"
+    },
+    "radio_cable": {
+      "label": "Radio Cable",
+      "type_id": "equipment",
+      "tree_positions": [],
+      "tag_ids": [],
+      "accessory_category": "cable",
+      "location_mode": "text"
+    },
+    "warning_light": {
+      "label": "Warning Light",
+      "type_id": "lights",
+      "tree_positions": [],
+      "tag_ids": [],
+      "category": "warning",
+      "location_mode": "placement"
     }
   },
   "placements": {
