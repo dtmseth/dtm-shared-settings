@@ -4145,8 +4145,8 @@
             "TAHOE",
             "F-150"
           ],
-          "color": "red",
-          "secondary_color": "white",
+          "color": "",
+          "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "54\" Legacy WCX, Red/White (white front / amber rear)"
@@ -4163,8 +4163,8 @@
             "TAHOE",
             "F-150"
           ],
-          "color": "red",
-          "secondary_color": "blue",
+          "color": "",
+          "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "54\" Legacy WCX Duo, Red/Blue (white front / amber rear)"
@@ -4178,8 +4178,8 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
-          "secondary_color": "blue",
+          "color": "",
+          "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "48\" Legacy WCX Duo, Red/Blue (white front / amber rear)"
@@ -4264,8 +4264,8 @@
             "TAHOE",
             "F-150"
           ],
-          "color": "red",
-          "secondary_color": "white",
+          "color": "",
+          "secondary_color": "",
           "tertiary_color": "",
           "lens_type": ""
         },
@@ -4284,8 +4284,8 @@
             "TAHOE",
             "F-150"
           ],
-          "color": "red",
-          "secondary_color": "blue",
+          "color": "",
+          "secondary_color": "",
           "tertiary_color": "",
           "lens_type": ""
         },
@@ -4301,8 +4301,8 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
-          "secondary_color": "blue",
+          "color": "",
+          "secondary_color": "",
           "tertiary_color": "",
           "lens_type": ""
         },
@@ -4321,8 +4321,8 @@
             "TAHOE",
             "F-150"
           ],
-          "color": "red",
-          "secondary_color": "white",
+          "color": "",
+          "secondary_color": "",
           "tertiary_color": "",
           "lens_type": ""
         },
@@ -4341,8 +4341,8 @@
             "TAHOE",
             "F-150"
           ],
-          "color": "red",
-          "secondary_color": "blue",
+          "color": "",
+          "secondary_color": "",
           "tertiary_color": "",
           "lens_type": ""
         },
@@ -4358,8 +4358,8 @@
           "vehicle_tags": [
             "DURANGO"
           ],
-          "color": "red",
-          "secondary_color": "blue",
+          "color": "",
+          "secondary_color": "",
           "tertiary_color": "",
           "lens_type": ""
         }
@@ -21981,12 +21981,8 @@
     "soundoff_ecvcsmledf": {
       "manufacturer_id": "soundoff",
       "model": "12\" LED UTILITY STRIP LIGHT, SURFACE MOUNT - WHITE",
-      "fits_part_types": [
-        "cargo_lighting"
-      ],
-      "tag_ids": [
-        "light"
-      ],
+      "fits_part_types": [],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -22002,9 +21998,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "white",
-          "secondary_color": ""
+          "options": {}
         }
       ],
       "reviewed": false
@@ -30865,9 +30859,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "amber",
-          "secondary_color": "white"
+          "options": {}
         },
         {
           "part_number": "EMPS1SLS3D",
@@ -30881,9 +30873,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": "white"
+          "options": {}
         },
         {
           "part_number": "EMPS1SLS3E",
@@ -30897,9 +30887,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "blue",
-          "secondary_color": "white"
+          "options": {}
         },
         {
           "part_number": "EMPS1SMS3B",
@@ -30913,9 +30901,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "blue",
-          "secondary_color": ""
+          "options": {}
         },
         {
           "part_number": "EMPS1SMS3R",
@@ -30929,9 +30915,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": ""
+          "options": {}
         }
       ],
       "reviewed": true
@@ -30960,9 +30944,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": "white"
+          "options": {}
         },
         {
           "part_number": "EMPS2QMS4E",
@@ -30976,9 +30958,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "blue",
-          "secondary_color": "white"
+          "options": {}
         },
         {
           "part_number": "EMPS2SMS4D",
@@ -30992,9 +30972,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": "white"
+          "options": {}
         },
         {
           "part_number": "EMPS2SMS4E",
@@ -31008,9 +30986,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "blue",
-          "secondary_color": "white"
+          "options": {}
         },
         {
           "part_number": "EMPS2STS3A mpower\u00ae 4\" Fascia Light w/ Stud Mount, 18\" hard wire w/ sync option, SAE Class 1 & CA Tit",
@@ -31024,9 +31000,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "amber",
-          "secondary_color": ""
+          "options": {}
         },
         {
           "part_number": "EMPS2STS3B",
@@ -31040,9 +31014,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "blue",
-          "secondary_color": ""
+          "options": {}
         },
         {
           "part_number": "EMPS2STS4D",
@@ -31056,9 +31028,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": "white"
+          "options": {}
         },
         {
           "part_number": "EMPS2STS4E",
@@ -31072,9 +31042,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "blue",
-          "secondary_color": "white"
+          "options": {}
         },
         {
           "part_number": "EMPS2STS4K",
@@ -31088,9 +31056,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": "amber"
+          "options": {}
         },
         {
           "part_number": "EMPS2STS4M",
@@ -31104,9 +31070,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "blue",
-          "secondary_color": "amber"
+          "options": {}
         }
       ],
       "reviewed": true
@@ -31135,9 +31099,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": "white"
+          "options": {}
         },
         {
           "part_number": "ENFSGS3E",
@@ -31151,9 +31113,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "blue",
-          "secondary_color": "white"
+          "options": {}
         }
       ],
       "reviewed": true
@@ -31182,9 +31142,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": ""
+          "options": {}
         }
       ],
       "reviewed": true
@@ -31213,9 +31171,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": "white"
+          "options": {}
         },
         {
           "part_number": "FSMB",
@@ -31229,9 +31185,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "blue",
-          "secondary_color": ""
+          "options": {}
         },
         {
           "part_number": "FSMR",
@@ -31245,9 +31199,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": ""
+          "options": {}
         }
       ],
       "reviewed": true
