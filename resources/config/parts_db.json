@@ -1066,7 +1066,12 @@
       "manufacturer_id": "whelen",
       "model": "ION",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning",
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning",
+        "front_side_warning",
+        "pit_bar_warning"
       ],
       "tag_ids": [
         "light"
@@ -1332,7 +1337,7 @@
       "manufacturer_id": "whelen",
       "model": "Tracer 2-Lamp",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning"
       ],
       "tag_ids": [],
       "description": "",
@@ -1371,7 +1376,7 @@
       "manufacturer_id": "soundoff",
       "model": "NFORCE",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning"
       ],
       "tag_ids": [
         "light"
@@ -1388,7 +1393,9 @@
       "manufacturer_id": "soundoff",
       "model": "MPOWER",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning",
+        "front_side_warning",
+        "pit_bar_warning"
       ],
       "tag_ids": [
         "light"
@@ -1405,7 +1412,11 @@
       "manufacturer_id": "whelen",
       "model": "VXE",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning",
+        "front_side_warning",
+        "pit_bar_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
       ],
       "tag_ids": [
         "light"
@@ -1626,7 +1637,8 @@
       "manufacturer_id": "whelen",
       "model": "ION Surface Mount",
       "fits_part_types": [
-        "warning_light"
+        "front_side_warning",
+        "pit_bar_warning"
       ],
       "tag_ids": [
         "light"
@@ -1880,7 +1892,8 @@
       "manufacturer_id": "soundoff",
       "model": "N-FORCE",
       "fits_part_types": [
-        "warning_light"
+        "front_side_warning",
+        "pit_bar_warning"
       ],
       "tag_ids": [
         "light"
@@ -1897,7 +1910,8 @@
       "manufacturer_id": "whelen",
       "model": "Vertex",
       "fits_part_types": [
-        "warning_light"
+        "front_side_warning",
+        "rear_warning"
       ],
       "tag_ids": [
         "light"
@@ -2029,7 +2043,7 @@
       "manufacturer_id": "soundoff",
       "model": "M4",
       "fits_part_types": [
-        "warning_light"
+        "front_side_warning"
       ],
       "tag_ids": [
         "light"
@@ -2305,7 +2319,7 @@
       "manufacturer_id": "whelen",
       "model": "U-Series",
       "fits_part_types": [
-        "warning_light"
+        "mirror_warning"
       ],
       "tag_ids": [
         "light"
@@ -2439,7 +2453,7 @@
       "manufacturer_id": "whelen",
       "model": "Mirror-Beam",
       "fits_part_types": [
-        "warning_light"
+        "mirror_warning"
       ],
       "tag_ids": [],
       "description": "",
@@ -2849,9 +2863,14 @@
       "manufacturer_id": "whelen",
       "model": "T-Series",
       "fits_part_types": [
-        "warning_light",
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning",
         "rear_seat_cargo_lights",
         "cargo_lighting",
+        "forward_warning",
+        "front_side_warning",
+        "pit_bar_warning",
         "front_interior_light_bar"
       ],
       "tag_ids": [
@@ -3406,7 +3425,9 @@
       "manufacturer_id": "whelen",
       "model": "Mega T-Series",
       "fits_part_types": [
-        "warning_light",
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning",
         "rear_seat_cargo_lights",
         "cargo_lighting"
       ],
@@ -3602,7 +3623,9 @@
       "manufacturer_id": "whelen",
       "model": "Mini T-Series",
       "fits_part_types": [
-        "warning_light"
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
       ],
       "tag_ids": [
         "light"
@@ -3946,8 +3969,10 @@
       "manufacturer_id": "soundoff",
       "model": "M-POWER",
       "fits_part_types": [
-        "warning_light",
-        "roof_light_bar"
+        "side_warning",
+        "roof_light_bar",
+        "rear_warning",
+        "lower_liftgate_warning"
       ],
       "tag_ids": [
         "light"
@@ -3964,7 +3989,8 @@
       "manufacturer_id": "whelen",
       "model": "Tracer 5-Lamp",
       "fits_part_types": [
-        "warning_light"
+        "side_warning",
+        "rear_warning"
       ],
       "tag_ids": [],
       "description": "",
@@ -4008,7 +4034,7 @@
       "manufacturer_id": "whelen",
       "model": "Tracer 6-Lamp",
       "fits_part_types": [
-        "warning_light"
+        "side_warning"
       ],
       "tag_ids": [],
       "description": "",
@@ -8994,7 +9020,8 @@
       "manufacturer_id": "whelen",
       "model": "Tracer 3-Lamp",
       "fits_part_types": [
-        "warning_light"
+        "side_warning",
+        "rear_warning"
       ],
       "tag_ids": [],
       "description": "",
@@ -9038,7 +9065,7 @@
       "manufacturer_id": "whelen",
       "model": "Traffic Advisor",
       "fits_part_types": [
-        "warning_light"
+        "rear_warning"
       ],
       "tag_ids": [
         "light"
@@ -9112,7 +9139,8 @@
       "manufacturer_id": "whelen",
       "model": "ION V-Series",
       "fits_part_types": [
-        "warning_light"
+        "front_side_warning",
+        "rear_warning"
       ],
       "tag_ids": [
         "light"
@@ -9231,7 +9259,7 @@
       "manufacturer_id": "whelen",
       "model": "Outer Edge Rear Pillar",
       "fits_part_types": [
-        "warning_light"
+        "rear_warning"
       ],
       "tag_ids": [],
       "description": "",
@@ -9288,7 +9316,7 @@
       "manufacturer_id": "whelen",
       "model": "M2 Series",
       "fits_part_types": [
-        "warning_light"
+        "front_side_warning"
       ],
       "tag_ids": [
         "light"
@@ -9389,7 +9417,7 @@
       "manufacturer_id": "whelen",
       "model": "M4 Series",
       "fits_part_types": [
-        "warning_light"
+        "front_side_warning"
       ],
       "tag_ids": [
         "light"
@@ -9530,7 +9558,7 @@
       "manufacturer_id": "whelen",
       "model": "M6 Series",
       "fits_part_types": [
-        "warning_light"
+        "front_side_warning"
       ],
       "tag_ids": [
         "light"
@@ -9626,7 +9654,7 @@
       "manufacturer_id": "whelen",
       "model": "M7 Series",
       "fits_part_types": [
-        "warning_light"
+        "front_side_warning"
       ],
       "tag_ids": [
         "light"
@@ -9835,7 +9863,8 @@
       "manufacturer_id": "whelen",
       "model": "500 Series TIR6",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning",
+        "side_warning"
       ],
       "tag_ids": [
         "light"
@@ -10095,7 +10124,12 @@
       "manufacturer_id": "whelen",
       "model": "Micron",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning",
+        "front_side_warning",
+        "pit_bar_warning",
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
       ],
       "tag_ids": [
         "light"
@@ -10456,7 +10490,12 @@
         "front_scene",
         "side_scene",
         "rear_scene",
-        "warning_light"
+        "forward_warning",
+        "front_side_warning",
+        "pit_bar_warning",
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
       ],
       "tag_ids": [
         "light"
@@ -10485,7 +10524,7 @@
       "manufacturer_id": "whelen",
       "model": "Avenger II",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning"
       ],
       "tag_ids": [
         "light"
@@ -10554,7 +10593,7 @@
       "fits_part_types": [
         "rear_seat_cargo_lights",
         "cargo_lighting",
-        "warning_light"
+        "lower_liftgate_warning"
       ],
       "tag_ids": [
         "light"
@@ -10679,7 +10718,12 @@
       "manufacturer_id": "whelen",
       "model": "R416 Beacon",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning",
+        "front_side_warning",
+        "pit_bar_warning",
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
       ],
       "tag_ids": [
         "light"
@@ -10796,7 +10840,12 @@
       "manufacturer_id": "whelen",
       "model": "L31",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning",
+        "front_side_warning",
+        "pit_bar_warning",
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
       ],
       "tag_ids": [
         "light"
@@ -10825,7 +10874,12 @@
       "manufacturer_id": "whelen",
       "model": "L32",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning",
+        "front_side_warning",
+        "pit_bar_warning",
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
       ],
       "tag_ids": [
         "light"
@@ -10854,7 +10908,12 @@
       "manufacturer_id": "whelen",
       "model": "V2 Series",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning",
+        "front_side_warning",
+        "pit_bar_warning",
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
       ],
       "tag_ids": [
         "light"
@@ -10883,7 +10942,12 @@
       "manufacturer_id": "whelen",
       "model": "LINZ V-Series",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning",
+        "front_side_warning",
+        "pit_bar_warning",
+        "side_warning",
+        "rear_warning",
+        "lower_liftgate_warning"
       ],
       "tag_ids": [
         "light"
@@ -11064,7 +11128,7 @@
       "manufacturer_id": "whelen",
       "model": "ION-T HD Array",
       "fits_part_types": [
-        "warning_light"
+        "forward_warning"
       ],
       "tag_ids": [
         "light"
@@ -31252,6 +31316,21 @@
       "location_mode": "text",
       "location_options": []
     },
+    "forward_warning": {
+      "label": "Forward Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Forward Warning {n}",
+      "sequence_scope": "global",
+      "category": "warning",
+      "location_mode": "placement"
+    },
     "fw_bracket": {
       "label": "FW Bracket",
       "type_id": "lights",
@@ -31259,10 +31338,25 @@
       "tag_ids": [],
       "workbook_label_pattern": "FW {n} Bracket",
       "sequence_scope": "global",
-      "accessory_of": "warning_light",
+      "accessory_of": "forward_warning",
       "accessory_category": "bracket_mount",
       "location_mode": "text",
       "location_options": []
+    },
+    "front_side_warning": {
+      "label": "Front Side Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Front Side Warning {n}",
+      "sequence_scope": "global",
+      "category": "warning",
+      "location_mode": "placement"
     },
     "front_side_bracket": {
       "label": "Front Side Bracket",
@@ -31271,10 +31365,25 @@
       "tag_ids": [],
       "workbook_label_pattern": "Front Side Brackets",
       "sequence_scope": "global",
-      "accessory_of": "warning_light",
+      "accessory_of": "front_side_warning",
       "accessory_category": "bracket_mount",
       "location_mode": "text",
       "location_options": []
+    },
+    "pit_bar_warning": {
+      "label": "Pit Bar Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Pit Bar Warning",
+      "sequence_scope": "global",
+      "category": "warning",
+      "location_mode": "placement"
     },
     "headlight_flasher": {
       "label": "Headlight Flasher",
@@ -31476,6 +31585,21 @@
       "location_mode": "text",
       "location_options": []
     },
+    "mirror_warning": {
+      "label": "Mirror Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "front"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Mirror Warning {n}",
+      "sequence_scope": "global",
+      "category": "warning",
+      "location_mode": "placement"
+    },
     "mirror_warning_bracket": {
       "label": "Mirror Warning Bracket",
       "type_id": "lights",
@@ -31483,7 +31607,7 @@
       "tag_ids": [],
       "workbook_label_pattern": "Mirror Warning Bracket {n}",
       "sequence_scope": "global",
-      "accessory_of": "warning_light",
+      "accessory_of": "mirror_warning",
       "accessory_category": "bracket_mount",
       "location_mode": "text",
       "location_options": []
@@ -31504,6 +31628,25 @@
       "location_mode": "text",
       "location_options": []
     },
+    "side_warning": {
+      "label": "Side Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "side"
+        },
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Side Warning {n}",
+      "sequence_scope": "global",
+      "category": "warning",
+      "location_mode": "placement"
+    },
     "side_warning_bracket": {
       "label": "Side Warning Bracket",
       "type_id": "lights",
@@ -31511,7 +31654,7 @@
       "tag_ids": [],
       "workbook_label_pattern": "Side Warning Bracket {n}",
       "sequence_scope": "global",
-      "accessory_of": "warning_light",
+      "accessory_of": "side_warning",
       "accessory_category": "bracket_mount",
       "location_mode": "text",
       "location_options": []
@@ -31563,6 +31706,21 @@
       "location_mode": "text",
       "location_options": []
     },
+    "rear_warning": {
+      "label": "Rear Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "rear"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Rear Warning {n}",
+      "sequence_scope": "global",
+      "category": "warning",
+      "location_mode": "placement"
+    },
     "rear_warning_bracket": {
       "label": "Rear Warning Bracket",
       "type_id": "lights",
@@ -31570,7 +31728,7 @@
       "tag_ids": [],
       "workbook_label_pattern": "Rear Warning Bracket {n}",
       "sequence_scope": "global",
-      "accessory_of": "warning_light",
+      "accessory_of": "rear_warning",
       "accessory_category": "bracket_mount",
       "location_mode": "text",
       "location_options": []
@@ -31590,6 +31748,21 @@
       "category": "scene",
       "location_mode": "placement"
     },
+    "lower_liftgate_warning": {
+      "label": "Lower Lift Gate Warning",
+      "type_id": "lights",
+      "tree_positions": [
+        {
+          "section": "exterior",
+          "zone": "rear"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Lower Lift Gate Warning",
+      "sequence_scope": "global",
+      "category": "warning",
+      "location_mode": "placement"
+    },
     "lower_liftgate_warning_bracket": {
       "label": "Lower Lift Gate Warning Bracket",
       "type_id": "lights",
@@ -31597,7 +31770,7 @@
       "tag_ids": [],
       "workbook_label_pattern": "Lower Lift Gate Warning Bracket",
       "sequence_scope": "global",
-      "accessory_of": "warning_light",
+      "accessory_of": "lower_liftgate_warning",
       "accessory_category": "bracket_mount",
       "location_mode": "text",
       "location_options": []
