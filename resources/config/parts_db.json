@@ -19283,9 +19283,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": "white"
+          "options": {}
         }
       ],
       "reviewed": false
@@ -19314,9 +19312,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": "white"
+          "options": {}
         }
       ],
       "reviewed": false
@@ -22010,9 +22006,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": "amber"
+          "options": {}
         }
       ],
       "reviewed": false
@@ -22180,9 +22174,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": "white"
+          "options": {}
         }
       ],
       "reviewed": false
@@ -22896,9 +22888,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": "amber"
+          "options": {}
         }
       ],
       "reviewed": false
@@ -25046,9 +25036,7 @@
           "vehicle_tags": [
             "any"
           ],
-          "options": {},
-          "color": "red",
-          "secondary_color": "white"
+          "options": {}
         }
       ],
       "reviewed": false
