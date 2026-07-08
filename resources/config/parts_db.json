@@ -1313,20 +1313,24 @@
           "lens_type": "smoked",
           "tertiary_color": "white",
           "friendly_name": "WHELEN TRIO ION R/B WHT OVERRIDE SMK"
-        }
-      ],
-      "accessories": [
-        {
-          "category": "bracket_mount",
-          "product_id": "whelen_ion_grille_mount",
-          "required": false
         },
         {
-          "category": "bracket_mount",
-          "product_id": "whelen_ion_lp_bracket",
-          "required": false
+          "part_number": "IONHD3FM",
+          "qb_item_id": "630",
+          "qb_sku": "",
+          "qb_unit_price": 33.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "friendly_name": "WHELEN FORK MT ION-V HD ELECTRA GLIDE"
         }
-      ]
+      ],
+      "reviewed": false
     },
     "whelen_2_lamp_tracer": {
       "manufacturer_id": "whelen",
@@ -2843,8 +2847,23 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN WCX DUO IE XLP 12LT 20 UTILITY"
+        },
+        {
+          "part_number": "BW54UFX",
+          "friendly_name": "WHELEN WCX DUO IE 12-LT 2021 TAHOE",
+          "qb_item_id": "338",
+          "qb_sku": "",
+          "qb_unit_price": 2254.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 2254.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
         }
-      ]
+      ],
+      "reviewed": false
     },
     "whelen_t_series": {
       "manufacturer_id": "whelen",
@@ -9613,15 +9632,23 @@
           "lens_type": "clear",
           "tertiary_color": "",
           "friendly_name": "WHELEN M6 V-SERIES LIGHT WHITE"
+        },
+        {
+          "part_number": "M62T",
+          "friendly_name": "WHELEN LED, TURN LIGHT AMBER, WITH MULTIPLE FLASH PATTERNS, INCLUDING ARROW PATTERN, 10-30 VDC",
+          "qb_item_id": "710",
+          "qb_sku": "",
+          "qb_unit_price": 183.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 183.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
         }
       ],
-      "accessories": [
-        {
-          "category": "flange",
-          "product_id": "whelen_m6_flange",
-          "required": false
-        }
-      ]
+      "reviewed": false
     },
     "whelen_m7": {
       "manufacturer_id": "whelen",
@@ -10981,15 +11008,23 @@
           "tertiary_color": "",
           "lens_type": "clear",
           "friendly_name": "WHELEN LINZ V-SERIES LIGHT AMBER"
+        },
+        {
+          "part_number": "LINZ6R",
+          "friendly_name": "WHELEN LINZ6 LED HORIZ SYNC RED",
+          "qb_item_id": "682",
+          "qb_sku": "",
+          "qb_unit_price": 214.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 214.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
         }
       ],
-      "accessories": [
-        {
-          "category": "bracket_mount",
-          "product_id": "whelen_linz_mirror_mount",
-          "required": false
-        }
-      ]
+      "reviewed": false
     },
     "whelen_strip_lite_plus": {
       "manufacturer_id": "whelen",
@@ -13800,8 +13835,12 @@
       "manufacturer_id": "whelen",
       "model": "Outer Edge Lightheads",
       "description": "",
-      "fits_part_types": [],
-      "tag_ids": [],
+      "fits_part_types": [
+        "lighthead"
+      ],
+      "tag_ids": [
+        "light"
+      ],
       "part_numbers": [
         {
           "part_number": "OEI2D",
@@ -13881,16 +13920,19 @@
       ],
       "accessory_category": "lighthead",
       "accessory_of_products": [
-        "whelen_outer_edge",
-        "whelen_ion_rear_pillar"
+        "whelen_outer_edge"
       ]
     },
     "whelen_mirror_beam_lightheads": {
       "manufacturer_id": "whelen",
       "model": "Mirror Beam Lightheads",
       "description": "",
-      "fits_part_types": [],
-      "tag_ids": [],
+      "fits_part_types": [
+        "lighthead"
+      ],
+      "tag_ids": [
+        "light"
+      ],
       "part_numbers": [
         {
           "part_number": "MBI2D",
@@ -14033,35 +14075,6 @@
         "whelen_mirror_beams"
       ]
     },
-    "whelen_fork_mt_ion_v_hd_electra_glide": {
-      "manufacturer_id": "whelen",
-      "model": "FORK MT ION-V HD ELECTRA GLIDE",
-      "description": "",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "part_numbers": [
-        {
-          "part_number": "IONHD3FM",
-          "qb_item_id": "630",
-          "qb_sku": "",
-          "qb_unit_price": 33.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "any"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "tertiary_color": "",
-          "lens_type": "",
-          "friendly_name": "WHELEN FORK MT ION-V HD ELECTRA GLIDE"
-        }
-      ],
-      "accessory_category": "bracket_mount",
-      "accessory_of_products": [
-        "whelen_surface_mount_ion"
-      ],
-      "accessory_required": false
-    },
     "soundoff_soundoff_dome_light_2": {
       "manufacturer_id": "soundoff",
       "model": "SOUNDOFF DOME LIGHT",
@@ -14168,7 +14181,9 @@
     "qb_unassigned_11019": {
       "manufacturer_id": "qb_unassigned",
       "model": "DUAL USB POWER CHARGER, 2 PORT 2.4A/2.4A, 5VOLT BLACK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "aux_12v_ports"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -14193,7 +14208,9 @@
     "gamber_johnson_15250": {
       "manufacturer_id": "gamber_johnson",
       "model": "OEM FILLER PANEL (USD/MP3/SD CARD JACK AND 12VDC POWER PORT)",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -14218,7 +14235,9 @@
     "gamber_johnson_16298": {
       "manufacturer_id": "gamber_johnson",
       "model": "POCKET, 4.5\" X 2\" DEEP KNOCKOUT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -14295,7 +14314,9 @@
     "gamber_johnson_19740": {
       "manufacturer_id": "gamber_johnson",
       "model": "1-1/2\" FILLER PANEL W/ (2) 12V KNOCKOUTS + 2 ROCKER SWITCH KNOCKOUTS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -14868,31 +14889,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_2190_3340_0": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "Air One NATIONAL FOAM: NATIONAL FOAM UNIVERSAL GREEN 3% X 3% FOAM CONCENTRATE, 5 GALLON PAIL",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "2190-3340-0",
-          "friendly_name": "Air One NATIONAL FOAM: NATIONAL FOAM UNIVERSAL GREEN 3% X 3% FOAM CONCENTRATE, 5 GALLON PAIL",
-          "qb_item_id": "87",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 0.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "unity_221000_0002": {
       "manufacturer_id": "unity",
       "model": "325 SERIES 6\" SPOTLIGHT BLACK DRIVER SIDE - FOR 2021 FORD F-150/EXPEDITION MAX",
@@ -14921,7 +14917,9 @@
     "qb_unassigned_226130": {
       "manufacturer_id": "qb_unassigned",
       "model": "BAK INDUSTRIES G2 HARD FOLDING TONNEAU COVER 2022 CHEVY SILVERADO",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "tonneau_cover"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -14966,7 +14964,11 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "other",
+      "accessory_of_products": [
+        "whelen_2250_buildabar"
+      ]
     },
     "whelen_22reca": {
       "manufacturer_id": "whelen",
@@ -14991,12 +14993,18 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "other",
+      "accessory_of_products": [
+        "whelen_2250_buildabar"
+      ]
     },
     "qb_unassigned_25_ft_cat_6_cable": {
       "manufacturer_id": "qb_unassigned",
       "model": "25 FT CAT 6 ETHERNET CABLE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "cable"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -15073,7 +15081,9 @@
     "gamber_johnson_3130_0152": {
       "manufacturer_id": "gamber_johnson",
       "model": "1/2\" BLANK FILLER PANEL",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -15098,7 +15108,9 @@
     "gamber_johnson_3130_0154": {
       "manufacturer_id": "gamber_johnson",
       "model": "2\" BLANK FILLER PANEL",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -15123,7 +15135,9 @@
     "gamber_johnson_3130_0156": {
       "manufacturer_id": "gamber_johnson",
       "model": "4\" BLANK FILLER PANEL",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -15173,7 +15187,9 @@
     "qb_unassigned_36_010_key": {
       "manufacturer_id": "qb_unassigned",
       "model": "SUV TUFBOX W/ KEY LOCK, DRAWER. (12 IN H, 38 IN W, 32 IN D) 5.0 CU FT STORAGE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "rear_storage_box"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16032,7 +16048,9 @@
     "qb_unassigned_46096": {
       "manufacturer_id": "qb_unassigned",
       "model": "J CASE FUSE MODULE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "harness"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16057,7 +16075,9 @@
     "qb_unassigned_48913": {
       "manufacturer_id": "qb_unassigned",
       "model": "80AMP CIRCUIT BREAKER",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "harness"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16285,35 +16305,12 @@
       ],
       "reviewed": false
     },
-    "whelen_68_1183491a16": {
-      "manufacturer_id": "whelen",
-      "model": "AMBER 4IN LENS FOR FREEDOM MICRO EDGE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "68-1183491A16",
-          "friendly_name": "WHELEN AMBER 4IN LENS FOR FREEDOM MICRO EDGE",
-          "qb_item_id": "162",
-          "qb_sku": "",
-          "qb_unit_price": 26.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 26.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "whelen_70rc6fcr": {
       "manufacturer_id": "whelen",
       "model": "700 LIN.SUPER-LED FLASHER, R/C",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "headlight_flasher"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16365,7 +16362,9 @@
     "gamber_johnson_7110_1201": {
       "manufacturer_id": "gamber_johnson",
       "model": "2015+ TAHOE WINGS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16471,7 +16470,9 @@
     "gamber_johnson_7160_0085": {
       "manufacturer_id": "gamber_johnson",
       "model": "29\" LONG BASE PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16523,7 +16524,9 @@
     "gamber_johnson_7160_0178": {
       "manufacturer_id": "gamber_johnson",
       "model": "7\" UPPER POLE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16548,7 +16551,9 @@
     "gamber_johnson_7160_0220": {
       "manufacturer_id": "gamber_johnson",
       "model": "MONGOOSE 9\" LOCKING SKIDE ARM WITH 360 DEGREE CLEVIS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16573,7 +16578,9 @@
     "gamber_johnson_7160_0230": {
       "manufacturer_id": "gamber_johnson",
       "model": "ADJUSTABLE SUPPORT BRACE SHORT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16652,7 +16659,9 @@
     "gamber_johnson_7160_0332": {
       "manufacturer_id": "gamber_johnson",
       "model": "SHORT INTERIOR POCKET",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16812,7 +16821,9 @@
     "gamber_johnson_7160_0509": {
       "manufacturer_id": "gamber_johnson",
       "model": "2015-2019 CHEVROLET/GMC TRUCK ADN FULL-SIZE SUV CONSOLE LEG KIT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16837,7 +16848,9 @@
     "gamber_johnson_7160_0555": {
       "manufacturer_id": "gamber_johnson",
       "model": "UNIVERSAL CONSOLE LEG KIT FOR 2015+ FORD F-150 ALUMINUM BODY 2017+ SUPERDUTY 2018+ EXPEDITION SSV",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16862,7 +16875,9 @@
     "gamber_johnson_7160_0597": {
       "manufacturer_id": "gamber_johnson",
       "model": "6 INCH SHORT INTERIOR POCKET",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16887,7 +16902,9 @@
     "gamber_johnson_7160_0826": {
       "manufacturer_id": "gamber_johnson",
       "model": "ADJUSTABLE MAG CLIP",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "radio_mic_clip"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16912,7 +16929,9 @@
     "gamber_johnson_7160_0846": {
       "manufacturer_id": "gamber_johnson",
       "model": "INTERNAL CUP HOLDER",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16937,7 +16956,9 @@
     "gamber_johnson_7160_0924": {
       "manufacturer_id": "gamber_johnson",
       "model": "2\" WIDE X 1.5\" DEEP POCKET",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16962,7 +16983,9 @@
     "gamber_johnson_7160_0985": {
       "manufacturer_id": "gamber_johnson",
       "model": "LEG KIT RAM 1500 WITH CENTER SEAT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16987,7 +17010,9 @@
     "gamber_johnson_7160_1048": {
       "manufacturer_id": "gamber_johnson",
       "model": "UNIVERSAL STORAGE BOX FOR ELECTRICAL EQUIPMENT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "equipment_tray"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17066,7 +17091,9 @@
     "gamber_johnson_7160_1325": {
       "manufacturer_id": "gamber_johnson",
       "model": "2019+ CHEVROLET SILVERADO/GMC SIERRA LEG KIT (NEW BODY STYLE)",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17091,7 +17118,9 @@
     "gamber_johnson_7160_1336": {
       "manufacturer_id": "gamber_johnson",
       "model": "2020+ FORD POLICE INTERCEPTOR UTILITY AND 2020+ FORD EXPLORER VEHICLE BASE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17116,7 +17145,9 @@
     "gamber_johnson_7160_1383": {
       "manufacturer_id": "gamber_johnson",
       "model": "2019-CURRENT (NEW BODY STYLE) RAM 1500 LEG KIT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17141,7 +17172,9 @@
     "gamber_johnson_7160_1397": {
       "manufacturer_id": "gamber_johnson",
       "model": "2018-2026 CHEVY TRAVERSE/ 2014-2024 GMC ACADIA VEHICLE BASE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17247,7 +17280,9 @@
     "gamber_johnson_7160_1634": {
       "manufacturer_id": "gamber_johnson",
       "model": "2021+ CHEVROLET TAHOE LEG KIT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17326,7 +17361,9 @@
     "gamber_johnson_7170_0232": {
       "manufacturer_id": "gamber_johnson",
       "model": "2000-2012 FORD ESCAPE PEDESTAL SYSTEM KIT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17432,7 +17469,9 @@
     "gamber_johnson_7170_0567_00": {
       "manufacturer_id": "gamber_johnson",
       "model": "WIDE BODY UNIVERSAL CONSOLE WITH CUP HOLDER AND POCKET KIT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "console"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17592,7 +17631,9 @@
     "gamber_johnson_7170_0814_01": {
       "manufacturer_id": "gamber_johnson",
       "model": "2020-2025 FORD POLICE INTERCEPTOR UTILITY PEDESTAL KIT WITH MONGOOSE SLIDE ARM",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17860,7 +17901,9 @@
     "gamber_johnson_7170_1238": {
       "manufacturer_id": "gamber_johnson",
       "model": "2025+ CHEVROLET SILVERADO/GMC SIERRA AND CHEVROLET TAHOE PEDESTAL KIT WITH MONGOOSE\u00ae XLE 9",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17885,7 +17928,9 @@
     "gamber_johnson_7300_0426": {
       "manufacturer_id": "gamber_johnson",
       "model": "KUSSMAUL AUX / USB PASS-THROUGH 6' EXTENSION MODULE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "aux_12v_ports"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -18510,56 +18555,6 @@
         "whelen_ion"
       ]
     },
-    "qb_unassigned_bu_353n": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "GLOBALSAT BU-353N USB GPS RECEIVER, BLACK",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "BU-353N",
-          "friendly_name": "GLOBALSAT BU-353N USB GPS RECEIVER, BLACK",
-          "qb_item_id": "335",
-          "qb_sku": "",
-          "qb_unit_price": 53.98,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 53.98,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "whelen_bw54ufx": {
-      "manufacturer_id": "whelen",
-      "model": "WCX DUO IE 12-LT 2021 TAHOE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "BW54UFX",
-          "friendly_name": "WHELEN WCX DUO IE 12-LT 2021 TAHOE",
-          "qb_item_id": "338",
-          "qb_sku": "",
-          "qb_unit_price": 2254.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 2254.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "whelen_bwd": {
       "manufacturer_id": "whelen",
       "model": "EXTRA LOW PROFILE 6-LED DUO\u2122 LAMPS, RED/WHITE, BLUE/WHITE AND AMBER/WHITE, DRIVER SIDE, NO CHARGE WHEN ORDERED WITH EXTRA LOW PROFILE DUO\u2122 INNER EDGE",
@@ -18833,7 +18828,9 @@
     "havis_c_ap_0325_1": {
       "manufacturer_id": "havis",
       "model": "3\" ACCESSORY POCKET, 2.5\" DEEP",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -18858,7 +18855,9 @@
     "havis_c_ap_0625_1": {
       "manufacturer_id": "havis",
       "model": "6\" ACCESSORY POCKET, 2.5\" DEEP",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -18883,7 +18882,9 @@
     "havis_c_ap_0945": {
       "manufacturer_id": "havis",
       "model": "9\" ACCESSORY POCKET, 4.5\" HIGH",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -18908,7 +18909,9 @@
     "havis_c_apw_0744_1": {
       "manufacturer_id": "havis",
       "model": "7\u2033 ACCESSORY POCKET, 4.4\u2033 DEEP FOR 3.3\u2033W SECTION OF WIDE CONSOLES",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19176,7 +19179,9 @@
     "havis_c_eb25_xtl_1p": {
       "manufacturer_id": "havis",
       "model": "1-PIECE EQUIPMENT MOUNTING BRACKET, 2.5\" MOUNTING SPACE, FITS MOTOROLA XTL2500, XTL5000-05, APX-7500",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19201,7 +19206,9 @@
     "havis_c_eb30_xtl_1p_a": {
       "manufacturer_id": "havis",
       "model": "1-PIECE ANGLED EQUIPMENT MOUNTING BRACKET, 3\" MOUNTING SPACE, FITS MOTOROLA REMOTE RADIO HEADS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19226,7 +19233,9 @@
     "havis_c_eb40_ccs_1p": {
       "manufacturer_id": "havis",
       "model": "1-PIECE EQUIPMENT MOUNTING BRACKET, 4\" MOUNTING SPACE, FITS WHELEN CENCOM CCSRN, CCSRNTA, MPC03",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19251,7 +19260,9 @@
     "havis_c_flw_4055_str": {
       "manufacturer_id": "havis",
       "model": "FLASHLIGHT CHARGER POCKET FOR WIDE CONSOLE 3.3\" MOUNTING SPACE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19276,7 +19287,9 @@
     "havis_c_fp_05": {
       "manufacturer_id": "havis",
       "model": "1/2\" FILLER PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19301,7 +19314,9 @@
     "havis_c_fp_1": {
       "manufacturer_id": "havis",
       "model": "1\" FILLER PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19326,7 +19341,9 @@
     "havis_c_fp_2": {
       "manufacturer_id": "havis",
       "model": "2\" FILLER PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19351,7 +19368,9 @@
     "havis_c_fp_3": {
       "manufacturer_id": "havis",
       "model": "3\" FILLER PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19376,7 +19395,9 @@
     "havis_c_fp_4": {
       "manufacturer_id": "havis",
       "model": "4\" FILLER PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19401,7 +19422,9 @@
     "havis_c_fpw_1": {
       "manufacturer_id": "havis",
       "model": "1\u2033 FILLER PLATE FOR WIDE VSW CONSOLES",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19426,7 +19449,9 @@
     "havis_c_hdm_1003": {
       "manufacturer_id": "havis",
       "model": "HEAVY-DUTY PEDESTAL MOUNT FOR 2021-2025 CHEVROLET TAHOE, 2019-2025 SIERRA 1500 & SILVERADO 1500",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19451,7 +19476,9 @@
     "havis_c_hdm_1006": {
       "manufacturer_id": "havis",
       "model": "HEAVY-DUTY MOUNT FOR 2020-2024 FORD INTERCEPTOR UTILITY",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19476,7 +19503,9 @@
     "havis_c_hdm_1026": {
       "manufacturer_id": "havis",
       "model": "HEAVY-DUTY MOUNT FOR 2024 CHEVROLET BLAZER EV",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19501,7 +19530,9 @@
     "havis_c_hdm_204": {
       "manufacturer_id": "havis",
       "model": "8.5\" HEAVY-DUTY TELESCOPING POLE, SIDE MOUNT, SHORT HANDLE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19526,7 +19557,9 @@
     "havis_c_hdm_214": {
       "manufacturer_id": "havis",
       "model": "8.5\" HEAVY-DUTY TELESCOPING POLE, SIDE MOUNT, SHORT HANDLE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19551,7 +19584,9 @@
     "havis_c_hdm_303": {
       "manufacturer_id": "havis",
       "model": "HEAVY-DUTY TOP OFFSET PLATFORM 6-INCHES",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19603,7 +19638,9 @@
     "havis_c_md_112": {
       "manufacturer_id": "havis",
       "model": "TILT/SWIVEL SLIDE MOTION ADAPTER",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "motion_attachment"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19628,7 +19665,9 @@
     "havis_c_md_119": {
       "manufacturer_id": "havis",
       "model": "SWING ARM WITH MOTION ADAPTER",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "motion_attachment"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19653,7 +19692,9 @@
     "havis_c_md_204": {
       "manufacturer_id": "havis",
       "model": "LOW PROFILE TILT SWIVEL MOTION DEVICE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "motion_attachment"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19705,7 +19746,9 @@
     "havis_c_pm_1001": {
       "manufacturer_id": "havis",
       "model": "BROTHER PRINTER HOLDER",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "printer_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19730,7 +19773,9 @@
     "havis_c_tmw_f150_03": {
       "manufacturer_id": "havis",
       "model": "TUNNEL MOUNT ASSEMBLY FOR 2017-2024 FORD F-250, 350, 450 PICKUP & F-450 & 550 CAB CHASSIS, 2021-2024 FORD EXPEDITION & 2015-2024 FORD F-150",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19755,7 +19800,9 @@
     "havis_c_tmw_gmc_04": {
       "manufacturer_id": "havis",
       "model": "TUNNEL MOUNT ASSEMBLY FOR 2021-2024 CHEVROLET TAHOE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19780,7 +19827,9 @@
     "havis_c_tmw_inut_02": {
       "manufacturer_id": "havis",
       "model": "TUNNEL MOUNT ASSEMBLY FOR 2020-2024 FORD INTERCEPTOR UTILITY",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -19805,7 +19854,9 @@
     "havis_c_usb_3": {
       "manufacturer_id": "havis",
       "model": "USB-C & USB TYPE A DUAL PORT CHARGER",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "aux_12v_ports"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20235,7 +20286,9 @@
     "havis_c_w_lp1_usb_1": {
       "manufacturer_id": "havis",
       "model": "ACCESSORY BRACKET WITH 1 LIGHTER PLUG OUTLET AND 1 USB-C & USB TYPE A DUAL PORT CHARGER FOR 3.3\u2033 SECTION OF VSW CONSOLES",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "aux_12v_ports"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20260,8 +20313,12 @@
     "qb_unassigned_cage_light": {
       "manufacturer_id": "qb_unassigned",
       "model": "LED CAGE LIGHT",
-      "fits_part_types": [],
-      "tag_ids": [],
+      "fits_part_types": [
+        "rear_seat_lights"
+      ],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -20307,31 +20364,6 @@
       ],
       "reviewed": false
     },
-    "whelen_cc5k2": {
-      "manufacturer_id": "whelen",
-      "model": "INSTALLATION KIT FOR CCSRN5 CHEVY, 2017-2020 TAHOE PPV/SSV, 2017-2018 SILVERADO 1500, 2019-2021 SILVERADO 1500 SSV (BODY STYLE), 2019-2021 COLORADO 1500, 2018 SUBURBAN, NO CHARGE WHEN PURCHASED WITH AMPLIFIER CONTROL MODULE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "CC5K2",
-          "friendly_name": "WHELEN INSTALLATION KIT FOR CCSRN5 CHEVY, 2017-2020 TAHOE PPV/SSV, 2017-2018 SILVERADO 1500, 2019-2021 SILVERADO 1500 SSV (BODY STYLE), 2019-2021 COLORADO 1500, 2018 SUBURBAN, NO CHARGE WHEN PURCHASED WITH AMPLIFIER CONTROL MODULE",
-          "qb_item_id": "414",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 0.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "qb_unassigned_ccas_sb_7_800": {
       "manufacturer_id": "qb_unassigned",
       "model": "STINGER 760-896 MHZ COVERT ANTENNA",
@@ -20351,31 +20383,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 163.57,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_cctv8": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "COCAR 8 INCH MONITOR WITH VGA, AV, HDMI VIDEO INPUTS, INCLUDES REMOTE AND POWER CORD",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "CCTV8",
-          "friendly_name": "COCAR 8 INCH MONITOR WITH VGA, AV, HDMI VIDEO INPUTS, INCLUDES REMOTE AND POWER CORD",
-          "qb_item_id": "423",
-          "qb_sku": "",
-          "qb_unit_price": 91.78,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 91.78,
           "vehicle_tags": [
             "any"
           ],
@@ -20414,7 +20421,9 @@
     "havis_cg_x": {
       "manufacturer_id": "havis",
       "model": "CHARGEGUARD-SELECT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "power_timer"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20491,7 +20500,9 @@
     "qb_unassigned_clpsm": {
       "manufacturer_id": "qb_unassigned",
       "model": "10FT. CIGARETTE LIGHTER ADAPTER WITH ON/OFF AND MOMENTARY SWITCH",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "aux_12v_ports"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20516,7 +20527,9 @@
     "havis_cup2_1001": {
       "manufacturer_id": "havis",
       "model": "INTERNAL CUP HOLDERS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20541,7 +20554,9 @@
     "havis_cup2_1004": {
       "manufacturer_id": "havis",
       "model": "SELF-ADJUSTING DOUBLE CUP HOLDER (FIXED MOUNT)",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20566,7 +20581,9 @@
     "havis_cup2_1005": {
       "manufacturer_id": "havis",
       "model": "ANGLED WEDGE KIT FOR HAVIS CUP HOLDERS & 1-PIECE 4\" EQUIPMENT BRACKETS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "special_face_plate"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20586,7 +20603,12 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "other",
+      "accessory_of_products": [
+        "havis_cup2_1001",
+        "havis_cup2_1004"
+      ]
     },
     "qb_unassigned_custom_drawer": {
       "manufacturer_id": "qb_unassigned",
@@ -20699,7 +20721,9 @@
     "gamber_johnson_ds_lower_9": {
       "manufacturer_id": "gamber_johnson",
       "model": "9\" LOWER POLE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20778,7 +20802,9 @@
     "gamber_johnson_ds_step": {
       "manufacturer_id": "gamber_johnson",
       "model": "OFFSET UNIVERSAL MOUNT STEP",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20879,31 +20905,6 @@
           "options": {},
           "color": "white",
           "secondary_color": ""
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_eluc3h010e": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "UNDERCOVER LED INSERT - 6 3RD GEN SUPER LED'S - 10' 5-WIRE CABLE - BLUE/WHITE - 10-30 VOLT",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "ELUC3H010E",
-          "friendly_name": "UNDERCOVER LED INSERT - 6 3RD GEN SUPER LED'S - 10' 5-WIRE CABLE - BLUE/WHITE - 10-30 VOLT",
-          "qb_item_id": "474",
-          "qb_sku": "",
-          "qb_unit_price": 71.22,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 71.22,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
         }
       ],
       "reviewed": false
@@ -21358,8 +21359,10 @@
     },
     "qb_unassigned_ethernet_cable": {
       "manufacturer_id": "qb_unassigned",
-      "model": "ETHERNET CABLE 10FT",
-      "fits_part_types": [],
+      "model": "Ethernet Cable",
+      "fits_part_types": [
+        "cable"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -21377,18 +21380,7 @@
             "any"
           ],
           "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_ethernet_cable_2": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "ETHENET CABLE 25 FT",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
+        },
         {
           "part_number": "ETHERNET CABLE 2",
           "friendly_name": "ETHENET CABLE 25 FT",
@@ -21565,7 +21557,9 @@
     "qb_unassigned_fire_extinguisher_brackets": {
       "manufacturer_id": "qb_unassigned",
       "model": "FIRE EXTINGUISHER BRACKETS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "tool_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -21898,7 +21892,9 @@
     "whelen_fsbps": {
       "manufacturer_id": "whelen",
       "model": "POWER SUPPLY FIELD SERIES BLK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -21918,7 +21914,11 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "flasher_power",
+      "accessory_of_products": [
+        "whelen_field_series"
+      ]
     },
     "feniex_fsma": {
       "manufacturer_id": "feniex",
@@ -22052,8 +22052,12 @@
     "whelen_gbawd": {
       "manufacturer_id": "whelen",
       "model": "LEGACY OPT ADD 1 WARN/ALY R/W",
-      "fits_part_types": [],
-      "tag_ids": [],
+      "fits_part_types": [
+        "lighthead"
+      ],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -22072,13 +22076,21 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "lighthead",
+      "accessory_of_products": [
+        "whelen_legacy"
+      ]
     },
     "whelen_gbawe": {
       "manufacturer_id": "whelen",
       "model": "LEGACY OPT ADD 1 WARN/ALY B/W",
-      "fits_part_types": [],
-      "tag_ids": [],
+      "fits_part_types": [
+        "lighthead"
+      ],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -22097,12 +22109,18 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "lighthead",
+      "accessory_of_products": [
+        "whelen_legacy"
+      ]
     },
     "qb_unassigned_getac_s410": {
       "manufacturer_id": "qb_unassigned",
       "model": "SP2NTCDASDXX GETAC S410G4 BASIC i5-1135G7 FDH WEBCAM WIN10 PRO X64 W/ 16GB RAM, 512 GB PCIe SSD, SUNLIGHT READABLE, US KBD, MEMBRANE BACKLIT KBD, WIFI +BT, THUNDERBOLT 4, HDMI, RJ45,3YR LIMITED WARRANTY",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "computer"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -22457,31 +22475,6 @@
       ],
       "reviewed": false
     },
-    "whelen_h35sn12": {
-      "manufacturer_id": "whelen",
-      "model": "SNAP-IN HALO.BULB 35W/12V AXL.",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "H35SN12",
-          "friendly_name": "WHELEN SNAP-IN HALO.BULB 35W/12V AXL.",
-          "qb_item_id": "584",
-          "qb_sku": "",
-          "qb_unit_price": 65.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 65.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "ace_k_9_ha_2520": {
       "manufacturer_id": "ace_k_9",
       "model": "HEAT ALARM PRO TEMPERATURE ALARM SYSTEM, INCLUDES HORN, LIGHT, AND SIREN ACTIVATION, DUAL WINDOW DROP",
@@ -22745,7 +22738,9 @@
     "whelen_hwlfe29": {
       "manufacturer_id": "whelen",
       "model": "SIREN AMPLIFIER WITH ONE SPEAKER, INCLUDES MOUNTING BRACKET FOR 2020-2025 FORD POLICE INTERCEPTOR UTILITY",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "siren_speaker"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -22770,7 +22765,9 @@
     "havis_icm_adh_ax3_1": {
       "manufacturer_id": "havis",
       "model": "OVERHEAD AXON FLEET 3 CAMERA MOUNTING BRACKET FOR 2025-2026 FORD INTERCEPTOR UTILITY",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -22790,12 +22787,18 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "bracket_mount",
+      "accessory_of_products": [
+        "axon_fleet_3"
+      ]
     },
     "qb_unassigned_install_supplies": {
       "manufacturer_id": "qb_unassigned",
       "model": "INSTALLATION SUPPLIES TO INCLUDE CUSTOM MADE WIRING HARNESS, 100 AMP BREAKER, FUSE BLOCKS, RELAYS, AND OTHER MISC SHOP ITEMS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "harness"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -22874,7 +22877,9 @@
     "havis_k9_c26_pt_b": {
       "manufacturer_id": "havis",
       "model": "K9 PRISONER TRANSPORT SYSTEM FOR 2021-2026 CHEVROLET TAHOE - BLACK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "k9_kennel"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -22899,7 +22904,9 @@
     "havis_k9_f28_pt_b": {
       "manufacturer_id": "havis",
       "model": "K9 PRISONER TRANSPORT SYSTEM FOR 2020-2026 FORD INTERCEPTOR UTILITY \u2013 BLACK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "k9_kennel"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -22998,57 +23005,11 @@
           "options": {}
         }
       ],
-      "reviewed": false
-    },
-    "qb_unassigned_light_kit_led": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "LIGHT KIT-LED (RED & WHITE)",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "LIGHT KIT LED",
-          "friendly_name": "LIGHT KIT-LED (RED & WHITE)",
-          "qb_item_id": "674",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 0.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "whelen_linz6r": {
-      "manufacturer_id": "whelen",
-      "model": "LINZ6 LED HORIZ SYNC RED",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "LINZ6R",
-          "friendly_name": "WHELEN LINZ6 LED HORIZ SYNC RED",
-          "qb_item_id": "682",
-          "qb_sku": "",
-          "qb_unit_price": 214.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 214.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "other",
+      "accessory_of_products": [
+        "whelen_core"
+      ]
     },
     "havis_lps_211": {
       "manufacturer_id": "havis",
@@ -23080,7 +23041,9 @@
     "whelen_m1batt": {
       "manufacturer_id": "whelen",
       "model": "MOTORCYCLE NO-SPILL BATTERY",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "motorcycle_box"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -23105,7 +23068,9 @@
     "whelen_m1ground": {
       "manufacturer_id": "whelen",
       "model": "MOTORCYCLE BOX GROUND PLANE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "motorcycle_box"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -23157,7 +23122,9 @@
     "whelen_m4b6lr": {
       "manufacturer_id": "whelen",
       "model": "M/C BOX RIGHT-OPEN LESS FLASH",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "motorcycle_box"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -23182,7 +23149,9 @@
     "whelen_m4bsep": {
       "manufacturer_id": "whelen",
       "model": "M4B OPTIONAL SEPARATION PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "motorcycle_box"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -23204,35 +23173,12 @@
       ],
       "reviewed": false
     },
-    "whelen_m62t": {
-      "manufacturer_id": "whelen",
-      "model": "LED, TURN LIGHT AMBER, WITH MULTIPLE FLASH PATTERNS, INCLUDING ARROW PATTERN, 10-30 VDC",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "M62T",
-          "friendly_name": "WHELEN LED, TURN LIGHT AMBER, WITH MULTIPLE FLASH PATTERNS, INCLUDING ARROW PATTERN, 10-30 VDC",
-          "qb_item_id": "710",
-          "qb_sku": "",
-          "qb_unit_price": 183.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 183.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "whelen_mbadpt14": {
       "manufacturer_id": "whelen",
       "model": "MB4/6 ADAPTER PLATE 14 HARLEY",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "motorcycle_box"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -23284,7 +23230,9 @@
     "qb_unassigned_md_6200": {
       "manufacturer_id": "qb_unassigned",
       "model": "MOMENTO M-6 WIFI DASH CAMERA (FRONT CAM, REAR CAM, GPS, 32GB MEMORY CARD)",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "camera_dvr"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -24423,7 +24371,9 @@
     "whelen_pcc6w": {
       "manufacturer_id": "whelen",
       "model": "PCC6W SWITCH CONTROL CENTER",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "light_controller"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -24445,60 +24395,12 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_pel2b": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "PERIMETER LIGHT BLACK",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "PEL2B",
-          "friendly_name": "PERIMETER LIGHT BLACK",
-          "qb_item_id": "832",
-          "qb_sku": "",
-          "qb_unit_price": 265.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 265.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "whelen_pfp2ap1": {
-      "manufacturer_id": "whelen",
-      "model": "PFP2AC POLE/PED MT WHT W/ SW",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "PFP2AP1",
-          "friendly_name": "WHELEN PFP2AC POLE/PED MT WHT W/ SW",
-          "qb_item_id": "834",
-          "qb_sku": "",
-          "qb_unit_price": 2568.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 2568.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "havis_pkg_psm_3003": {
       "manufacturer_id": "havis",
       "model": "PREMIUM PEDESTAL MOUNT PACKAGE FOR 2019-2024 CHEVROLET SILVERADO",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -24523,7 +24425,9 @@
     "havis_pkg_psm_345": {
       "manufacturer_id": "havis",
       "model": "PREMIUM PEDESTAL MOUNT PACKAGE FOR 2011-2024 DODGE DURANGO & 2011-2022 JEEP GRAND CHEROKEE MODEL CODE WK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -24548,7 +24452,9 @@
     "havis_pkg_psm_385": {
       "manufacturer_id": "havis",
       "model": "PREMIUM PEDESTAL MOUNT PACKAGE FOR 2017-2026 FORD F-SERIES, 2021-2026 FORD EXPEDITION & 2015-2026 FORD F-150 Lightning",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "pedestal_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -24600,7 +24506,9 @@
     "whelen_plf46": {
       "manufacturer_id": "whelen",
       "model": "PROGRAMMABLE LIGHT FLASHER",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "headlight_flasher"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -24826,35 +24734,12 @@
       ],
       "reviewed": false
     },
-    "havis_pt_a_409": {
-      "manufacturer_id": "havis",
-      "model": "2007-2026 CHEVROLET G-SERIES PRISONER TRANSPORT HVAC OPTION",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "PT-A-409",
-          "friendly_name": "HAVIS 2007-2026 CHEVROLET G-SERIES PRISONER TRANSPORT HVAC OPTION",
-          "qb_item_id": "891",
-          "qb_sku": "",
-          "qb_unit_price": 6128.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 6128.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "havis_pt_c02_120_2": {
       "manufacturer_id": "havis",
       "model": "120\" 2 COMPARTMENT(S) PRISONER TRANSPORT INSERT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "prisoner_transport_insert"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -24974,7 +24859,14 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "bracket_mount",
+      "accessory_of_products": [
+        "whelen_r416_beacon",
+        "whelen_responder_lp",
+        "whelen_century",
+        "whelen_mini_legacy"
+      ]
     },
     "whelen_qfford1s": {
       "manufacturer_id": "whelen",
@@ -24999,7 +24891,14 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "bracket_mount",
+      "accessory_of_products": [
+        "whelen_r416_beacon",
+        "whelen_responder_lp",
+        "whelen_century",
+        "whelen_mini_legacy"
+      ]
     },
     "whelen_qfford1w": {
       "manufacturer_id": "whelen",
@@ -25024,7 +24923,14 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "bracket_mount",
+      "accessory_of_products": [
+        "whelen_r416_beacon",
+        "whelen_responder_lp",
+        "whelen_century",
+        "whelen_mini_legacy"
+      ]
     },
     "whelen_qfram2": {
       "manufacturer_id": "whelen",
@@ -25049,7 +24955,14 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "bracket_mount",
+      "accessory_of_products": [
+        "whelen_r416_beacon",
+        "whelen_responder_lp",
+        "whelen_century",
+        "whelen_mini_legacy"
+      ]
     },
     "whelen_qfram2s": {
       "manufacturer_id": "whelen",
@@ -25074,7 +24987,14 @@
           "options": {}
         }
       ],
-      "reviewed": false
+      "reviewed": false,
+      "accessory_category": "bracket_mount",
+      "accessory_of_products": [
+        "whelen_r416_beacon",
+        "whelen_responder_lp",
+        "whelen_century",
+        "whelen_mini_legacy"
+      ]
     },
     "feniex_qt_0820_sd": {
       "manufacturer_id": "feniex",
@@ -25342,31 +25262,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_rbe13421": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "AIR PRESURE SWITCH",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "RBE13421",
-          "friendly_name": "AIR PRESURE SWITCH",
-          "qb_item_id": "940",
-          "qb_sku": "",
-          "qb_unit_price": 36.21,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 36.21,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "rockland_cabinets_rlssl_fpiu20_s": {
       "manufacturer_id": "rockland_cabinets",
       "model": "STEEL XL DRAWER WITH ELECTRONICS TRAY ON RISERS 2020+ FORD UTILITY",
@@ -25422,7 +25317,9 @@
     "qb_unassigned_rtm_101_lp_ford_r": {
       "manufacturer_id": "qb_unassigned",
       "model": "ACARI 22\u2033 LOW PROFILE MOUNTING PLATFORM 2019 FORD RANGER",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -25436,81 +25333,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 309.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_rv_3xl_red_fire": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "RV-3XL RED FIRE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "RV-3XL Red FIRE",
-          "friendly_name": "RV-3XL RED FIRE",
-          "qb_item_id": "953",
-          "qb_sku": "",
-          "qb_unit_price": 52.99,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 52.99,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_rv_oversize": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "RV-OVERSIZE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "RV-OVERSIZE",
-          "friendly_name": "RV-OVERSIZE",
-          "qb_item_id": "954",
-          "qb_sku": "",
-          "qb_unit_price": 49.99,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 49.99,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_rv_regular": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "RV-REGULAR",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "RV-REGULAR",
-          "friendly_name": "RV-REGULAR",
-          "qb_item_id": "955",
-          "qb_sku": "",
-          "qb_unit_price": 49.99,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 49.99,
           "vehicle_tags": [
             "any"
           ],
@@ -25574,7 +25396,9 @@
     "havis_sbx_5001": {
       "manufacturer_id": "havis",
       "model": "2020-2024 FORD INTERCEPTOR UTILITY STORAGE DRAWER MOUNT WITH HAVIS K9",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "rear_storage_box"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -25815,7 +25639,9 @@
     "santa_cruz_sc_1902": {
       "manufacturer_id": "santa_cruz",
       "model": "PUSH BUTTON SWITCH",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -25840,7 +25666,9 @@
     "santa_cruz_sc_1903_2": {
       "manufacturer_id": "santa_cruz",
       "model": "#2 KEY",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26324,7 +26152,9 @@
     "santa_cruz_sc_7100": {
       "manufacturer_id": "santa_cruz",
       "model": "RAPID ACCESS RFID SYSTEM FOR ANY GUN RACK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26376,7 +26206,9 @@
     "santa_cruz_sc_917_d_1_5": {
       "manufacturer_id": "santa_cruz",
       "model": "FIXED PUMP SHOTGUN & ADJUSTABLE RIFLE RACK SC-1 & SC-6 XL LOCKS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26401,7 +26233,9 @@
     "santa_cruz_sc_917_d_5_5_a": {
       "manufacturer_id": "santa_cruz",
       "model": "RAPID-ADJUST UNIVERSAL DUAL GUN RACK WITH TWO SC-6 XL LOCKS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26426,7 +26260,9 @@
     "santa_cruz_sc_917_d_b_5_a": {
       "manufacturer_id": "santa_cruz",
       "model": "FIXED BARREL & SC-6 RAPID ADJUST GUN RACK WITH SC-1B AND SC-6",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26505,7 +26341,9 @@
     "santa_cruz_sc_920_1": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL PUMP SHOTGUN RACK WITH SC-1 LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26530,7 +26368,9 @@
     "santa_cruz_sc_920_5": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL GUN RACK WITH SC-6 XL LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26555,7 +26395,9 @@
     "santa_cruz_sc_920_ar": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL LARGE LOCK GUN RACK WITH SC-1-AR LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26580,7 +26422,9 @@
     "santa_cruz_sc_920_b": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL BARREL GUN RACK WITH SC-1-B LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26605,7 +26449,9 @@
     "santa_cruz_sc_920_d_1_5": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL PUMP SHOTGUN & RIFLE RACK WITH SC-1 & SC-6 XL LOCKS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26630,7 +26476,9 @@
     "santa_cruz_sc_920_d_1_ar": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL SG & RIFLE RACK WITH BOTH SC-1 & SC-1-AR LOCKS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26655,7 +26503,9 @@
     "santa_cruz_sc_920_d_1_b": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL SG & BARREL RACK WITH BOTH SC-1 & SC-1-B LOCKS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26680,7 +26530,9 @@
     "santa_cruz_sc_920_d_5_5": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL DUAL GUN RACK WITH TWO SC-6 XL LOCKS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26732,7 +26584,9 @@
     "santa_cruz_sc_920_d_ar_b": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL DUAL RACK WITH BOTH SC-1-AR & SC-1-B LOCKS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26757,7 +26611,9 @@
     "santa_cruz_sc_920_d_b_5": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL DUAL GUN RACK WITH SC-1B BARREL & SC-6 XL LOCKS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26836,7 +26692,9 @@
     "santa_cruz_sc_922_1": {
       "manufacturer_id": "santa_cruz",
       "model": "FREE STANDING PUMP SHOTGUN RACK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26888,7 +26746,9 @@
     "santa_cruz_sc_922_ar": {
       "manufacturer_id": "santa_cruz",
       "model": "FREE STANDING LARGE LOCK GUN RACK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26913,7 +26773,9 @@
     "santa_cruz_sc_922_b": {
       "manufacturer_id": "santa_cruz",
       "model": "FREE STANDING BARREL GUN RACK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26938,7 +26800,9 @@
     "santa_cruz_sc_922_d_1_5": {
       "manufacturer_id": "santa_cruz",
       "model": "FREE STANDING SHOTGUN & SC-6 GUN RACK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26990,7 +26854,9 @@
     "santa_cruz_sc_9222lr": {
       "manufacturer_id": "santa_cruz",
       "model": "FREE STANDING GUN RACK BASE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27015,7 +26881,9 @@
     "santa_cruz_sc_9230": {
       "manufacturer_id": "santa_cruz",
       "model": "30\" UNIVERSAL RAIL",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27040,7 +26908,9 @@
     "santa_cruz_sc_9236": {
       "manufacturer_id": "santa_cruz",
       "model": "36\" UNIVERSAL RAIL",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27119,7 +26989,9 @@
     "santa_cruz_sc_929_1": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL OVREHEAD PUMP SHOTGUN RACK WITH SC-1 LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27144,7 +27016,9 @@
     "santa_cruz_sc_929_5": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL OVERHEAD GUN RACK WITH SC-6 XL LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27169,7 +27043,9 @@
     "santa_cruz_sc_929_5_k9": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL OVERHEAD K-9 GUN RACK WITH SC-6 XL LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27194,7 +27070,9 @@
     "santa_cruz_sc_929_ar": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL OVERHEAD LARGE LOCK GUN RACK WITH SC-1-AR LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27219,7 +27097,9 @@
     "santa_cruz_sc_929_b": {
       "manufacturer_id": "santa_cruz",
       "model": "UNIVERSAL RAIL OVERHEAD BARREL GUN RACK WITH SC-1-B LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27244,7 +27124,9 @@
     "santa_cruz_sc_9302": {
       "manufacturer_id": "santa_cruz",
       "model": "MOUNTING HINGE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27431,7 +27313,9 @@
     "santa_cruz_sc_932": {
       "manufacturer_id": "santa_cruz",
       "model": "ROLL BAR MOUNT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27456,7 +27340,9 @@
     "santa_cruz_sc_934_5_a": {
       "manufacturer_id": "santa_cruz",
       "model": "RAPID-ADJUST UNIVERSAL OVERHEAD GUN RACKWITH SC-6 XL LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27481,7 +27367,9 @@
     "santa_cruz_sc_934_5_a_k9": {
       "manufacturer_id": "santa_cruz",
       "model": "RAPID-ADJUST UNIVERSAL K-9 GUN RACKWITH SC-6 XL LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27506,7 +27394,9 @@
     "santa_cruz_sc_934_5_a_mtl": {
       "manufacturer_id": "santa_cruz",
       "model": "RAPID-ADJUST UNIVERSAL TRUNK LID GUN RACK WITH SC-6 XL LOCK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27531,7 +27421,9 @@
     "santa_cruz_sc_9903": {
       "manufacturer_id": "santa_cruz",
       "model": "L-BRACKET",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27556,7 +27448,9 @@
     "santa_cruz_sc_9906": {
       "manufacturer_id": "santa_cruz",
       "model": "U-BOLT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "gun_lock_bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27635,7 +27529,9 @@
     "whelen_sp123bmc": {
       "manufacturer_id": "whelen",
       "model": "BUMPER MOUNT, CHROME",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "siren_speaker"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -27682,61 +27578,15 @@
       ],
       "reviewed": false
     },
-    "whelen_ssfpos": {
-      "manufacturer_id": "whelen",
-      "model": "SOLID STATE HEADLIGHT FLASHER",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "SSFPOS",
-          "friendly_name": "WHELEN SOLID STATE HEADLIGHT FLASHER",
-          "qb_item_id": "1072",
-          "qb_sku": "",
-          "qb_unit_price": 101.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 101.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "whelen_ssfposi6": {
-      "manufacturer_id": "whelen",
-      "model": "SOLID STATE HEADLIGHT FLASHER",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "SSFPOSI6",
-          "friendly_name": "WHELEN SOLID STATE HEADLIGHT FLASHER",
-          "qb_item_id": "1073",
-          "qb_sku": "",
-          "qb_unit_price": 136.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 136.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "whelen_sys109": {
       "manufacturer_id": "whelen",
       "model": "SYSTEM 109",
-      "fits_part_types": [],
-      "tag_ids": [],
+      "fits_part_types": [
+        "warning_light"
+      ],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -28055,7 +27905,9 @@
     "whelen_ulf44": {
       "manufacturer_id": "whelen",
       "model": "UNIVERSAL LED FLASHER 4 OUTLET",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "headlight_flasher"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28080,7 +27932,9 @@
     "qb_unassigned_usb_extention": {
       "manufacturer_id": "qb_unassigned",
       "model": "USB EXTENTION 10FT CABLE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "cable"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28105,7 +27959,9 @@
     "havis_ut_1001": {
       "manufacturer_id": "havis",
       "model": "UNIVERSAL RUGGED CRADLE FOR APPROXIMATELY 11\"-14\" COMPUTING DEVICES",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "docking_station"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28130,7 +27986,9 @@
     "havis_ut_301": {
       "manufacturer_id": "havis",
       "model": "UNIVERSAL TABLET MOUNT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "docking_station"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28277,31 +28135,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 278.6,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_w709980_s439": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "FORD REPLACEMENT FRONT SEAT BOLTS",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "W709980-S439",
-          "friendly_name": "FORD REPLACEMENT FRONT SEAT BOLTS",
-          "qb_item_id": "1257",
-          "qb_sku": "",
-          "qb_unit_price": 5.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 5.0,
           "vehicle_tags": [
             "any"
           ],
@@ -29862,6 +29695,148 @@
       "accessory_of_products": [
         "feniex_fusion_surface_mount"
       ]
+    },
+    "soundoff_eluc_undercover_insert": {
+      "manufacturer_id": "soundoff",
+      "model": "Universal UnderCover LED Insert",
+      "fits_part_types": [
+        "warning_light"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ELUC3H010E",
+          "friendly_name": "UNDERCOVER LED INSERT - 6 3RD GEN SUPER LED'S - 10' 5-WIRE CABLE - BLUE/WHITE - 10-30 VOLT",
+          "qb_item_id": "474",
+          "qb_sku": "",
+          "qb_unit_price": 71.22,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 71.22,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "globesat_bu_353n": {
+      "manufacturer_id": "globesat",
+      "model": "BU-353N USB GPS Receiver",
+      "fits_part_types": [
+        "cloud_antenna"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "BU-353N",
+          "friendly_name": "GLOBALSAT BU-353N USB GPS RECEIVER, BLACK",
+          "qb_item_id": "335",
+          "qb_sku": "",
+          "qb_unit_price": 53.98,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 53.98,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "whelen_pel2": {
+      "manufacturer_id": "whelen",
+      "model": "Perimeter Enhancement Light",
+      "fits_part_types": [
+        "front_scene",
+        "rear_scene",
+        "side_scene"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PEL2B",
+          "friendly_name": "PERIMETER LIGHT BLACK",
+          "qb_item_id": "832",
+          "qb_sku": "",
+          "qb_unit_price": 265.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 265.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "whelen_headlight_flasher_ssf": {
+      "manufacturer_id": "whelen",
+      "model": "Solid State Headlight Flasher",
+      "fits_part_types": [
+        "headlight_flasher"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SSFPOS",
+          "friendly_name": "WHELEN SOLID STATE HEADLIGHT FLASHER",
+          "qb_item_id": "1072",
+          "qb_sku": "",
+          "qb_unit_price": 101.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 101.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        },
+        {
+          "part_number": "SSFPOSI6",
+          "friendly_name": "WHELEN SOLID STATE HEADLIGHT FLASHER",
+          "qb_item_id": "1073",
+          "qb_sku": "",
+          "qb_unit_price": 136.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 136.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "whelen_2250_buildabar": {
+      "manufacturer_id": "whelen",
+      "model": "WeCanX 2250 Series Build-A-Bar",
+      "fits_part_types": [
+        "roof_light_bar"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [],
+      "reviewed": false
     }
   },
   "part_types": {
