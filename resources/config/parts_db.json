@@ -14165,135 +14165,12 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_1001_b": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "HOOKLOK ( SOLD IN PAIRS )",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1001-B",
-          "friendly_name": "HOOKLOK ( SOLD IN PAIRS )",
-          "qb_item_id": "24",
-          "qb_sku": "",
-          "qb_unit_price": 37.95,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 37.95,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1002s_hd_b": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "FLEX MOUNT SHORT HD BRACKET",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1002S-HD-B",
-          "friendly_name": "FLEX MOUNT SHORT HD BRACKET",
-          "qb_item_id": "25",
-          "qb_sku": "",
-          "qb_unit_price": 49.44,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 49.44,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1004_b": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "HANDLELOK",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1004-B",
-          "friendly_name": "HANDLELOK",
-          "qb_item_id": "26",
-          "qb_sku": "",
-          "qb_unit_price": 41.4,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 41.4,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1019_b": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "1019-B",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1019-B",
-          "friendly_name": "",
-          "qb_item_id": "27",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 0.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1070_b": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JUMBO LOK",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1070-B",
-          "friendly_name": "JUMBO LOK",
-          "qb_item_id": "28",
-          "qb_sku": "",
-          "qb_unit_price": 63.84,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 63.84,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "qb_unassigned_11019": {
       "manufacturer_id": "qb_unassigned",
       "model": "DUAL USB POWER CHARGER, 2 PORT 2.4A/2.4A, 5VOLT BLACK",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "aux_12v_ports"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -14307,56 +14184,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 30.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_14331": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "POCKET JET 7 POWER CABLE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "14331",
-          "friendly_name": "POCKET JET 7 POWER CABLE",
-          "qb_item_id": "30",
-          "qb_sku": "",
-          "qb_unit_price": 27.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 27.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_14831": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "POCKET JET PRINTER USB CABLE 6FT",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "14831",
-          "friendly_name": "POCKET JET PRINTER USB CABLE 6FT",
-          "qb_item_id": "31",
-          "qb_sku": "",
-          "qb_unit_price": 15.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 15.0,
           "vehicle_tags": [
             "any"
           ],
@@ -14511,256 +14338,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 66.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1u78120a_1i": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JB LUND 6' 6\" X 10' ALUMINUM UTILITY TRAILER -SINGLE AXLE W/O BRAKES -STD RAMP VIN #",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1U78120A-1I",
-          "friendly_name": "JB LUND 6' 6\" X 10' ALUMINUM UTILITY TRAILER -SINGLE AXLE W/O BRAKES -STD RAMP VIN #",
-          "qb_item_id": "56",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 0.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1u78120rack_1": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JB LUND 10' TRAILER SINGLE RAIL ADD-ON",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1U78120RACK-1",
-          "friendly_name": "JB LUND 10' TRAILER SINGLE RAIL ADD-ON",
-          "qb_item_id": "57",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 0.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1u78144a_1i": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JB LUND 6' 6\" X 12' ALUMINUM UTILITY TRAILER -SINGLE AXLE W/O BRAKES -STD RAMP VIN #",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1U78144A-1I",
-          "friendly_name": "JB LUND 6' 6\" X 12' ALUMINUM UTILITY TRAILER -SINGLE AXLE W/O BRAKES -STD RAMP VIN #",
-          "qb_item_id": "58",
-          "qb_sku": "",
-          "qb_unit_price": 3406.45,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 3406.45,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1u78144rack_1": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JB LUND 12' TRAILER SINGLE RAIL ADD-ON",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1U78144RACK-1",
-          "friendly_name": "JB LUND 12' TRAILER SINGLE RAIL ADD-ON",
-          "qb_item_id": "59",
-          "qb_sku": "",
-          "qb_unit_price": 315.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 315.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1u78168a_1e1i": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JB LUND 6'6\"X 14' ALUMINUM UTILITY TRAILER -TANDEM AXLE ONE W/ BRAKES ONE W/O BRAKES -STD RAMP VIN #",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1U78168A-1E1I",
-          "friendly_name": "JB LUND 6'6\"X 14' ALUMINUM UTILITY TRAILER -TANDEM AXLE ONE W/ BRAKES ONE W/O BRAKES -STD RAMP VIN #",
-          "qb_item_id": "60",
-          "qb_sku": "",
-          "qb_unit_price": 6062.8,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 6062.8,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1u78168a_1i": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JB LUND 6'6\"X 14' ALUMINUM UTILITY TRAILER -SINGLE AXLE W/O BRAKES -STD RAMP VIN #",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1U78168A-1I",
-          "friendly_name": "JB LUND 6'6\"X 14' ALUMINUM UTILITY TRAILER -SINGLE AXLE W/O BRAKES -STD RAMP VIN #",
-          "qb_item_id": "61",
-          "qb_sku": "",
-          "qb_unit_price": 3596.59,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 3596.59,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1u78168a_2e": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JB LUND 6'6\"X 14' ALUMINUM UTILITY TRAILER -TANDEM AXLE BOTH W/ BRAKES -STD RAMP VIN #",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1U78168A-2E",
-          "friendly_name": "JB LUND 6'6\"X 14' ALUMINUM UTILITY TRAILER -TANDEM AXLE BOTH W/ BRAKES -STD RAMP VIN #",
-          "qb_item_id": "62",
-          "qb_sku": "",
-          "qb_unit_price": 6369.03,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 6369.03,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1u78168rack_1": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JB LUND 14' TRAILER SINGLE RAIL ADD-ON",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1U78168RACK-1",
-          "friendly_name": "JB LUND 14' TRAILER SINGLE RAIL ADD-ON",
-          "qb_item_id": "63",
-          "qb_sku": "",
-          "qb_unit_price": 367.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 367.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1u78192a_2e": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JB LUND 6'6\"X 16' ALUMINUM UTILITY TRAILER -TANDEM AXLE BOTH W/ BRAKES -STD RAMP VIN #",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1U78192A-2E",
-          "friendly_name": "JB LUND 6'6\"X 16' ALUMINUM UTILITY TRAILER -TANDEM AXLE BOTH W/ BRAKES -STD RAMP VIN #",
-          "qb_item_id": "64",
-          "qb_sku": "",
-          "qb_unit_price": 7214.11,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 7214.11,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_1utiedown": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JB LUND TIE DOWN FOR UTILITY AND SNOWMOBILE TRAILERS",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "1UTIEDOWN",
-          "friendly_name": "JB LUND TIE DOWN FOR UTILITY AND SNOWMOBILE TRAILERS",
-          "qb_item_id": "65",
-          "qb_sku": "",
-          "qb_unit_price": 20.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 20.0,
           "vehicle_tags": [
             "any"
           ],
@@ -15268,31 +14845,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_211020_0002": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "SPOTLIGHT, DRIVER SIDE HALOGEN FOR 2016 FORD INTERCEPTOR UTILITY 6\"BLACK",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "211020-0002",
-          "friendly_name": "SPOTLIGHT, DRIVER SIDE HALOGEN FOR 2016 FORD INTERCEPTOR UTILITY 6\"BLACK",
-          "qb_item_id": "85",
-          "qb_sku": "",
-          "qb_unit_price": 202.17,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 202.17,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "unity_218000_0002": {
       "manufacturer_id": "unity",
       "model": "6\" HALOGEN SPOTLIGHT FOR 2020+ FORD PI UTILITY - DRIVER SIDE INSTALL - #265 INSTALL KIT REQUIRED",
@@ -15310,31 +14862,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 293.33,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_2190_3340_0": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "Air One NATIONAL FOAM: NATIONAL FOAM UNIVERSAL GREEN 3% X 3% FOAM CONCENTRATE, 5 GALLON PAIL",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "2190-3340-0",
-          "friendly_name": "Air One NATIONAL FOAM: NATIONAL FOAM UNIVERSAL GREEN 3% X 3% FOAM CONCENTRATE, 5 GALLON PAIL",
-          "qb_item_id": "87",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 0.0,
           "vehicle_tags": [
             "any"
           ],
@@ -15371,7 +14898,9 @@
     "qb_unassigned_226130": {
       "manufacturer_id": "qb_unassigned",
       "model": "BAK INDUSTRIES G2 HARD FOLDING TONNEAU COVER 2022 CHEVY SILVERADO",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "tonneau_cover"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -15446,7 +14975,9 @@
     "qb_unassigned_25_ft_cat_6_cable": {
       "manufacturer_id": "qb_unassigned",
       "model": "25 FT CAT 6 ETHERNET CABLE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "cable"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -15485,81 +15016,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 704.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_295sl100": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "MODEL 295SL100 SIREN AMPLIFIER",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "295SL100",
-          "friendly_name": "MODEL 295SL100 SIREN AMPLIFIER",
-          "qb_item_id": "94",
-          "qb_sku": "",
-          "qb_unit_price": 100.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 100.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_295slsa6": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "295SLSA6 SIREN/CONTROL CENTER",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "295SLSA6",
-          "friendly_name": "295SLSA6 SIREN/CONTROL CENTER",
-          "qb_item_id": "95",
-          "qb_sku": "",
-          "qb_unit_price": 100.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 100.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_2ut7866ramp": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JB LUND 78\" WIDE X 66\" LONG BI-FOLD RAMP ADD ON",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "2UT7866RAMP",
-          "friendly_name": "JB LUND 78\" WIDE X 66\" LONG BI-FOLD RAMP ADD ON",
-          "qb_item_id": "102",
-          "qb_sku": "",
-          "qb_unit_price": 154.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 154.0,
           "vehicle_tags": [
             "any"
           ],
@@ -15698,7 +15154,9 @@
     "qb_unassigned_36_010_key": {
       "manufacturer_id": "qb_unassigned",
       "model": "SUV TUFBOX W/ KEY LOCK, DRAWER. (12 IN H, 38 IN W, 32 IN D) 5.0 CU FT STORAGE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "rear_storage_box"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16429,31 +15887,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_3615_dc_210": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "UNTIY SHAFT & HEADPOST ASSEMBLY - LH",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "3615-DC-210",
-          "friendly_name": "UNTIY SHAFT & HEADPOST ASSEMBLY - LH",
-          "qb_item_id": "136",
-          "qb_sku": "",
-          "qb_unit_price": 96.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 96.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "weather_tech_4412281im": {
       "manufacturer_id": "weather_tech",
       "model": "HP DRIVER AND PASSENGER FRONT FLOOR LINERS FOR 2022 CHEVY TRAVERSE",
@@ -16582,7 +16015,9 @@
     "qb_unassigned_46096": {
       "manufacturer_id": "qb_unassigned",
       "model": "J CASE FUSE MODULE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "harness"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16607,7 +16042,9 @@
     "qb_unassigned_48913": {
       "manufacturer_id": "qb_unassigned",
       "model": "80AMP CIRCUIT BREAKER",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "harness"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -18563,31 +18000,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_8060_led": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "PELICAN MODEL 8060 LED RECHARGEABLE FLASHLIGHT",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "8060 LED",
-          "friendly_name": "PELICAN MODEL 8060 LED RECHARGEABLE FLASHLIGHT",
-          "qb_item_id": "232",
-          "qb_sku": "",
-          "qb_unit_price": 181.97,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 181.97,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "snowex_84520": {
       "manufacturer_id": "snowex",
       "model": "8611 POWER PLOW RUBBER DEFLECTOR KIT",
@@ -19004,31 +18416,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_awd_7040": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "ACEWATCHDOG FOR USE WITH PRO ALARM SYSTEMS",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "AWD-7040",
-          "friendly_name": "ACEWATCHDOG FOR USE WITH PRO ALARM SYSTEMS",
-          "qb_item_id": "278",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 0.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "intermotive_b_bom560_cc": {
       "manufacturer_id": "intermotive",
       "model": "BLACKOUT MODULE FOR 2020+ FORD INTERCEPTOR UTILITY - MUST FILL OUT ORDER FORM",
@@ -19081,31 +18468,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_basket_add_on": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "4\" SUV VAULT BASKET",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "Basket Add-on",
-          "friendly_name": "4\" SUV VAULT BASKET",
-          "qb_item_id": "341",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 0.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "5_0_fab_dtm_bm6wfpiu": {
       "manufacturer_id": "5_0_fab_dtm",
       "model": "BRACKET TO MOUNT UP TO 6 WHELEN IONS IN GRILL 2020+ FORD PIU",
@@ -19134,31 +18496,6 @@
       "accessory_of_products": [
         "whelen_ion"
       ]
-    },
-    "qb_unassigned_bu_353n": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "GLOBALSAT BU-353N USB GPS RECEIVER, BLACK",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "BU-353N",
-          "friendly_name": "GLOBALSAT BU-353N USB GPS RECEIVER, BLACK",
-          "qb_item_id": "335",
-          "qb_sku": "",
-          "qb_unit_price": 53.98,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 53.98,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
     },
     "whelen_bw54ufx": {
       "manufacturer_id": "whelen",
@@ -20885,8 +20222,12 @@
     "qb_unassigned_cage_light": {
       "manufacturer_id": "qb_unassigned",
       "model": "LED CAGE LIGHT",
-      "fits_part_types": [],
-      "tag_ids": [],
+      "fits_part_types": [
+        "rear_seat_lights"
+      ],
+      "tag_ids": [
+        "light"
+      ],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -20976,31 +20317,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 163.57,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_cctv8": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "COCAR 8 INCH MONITOR WITH VGA, AV, HDMI VIDEO INPUTS, INCLUDES REMOTE AND POWER CORD",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "CCTV8",
-          "friendly_name": "COCAR 8 INCH MONITOR WITH VGA, AV, HDMI VIDEO INPUTS, INCLUDES REMOTE AND POWER CORD",
-          "qb_item_id": "423",
-          "qb_sku": "",
-          "qb_unit_price": 91.78,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 91.78,
           "vehicle_tags": [
             "any"
           ],
@@ -21116,7 +20432,9 @@
     "qb_unassigned_clpsm": {
       "manufacturer_id": "qb_unassigned",
       "model": "10FT. CIGARETTE LIGHTER ADAPTER WITH ON/OFF AND MOMENTARY SWITCH",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "aux_12v_ports"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -21130,56 +20448,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 11.98,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_cstc1000101": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JB LUND SPARE TIRE CARRIER",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "CSTC1000101",
-          "friendly_name": "JB LUND SPARE TIRE CARRIER",
-          "qb_item_id": "442",
-          "qb_sku": "",
-          "qb_unit_price": 80.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 80.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_ctr1420575da": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "JB LUND ST205/75R14 LRC - 1760# - ALUM WHEEL RADIAL",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "CTR1420575DA",
-          "friendly_name": "JB LUND ST205/75R14 LRC - 1760# - ALUM WHEEL RADIAL",
-          "qb_item_id": "443",
-          "qb_sku": "",
-          "qb_unit_price": 285.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 285.0,
           "vehicle_tags": [
             "any"
           ],
@@ -21344,31 +20612,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_de2045i_2542": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "ISOLATED POWER ADAPTER FOR DELL LATITUDE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "DE2045I-2542",
-          "friendly_name": "ISOLATED POWER ADAPTER FOR DELL LATITUDE",
-          "qb_item_id": "452",
-          "qb_sku": "",
-          "qb_unit_price": 262.45,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 262.45,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "havis_ds_dell_436n": {
       "manufacturer_id": "havis",
       "model": "DOCKING STATION FOR DELL PRO RUGGED 14\u2033 AND 13\u2033, 5430, 7330, 5420, 5424, & 7424 NOTEBOOKS WITH STANDARD PORT REPLICATION & HAVIS POWER SUPPLY",
@@ -21525,81 +20768,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_e_z_vault": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "E/Z VAULT \"UP\" 44\"W X 24\"D X 8\"H *** FOR PPV EXPLORER 2011-2019 ***",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "E/Z Vault",
-          "friendly_name": "E/Z VAULT \"UP\" 44\"W X 24\"D X 8\"H *** FOR PPV EXPLORER 2011-2019 ***",
-          "qb_item_id": "460",
-          "qb_sku": "",
-          "qb_unit_price": 1223.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 1223.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_e_z_cool_guard_pager_system": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "E/Z-COOL GUARD PAGER SYSTEM. WORKS IN CONJUNCTION WITH COOL GUARD MONITORING SYSTEM",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "E/Z-Cool Guard Pager System",
-          "friendly_name": "E/Z-COOL GUARD PAGER SYSTEM. WORKS IN CONJUNCTION WITH COOL GUARD MONITORING SYSTEM",
-          "qb_item_id": "461",
-          "qb_sku": "",
-          "qb_unit_price": 365.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 365.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_e_z_cool_guard_system_plus_m910": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "E/Z-COOL GUARD SYSTEM PLUS M910 (COOLGUARD ONLY, THIS DOES NOT INCLUDE THE RESCUE DOOR OPENER) WHICH SIDE OF THE VEHICLE IS THE FAN BEING INSTALLED ON (DRIVER OR PASSENGER)? THE STANDARD KIT INCLUDES: 1PC COOL GUARD PLUS ONLY 1PC COOL GUARD CONTROL HEAD (TS DISPLAY) 1PC PAW PROTECT 2PCS TEMP PROBES W/ TEMP AND HUMIDITY 1PC PEDESTAL KIT 1KT ALL ASSOCIATED WIRE HARNESSES FOR CGP 1PC 30A FUSE AND IN-LINE FUSE HOLDER 1 FAN AND FAN GUARD NEW FEATURES OF THE M910 SYSTEM: * REMOTE START, IF THE IGNITION IS OFF BUT NOT THE PAW PROTECT AND THE ALARM IS TRIGGERED, THE REMOTE START SIGNAL IS TRIGGERED, FOR MOST VEHICLES IT WILL SHUT OFF AFTER 20 MIN. * ADDED FAN FEATURE, THE SYSTEM WILL SUPPORT A SECOND FAN (NOT INCLUDED IN THIS PRICE) * K9 LIGHT ON THE DISPLAY, CUSTOMER CAN TURN ON AND OFF THE LIGHT FROM DISPLAY SCREEN * RESCUE FEATURE ON THE DISPLAY, RESCUE DEPLOYS FROM DISPLAY * RESCUE FOB SYNC CAN BE DONE ON THE DISPLAY *** PLEASE ADVICE IF THE VEHICLE IS NOT A POLICE PACKAGE... IF THERE IS N",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "E/Z-Cool Guard System PLUS M910",
-          "friendly_name": "E/Z-COOL GUARD SYSTEM PLUS M910 (COOLGUARD ONLY, THIS DOES NOT INCLUDE THE RESCUE DOOR OPENER) WHICH SIDE OF THE VEHICLE IS THE FAN BEING INSTALLED ON (DRIVER OR PASSENGER)? THE STANDARD KIT INCLUDES: 1PC COOL GUARD PLUS ONLY 1PC COOL GUARD CONTROL HEAD (TS DISPLAY) 1PC PAW PROTECT 2PCS TEMP PROBES W/ TEMP AND HUMIDITY 1PC PEDESTAL KIT 1KT ALL ASSOCIATED WIRE HARNESSES FOR CGP 1PC 30A FUSE AND IN-LINE FUSE HOLDER 1 FAN AND FAN GUARD NEW FEATURES OF THE M910 SYSTEM: * REMOTE START, IF THE IGNITION IS OFF BUT NOT THE PAW PROTECT AND THE ALARM IS TRIGGERED, THE REMOTE START SIGNAL IS TRIGGERED, FOR MOST VEHICLES IT WILL SHUT OFF AFTER 20 MIN. * ADDED FAN FEATURE, THE SYSTEM WILL SUPPORT A SECOND FAN (NOT INCLUDED IN THIS PRICE) * K9 LIGHT ON THE DISPLAY, CUSTOMER CAN TURN ON AND OFF THE LIGHT FROM DISPLAY SCREEN * RESCUE FEATURE ON THE DISPLAY, RESCUE DEPLOYS FROM DISPLAY * RESCUE FOB SYNC CAN BE DONE ON THE DISPLAY *** PLEASE ADVICE IF THE VEHICLE IS NOT A POLICE PACKAGE... IF THERE IS N",
-          "qb_item_id": "462",
-          "qb_sku": "",
-          "qb_unit_price": 1195.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 1195.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "5_0_fab_dtm_eb1u": {
       "manufacturer_id": "5_0_fab_dtm",
       "model": "EQUIPMENT BOX 4IN DEEP 36IN WIDE",
@@ -21654,31 +20822,6 @@
           "options": {},
           "color": "white",
           "secondary_color": ""
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_eluc3h010e": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "UNDERCOVER LED INSERT - 6 3RD GEN SUPER LED'S - 10' 5-WIRE CABLE - BLUE/WHITE - 10-30 VOLT",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "ELUC3H010E",
-          "friendly_name": "UNDERCOVER LED INSERT - 6 3RD GEN SUPER LED'S - 10' 5-WIRE CABLE - BLUE/WHITE - 10-30 VOLT",
-          "qb_item_id": "474",
-          "qb_sku": "",
-          "qb_unit_price": 71.22,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 71.22,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
         }
       ],
       "reviewed": false
@@ -21799,7 +20942,7 @@
     },
     "soundoff_enfwbfs": {
       "manufacturer_id": "soundoff",
-      "model": "NFORCE INTERIOR UNDERCOVER LIGHT BAR -FRONT/WINDSHIELD BAR - 12 LED DUAL",
+      "model": "NFORCE Interior Front Split Visor Bar",
       "fits_part_types": [
         "front_interior_light_bar"
       ],
@@ -21822,18 +20965,7 @@
             "any"
           ],
           "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_enfwbfs_dual_color": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "SOUND OFF NFORCE INTERIOR FRONT SPLIT VISOR BAR - DUAL COLOR. 12 LED DUAL COLOR - RED/AMBER DRIVER, BLUE/AMBER PASSENGER. QE059359",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
+        },
         {
           "part_number": "ENFWBFS - DUAL COLOR",
           "friendly_name": "SOUND OFF NFORCE INTERIOR FRONT SPLIT VISOR BAR - DUAL COLOR. 12 LED DUAL COLOR - RED/AMBER DRIVER, BLUE/AMBER PASSENGER. QE059359",
@@ -22144,8 +21276,10 @@
     },
     "qb_unassigned_ethernet_cable": {
       "manufacturer_id": "qb_unassigned",
-      "model": "ETHERNET CABLE 10FT",
-      "fits_part_types": [],
+      "model": "Ethernet Cable",
+      "fits_part_types": [
+        "cable"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -22163,18 +21297,7 @@
             "any"
           ],
           "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_ethernet_cable_2": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "ETHENET CABLE 25 FT",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
+        },
         {
           "part_number": "ETHERNET CABLE 2",
           "friendly_name": "ETHENET CABLE 25 FT",
@@ -22323,31 +21446,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_ezpf_interc_suv": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "E/Z-RIDER K9 PLATFORM UNIT FOR AN INTERCEPTOR SUV .125 ALUMINUM BODY DOUBLE WALLED FRONT WITH \u00be\u201d BARS FOR ADDED PROTECTION MILL FINISH ALUMINUM FOR EASY CLEANING SURFACE PUNCHED GRATE STYLE REAR WINDOW FOR CLEAR REAR VIEW PUNCHED GRATE STYLE WINDOW GUARDS IN REAR FOR OFFICER VISION AND EASY COOL GUARD ATTACHMENT POLY CARBONATE WINGS TO KEEP THE K9 FROM REACHING VEHICLE INTERIOR MATTE BLACK POWDER COAT FINISH ALL UNITS COME WITH A RUBBER MAT SLIDING CENTER DOOR FOR EMERGENCY EXIT *INCLUDES WINDOW GUARDS AND DOOR PANELS* ** 57\"W X 29\"D X 40\"H **",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "EZPF_INTERC.SUV",
-          "friendly_name": "E/Z-RIDER K9 PLATFORM UNIT FOR AN INTERCEPTOR SUV .125 ALUMINUM BODY DOUBLE WALLED FRONT WITH \u00be\u201d BARS FOR ADDED PROTECTION MILL FINISH ALUMINUM FOR EASY CLEANING SURFACE PUNCHED GRATE STYLE REAR WINDOW FOR CLEAR REAR VIEW PUNCHED GRATE STYLE WINDOW GUARDS IN REAR FOR OFFICER VISION AND EASY COOL GUARD ATTACHMENT POLY CARBONATE WINGS TO KEEP THE K9 FROM REACHING VEHICLE INTERIOR MATTE BLACK POWDER COAT FINISH ALL UNITS COME WITH A RUBBER MAT SLIDING CENTER DOOR FOR EMERGENCY EXIT *INCLUDES WINDOW GUARDS AND DOOR PANELS* ** 57\"W X 29\"D X 40\"H **",
-          "qb_item_id": "518",
-          "qb_sku": "",
-          "qb_unit_price": 2519.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 2519.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "feniex_fenflas": {
       "manufacturer_id": "feniex",
       "model": "FENFLAS",
@@ -22376,7 +21474,9 @@
     "qb_unassigned_fire_extinguisher_brackets": {
       "manufacturer_id": "qb_unassigned",
       "model": "FIRE EXTINGUISHER BRACKETS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "tool_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -22596,31 +21696,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 5.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_fn_4316": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "FUSION ROTATING BRACKET",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "FN-4316",
-          "friendly_name": "FUSION ROTATING BRACKET",
-          "qb_item_id": "539",
-          "qb_sku": "",
-          "qb_unit_price": 15.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 15.0,
           "vehicle_tags": [
             "any"
           ],
@@ -22938,7 +22013,9 @@
     "qb_unassigned_getac_s410": {
       "manufacturer_id": "qb_unassigned",
       "model": "SP2NTCDASDXX GETAC S410G4 BASIC i5-1135G7 FDH WEBCAM WIN10 PRO X64 W/ 16GB RAM, 512 GB PCIe SSD, SUNLIGHT READABLE, US KBD, MEMBRANE BACKLIT KBD, WIFI +BT, THUNDERBOLT 4, HDMI, RJ45,3YR LIMITED WARRANTY",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "computer"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -23631,7 +22708,9 @@
     "qb_unassigned_install_supplies": {
       "manufacturer_id": "qb_unassigned",
       "model": "INSTALLATION SUPPLIES TO INCLUDE CUSTOM MADE WIRING HARNESS, 100 AMP BREAKER, FUSE BLOCKS, RELAYS, AND OTHER MISC SHOP ITEMS",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "harness"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -23656,7 +22735,9 @@
     "pac_tool_k5003_b": {
       "manufacturer_id": "pac_tool",
       "model": "IRONS LOCK KIT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "tool_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -23678,110 +22759,12 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_k5009_b": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "TOOL HANGER KIT",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "K5009-B",
-          "friendly_name": "TOOL HANGER KIT",
-          "qb_item_id": "657",
-          "qb_sku": "",
-          "qb_unit_price": 79.2,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 79.2,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_k5011": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "FLATHEAD AXE HANGER / POCKET KIT",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "K5011",
-          "friendly_name": "FLATHEAD AXE HANGER / POCKET KIT",
-          "qb_item_id": "658",
-          "qb_sku": "",
-          "qb_unit_price": 128.95,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 128.95,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_k5029_1_b": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "BOLT CUTTERS MOUNTING KIT",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "K5029-1-B",
-          "friendly_name": "BOLT CUTTERS MOUNTING KIT",
-          "qb_item_id": "659",
-          "qb_sku": "",
-          "qb_unit_price": 57.95,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 57.95,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_k5032": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "HALLIGAN TOOL MOUNTING KIT",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "K5032",
-          "friendly_name": "HALLIGAN TOOL MOUNTING KIT",
-          "qb_item_id": "660",
-          "qb_sku": "",
-          "qb_unit_price": 122.95,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 122.95,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "pac_tool_k5046": {
       "manufacturer_id": "pac_tool",
       "model": "10# FIRE EXTINGUISHER / SCBA MOUNT",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "tool_mount"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -23924,31 +22907,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 128.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_light_kit_led": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "LIGHT KIT-LED (RED & WHITE)",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "LIGHT KIT LED",
-          "friendly_name": "LIGHT KIT-LED (RED & WHITE)",
-          "qb_item_id": "674",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 0.0,
           "vehicle_tags": [
             "any"
           ],
@@ -24216,7 +23174,9 @@
     "qb_unassigned_md_6200": {
       "manufacturer_id": "qb_unassigned",
       "model": "MOMENTO M-6 WIFI DASH CAMERA (FRONT CAM, REAR CAM, GPS, 32GB MEMORY CARD)",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "camera_dvr"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -24425,31 +23385,6 @@
           "options": {},
           "color": "red",
           "secondary_color": "white"
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_new_hinged_universal_water_dish": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "NEW HINGED UNIVERSAL WATER DISH",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "NEW HINGED UNIVERSAL WATER DISH",
-          "friendly_name": "NEW HINGED UNIVERSAL WATER DISH",
-          "qb_item_id": "781",
-          "qb_sku": "",
-          "qb_unit_price": 100.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 100.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
         }
       ],
       "reviewed": false
@@ -25323,31 +24258,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_nv3_dsp_kit": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "DISPLAY KIT INCLUDES - 8\" DISPLAY MONITOR -T-BOLT RAM MOUNT (SIZE C) -ROUND RAM MOUNTING PLATE (SIZE C) -6\" LONG RAM MOUNTING ARM (SIZE C) -MINI USB TO AV CABLE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "NV3 DSP-KIT",
-          "friendly_name": "DISPLAY KIT INCLUDES - 8\" DISPLAY MONITOR -T-BOLT RAM MOUNT (SIZE C) -ROUND RAM MOUNTING PLATE (SIZE C) -6\" LONG RAM MOUNTING ARM (SIZE C) -MINI USB TO AV CABLE",
-          "qb_item_id": "816",
-          "qb_sku": "",
-          "qb_unit_price": 200.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 200.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "noptic_nv3_psv_3000": {
       "manufacturer_id": "noptic",
       "model": "NV3 PSV-3000 THERMAL IMAGING CAMERA",
@@ -25419,31 +24329,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 220.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_pel2b": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "PERIMETER LIGHT BLACK",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "PEL2B",
-          "friendly_name": "PERIMETER LIGHT BLACK",
-          "qb_item_id": "832",
-          "qb_sku": "",
-          "qb_unit_price": 265.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 265.0,
           "vehicle_tags": [
             "any"
           ],
@@ -25800,31 +24685,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 32.05,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_printer_usb": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "10FT USB PRINTER USB CABLE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "PRINTER USB",
-          "friendly_name": "10FT USB PRINTER USB CABLE",
-          "qb_item_id": "873",
-          "qb_sku": "",
-          "qb_unit_price": 14.34,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 14.34,
           "vehicle_tags": [
             "any"
           ],
@@ -26349,31 +25209,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_rbe13421": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "AIR PRESURE SWITCH",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "RBE13421",
-          "friendly_name": "AIR PRESURE SWITCH",
-          "qb_item_id": "940",
-          "qb_sku": "",
-          "qb_unit_price": 36.21,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 36.21,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "rockland_cabinets_rlssl_fpiu20_s": {
       "manufacturer_id": "rockland_cabinets",
       "model": "STEEL XL DRAWER WITH ELECTRONICS TRAY ON RISERS 2020+ FORD UTILITY",
@@ -26429,7 +25264,9 @@
     "qb_unassigned_rtm_101_lp_ford_r": {
       "manufacturer_id": "qb_unassigned",
       "model": "ACARI 22\u2033 LOW PROFILE MOUNTING PLATFORM 2019 FORD RANGER",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "bracket"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -26443,106 +25280,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 309.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_rubber_mat_small": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "DELUXE, NON-TOXIC, CUSTOM FIT RUBBER LINER FITS BELOW MODELS: ISUV",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "Rubber Mat, Small",
-          "friendly_name": "DELUXE, NON-TOXIC, CUSTOM FIT RUBBER LINER FITS BELOW MODELS: ISUV",
-          "qb_item_id": "957",
-          "qb_sku": "",
-          "qb_unit_price": 0.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 0.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_rv_3xl_red_fire": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "RV-3XL RED FIRE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "RV-3XL Red FIRE",
-          "friendly_name": "RV-3XL RED FIRE",
-          "qb_item_id": "953",
-          "qb_sku": "",
-          "qb_unit_price": 52.99,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 52.99,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_rv_oversize": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "RV-OVERSIZE",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "RV-OVERSIZE",
-          "friendly_name": "RV-OVERSIZE",
-          "qb_item_id": "954",
-          "qb_sku": "",
-          "qb_unit_price": 49.99,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 49.99,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_rv_regular": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "RV-REGULAR",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "RV-REGULAR",
-          "friendly_name": "RV-REGULAR",
-          "qb_item_id": "955",
-          "qb_sku": "",
-          "qb_unit_price": 49.99,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 49.99,
           "vehicle_tags": [
             "any"
           ],
@@ -28664,56 +27401,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_sl_20l": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "STREAM LIGHT HANDHELD FLASHLIGHT FULLSIZE ALUMINUM WITH 12V SMART CHARGER.",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "SL-20L",
-          "friendly_name": "STREAM LIGHT HANDHELD FLASHLIGHT FULLSIZE ALUMINUM WITH 12V SMART CHARGER.",
-          "qb_item_id": "1067",
-          "qb_sku": "",
-          "qb_unit_price": 144.77,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 144.77,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_sl25302": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "STREAM LIGHT SL-20-LP 12VDC SMART CHARGE BLACK",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "SL25302",
-          "friendly_name": "STREAM LIGHT SL-20-LP 12VDC SMART CHARGE BLACK",
-          "qb_item_id": "1068",
-          "qb_sku": "",
-          "qb_unit_price": 135.28,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 135.28,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "whelen_sp123bmc": {
       "manufacturer_id": "whelen",
       "model": "BUMPER MOUNT, CHROME",
@@ -29030,31 +27717,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_tiger_tough_embroidery": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "TIGHER TOUGH STOCK EMBROIDERY",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "Tiger Tough Embroidery",
-          "friendly_name": "TIGHER TOUGH STOCK EMBROIDERY",
-          "qb_item_id": "1209",
-          "qb_sku": "",
-          "qb_unit_price": 39.19,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 39.19,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "qb_unassigned_tint": {
       "manufacturer_id": "qb_unassigned",
       "model": "WINDOW TINT",
@@ -29187,7 +27849,9 @@
     "qb_unassigned_usb_extention": {
       "manufacturer_id": "qb_unassigned",
       "model": "USB EXTENTION 10FT CABLE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "cable"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -29392,56 +28056,6 @@
       ],
       "reviewed": false
     },
-    "qb_unassigned_w709980_s439": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "FORD REPLACEMENT FRONT SEAT BOLTS",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "W709980-S439",
-          "friendly_name": "FORD REPLACEMENT FRONT SEAT BOLTS",
-          "qb_item_id": "1257",
-          "qb_sku": "",
-          "qb_unit_price": 5.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 5.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_wl_0118": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "AM900 WORK LIGHT",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "WL-0118",
-          "friendly_name": "AM900 WORK LIGHT",
-          "qb_item_id": "1278",
-          "qb_sku": "",
-          "qb_unit_price": 39.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 39.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
     "rockland_cabinets_wpdr_rkd_st1_4324_pcst_univay": {
       "manufacturer_id": "rockland_cabinets",
       "model": "STEEL WEAPONS DRAWER WITH READY LOCK COMES WITH FOAM INSERT",
@@ -29461,31 +28075,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 1016.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "qb_unassigned_x218016_0002": {
-      "manufacturer_id": "qb_unassigned",
-      "model": "X-LED 6\" SPOTLIGHT BLACK (X335) (S14) LH",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "X218016-0002",
-          "friendly_name": "X-LED 6\" SPOTLIGHT BLACK (X335) (S14) LH",
-          "qb_item_id": "1284",
-          "qb_sku": "",
-          "qb_unit_price": 375.61,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 375.61,
           "vehicle_tags": [
             "any"
           ],
@@ -30137,6 +28726,975 @@
         }
       ],
       "reviewed": true
+    },
+    "pac_tool_hooklok": {
+      "manufacturer_id": "pac_tool",
+      "model": "HookLok",
+      "fits_part_types": [
+        "tool_mount"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "1001-B",
+          "friendly_name": "HOOKLOK ( SOLD IN PAIRS )",
+          "qb_item_id": "24",
+          "qb_sku": "",
+          "qb_unit_price": 37.95,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 37.95,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "pac_tool_handlelok": {
+      "manufacturer_id": "pac_tool",
+      "model": "HandleLok",
+      "fits_part_types": [
+        "tool_mount"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "1004-B",
+          "friendly_name": "HANDLELOK",
+          "qb_item_id": "26",
+          "qb_sku": "",
+          "qb_unit_price": 41.4,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 41.4,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "pac_tool_jumbo_lok": {
+      "manufacturer_id": "pac_tool",
+      "model": "Jumbo Lok",
+      "fits_part_types": [
+        "tool_mount"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "1070-B",
+          "friendly_name": "JUMBO LOK",
+          "qb_item_id": "28",
+          "qb_sku": "",
+          "qb_unit_price": 63.84,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 63.84,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "pac_tool_flex_mount_short": {
+      "manufacturer_id": "pac_tool",
+      "model": "Flex Mount Short HD",
+      "fits_part_types": [
+        "tool_mount"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "1002S-HD-B",
+          "friendly_name": "FLEX MOUNT SHORT HD BRACKET",
+          "qb_item_id": "25",
+          "qb_sku": "",
+          "qb_unit_price": 49.44,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 49.44,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "pac_tool_tool_hanger_kit": {
+      "manufacturer_id": "pac_tool",
+      "model": "Tool Hanger Kit",
+      "fits_part_types": [
+        "tool_mount"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "K5009-B",
+          "friendly_name": "TOOL HANGER KIT",
+          "qb_item_id": "657",
+          "qb_sku": "",
+          "qb_unit_price": 79.2,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 79.2,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "pac_tool_axe_hanger": {
+      "manufacturer_id": "pac_tool",
+      "model": "Flathead Axe Hanger / Pocket Kit",
+      "fits_part_types": [
+        "tool_mount"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "K5011",
+          "friendly_name": "FLATHEAD AXE HANGER / POCKET KIT",
+          "qb_item_id": "658",
+          "qb_sku": "",
+          "qb_unit_price": 128.95,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 128.95,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "pac_tool_bolt_cutters_kit": {
+      "manufacturer_id": "pac_tool",
+      "model": "Bolt Cutters Mounting Kit",
+      "fits_part_types": [
+        "tool_mount"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "K5029-1-B",
+          "friendly_name": "BOLT CUTTERS MOUNTING KIT",
+          "qb_item_id": "659",
+          "qb_sku": "",
+          "qb_unit_price": 57.95,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 57.95,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "pac_tool_halligan_kit": {
+      "manufacturer_id": "pac_tool",
+      "model": "Halligan Tool Mounting Kit",
+      "fits_part_types": [
+        "tool_mount"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "K5032",
+          "friendly_name": "HALLIGAN TOOL MOUNTING KIT",
+          "qb_item_id": "660",
+          "qb_sku": "",
+          "qb_unit_price": 122.95,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 122.95,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "pac_tool_universal_hanger": {
+      "manufacturer_id": "pac_tool",
+      "model": "Universal Hanger",
+      "fits_part_types": [
+        "tool_mount"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "1019-B",
+          "friendly_name": "",
+          "qb_item_id": "27",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 0.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "whelen_295_siren": {
+      "manufacturer_id": "whelen",
+      "model": "295 Series Siren Amp",
+      "fits_part_types": [
+        "siren_speaker"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "295SL100",
+          "friendly_name": "MODEL 295SL100 SIREN AMPLIFIER",
+          "qb_item_id": "94",
+          "qb_sku": "",
+          "qb_unit_price": 100.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 100.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        },
+        {
+          "part_number": "295SLSA6",
+          "friendly_name": "295SLSA6 SIREN/CONTROL CENTER",
+          "qb_item_id": "95",
+          "qb_sku": "",
+          "qb_unit_price": 100.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 100.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "brother_pocketjet_power_cable": {
+      "manufacturer_id": "brother",
+      "model": "PocketJet Power Cable",
+      "fits_part_types": [
+        "printer_power"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "14331",
+          "friendly_name": "POCKET JET 7 POWER CABLE",
+          "qb_item_id": "30",
+          "qb_sku": "",
+          "qb_unit_price": 27.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 27.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false,
+      "accessory_category": "cable",
+      "accessory_of_products": [
+        "brother_pj_822"
+      ]
+    },
+    "brother_pocketjet_usb_cable": {
+      "manufacturer_id": "brother",
+      "model": "PocketJet USB Cable",
+      "fits_part_types": [
+        "printer_usb"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "14831",
+          "friendly_name": "POCKET JET PRINTER USB CABLE 6FT",
+          "qb_item_id": "31",
+          "qb_sku": "",
+          "qb_unit_price": 15.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 15.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        },
+        {
+          "part_number": "PRINTER USB",
+          "friendly_name": "10FT USB PRINTER USB CABLE",
+          "qb_item_id": "873",
+          "qb_sku": "",
+          "qb_unit_price": 14.34,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 14.34,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false,
+      "accessory_category": "cable",
+      "accessory_of_products": [
+        "brother_pj_822"
+      ]
+    },
+    "lind_dell_power_adapter_2542": {
+      "manufacturer_id": "lind",
+      "model": "Dell Isolated Power Adapter",
+      "fits_part_types": [
+        "docking_station"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "DE2045I-2542",
+          "friendly_name": "ISOLATED POWER ADAPTER FOR DELL LATITUDE",
+          "qb_item_id": "452",
+          "qb_sku": "",
+          "qb_unit_price": 262.45,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 262.45,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false,
+      "accessory_category": "cable",
+      "accessory_of_products": [
+        "gamber_johnson_7110_1213"
+      ]
+    },
+    "american_aluminum_ez_vault": {
+      "manufacturer_id": "american_aluminum",
+      "model": "E/Z Vault",
+      "fits_part_types": [
+        "rear_storage_box"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "E/Z Vault",
+          "friendly_name": "E/Z VAULT \"UP\" 44\"W X 24\"D X 8\"H *** FOR PPV EXPLORER 2011-2019 ***",
+          "qb_item_id": "460",
+          "qb_sku": "",
+          "qb_unit_price": 1223.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 1223.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "american_aluminum_cool_guard_pager": {
+      "manufacturer_id": "american_aluminum",
+      "model": "E/Z-Cool Guard Pager",
+      "fits_part_types": [
+        "k9_heat_alarm_popper"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "E/Z-Cool Guard Pager System",
+          "friendly_name": "E/Z-COOL GUARD PAGER SYSTEM. WORKS IN CONJUNCTION WITH COOL GUARD MONITORING SYSTEM",
+          "qb_item_id": "461",
+          "qb_sku": "",
+          "qb_unit_price": 365.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 365.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "american_aluminum_cool_guard_m910": {
+      "manufacturer_id": "american_aluminum",
+      "model": "E/Z-Cool Guard System Plus M910",
+      "fits_part_types": [
+        "k9_heat_alarm_popper"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "E/Z-Cool Guard System PLUS M910",
+          "friendly_name": "E/Z-COOL GUARD SYSTEM PLUS M910 (COOLGUARD ONLY, THIS DOES NOT INCLUDE THE RESCUE DOOR OPENER) WHICH SIDE OF THE VEHICLE IS THE FAN BEING INSTALLED ON (DRIVER OR PASSENGER)? THE STANDARD KIT INCLUDES: 1PC COOL GUARD PLUS ONLY 1PC COOL GUARD CONTROL HEAD (TS DISPLAY) 1PC PAW PROTECT 2PCS TEMP PROBES W/ TEMP AND HUMIDITY 1PC PEDESTAL KIT 1KT ALL ASSOCIATED WIRE HARNESSES FOR CGP 1PC 30A FUSE AND IN-LINE FUSE HOLDER 1 FAN AND FAN GUARD NEW FEATURES OF THE M910 SYSTEM: * REMOTE START, IF THE IGNITION IS OFF BUT NOT THE PAW PROTECT AND THE ALARM IS TRIGGERED, THE REMOTE START SIGNAL IS TRIGGERED, FOR MOST VEHICLES IT WILL SHUT OFF AFTER 20 MIN. * ADDED FAN FEATURE, THE SYSTEM WILL SUPPORT A SECOND FAN (NOT INCLUDED IN THIS PRICE) * K9 LIGHT ON THE DISPLAY, CUSTOMER CAN TURN ON AND OFF THE LIGHT FROM DISPLAY SCREEN * RESCUE FEATURE ON THE DISPLAY, RESCUE DEPLOYS FROM DISPLAY * RESCUE FOB SYNC CAN BE DONE ON THE DISPLAY *** PLEASE ADVICE IF THE VEHICLE IS NOT A POLICE PACKAGE... IF THERE IS N",
+          "qb_item_id": "462",
+          "qb_sku": "",
+          "qb_unit_price": 1195.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 1195.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "american_aluminum_ez_rider_k9_platform": {
+      "manufacturer_id": "american_aluminum",
+      "model": "E/Z-Rider K9 Platform",
+      "fits_part_types": [
+        "k9_kennel"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "EZPF_INTERC.SUV",
+          "friendly_name": "E/Z-RIDER K9 PLATFORM UNIT FOR AN INTERCEPTOR SUV .125 ALUMINUM BODY DOUBLE WALLED FRONT WITH \u00be\u201d BARS FOR ADDED PROTECTION MILL FINISH ALUMINUM FOR EASY CLEANING SURFACE PUNCHED GRATE STYLE REAR WINDOW FOR CLEAR REAR VIEW PUNCHED GRATE STYLE WINDOW GUARDS IN REAR FOR OFFICER VISION AND EASY COOL GUARD ATTACHMENT POLY CARBONATE WINGS TO KEEP THE K9 FROM REACHING VEHICLE INTERIOR MATTE BLACK POWDER COAT FINISH ALL UNITS COME WITH A RUBBER MAT SLIDING CENTER DOOR FOR EMERGENCY EXIT *INCLUDES WINDOW GUARDS AND DOOR PANELS* ** 57\"W X 29\"D X 40\"H **",
+          "qb_item_id": "518",
+          "qb_sku": "",
+          "qb_unit_price": 2519.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 2519.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "american_aluminum_hinged_water_dish": {
+      "manufacturer_id": "american_aluminum",
+      "model": "Hinged Universal Water Dish",
+      "fits_part_types": [
+        "k9_add_ons"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "NEW HINGED UNIVERSAL WATER DISH",
+          "friendly_name": "NEW HINGED UNIVERSAL WATER DISH",
+          "qb_item_id": "781",
+          "qb_sku": "",
+          "qb_unit_price": 100.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 100.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "american_aluminum_k9_rubber_mat": {
+      "manufacturer_id": "american_aluminum",
+      "model": "K9 Rubber Liner",
+      "fits_part_types": [
+        "k9_add_ons"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "Rubber Mat, Small",
+          "friendly_name": "DELUXE, NON-TOXIC, CUSTOM FIT RUBBER LINER FITS BELOW MODELS: ISUV",
+          "qb_item_id": "957",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 0.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "american_aluminum_vault_basket": {
+      "manufacturer_id": "american_aluminum",
+      "model": "SUV Vault Basket",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "Basket Add-on",
+          "friendly_name": "4\" SUV VAULT BASKET",
+          "qb_item_id": "341",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 0.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false,
+      "accessory_category": "other",
+      "accessory_of_products": [
+        "american_aluminum_ameralu_vault",
+        "american_aluminum_ez_vault"
+      ]
+    },
+    "ace_k_9_acewatchdog": {
+      "manufacturer_id": "ace_k_9",
+      "model": "AceWatchDog",
+      "fits_part_types": [
+        "k9_heat_alarm_popper"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "AWD-7040",
+          "friendly_name": "ACEWATCHDOG FOR USE WITH PRO ALARM SYSTEMS",
+          "qb_item_id": "278",
+          "qb_sku": "",
+          "qb_unit_price": 0.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 0.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "night_ride_nv3_display_kit": {
+      "manufacturer_id": "night_ride",
+      "model": "NV3 Display Kit",
+      "fits_part_types": [
+        "thermal_imager_monitor"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "NV3 DSP-KIT",
+          "friendly_name": "DISPLAY KIT INCLUDES - 8\" DISPLAY MONITOR -T-BOLT RAM MOUNT (SIZE C) -ROUND RAM MOUNTING PLATE (SIZE C) -6\" LONG RAM MOUNTING ARM (SIZE C) -MINI USB TO AV CABLE",
+          "qb_item_id": "816",
+          "qb_sku": "",
+          "qb_unit_price": 200.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 200.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "unity_spotlight_2016_fpiu": {
+      "manufacturer_id": "unity",
+      "model": "6\" Halogen Spotlight (2016 FPIU)",
+      "fits_part_types": [
+        "spotlight"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "211020-0002",
+          "friendly_name": "SPOTLIGHT, DRIVER SIDE HALOGEN FOR 2016 FORD INTERCEPTOR UTILITY 6\"BLACK",
+          "qb_item_id": "85",
+          "qb_sku": "",
+          "qb_unit_price": 202.17,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 202.17,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "unity_xled_spotlight": {
+      "manufacturer_id": "unity",
+      "model": "X-LED 6\" Spotlight",
+      "fits_part_types": [
+        "spotlight"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "X218016-0002",
+          "friendly_name": "X-LED 6\" SPOTLIGHT BLACK (X335) (S14) LH",
+          "qb_item_id": "1284",
+          "qb_sku": "",
+          "qb_unit_price": 375.61,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 375.61,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "unity_shaft_headpost": {
+      "manufacturer_id": "unity",
+      "model": "Shaft & Headpost Assembly LH",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "3615-DC-210",
+          "friendly_name": "UNTIY SHAFT & HEADPOST ASSEMBLY - LH",
+          "qb_item_id": "136",
+          "qb_sku": "",
+          "qb_unit_price": 96.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 96.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false,
+      "accessory_category": "other",
+      "accessory_of_products": [
+        "unity_spotlight_2016_fpiu",
+        "unity_xled_spotlight"
+      ]
+    },
+    "streamlight_sl20": {
+      "manufacturer_id": "qb_unassigned",
+      "model": "SL-20 Flashlight",
+      "fits_part_types": [
+        "flashlight"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "SL-20L",
+          "friendly_name": "STREAM LIGHT HANDHELD FLASHLIGHT FULLSIZE ALUMINUM WITH 12V SMART CHARGER.",
+          "qb_item_id": "1067",
+          "qb_sku": "",
+          "qb_unit_price": 144.77,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 144.77,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        },
+        {
+          "part_number": "SL25302",
+          "friendly_name": "STREAM LIGHT SL-20-LP 12VDC SMART CHARGE BLACK",
+          "qb_item_id": "1068",
+          "qb_sku": "",
+          "qb_unit_price": 135.28,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 135.28,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "pelican_8060_flashlight": {
+      "manufacturer_id": "qb_unassigned",
+      "model": "Pelican 8060 LED Flashlight",
+      "fits_part_types": [
+        "flashlight"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "8060 LED",
+          "friendly_name": "PELICAN MODEL 8060 LED RECHARGEABLE FLASHLIGHT",
+          "qb_item_id": "232",
+          "qb_sku": "",
+          "qb_unit_price": 181.97,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 181.97,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "feniex_am900_work_light": {
+      "manufacturer_id": "feniex",
+      "model": "AM900 Work Light",
+      "fits_part_types": [
+        "front_scene"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WL-0118",
+          "friendly_name": "AM900 WORK LIGHT",
+          "qb_item_id": "1278",
+          "qb_sku": "",
+          "qb_unit_price": 39.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 39.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "tiger_tough_embroidery": {
+      "manufacturer_id": "tiger_tough",
+      "model": "Stock Embroidery",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "Tiger Tough Embroidery",
+          "friendly_name": "TIGHER TOUGH STOCK EMBROIDERY",
+          "qb_item_id": "1209",
+          "qb_sku": "",
+          "qb_unit_price": 39.19,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 39.19,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false,
+      "accessory_category": "other",
+      "accessory_of_products": [
+        "tiger_tough_standard"
+      ]
+    },
+    "feniex_fusion_rotating_bracket": {
+      "manufacturer_id": "feniex",
+      "model": "Fusion Rotating Bracket",
+      "fits_part_types": [
+        "bracket"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FN-4316",
+          "friendly_name": "FUSION ROTATING BRACKET",
+          "qb_item_id": "539",
+          "qb_sku": "",
+          "qb_unit_price": 15.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 15.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false,
+      "accessory_category": "bracket_mount",
+      "accessory_of_products": [
+        "feniex_fusion_surface_mount"
+      ]
+    },
+    "soundoff_eluc_undercover_insert": {
+      "manufacturer_id": "soundoff",
+      "model": "Universal UnderCover LED Insert",
+      "fits_part_types": [
+        "warning_light"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ELUC3H010E",
+          "friendly_name": "UNDERCOVER LED INSERT - 6 3RD GEN SUPER LED'S - 10' 5-WIRE CABLE - BLUE/WHITE - 10-30 VOLT",
+          "qb_item_id": "474",
+          "qb_sku": "",
+          "qb_unit_price": 71.22,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 71.22,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "globesat_bu_353n": {
+      "manufacturer_id": "globesat",
+      "model": "BU-353N USB GPS Receiver",
+      "fits_part_types": [
+        "cloud_antenna"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "BU-353N",
+          "friendly_name": "GLOBALSAT BU-353N USB GPS RECEIVER, BLACK",
+          "qb_item_id": "335",
+          "qb_sku": "",
+          "qb_unit_price": 53.98,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 53.98,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "whelen_pel2": {
+      "manufacturer_id": "whelen",
+      "model": "Perimeter Enhancement Light",
+      "fits_part_types": [
+        "front_scene",
+        "rear_scene",
+        "side_scene"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PEL2B",
+          "friendly_name": "PERIMETER LIGHT BLACK",
+          "qb_item_id": "832",
+          "qb_sku": "",
+          "qb_unit_price": 265.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 265.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
     }
   },
   "part_types": {
