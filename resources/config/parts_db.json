@@ -714,79 +714,8 @@
       "part_numbers": [
         {
           "part_number": "PIT BARS"
-        },
-        {
-          "part_number": "36-2125PB",
-          "friendly_name": "WESTIN PIT BAR ELITE 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_item_id": "110",
-          "qb_sku": "",
-          "qb_unit_price": 545.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 545.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "36-4045PB",
-          "friendly_name": "WESTIN PIT BAR ELITE 2021-2025 CHEVROLET TAHOE PPV",
-          "qb_item_id": "114",
-          "qb_sku": "",
-          "qb_unit_price": 545.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 545.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "36-4075PB",
-          "friendly_name": "WESTIN PIT BAR ELITE 2021-2026 DODGE DURANOG",
-          "qb_item_id": "117",
-          "qb_sku": "",
-          "qb_unit_price": 545.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 545.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "36-52135PB",
-          "friendly_name": "WESTIN PIT BAR ElLITEXD - 2023-2026 CHEVROLET SILVERADO 1500 PPV",
-          "qb_item_id": "123",
-          "qb_sku": "",
-          "qb_unit_price": 545.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 545.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "36-54085PB",
-          "friendly_name": "WESTIN PIT BAR ELITEXD 2015-2026 FORD F-150/F-150 POLICE RESPONDER/F-150 XL SSV",
-          "qb_item_id": "127",
-          "qb_sku": "",
-          "qb_unit_price": 545.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 545.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
         }
-      ],
-      "reviewed": false
+      ]
     },
     "setina_pb5": {
       "manufacturer_id": "setina",
@@ -1046,65 +975,8 @@
       "part_numbers": [
         {
           "part_number": "WING WRAPS"
-        },
-        {
-          "part_number": "36-2125W",
-          "friendly_name": "WESTIN WING WRAP ELITE PUSH BUMPER 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_item_id": "111",
-          "qb_sku": "",
-          "qb_unit_price": 380.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 380.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "36-4075W",
-          "friendly_name": "WESTIN WING WRAP ELITE 2021-2026 DODGE DURANGO",
-          "qb_item_id": "118",
-          "qb_sku": "",
-          "qb_unit_price": 380.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 380.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "36-52065W",
-          "friendly_name": "WESTIN WING WRAP ELITEXD 2015-2026 FORD F-150",
-          "qb_item_id": "120",
-          "qb_sku": "",
-          "qb_unit_price": 380.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 380.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "36-52135W",
-          "friendly_name": "WESTIN WING WRAP ELITEXD 2023-2026 CHEVROLET SILVERADO 1500 PPV/2025-2026 CHEVROLET TAHOE PPV",
-          "qb_item_id": "124",
-          "qb_sku": "",
-          "qb_unit_price": 380.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 380.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
         }
-      ],
-      "reviewed": false
+      ]
     },
     "setina_pb6": {
       "manufacturer_id": "setina",
@@ -14336,9 +14208,7 @@
     "gamber_johnson_15250": {
       "manufacturer_id": "gamber_johnson",
       "model": "OEM FILLER PANEL (USD/MP3/SD CARD JACK AND 12VDC POWER PORT)",
-      "fits_part_types": [
-        "special_face_plate"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -14363,9 +14233,7 @@
     "gamber_johnson_16298": {
       "manufacturer_id": "gamber_johnson",
       "model": "POCKET, 4.5\" X 2\" DEEP KNOCKOUT",
-      "fits_part_types": [
-        "special_face_plate"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -14442,9 +14310,7 @@
     "gamber_johnson_19740": {
       "manufacturer_id": "gamber_johnson",
       "model": "1-1/2\" FILLER PANEL W/ (2) 12V KNOCKOUTS + 2 ROCKER SWITCH KNOCKOUTS",
-      "fits_part_types": [
-        "special_face_plate"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -14550,10 +14416,7 @@
     "stalker_200_0243_00": {
       "manufacturer_id": "stalker",
       "model": "COUNTING UNIT MOUNT - TALL",
-      "fits_part_types": [
-        "front_radar_antenna_mount",
-        "rear_radar_antenna_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -14632,9 +14495,7 @@
     "stalker_200_0622_00": {
       "manufacturer_id": "stalker",
       "model": "VSS INSTALLATION KIT",
-      "fits_part_types": [
-        "radar_cable"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -14659,9 +14520,7 @@
     "stalker_200_0622_01": {
       "manufacturer_id": "stalker",
       "model": "2015-PRESENT TAHOE VSS CABLE KIT",
-      "fits_part_types": [
-        "radar_cable"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -14706,12 +14565,7 @@
           "options": {}
         }
       ],
-      "reviewed": false,
-      "accessory_category": "other",
-      "accessory_of_products": [
-        "stalker_dsr",
-        "stalker_dsr_2x"
-      ]
+      "reviewed": false
     },
     "stalker_200_0986_00": {
       "manufacturer_id": "stalker",
@@ -14824,10 +14678,7 @@
     "stalker_200_1089_00": {
       "manufacturer_id": "stalker",
       "model": "TAHOE DISPLAY MOUNT",
-      "fits_part_types": [
-        "front_radar_antenna_mount",
-        "rear_radar_antenna_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -14980,12 +14831,7 @@
           "options": {}
         }
       ],
-      "reviewed": false,
-      "accessory_category": "other",
-      "accessory_of_products": [
-        "stalker_dsr",
-        "stalker_dsr_2x"
-      ]
+      "reviewed": false
     },
     "stalker_200_1503_11": {
       "manufacturer_id": "stalker",
@@ -15010,12 +14856,7 @@
           "options": {}
         }
       ],
-      "reviewed": false,
-      "accessory_category": "other",
-      "accessory_of_products": [
-        "stalker_dsr",
-        "stalker_dsr_2x"
-      ]
+      "reviewed": false
     },
     "unity_218000_0002": {
       "manufacturer_id": "unity",
@@ -15182,9 +15023,7 @@
     "westin_28_51270": {
       "manufacturer_id": "westin",
       "model": "R5 NERF STEP BARS - SILVERADO/SIERRA 1500 CREW CAB 2019-2026; SILVERADO/SIERRA 2500/3500 CREW CAB 2020-2025",
-      "fits_part_types": [
-        "running_boards_nerf_bars"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -15236,9 +15075,7 @@
     "gamber_johnson_3130_0152": {
       "manufacturer_id": "gamber_johnson",
       "model": "1/2\" BLANK FILLER PANEL",
-      "fits_part_types": [
-        "special_face_plate"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -15263,9 +15100,7 @@
     "gamber_johnson_3130_0154": {
       "manufacturer_id": "gamber_johnson",
       "model": "2\" BLANK FILLER PANEL",
-      "fits_part_types": [
-        "special_face_plate"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -15290,9 +15125,7 @@
     "gamber_johnson_3130_0156": {
       "manufacturer_id": "gamber_johnson",
       "model": "4\" BLANK FILLER PANEL",
-      "fits_part_types": [
-        "special_face_plate"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -15393,12 +15226,60 @@
       ],
       "reviewed": false
     },
+    "westin_36_2125pb": {
+      "manufacturer_id": "westin",
+      "model": "PIT BAR ELITE 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "36-2125PB",
+          "friendly_name": "WESTIN PIT BAR ELITE 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_item_id": "110",
+          "qb_sku": "",
+          "qb_unit_price": 545.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 545.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "westin_36_2125w": {
+      "manufacturer_id": "westin",
+      "model": "WING WRAP ELITE PUSH BUMPER 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "36-2125W",
+          "friendly_name": "WESTIN WING WRAP ELITE PUSH BUMPER 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_item_id": "111",
+          "qb_sku": "",
+          "qb_unit_price": 380.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 380.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
     "westin_36_2125wc": {
       "manufacturer_id": "westin",
       "model": "ELITE UPRIGHT WIRE COVER 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
-      "fits_part_types": [
-        "wire_covers"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -15439,6 +15320,31 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 834.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "westin_36_4045pb": {
+      "manufacturer_id": "westin",
+      "model": "PIT BAR ELITE 2021-2025 CHEVROLET TAHOE PPV",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "36-4045PB",
+          "friendly_name": "WESTIN PIT BAR ELITE 2021-2025 CHEVROLET TAHOE PPV",
+          "qb_item_id": "114",
+          "qb_sku": "",
+          "qb_unit_price": 545.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 545.0,
           "vehicle_tags": [
             "any"
           ],
@@ -15501,6 +15407,56 @@
       ],
       "reviewed": false
     },
+    "westin_36_4075pb": {
+      "manufacturer_id": "westin",
+      "model": "PIT BAR ELITE 2021-2026 DODGE DURANOG",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "36-4075PB",
+          "friendly_name": "WESTIN PIT BAR ELITE 2021-2026 DODGE DURANOG",
+          "qb_item_id": "117",
+          "qb_sku": "",
+          "qb_unit_price": 545.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 545.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "westin_36_4075w": {
+      "manufacturer_id": "westin",
+      "model": "WING WRAP ELITE 2021-2026 DODGE DURANGO",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "36-4075W",
+          "friendly_name": "WESTIN WING WRAP ELITE 2021-2026 DODGE DURANGO",
+          "qb_item_id": "118",
+          "qb_sku": "",
+          "qb_unit_price": 380.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 380.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
     "westin_36_4075wc": {
       "manufacturer_id": "westin",
       "model": "PUSH BUMPER ELITE WIRE COVER 2021-2026 DODGE DURANGO",
@@ -15520,6 +15476,31 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 56.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "westin_36_52065w": {
+      "manufacturer_id": "westin",
+      "model": "WING WRAP ELITEXD 2015-2026 FORD F-150",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "36-52065W",
+          "friendly_name": "WESTIN WING WRAP ELITEXD 2015-2026 FORD F-150",
+          "qb_item_id": "120",
+          "qb_sku": "",
+          "qb_unit_price": 380.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 380.0,
           "vehicle_tags": [
             "any"
           ],
@@ -15582,6 +15563,56 @@
       ],
       "reviewed": false
     },
+    "westin_36_52135pb": {
+      "manufacturer_id": "westin",
+      "model": "PIT BAR ElLITEXD - 2023-2026 CHEVROLET SILVERADO 1500 PPV",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "36-52135PB",
+          "friendly_name": "WESTIN PIT BAR ElLITEXD - 2023-2026 CHEVROLET SILVERADO 1500 PPV",
+          "qb_item_id": "123",
+          "qb_sku": "",
+          "qb_unit_price": 545.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 545.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "westin_36_52135w": {
+      "manufacturer_id": "westin",
+      "model": "WING WRAP ELITEXD 2023-2026 CHEVROLET SILVERADO 1500 PPV/2025-2026 CHEVROLET TAHOE PPV",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "36-52135W",
+          "friendly_name": "WESTIN WING WRAP ELITEXD 2023-2026 CHEVROLET SILVERADO 1500 PPV/2025-2026 CHEVROLET TAHOE PPV",
+          "qb_item_id": "124",
+          "qb_sku": "",
+          "qb_unit_price": 380.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 380.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
     "westin_36_52135wc": {
       "manufacturer_id": "westin",
       "model": "PUSH BUMPER ELITEXD WIRE COVER CHEVY SILVERADO PPV",
@@ -15628,6 +15659,31 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 834.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "westin_36_54085pb": {
+      "manufacturer_id": "westin",
+      "model": "PIT BAR ELITEXD 2015-2026 FORD F-150/F-150 POLICE RESPONDER/F-150 XL SSV",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "36-54085PB",
+          "friendly_name": "WESTIN PIT BAR ELITEXD 2015-2026 FORD F-150/F-150 POLICE RESPONDER/F-150 XL SSV",
+          "qb_item_id": "127",
+          "qb_sku": "",
+          "qb_unit_price": 545.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 545.0,
           "vehicle_tags": [
             "any"
           ],
@@ -16086,9 +16142,7 @@
     "westin_500_0238": {
       "manufacturer_id": "westin",
       "model": "UNDER LAPTOP PRINTER TRAY",
-      "fits_part_types": [
-        "printer_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16296,9 +16350,7 @@
     "gamber_johnson_7110_1201": {
       "manufacturer_id": "gamber_johnson",
       "model": "2015+ TAHOE WINGS",
-      "fits_part_types": [
-        "special_face_plate"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16404,9 +16456,7 @@
     "gamber_johnson_7160_0085": {
       "manufacturer_id": "gamber_johnson",
       "model": "29\" LONG BASE PLATE",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16458,9 +16508,7 @@
     "gamber_johnson_7160_0178": {
       "manufacturer_id": "gamber_johnson",
       "model": "7\" UPPER POLE",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16485,9 +16533,7 @@
     "gamber_johnson_7160_0220": {
       "manufacturer_id": "gamber_johnson",
       "model": "MONGOOSE 9\" LOCKING SKIDE ARM WITH 360 DEGREE CLEVIS",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16512,9 +16558,7 @@
     "gamber_johnson_7160_0230": {
       "manufacturer_id": "gamber_johnson",
       "model": "ADJUSTABLE SUPPORT BRACE SHORT",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16593,9 +16637,7 @@
     "gamber_johnson_7160_0332": {
       "manufacturer_id": "gamber_johnson",
       "model": "SHORT INTERIOR POCKET",
-      "fits_part_types": [
-        "special_face_plate"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16755,9 +16797,7 @@
     "gamber_johnson_7160_0509": {
       "manufacturer_id": "gamber_johnson",
       "model": "2015-2019 CHEVROLET/GMC TRUCK ADN FULL-SIZE SUV CONSOLE LEG KIT",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16782,9 +16822,7 @@
     "gamber_johnson_7160_0555": {
       "manufacturer_id": "gamber_johnson",
       "model": "UNIVERSAL CONSOLE LEG KIT FOR 2015+ FORD F-150 ALUMINUM BODY 2017+ SUPERDUTY 2018+ EXPEDITION SSV",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16809,9 +16847,7 @@
     "gamber_johnson_7160_0597": {
       "manufacturer_id": "gamber_johnson",
       "model": "6 INCH SHORT INTERIOR POCKET",
-      "fits_part_types": [
-        "special_face_plate"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16836,9 +16872,7 @@
     "gamber_johnson_7160_0826": {
       "manufacturer_id": "gamber_johnson",
       "model": "ADJUSTABLE MAG CLIP",
-      "fits_part_types": [
-        "radio_mic_clip"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16863,9 +16897,7 @@
     "gamber_johnson_7160_0846": {
       "manufacturer_id": "gamber_johnson",
       "model": "INTERNAL CUP HOLDER",
-      "fits_part_types": [
-        "special_face_plate"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16890,9 +16922,7 @@
     "gamber_johnson_7160_0924": {
       "manufacturer_id": "gamber_johnson",
       "model": "2\" WIDE X 1.5\" DEEP POCKET",
-      "fits_part_types": [
-        "special_face_plate"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16917,9 +16947,7 @@
     "gamber_johnson_7160_0985": {
       "manufacturer_id": "gamber_johnson",
       "model": "LEG KIT RAM 1500 WITH CENTER SEAT",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -16944,9 +16972,7 @@
     "gamber_johnson_7160_1048": {
       "manufacturer_id": "gamber_johnson",
       "model": "UNIVERSAL STORAGE BOX FOR ELECTRICAL EQUIPMENT",
-      "fits_part_types": [
-        "equipment_tray"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17025,9 +17051,7 @@
     "gamber_johnson_7160_1325": {
       "manufacturer_id": "gamber_johnson",
       "model": "2019+ CHEVROLET SILVERADO/GMC SIERRA LEG KIT (NEW BODY STYLE)",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17052,9 +17076,7 @@
     "gamber_johnson_7160_1336": {
       "manufacturer_id": "gamber_johnson",
       "model": "2020+ FORD POLICE INTERCEPTOR UTILITY AND 2020+ FORD EXPLORER VEHICLE BASE",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17079,9 +17101,7 @@
     "gamber_johnson_7160_1383": {
       "manufacturer_id": "gamber_johnson",
       "model": "2019-CURRENT (NEW BODY STYLE) RAM 1500 LEG KIT",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17106,9 +17126,7 @@
     "gamber_johnson_7160_1397": {
       "manufacturer_id": "gamber_johnson",
       "model": "2018-2026 CHEVY TRAVERSE/ 2014-2024 GMC ACADIA VEHICLE BASE",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17214,9 +17232,7 @@
     "gamber_johnson_7160_1634": {
       "manufacturer_id": "gamber_johnson",
       "model": "2021+ CHEVROLET TAHOE LEG KIT",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17295,9 +17311,7 @@
     "gamber_johnson_7170_0232": {
       "manufacturer_id": "gamber_johnson",
       "model": "2000-2012 FORD ESCAPE PEDESTAL SYSTEM KIT",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17403,9 +17417,7 @@
     "gamber_johnson_7170_0567_00": {
       "manufacturer_id": "gamber_johnson",
       "model": "WIDE BODY UNIVERSAL CONSOLE WITH CUP HOLDER AND POCKET KIT",
-      "fits_part_types": [
-        "console"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17565,9 +17577,7 @@
     "gamber_johnson_7170_0814_01": {
       "manufacturer_id": "gamber_johnson",
       "model": "2020-2025 FORD POLICE INTERCEPTOR UTILITY PEDESTAL KIT WITH MONGOOSE SLIDE ARM",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17835,9 +17845,7 @@
     "gamber_johnson_7170_1238": {
       "manufacturer_id": "gamber_johnson",
       "model": "2025+ CHEVROLET SILVERADO/GMC SIERRA AND CHEVROLET TAHOE PEDESTAL KIT WITH MONGOOSE\u00ae XLE 9",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -17862,9 +17870,7 @@
     "gamber_johnson_7300_0426": {
       "manufacturer_id": "gamber_johnson",
       "model": "KUSSMAUL AUX / USB PASS-THROUGH 6' EXTENSION MODULE",
-      "fits_part_types": [
-        "aux_12v_ports"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -18148,13 +18154,9 @@
     },
     "feniex_am900": {
       "manufacturer_id": "feniex",
-      "model": "AM900 Work Light",
-      "fits_part_types": [
-        "front_scene"
-      ],
-      "tag_ids": [
-        "light"
-      ],
+      "model": "AM900 WORK LIGHT",
+      "fits_part_types": [],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -18162,20 +18164,6 @@
           "part_number": "AM900",
           "friendly_name": "FENIEX AM900 WORK LIGHT",
           "qb_item_id": "243",
-          "qb_sku": "",
-          "qb_unit_price": 39.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 39.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "WL-0118",
-          "friendly_name": "AM900 WORK LIGHT",
-          "qb_item_id": "1278",
           "qb_sku": "",
           "qb_unit_price": 39.0,
           "qb_inactive": false,
@@ -18680,9 +18668,7 @@
     "feniex_c_4010": {
       "manufacturer_id": "feniex",
       "model": "4200 MINI CONTROLLER",
-      "fits_part_types": [
-        "light_controller"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -18707,9 +18693,7 @@
     "feniex_c_4014": {
       "manufacturer_id": "feniex",
       "model": "STORM PRO 100W SIREN",
-      "fits_part_types": [
-        "siren_speaker"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -18734,9 +18718,7 @@
     "feniex_c_4017": {
       "manufacturer_id": "feniex",
       "model": "TYPHOON FULL FUNCTION LIGHT AND SIREN CONTROLLER",
-      "fits_part_types": [
-        "control_head"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -18761,9 +18743,7 @@
     "feniex_c_5017": {
       "manufacturer_id": "feniex",
       "model": "TYPHOON HANDHELD 100W SIREN",
-      "fits_part_types": [
-        "siren_speaker"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20405,6 +20385,31 @@
       ],
       "reviewed": false
     },
+    "feniex_chw": {
+      "manufacturer_id": "feniex",
+      "model": "CANNON HIDE-A-WAY (RED/WHITE)",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CHW",
+          "friendly_name": "FENIEX CANNON HIDE-A-WAY (RED/WHITE)",
+          "qb_item_id": "431",
+          "qb_sku": "",
+          "qb_unit_price": 72.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 72.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
     "whelen_clbv2v": {
       "manufacturer_id": "whelen",
       "model": "LIGHTBAR-MOUNTED V2V SYNC MODULE",
@@ -20656,9 +20661,7 @@
     "gamber_johnson_ds_lower_9": {
       "manufacturer_id": "gamber_johnson",
       "model": "9\" LOWER POLE",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20737,9 +20740,7 @@
     "gamber_johnson_ds_step": {
       "manufacturer_id": "gamber_johnson",
       "model": "OFFSET UNIVERSAL MOUNT STEP",
-      "fits_part_types": [
-        "pedestal_mount"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -20876,12 +20877,8 @@
     "soundoff_enftcdxs1208": {
       "manufacturer_id": "soundoff",
       "model": "NFORCE 8 HEAD EXTERIOR WEATHERPROOF TRAFFIC CONTROLLER - 12VDC - 12-LED DUAL COLOR",
-      "fits_part_types": [
-        "warning_light"
-      ],
-      "tag_ids": [
-        "light"
-      ],
+      "fits_part_types": [],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -21092,6 +21089,131 @@
       ],
       "reviewed": false
     },
+    "soundoff_ent2b3b": {
+      "manufacturer_id": "soundoff",
+      "model": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - BLUE",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ENT2B3B",
+          "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - BLUE",
+          "qb_item_id": "501",
+          "qb_sku": "",
+          "qb_unit_price": 185.02,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 185.02,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "soundoff_ent2b3d": {
+      "manufacturer_id": "soundoff",
+      "model": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - RED/WHITE",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ENT2B3D",
+          "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - RED/WHITE",
+          "qb_item_id": "502",
+          "qb_sku": "",
+          "qb_unit_price": 215.76,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 215.76,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "soundoff_ent2b3e": {
+      "manufacturer_id": "soundoff",
+      "model": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - BLUE/WHITE",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ENT2B3E",
+          "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - BLUE/WHITE",
+          "qb_item_id": "503",
+          "qb_sku": "",
+          "qb_unit_price": 215.76,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 215.76,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "soundoff_ent2b3f": {
+      "manufacturer_id": "soundoff",
+      "model": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - AMBER/WHITE",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ENT2B3F",
+          "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - AMBER/WHITE",
+          "qb_item_id": "504",
+          "qb_sku": "",
+          "qb_unit_price": 215.76,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 215.76,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "soundoff_ent2b3r": {
+      "manufacturer_id": "soundoff",
+      "model": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - RED",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "ENT2B3R",
+          "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - RED",
+          "qb_item_id": "505",
+          "qb_sku": "",
+          "qb_unit_price": 185.02,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 185.02,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
     "whelen_es2me": {
       "manufacturer_id": "whelen",
       "model": "54\" LEGACY MIDNIGHT EDITION",
@@ -21149,9 +21271,7 @@
     "soundoff_etfbssn_p": {
       "manufacturer_id": "soundoff",
       "model": "FLASHBACK ALTERNATING TAILLIGHT FLASHER, SOLID STATE - 2.4 F.P.S.",
-      "fits_part_types": [
-        "tail_light_flasher"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -21217,9 +21337,7 @@
     "soundoff_ethfss_sp_iso": {
       "manufacturer_id": "soundoff",
       "model": "SELECT-A-PATTERN HEADLIGHT FLASHER, SOLID STATE, 12V ISOLATION MODEL (FOR SYSTEMS REQUIRING ELECTRICAL ISOLATION)",
-      "fits_part_types": [
-        "headlight_flasher"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -21298,9 +21416,7 @@
     "soundoff_ettffut_16": {
       "manufacturer_id": "soundoff",
       "model": "FLASHBACK PLUG-IN ALTERNATING TAILLIGHT FLASHER, SOLID STATE - 2.4 F.P.S. FOR FORD PI UTILITY 2016-2020",
-      "fits_part_types": [
-        "tail_light_flasher"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -21352,9 +21468,7 @@
     "feniex_fenflas": {
       "manufacturer_id": "feniex",
       "model": "FENFLAS",
-      "fits_part_types": [
-        "headlight_flasher"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -21406,12 +21520,8 @@
     "feniex_fml": {
       "manufacturer_id": "feniex",
       "model": "FUSION MINI LIGHT BAR (RED/WHITE WITH 40\u00b0 OPTICS)",
-      "fits_part_types": [
-        "roof_light_bar"
-      ],
-      "tag_ids": [
-        "light"
-      ],
+      "fits_part_types": [],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -21424,6 +21534,131 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 379.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "feniex_fn_0216": {
+      "manufacturer_id": "feniex",
+      "model": "FUSION 200 SINGLE COLOR RED/BLUE",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FN-0216",
+          "friendly_name": "FENIEX FUSION 200 SINGLE COLOR RED/BLUE",
+          "qb_item_id": "532",
+          "qb_sku": "",
+          "qb_unit_price": 109.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 109.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "feniex_fn_0416d": {
+      "manufacturer_id": "feniex",
+      "model": "FUSION 400 DUAL COLOR",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FN-0416D",
+          "friendly_name": "FENIEX FUSION 400 DUAL COLOR",
+          "qb_item_id": "533",
+          "qb_sku": "",
+          "qb_unit_price": 279.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 279.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "feniex_fn_0616": {
+      "manufacturer_id": "feniex",
+      "model": "FUSION 600 SINGLE COLOR - HALF RED HALF AMBER",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FN-0616",
+          "friendly_name": "FENIEX FUSION 600 SINGLE COLOR - HALF RED HALF AMBER",
+          "qb_item_id": "534",
+          "qb_sku": "",
+          "qb_unit_price": 289.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 289.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "feniex_fn_0616d": {
+      "manufacturer_id": "feniex",
+      "model": "FUSION 600 DUAL COLOR - RED/WHITE - BLUE/WHITE",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FN-0616D",
+          "friendly_name": "FENIEX FUSION 600 DUAL COLOR - RED/WHITE - BLUE/WHITE",
+          "qb_item_id": "535",
+          "qb_sku": "",
+          "qb_unit_price": 399.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 399.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "feniex_fn_0816": {
+      "manufacturer_id": "feniex",
+      "model": "FUSION 800 DUAL COLOR - RED/WHITE - BLUE/WHITE",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FN-0816",
+          "friendly_name": "FENIEX FUSION 800 DUAL COLOR - RED/WHITE - BLUE/WHITE",
+          "qb_item_id": "536",
+          "qb_sku": "",
+          "qb_unit_price": 489.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 489.0,
           "vehicle_tags": [
             "any"
           ],
@@ -21466,9 +21701,7 @@
     "feniex_fn_4016": {
       "manufacturer_id": "feniex",
       "model": "MOUNTING BRACKET",
-      "fits_part_types": [
-        "bracket"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -21488,12 +21721,32 @@
           "options": {}
         }
       ],
-      "reviewed": false,
-      "accessory_category": "bracket_mount",
-      "accessory_of_products": [
-        "feniex_fusion_surface_mount",
-        "feniex_fusion_stick"
-      ]
+      "reviewed": false
+    },
+    "feniex_fn_8816ex": {
+      "manufacturer_id": "feniex",
+      "model": "FUSION ROCKER 15 HEAD DUAL COLOR - RED/WHITE - BLUE/WHITE",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FN-8816EX",
+          "friendly_name": "FENIEX FUSION ROCKER 15 HEAD DUAL COLOR - RED/WHITE - BLUE/WHITE",
+          "qb_item_id": "540",
+          "qb_sku": "",
+          "qb_unit_price": 627.99,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 627.99,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
     },
     "pro_gard_fp47uint20": {
       "manufacturer_id": "pro_gard",
@@ -21603,6 +21856,56 @@
         "whelen_field_series"
       ]
     },
+    "feniex_fsma": {
+      "manufacturer_id": "feniex",
+      "model": "FUSION SURFACE MOUNT AMBER",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FSMA",
+          "friendly_name": "FENIEX FUSION SURFACE MOUNT AMBER",
+          "qb_item_id": "547",
+          "qb_sku": "",
+          "qb_unit_price": 49.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 49.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "feniex_fusion_a_800": {
+      "manufacturer_id": "feniex",
+      "model": "8 HEAD AMBER LIGHT STICK",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "FUSION A-800",
+          "friendly_name": "FENIEX 8 HEAD AMBER LIGHT STICK",
+          "qb_item_id": "550",
+          "qb_sku": "",
+          "qb_unit_price": 357.98,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 357.98,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
     "feniex_fusion_license_plate_bracket": {
       "manufacturer_id": "feniex",
       "model": "FUSION SURFACE MOUNT LICENSE PLATE BRACKET",
@@ -21626,12 +21929,7 @@
           "options": {}
         }
       ],
-      "reviewed": false,
-      "accessory_category": "bracket_mount",
-      "accessory_of_products": [
-        "feniex_fusion_surface_mount",
-        "feniex_fusion_stick"
-      ]
+      "reviewed": false
     },
     "whelen_gb2x": {
       "manufacturer_id": "whelen",
@@ -21837,12 +22135,8 @@
     "feniex_gpl_49": {
       "manufacturer_id": "feniex",
       "model": "FUSION GPL 49 INCH LIGHT BAR DUAL COLOR INCLUDES FOOT MOUNT KIT WITH VEHICLE SPECIFIC STRAPS",
-      "fits_part_types": [
-        "roof_light_bar"
-      ],
-      "tag_ids": [
-        "light"
-      ],
+      "fits_part_types": [],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -21855,6 +22149,31 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 1834.55,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "feniex_h_2219": {
+      "manufacturer_id": "feniex",
+      "model": "CANNON (AMBER/WHITE)",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "H-2219",
+          "friendly_name": "FENIEX CANNON (AMBER/WHITE)",
+          "qb_item_id": "574",
+          "qb_sku": "",
+          "qb_unit_price": 69.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 69.0,
           "vehicle_tags": [
             "any"
           ],
@@ -21886,11 +22205,157 @@
           "options": {}
         }
       ],
-      "reviewed": false,
-      "accessory_category": "other",
-      "accessory_of_products": [
-        "feniex_cannon_hideaway"
-      ]
+      "reviewed": false
+    },
+    "feniex_h_2219_a": {
+      "manufacturer_id": "feniex",
+      "model": "CANNON 12-LED HIDEAWAY SINGLE COLOR AMBER",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "H-2219 A",
+          "friendly_name": "FENIEX CANNON 12-LED HIDEAWAY SINGLE COLOR AMBER",
+          "qb_item_id": "576",
+          "qb_sku": "",
+          "qb_unit_price": 72.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 72.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "feniex_h_2219_ba": {
+      "manufacturer_id": "feniex",
+      "model": "CANNON 12-LED HIDEAWAY - 3 MODE FUNCTIONALITY - SELF-CONTAINED - SYNCHRONIZABLE - SPLIT BLUE/AMBER",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "H-2219 BA",
+          "friendly_name": "FENIEX CANNON 12-LED HIDEAWAY - 3 MODE FUNCTIONALITY - SELF-CONTAINED - SYNCHRONIZABLE - SPLIT BLUE/AMBER",
+          "qb_item_id": "577",
+          "qb_sku": "",
+          "qb_unit_price": 72.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 72.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "feniex_h_2219_bw": {
+      "manufacturer_id": "feniex",
+      "model": "CANNON 12-LED HIDEAWAY DUAL COLOR BLUE/WHITE",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "H-2219 BW",
+          "friendly_name": "FENIEX CANNON 12-LED HIDEAWAY DUAL COLOR BLUE/WHITE",
+          "qb_item_id": "578",
+          "qb_sku": "",
+          "qb_unit_price": 72.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 72.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "feniex_h_2219_ra": {
+      "manufacturer_id": "feniex",
+      "model": "CANNON 12-LED HIDEAWAY - 3 MODE FUNCTIONALITY - SELF-CONTAINED - SYNCHRONIZABLE - SPLIT RED/AMBER",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "H-2219 RA",
+          "friendly_name": "FENIEX CANNON 12-LED HIDEAWAY - 3 MODE FUNCTIONALITY - SELF-CONTAINED - SYNCHRONIZABLE - SPLIT RED/AMBER",
+          "qb_item_id": "579",
+          "qb_sku": "",
+          "qb_unit_price": 72.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 72.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "feniex_h_2219_rw": {
+      "manufacturer_id": "feniex",
+      "model": "CANNON 12-LED HIDEAWAY DUAL COLOR RED/WHITE",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "H-2219 RW",
+          "friendly_name": "FENIEX CANNON 12-LED HIDEAWAY DUAL COLOR RED/WHITE",
+          "qb_item_id": "580",
+          "qb_sku": "",
+          "qb_unit_price": 72.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 72.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
+    "feniex_h_2219_w": {
+      "manufacturer_id": "feniex",
+      "model": "CANNON 12-LED HIDEAWAY SINGLE COLOR WHITE",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "H-2219 W",
+          "friendly_name": "FENIEX CANNON 12-LED HIDEAWAY SINGLE COLOR WHITE",
+          "qb_item_id": "581",
+          "qb_sku": "",
+          "qb_unit_price": 72.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 72.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
     },
     "intermotive_h_bom560_dc": {
       "manufacturer_id": "intermotive",
@@ -22919,9 +23384,7 @@
     "night_ride_nightride_dsp_kit": {
       "manufacturer_id": "night_ride",
       "model": "DISPLAY KIT - 8 IN MONITOR - RAM MOUNTING BASE - RAM 6 IN ARM - RAM T-BOLT MOUNT - HDMI CABLE - USB C CABLE - USB POWER PORT",
-      "fits_part_types": [
-        "thermal_imager_monitor"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -22941,13 +23404,7 @@
           "options": {}
         }
       ],
-      "reviewed": false,
-      "accessory_category": "other",
-      "accessory_of_products": [
-        "night_ride_nrr0010",
-        "night_ride_nrr640_13e",
-        "night_ride_nrp_sl"
-      ]
+      "reviewed": false
     },
     "night_ride_nr_hdmi": {
       "manufacturer_id": "night_ride",
@@ -22972,13 +23429,32 @@
           "options": {}
         }
       ],
-      "reviewed": false,
-      "accessory_category": "cable",
-      "accessory_of_products": [
-        "night_ride_nrr0010",
-        "night_ride_nrr640_13e",
-        "night_ride_nrp_sl"
-      ]
+      "reviewed": false
+    },
+    "night_ride_nrp_si_e": {
+      "manufacturer_id": "night_ride",
+      "model": "PRO-SL S04 (RING) W ETHERNET",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "NRP-SI-E",
+          "friendly_name": "NIGHTRIDE PRO-SL S04 (RING) W ETHERNET",
+          "qb_item_id": "785",
+          "qb_sku": "",
+          "qb_unit_price": 2394.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 2394.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
     },
     "night_ride_nrp_sl": {
       "manufacturer_id": "night_ride",
@@ -22999,34 +23475,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 2274.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "NRP-SI-E",
-          "friendly_name": "NIGHTRIDE PRO-SL S04 (RING) W ETHERNET",
-          "qb_item_id": "785",
-          "qb_sku": "",
-          "qb_unit_price": 2394.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 2394.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "NRP-SL-E",
-          "friendly_name": "NIGHTRIDE PRO-SL S04 (RING) W ETHERNET",
-          "qb_item_id": "788",
-          "qb_sku": "",
-          "qb_unit_price": 2394.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 2394.0,
           "vehicle_tags": [
             "any"
           ],
@@ -23062,6 +23510,31 @@
       ],
       "reviewed": false
     },
+    "night_ride_nrp_sl_e": {
+      "manufacturer_id": "night_ride",
+      "model": "PRO-SL S04 (RING) W ETHERNET",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "NRP-SL-E",
+          "friendly_name": "NIGHTRIDE PRO-SL S04 (RING) W ETHERNET",
+          "qb_item_id": "788",
+          "qb_sku": "",
+          "qb_unit_price": 2394.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 2394.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
     "night_ride_nrp_slc": {
       "manufacturer_id": "night_ride",
       "model": "PRO-SL S04/S14 CABLELESS 384",
@@ -23081,20 +23554,6 @@
           "qb_inactive": false,
           "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
           "price_usd": 2754.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "NRP-SLC-E",
-          "friendly_name": "NIGHTRIDE PRO-SL S04/S14 CABLELESS 384 W ETHERNET",
-          "qb_item_id": "791",
-          "qb_sku": "",
-          "qb_unit_price": 2874.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 2874.0,
           "vehicle_tags": [
             "any"
           ],
@@ -23130,6 +23589,31 @@
       ],
       "reviewed": false
     },
+    "night_ride_nrp_slc_e": {
+      "manufacturer_id": "night_ride",
+      "model": "PRO-SL S04/S14 CABLELESS 384 W ETHERNET",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "NRP-SLC-E",
+          "friendly_name": "NIGHTRIDE PRO-SL S04/S14 CABLELESS 384 W ETHERNET",
+          "qb_item_id": "791",
+          "qb_sku": "",
+          "qb_unit_price": 2874.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 2874.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
     "night_ride_nrr_auxc": {
       "manufacturer_id": "night_ride",
       "model": "TRAILBLAZER AUX BATTERY CABLE - 384",
@@ -23153,11 +23637,7 @@
           "options": {}
         }
       ],
-      "reviewed": false,
-      "accessory_category": "cable",
-      "accessory_of_products": [
-        "night_ride_nrr0010"
-      ]
+      "reviewed": false
     },
     "night_ride_nrr_auxc_640": {
       "manufacturer_id": "night_ride",
@@ -23182,12 +23662,7 @@
           "options": {}
         }
       ],
-      "reviewed": false,
-      "accessory_category": "cable",
-      "accessory_of_products": [
-        "night_ride_nrr0010",
-        "night_ride_nrr640_13e"
-      ]
+      "reviewed": false
     },
     "night_ride_nrr0010": {
       "manufacturer_id": "night_ride",
@@ -23212,7 +23687,18 @@
             "any"
           ],
           "options": {}
-        },
+        }
+      ],
+      "reviewed": false
+    },
+    "night_ride_nrr0010_e": {
+      "manufacturer_id": "night_ride",
+      "model": "TAILBLAZER 384 W ETHERNET",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
         {
           "part_number": "NRR0010-E",
           "friendly_name": "NIGHTRIDE TAILBLAZER 384 W ETHERNET",
@@ -23226,7 +23712,18 @@
             "any"
           ],
           "options": {}
-        },
+        }
+      ],
+      "reviewed": false
+    },
+    "night_ride_nrr0010_ge": {
+      "manufacturer_id": "night_ride",
+      "model": "TRAILBLAZER 384 - GRILLE MOUNT W ETHERNET",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
         {
           "part_number": "NRR0010-GE",
           "friendly_name": "NIGHTRIDE TRAILBLAZER 384 - GRILLE MOUNT W ETHERNET",
@@ -23267,7 +23764,18 @@
             "any"
           ],
           "options": {}
-        },
+        }
+      ],
+      "reviewed": false
+    },
+    "night_ride_nrr2ndck_e": {
+      "manufacturer_id": "night_ride",
+      "model": "TRAILBLAZER 2ND CAR KIT W ETHERNET",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
         {
           "part_number": "NRR2NDCK-E",
           "friendly_name": "NIGHTRIDE TRAILBLAZER 2ND CAR KIT W ETHERNET",
@@ -23308,7 +23816,18 @@
             "any"
           ],
           "options": {}
-        },
+        }
+      ],
+      "reviewed": false
+    },
+    "night_ride_nrr640_13ge": {
+      "manufacturer_id": "night_ride",
+      "model": "TRAILBLAZER 640 - GRILLE MOUNT W ETHERNET",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
         {
           "part_number": "NRR640-13GE",
           "friendly_name": "NIGHTRIDE TRAILBLAZER 640 - GRILLE MOUNT W ETHERNET",
@@ -24046,9 +24565,7 @@
     "soundoff_pmp2wdg15b": {
       "manufacturer_id": "soundoff",
       "model": "15 DEGREE WEDGE ASSEMBLY, BLACK, FOR USE WITH 4\" QUICK MOUNT LIGHT",
-      "fits_part_types": [
-        "bracket"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -24068,12 +24585,7 @@
           "options": {}
         }
       ],
-      "reviewed": false,
-      "accessory_category": "bracket_mount",
-      "accessory_of_products": [
-        "soundoff_mpower_4_fascia",
-        "soundoff_mpower_3_fascia"
-      ]
+      "reviewed": false
     },
     "qb_unassigned_pmpsabk005": {
       "manufacturer_id": "qb_unassigned",
@@ -24188,12 +24700,8 @@
     "feniex_q_0620": {
       "manufacturer_id": "feniex",
       "model": "QUAD 600 LIGHTSTICK RED,BLUE,WHITE, AMBER",
-      "fits_part_types": [
-        "warning_light"
-      ],
-      "tag_ids": [
-        "light"
-      ],
+      "fits_part_types": [],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -24427,12 +24935,8 @@
     "feniex_qt_0820_sd": {
       "manufacturer_id": "feniex",
       "model": "QUANTUM 800 LIGHT STICK DUAL COLOR",
-      "fits_part_types": [
-        "warning_light"
-      ],
-      "tag_ids": [
-        "light"
-      ],
+      "fits_part_types": [],
+      "tag_ids": [],
       "description": "",
       "images": {},
       "part_numbers": [
@@ -24776,9 +25280,7 @@
     "feniex_s_2009": {
       "manufacturer_id": "feniex",
       "model": "TRITON 100W SPEAKER",
-      "fits_part_types": [
-        "siren_speaker"
-      ],
+      "fits_part_types": [],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -28181,76 +28683,6 @@
           "options": {},
           "color": "red",
           "secondary_color": ""
-        },
-        {
-          "part_number": "ENT2B3B",
-          "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - BLUE",
-          "qb_item_id": "501",
-          "qb_sku": "",
-          "qb_unit_price": 185.02,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 185.02,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "ENT2B3D",
-          "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - RED/WHITE",
-          "qb_item_id": "502",
-          "qb_sku": "",
-          "qb_unit_price": 215.76,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 215.76,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "ENT2B3E",
-          "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - BLUE/WHITE",
-          "qb_item_id": "503",
-          "qb_sku": "",
-          "qb_unit_price": 215.76,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 215.76,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "ENT2B3F",
-          "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - AMBER/WHITE",
-          "qb_item_id": "504",
-          "qb_sku": "",
-          "qb_unit_price": 215.76,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 215.76,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "ENT2B3R",
-          "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - RED",
-          "qb_item_id": "505",
-          "qb_sku": "",
-          "qb_unit_price": 185.02,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 185.02,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
         }
       ],
       "reviewed": true
@@ -28314,20 +28746,6 @@
           "options": {},
           "color": "red",
           "secondary_color": ""
-        },
-        {
-          "part_number": "FSMA",
-          "friendly_name": "FENIEX FUSION SURFACE MOUNT AMBER",
-          "qb_item_id": "547",
-          "qb_sku": "",
-          "qb_unit_price": 49.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 49.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
         }
       ],
       "reviewed": true
@@ -29125,6 +29543,35 @@
       ],
       "reviewed": false
     },
+    "feniex_am900_work_light": {
+      "manufacturer_id": "feniex",
+      "model": "AM900 Work Light",
+      "fits_part_types": [
+        "front_scene"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WL-0118",
+          "friendly_name": "AM900 WORK LIGHT",
+          "qb_item_id": "1278",
+          "qb_sku": "",
+          "qb_unit_price": 39.0,
+          "qb_inactive": false,
+          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
+          "price_usd": 39.0,
+          "vehicle_tags": [
+            "any"
+          ],
+          "options": {}
+        }
+      ],
+      "reviewed": false
+    },
     "tiger_tough_embroidery": {
       "manufacturer_id": "tiger_tough",
       "model": "Stock Embroidery",
@@ -29325,246 +29772,6 @@
       "description": "",
       "images": {},
       "part_numbers": [],
-      "reviewed": false
-    },
-    "feniex_fusion_stick": {
-      "manufacturer_id": "feniex",
-      "model": "Fusion Light Stick",
-      "fits_part_types": [
-        "warning_light"
-      ],
-      "tag_ids": [
-        "light"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "FN-0216",
-          "friendly_name": "FENIEX FUSION 200 SINGLE COLOR RED/BLUE",
-          "qb_item_id": "532",
-          "qb_sku": "",
-          "qb_unit_price": 109.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 109.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "FN-0416D",
-          "friendly_name": "FENIEX FUSION 400 DUAL COLOR",
-          "qb_item_id": "533",
-          "qb_sku": "",
-          "qb_unit_price": 279.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 279.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "FN-0616",
-          "friendly_name": "FENIEX FUSION 600 SINGLE COLOR - HALF RED HALF AMBER",
-          "qb_item_id": "534",
-          "qb_sku": "",
-          "qb_unit_price": 289.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 289.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "FN-0616D",
-          "friendly_name": "FENIEX FUSION 600 DUAL COLOR - RED/WHITE - BLUE/WHITE",
-          "qb_item_id": "535",
-          "qb_sku": "",
-          "qb_unit_price": 399.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 399.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "FN-0816",
-          "friendly_name": "FENIEX FUSION 800 DUAL COLOR - RED/WHITE - BLUE/WHITE",
-          "qb_item_id": "536",
-          "qb_sku": "",
-          "qb_unit_price": 489.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 489.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "FN-8816EX",
-          "friendly_name": "FENIEX FUSION ROCKER 15 HEAD DUAL COLOR - RED/WHITE - BLUE/WHITE",
-          "qb_item_id": "540",
-          "qb_sku": "",
-          "qb_unit_price": 627.99,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 627.99,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "FUSION A-800",
-          "friendly_name": "FENIEX 8 HEAD AMBER LIGHT STICK",
-          "qb_item_id": "550",
-          "qb_sku": "",
-          "qb_unit_price": 357.98,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 357.98,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
-      "reviewed": false
-    },
-    "feniex_cannon_hideaway": {
-      "manufacturer_id": "feniex",
-      "model": "Cannon Hide-A-Way",
-      "fits_part_types": [
-        "warning_light"
-      ],
-      "tag_ids": [
-        "light"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "CHW",
-          "friendly_name": "FENIEX CANNON HIDE-A-WAY (RED/WHITE)",
-          "qb_item_id": "431",
-          "qb_sku": "",
-          "qb_unit_price": 72.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 72.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "H-2219",
-          "friendly_name": "FENIEX CANNON (AMBER/WHITE)",
-          "qb_item_id": "574",
-          "qb_sku": "",
-          "qb_unit_price": 69.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 69.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "H-2219 A",
-          "friendly_name": "FENIEX CANNON 12-LED HIDEAWAY SINGLE COLOR AMBER",
-          "qb_item_id": "576",
-          "qb_sku": "",
-          "qb_unit_price": 72.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 72.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "H-2219 BA",
-          "friendly_name": "FENIEX CANNON 12-LED HIDEAWAY - 3 MODE FUNCTIONALITY - SELF-CONTAINED - SYNCHRONIZABLE - SPLIT BLUE/AMBER",
-          "qb_item_id": "577",
-          "qb_sku": "",
-          "qb_unit_price": 72.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 72.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "H-2219 BW",
-          "friendly_name": "FENIEX CANNON 12-LED HIDEAWAY DUAL COLOR BLUE/WHITE",
-          "qb_item_id": "578",
-          "qb_sku": "",
-          "qb_unit_price": 72.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 72.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "H-2219 RA",
-          "friendly_name": "FENIEX CANNON 12-LED HIDEAWAY - 3 MODE FUNCTIONALITY - SELF-CONTAINED - SYNCHRONIZABLE - SPLIT RED/AMBER",
-          "qb_item_id": "579",
-          "qb_sku": "",
-          "qb_unit_price": 72.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 72.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "H-2219 RW",
-          "friendly_name": "FENIEX CANNON 12-LED HIDEAWAY DUAL COLOR RED/WHITE",
-          "qb_item_id": "580",
-          "qb_sku": "",
-          "qb_unit_price": 72.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 72.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        },
-        {
-          "part_number": "H-2219 W",
-          "friendly_name": "FENIEX CANNON 12-LED HIDEAWAY SINGLE COLOR WHITE",
-          "qb_item_id": "581",
-          "qb_sku": "",
-          "qb_unit_price": 72.0,
-          "qb_inactive": false,
-          "qb_last_synced": "2026-06-30T20:47:55.991474+00:00",
-          "price_usd": 72.0,
-          "vehicle_tags": [
-            "any"
-          ],
-          "options": {}
-        }
-      ],
       "reviewed": false
     }
   },
