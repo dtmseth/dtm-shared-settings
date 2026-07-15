@@ -300,7 +300,7 @@
               "h_spacing": 0.78
             },
             "SIDE OF PUSH BUMPER": {
-              "x": 0.71,
+              "x": 0.705,
               "y": 0.555,
               "units": "relative_image",
               "orientation": "v",
