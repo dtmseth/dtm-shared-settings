@@ -241,7 +241,7 @@
             },
             "TOP TUBE": {
               "x": 0.5,
-              "y": 0.435,
+              "y": 0.43,
               "units": "relative_image",
               "orientation": "h",
               "slot_count": 4,
@@ -300,8 +300,8 @@
               "h_spacing": 0.78
             },
             "SIDE OF PUSH BUMPER": {
-              "x": 0.7,
-              "y": 0.593,
+              "x": 0.71,
+              "y": 0.515,
               "units": "relative_image",
               "orientation": "v",
               "slot_count": 2,
