@@ -300,8 +300,8 @@
               "h_spacing": 0.78
             },
             "SIDE OF PUSH BUMPER": {
-              "x": 0.71,
-              "y": 0.51,
+              "x": 0.715,
+              "y": 0.515,
               "units": "relative_image",
               "orientation": "v",
               "slot_count": 2,
