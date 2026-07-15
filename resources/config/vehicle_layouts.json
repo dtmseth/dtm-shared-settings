@@ -300,12 +300,12 @@
               "h_spacing": 0.78
             },
             "SIDE OF PUSH BUMPER": {
-              "x": 0.5,
-              "y": 0.595,
+              "x": 0.71,
+              "y": 0.515,
               "units": "relative_image",
               "orientation": "v",
               "slot_count": 2,
-              "pattern": "horizontal",
+              "pattern": "mirror",
               "h_spacing": 0.44
             },
             "PIT BARS": {
