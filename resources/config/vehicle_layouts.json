@@ -301,7 +301,7 @@
             },
             "SIDE OF PUSH BUMPER": {
               "x": 0.71,
-              "y": 0.515,
+              "y": 0.555,
               "units": "relative_image",
               "orientation": "v",
               "slot_count": 2,
