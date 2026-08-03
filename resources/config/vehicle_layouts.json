@@ -42,11 +42,15 @@
         "interior_light_bar_front": {
           "front": {
             "x": 0.5,
-            "y": 0.14,
+            "y": 0.13,
             "units": "relative_image",
             "orientation": "h",
             "slot_count": 1,
-            "pattern": "single"
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
           },
           "top": {
             "x": 0.385,
@@ -120,11 +124,15 @@
           },
           "rear": {
             "x": 0.5,
-            "y": 0.14,
+            "y": 0.13,
             "units": "relative_image",
             "orientation": "h",
             "slot_count": 1,
-            "pattern": "single"
+            "pattern": "single",
+            "flip_h": false,
+            "flip_v": false,
+            "flip_mirrored_h": false,
+            "behind_vehicle": false
           }
         },
         "tracer_5lamp": {
@@ -241,7 +249,7 @@
             },
             "TOP TUBE": {
               "x": 0.5,
-              "y": 0.43,
+              "y": 0.435,
               "units": "relative_image",
               "orientation": "h",
               "slot_count": 4,
