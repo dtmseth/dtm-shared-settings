@@ -47,6 +47,12 @@
         "default": "red-blue-white"
       }
     },
+    "std_tri_rba": {
+      "label": "Std Tri RBA",
+      "slot_tokens": {
+        "default": "red-blue-amber"
+      }
+    },
     "single_red": {
       "slot_tokens": {
         "default": "red"
@@ -109,6 +115,9 @@
     "red-blue-white": {
       "profile": "std_tri_rbw"
     },
+    "red-blue-amber": {
+      "profile": "std_tri_rba"
+    },
     "red-white": {
       "profile": "duo_red_white"
     },
@@ -136,6 +145,7 @@
       "top": "lights/bar_roof_top.png"
     },
     "interior-front": {
+      "front": "lights/interior-front_front.png",
       "top": "lights/interior-front_top.png"
     },
     "interior-rear": {
@@ -215,7 +225,12 @@
     "AM-900": "md",
     "MEGA T-SERIES": "long",
     "TRACER 5 LAMP": "tracer",
-    "TRACER 6 LAMP": "tracer"
+    "TRACER 6 LAMP": "tracer",
+    "SA315P": "sm",
+    "SA315U": "sm",
+    "SA350MH": "sm",
+    "SP123BMC": "sm",
+    "295SLSA6": "sm"
   },
   "size_rule_definitions": {
     "sm": {
@@ -369,6 +384,28 @@
         "top": {
           "w": 0.37,
           "h": 0.085
+        }
+      }
+    },
+    "PN": {
+      "label": "Pioneer",
+      "maintain_aspect_ratio": false,
+      "views": {
+        "front": {
+          "w": 0.7,
+          "h": 0.2
+        },
+        "rear": {
+          "w": 0.7,
+          "h": 0.2
+        },
+        "side": {
+          "w": 0.2,
+          "h": 0.1
+        },
+        "top": {
+          "w": 0.2,
+          "h": 0.1
         }
       }
     }
