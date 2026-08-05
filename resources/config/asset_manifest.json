@@ -230,8 +230,7 @@
     "SA315U": "sm",
     "SA350MH": "sm",
     "SP123BMC": "sm",
-    "295SLSA6": "sm",
-    "Pioneer": "sm"
+    "295SLSA6": "sm"
   },
   "size_rule_definitions": {
     "sm": {
@@ -393,8 +392,8 @@
       "maintain_aspect_ratio": false,
       "views": {
         "front": {
-          "w": 0.7,
-          "h": 0.2
+          "w": 1,
+          "h": 0.22
         },
         "rear": {
           "w": 0.7,
