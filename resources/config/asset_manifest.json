@@ -221,7 +221,7 @@
     "MINI T-SERIES": "sq",
     "T-SERIES": "sm",
     "FIELD SERIES": "tracer",
-    "PIONEER": "long",
+    "PIONEER": "lg",
     "AM-900": "md",
     "MEGA T-SERIES": "long",
     "TRACER 5 LAMP": "tracer",
@@ -230,7 +230,8 @@
     "SA315U": "sm",
     "SA350MH": "sm",
     "SP123BMC": "sm",
-    "295SLSA6": "sm"
+    "295SLSA6": "sm",
+    "Pioneer": "sm"
   },
   "size_rule_definitions": {
     "sm": {
