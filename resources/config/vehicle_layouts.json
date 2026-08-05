@@ -185,7 +185,7 @@
             "behind_vehicle": false
           },
           "front": {
-            "x": 0.84,
+            "x": 0.845,
             "y": 0.59,
             "units": "relative_image",
             "orientation": "h",
@@ -223,7 +223,7 @@
             },
             "UNDER PUSH BUMPER": {
               "x": 0.5,
-              "y": 0.69,
+              "y": 0.68,
               "units": "relative_image",
               "orientation": "h",
               "slot_count": 2,
