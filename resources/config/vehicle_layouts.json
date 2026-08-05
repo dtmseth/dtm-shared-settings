@@ -223,7 +223,7 @@
             },
             "UNDER PUSH BUMPER": {
               "x": 0.5,
-              "y": 0.69,
+              "y": 0.68,
               "units": "relative_image",
               "orientation": "h",
               "slot_count": 2,
