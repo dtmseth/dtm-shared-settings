@@ -980,8 +980,8 @@
               "pattern": "single"
             },
             "REAR LEFT ROOF": {
-              "x": 0.355,
-              "y": 0.03,
+              "x": 0.36,
+              "y": 0.015,
               "units": "relative_image",
               "orientation": "h",
               "slot_count": 1,
