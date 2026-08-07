@@ -185,11 +185,12 @@
             "behind_vehicle": false
           },
           "front": {
-            "x": 0.84,
+            "x": 0.5,
             "y": 0.59,
             "units": "relative_image",
             "orientation": "h",
             "slot_count": 2,
+            "render_slot_count": 2,
             "pattern": "mirror",
             "flip_mirrored_h": true,
             "flip_v": false,
@@ -771,21 +772,23 @@
               "pattern": "single"
             },
             "UPPER CARGO WINDOW": {
-              "x": 0.805,
+              "x": 0.815,
               "y": 0.805,
               "units": "relative_image",
               "orientation": "h",
-              "slot_count": 1,
-              "pattern": "single"
+              "slot_count": 2,
+              "pattern": "vertical_mirror",
+              "rotation": 3
             },
             "LOWER CARGO WINDOW": {
-              "x": 0.82,
-              "y": 0.5,
+              "x": 0.845,
+              "y": 0.83,
               "units": "relative_image",
               "orientation": "h",
               "slot_count": 2,
-              "pattern": "single",
-              "v_spacing": 0.44
+              "pattern": "vertical_mirror",
+              "v_spacing": 0.3,
+              "rotation": 6
             },
             "PUSH BUMPER": {
               "x": -0.013,
@@ -974,6 +977,14 @@
             "LIGHTBAR MOUNT": {
               "x": 0.225,
               "y": 0.03,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR LEFT ROOF": {
+              "x": 0.36,
+              "y": 0.015,
               "units": "relative_image",
               "orientation": "h",
               "slot_count": 1,
@@ -1188,11 +1199,12 @@
             "behind_vehicle": false
           },
           "front": {
-            "x": 0.84,
+            "x": 0.5,
             "y": 0.59,
             "units": "relative_image",
             "orientation": "h",
             "slot_count": 2,
+            "render_slot_count": 2,
             "pattern": "mirror",
             "flip_mirrored_h": true,
             "flip_v": false,
@@ -2225,11 +2237,12 @@
             "behind_vehicle": false
           },
           "front": {
-            "x": 0.845,
+            "x": 0.5,
             "y": 0.59,
             "units": "relative_image",
             "orientation": "h",
             "slot_count": 2,
+            "render_slot_count": 2,
             "pattern": "mirror",
             "flip_mirrored_h": true,
             "flip_v": false,
@@ -3263,11 +3276,12 @@
             "behind_vehicle": false
           },
           "front": {
-            "x": 0.845,
+            "x": 0.5,
             "y": 0.59,
             "units": "relative_image",
             "orientation": "h",
             "slot_count": 2,
+            "render_slot_count": 2,
             "pattern": "mirror",
             "flip_mirrored_h": true,
             "flip_v": false,
@@ -4270,11 +4284,12 @@
             "behind_vehicle": false
           },
           "front": {
-            "x": 0.845,
+            "x": 0.5,
             "y": 0.59,
             "units": "relative_image",
             "orientation": "h",
             "slot_count": 2,
+            "render_slot_count": 2,
             "pattern": "mirror",
             "flip_mirrored_h": true,
             "flip_v": false,
