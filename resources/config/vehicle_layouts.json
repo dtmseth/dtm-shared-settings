@@ -779,12 +779,13 @@
               "pattern": "single"
             },
             "LOWER CARGO WINDOW": {
-              "x": 0.855,
-              "y": 0.825,
+              "x": 0.82,
+              "y": 0.5,
               "units": "relative_image",
               "orientation": "h",
-              "slot_count": 1,
-              "pattern": "single"
+              "slot_count": 2,
+              "pattern": "single",
+              "v_spacing": 0.44
             },
             "PUSH BUMPER": {
               "x": -0.013,
@@ -972,6 +973,14 @@
             },
             "LIGHTBAR MOUNT": {
               "x": 0.225,
+              "y": 0.03,
+              "units": "relative_image",
+              "orientation": "h",
+              "slot_count": 1,
+              "pattern": "single"
+            },
+            "REAR LEFT ROOF": {
+              "x": 0.355,
               "y": 0.03,
               "units": "relative_image",
               "orientation": "h",
