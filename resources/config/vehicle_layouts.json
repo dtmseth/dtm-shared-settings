@@ -929,7 +929,7 @@
             },
             "PILLARS": {
               "x": 0.5,
-              "y": 0.22,
+              "y": 0.2,
               "units": "relative_image",
               "orientation": "h",
               "slot_count": 2,
