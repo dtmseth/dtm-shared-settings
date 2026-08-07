@@ -1286,6 +1286,12 @@
     "whelen_ion": {
       "manufacturer_id": "whelen",
       "model": "ION",
+      "model_aliases": [
+        "STANDARD MOUNT ION"
+      ],
+      "render": {
+        "size_rule_id": "sm"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -1610,6 +1616,12 @@
     "whelen_2_lamp_tracer": {
       "manufacturer_id": "whelen",
       "model": "Tracer 2-Lamp",
+      "model_aliases": [
+        "2 LAMP TRACER"
+      ],
+      "render": {
+        "size_rule_id": "tracer"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -1653,6 +1665,9 @@
     "soundoff_nforce": {
       "manufacturer_id": "soundoff",
       "model": "NFORCE",
+      "render": {
+        "size_rule_id": "sm"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -1674,6 +1689,9 @@
     "soundoff_mpower": {
       "manufacturer_id": "soundoff",
       "model": "MPOWER",
+      "render": {
+        "size_rule_id": "sm"
+      },
       "fits_part_types": [
         "warning_light",
         "roof_light_bar"
@@ -1696,6 +1714,12 @@
     "whelen_vxe": {
       "manufacturer_id": "whelen",
       "model": "VXE Warning Light",
+      "model_aliases": [
+        "VXE"
+      ],
+      "render": {
+        "size_rule_id": "sq"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -1949,6 +1973,12 @@
     "whelen_surface_mount_ion": {
       "manufacturer_id": "whelen",
       "model": "ION Surface Mount",
+      "model_aliases": [
+        "SURFACE MOUNT ION"
+      ],
+      "render": {
+        "size_rule_id": "sm"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -2235,6 +2265,9 @@
     "whelen_vertex": {
       "manufacturer_id": "whelen",
       "model": "Vertex",
+      "render": {
+        "size_rule_id": "rd"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -2386,6 +2419,9 @@
     "soundoff_m4": {
       "manufacturer_id": "soundoff",
       "model": "M4 Warning Light",
+      "render": {
+        "size_rule_id": "md"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -2403,6 +2439,9 @@
     "whelen_field_series": {
       "manufacturer_id": "whelen",
       "model": "Field Series",
+      "render": {
+        "size_rule_id": "tracer"
+      },
       "fits_part_types": [
         "front_scene",
         "rear_scene"
@@ -2674,6 +2713,9 @@
     "whelen_u_series": {
       "manufacturer_id": "whelen",
       "model": "U-Series",
+      "render": {
+        "size_rule_id": "sm"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -2831,6 +2873,12 @@
     "whelen_mirror_beams": {
       "manufacturer_id": "whelen",
       "model": "Mirror-Beam",
+      "model_aliases": [
+        "MIRROR BEAMS"
+      ],
+      "render": {
+        "size_rule_id": "sm"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -3306,6 +3354,9 @@
     "whelen_t_series": {
       "manufacturer_id": "whelen",
       "model": "T-Series",
+      "render": {
+        "size_rule_id": "sm"
+      },
       "fits_part_types": [
         "warning_light",
         "rear_seat_cargo_lights",
@@ -3942,6 +3993,9 @@
     "whelen_mega_t_series": {
       "manufacturer_id": "whelen",
       "model": "Mega T-Series",
+      "render": {
+        "size_rule_id": "long"
+      },
       "fits_part_types": [
         "warning_light",
         "rear_seat_cargo_lights",
@@ -4171,6 +4225,9 @@
     "whelen_mini_t_series": {
       "manufacturer_id": "whelen",
       "model": "Mini T-Series",
+      "render": {
+        "size_rule_id": "sq"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -4559,6 +4616,12 @@
     "whelen_tracer_5_lamp": {
       "manufacturer_id": "whelen",
       "model": "Tracer 5-Lamp",
+      "model_aliases": [
+        "TRACER 5 LAMP"
+      ],
+      "render": {
+        "size_rule_id": "tracer"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -4607,6 +4670,12 @@
     "whelen_tracer_6_lamp": {
       "manufacturer_id": "whelen",
       "model": "Tracer 6-Lamp",
+      "model_aliases": [
+        "TRACER 6 LAMP"
+      ],
+      "render": {
+        "size_rule_id": "tracer"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -5449,6 +5518,8 @@
     "whelen_cctl5": {
       "manufacturer_id": "whelen",
       "model": "CCTL5 WeCanX Hand-Held Control Head",
+      "pa_mic_required": false,
+      "allow_custom_location": true,
       "fits_part_types": [
         "control_head"
       ],
@@ -5472,6 +5543,36 @@
           "friendly_name": "WHELEN WECANX HAND-HELD CONTROL HEAD",
           "qb_sales_description": "WHELEN WECANX HAND-HELD CONTROL HEAD",
           "qb_last_synced": "2026-07-22T18:09:49Z"
+        }
+      ]
+    },
+    "whelen_cctlharn": {
+      "manufacturer_id": "whelen",
+      "model": "CenCom Core Secondary Control Head Harness",
+      "fits_part_types": [
+        "secondary_control_head_harness"
+      ],
+      "tag_ids": [],
+      "description": "CenCom Core\u00ae Control Head Harness Kit, for use with any Non-Primary Control Head, Control Heads Purchased Separately.",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CCTLHARN",
+          "friendly_name": "WHELEN CENCOM CORE SECONDARY CONTROL HEAD HARNESS",
+          "qb_item_id": "",
+          "qb_sku": "",
+          "qb_unit_price": null,
+          "qb_inactive": false,
+          "qb_pending": true,
+          "price_usd": 10,
+          "vehicle_tags": [
+            "any"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "tertiary_color": "",
+          "lens_type": "",
+          "qb_sales_description": "CenCom Core\u00ae Control Head Harness Kit, for use with any Non-Primary Control Head, Control Heads Purchased Separately."
         }
       ]
     },
@@ -10139,6 +10240,9 @@
     "whelen_tracer_3_lamp": {
       "manufacturer_id": "whelen",
       "model": "Tracer 3-Lamp",
+      "render": {
+        "size_rule_id": "tracer"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -10269,6 +10373,9 @@
     "whelen_ion_v_series": {
       "manufacturer_id": "whelen",
       "model": "ION V-Series",
+      "render": {
+        "size_rule_id": "sm"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -10462,6 +10569,13 @@
           "qb_sales_description": "WHELEN ION REAR PILLAR WC TRIO UTILITY",
           "qb_last_synced": "2026-07-22T18:09:49Z"
         }
+      ],
+      "accessories": [
+        {
+          "category": "lighthead",
+          "product_id": "whelen_outer_edge_lightheads",
+          "required": true
+        }
       ]
     },
     "whelen_m2": {
@@ -10578,6 +10692,9 @@
     "whelen_m4": {
       "manufacturer_id": "whelen",
       "model": "M4 Series",
+      "render": {
+        "size_rule_id": "md"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -11180,6 +11297,9 @@
     "whelen_pioneer_micro": {
       "manufacturer_id": "whelen",
       "model": "Pioneer Micro",
+      "model_aliases": [
+        "PIONEER"
+      ],
       "fits_part_types": [
         "front_scene",
         "rear_scene"
@@ -11232,6 +11352,9 @@
     "whelen_pioneer_nano": {
       "manufacturer_id": "whelen",
       "model": "Pioneer Nano",
+      "model_aliases": [
+        "PIONEER"
+      ],
       "fits_part_types": [
         "front_scene",
         "rear_scene"
@@ -11267,6 +11390,9 @@
     "whelen_pioneer_plus": {
       "manufacturer_id": "whelen",
       "model": "Pioneer Plus",
+      "model_aliases": [
+        "PIONEER"
+      ],
       "fits_part_types": [
         "front_scene",
         "rear_scene"
@@ -11319,6 +11445,9 @@
     "whelen_pioneer_slimline": {
       "manufacturer_id": "whelen",
       "model": "Pioneer SlimLine",
+      "model_aliases": [
+        "PIONEER"
+      ],
       "fits_part_types": [
         "front_scene",
         "rear_scene"
@@ -11876,6 +12005,13 @@
     "whelen_round_lighthead": {
       "manufacturer_id": "whelen",
       "model": "Round Lighthead",
+      "model_aliases": [
+        "3",
+        "6"
+      ],
+      "render": {
+        "size_rule_id": "rd"
+      },
       "location_options": [
         "Lower Kick Panels",
         "Prisoner Headliner",
@@ -12444,6 +12580,12 @@
     "whelen_ion_t_hd_array": {
       "manufacturer_id": "whelen",
       "model": "ION-T HD Array",
+      "model_aliases": [
+        "T-ION"
+      ],
+      "render": {
+        "size_rule_id": "sm"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -15536,11 +15678,11 @@
           ],
           "color": "red",
           "secondary_color": "blue",
-          "tertiary_color": "white",
+          "tertiary_color": "amber",
           "lens_type": "clear",
-          "friendly_name": "WHELEN TRIO\u2122 LIGHTHEAD, RED/BLUE/WHITE, FOR RPWT SERIES ONLY, SIX REQUIRED, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae",
+          "friendly_name": "WHELEN TRIO\u2122 LIGHTHEAD, RED/BLUE/AMBER, FOR RPWT SERIES ONLY, SIX REQUIRED, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae",
           "qb_sales_description": "WHELEN TRIO\u2122 LIGHTHEAD, RED/BLUE/WHITE, FOR RPWT SERIES ONLY, SIX REQUIRED, NO CHARGE WHEN ORDERED WITH OUTER EDGE\u00ae",
-          "qb_last_synced": "2026-07-22T18:09:49Z"
+          "qb_last_synced": "2026-08-06T19:52:08Z"
         }
       ],
       "accessory_category": "lighthead",
@@ -19744,6 +19886,12 @@
     "feniex_am900": {
       "manufacturer_id": "feniex",
       "model": "AM900 Work Light",
+      "model_aliases": [
+        "AM-900"
+      ],
+      "render": {
+        "size_rule_id": "md"
+      },
       "fits_part_types": [
         "front_scene"
       ],
@@ -29930,6 +30078,9 @@
     "soundoff_mpower_3_fascia": {
       "manufacturer_id": "soundoff",
       "model": "MPOWER 3\" Fascia Light",
+      "render": {
+        "size_rule_id": "sm"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -30030,6 +30181,9 @@
     "soundoff_mpower_4_fascia": {
       "manufacturer_id": "soundoff",
       "model": "MPOWER 4\" Fascia Light",
+      "render": {
+        "size_rule_id": "sm"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -30215,6 +30369,9 @@
     "soundoff_nforce_deck_grille": {
       "manufacturer_id": "soundoff",
       "model": "NForce Deck/Grille Light",
+      "render": {
+        "size_rule_id": "sm"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -30264,6 +30421,12 @@
     "soundoff_intersector": {
       "manufacturer_id": "soundoff",
       "model": "Intersector Surface-Mount",
+      "model_aliases": [
+        "INTERSECTORS"
+      ],
+      "render": {
+        "size_rule_id": "sm"
+      },
       "fits_part_types": [
         "warning_light"
       ],
@@ -32122,7 +32285,8 @@
     },
     "front_scene": {
       "allowed_placements": [
-        "TOP OF PUSH BUMPER"
+        "TOP OF PUSH BUMPER",
+        "CENTER PLATE OF PB"
       ],
       "label": "Front Scene",
       "type_id": "lights",
@@ -32140,6 +32304,7 @@
       "family_id": "scene_lights",
       "render": {
         "default_color_profile": "single_white",
+        "size_rule_id": "sm",
         "render_quantity_policy": "quantity_as_slots"
       }
     },
@@ -32423,6 +32588,7 @@
       "family_id": "scene_lights",
       "render": {
         "default_color_profile": "single_white",
+        "size_rule_id": "sm",
         "render_quantity_policy": "quantity_as_slots"
       }
     },
@@ -32490,6 +32656,7 @@
       "family_id": "scene_lights",
       "render": {
         "default_color_profile": "single_white",
+        "size_rule_id": "sm",
         "render_quantity_policy": "quantity_as_slots"
       }
     },
@@ -32637,7 +32804,35 @@
         }
       ],
       "tag_ids": [],
-      "workbook_label_pattern": "Control Head",
+      "workbook_label_pattern": "Control Head {n}",
+      "sequence_scope": "global",
+      "location_mode": "text",
+      "location_options": [
+        "IN CENTER CONSOLE"
+      ],
+      "recommended_accessories": [
+        {
+          "category": "control_head_harness",
+          "product_id": "whelen_cctlharn",
+          "when_existing_part_type": "control_head",
+          "minimum_existing_count": 1,
+          "message": "Recommended for a secondary control head"
+        }
+      ],
+      "family_id": "light_control_system"
+    },
+    "secondary_control_head_harness": {
+      "label": "Secondary Control Head Harness",
+      "type_id": "equipment",
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "forward_of_cage",
+          "sub_zone": "console"
+        }
+      ],
+      "tag_ids": [],
+      "workbook_label_pattern": "Secondary Control Head Harness",
       "sequence_scope": "global",
       "location_mode": "text",
       "location_options": [
@@ -33904,6 +34099,9 @@
       "category": "warning",
       "location_mode": "placement",
       "family_id": "warning_lights",
+      "render": {
+        "size_rule_id": "sm"
+      },
       "browse_hidden": true
     },
     "tool_mount": {
@@ -34574,6 +34772,9 @@
     "westin_light_channel": {
       "label": "Light Channel"
     },
+    "control_head_harness": {
+      "label": "Secondary Control Head Harness"
+    },
     "other": {
       "label": "Other"
     }
@@ -35009,6 +35210,7 @@
       "category": "equipment",
       "members": [
         "control_head",
+        "secondary_control_head_harness",
         "external_amp",
         "expansion_module",
         "v2v_sync",
