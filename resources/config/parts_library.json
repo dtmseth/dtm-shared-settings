@@ -1033,10 +1033,10 @@
     },
     {
       "part_id": "factory_componant_relocation_plate",
-      "display_name": "FACTORY COMPONANT RELOCATION PLATE",
+      "display_name": "FACTORY COMPONENT RELOCATION PLATE",
       "category": "CENTER CONSOLE & COMPUTER",
       "manufacturer": "",
-      "model_number": "FACTORY COMPONANT RELOCATION PLATE",
+      "model_number": "FACTORY COMPONENT RELOCATION PLATE",
       "compatible_types": [
         "Special Face Plate 1"
       ],
@@ -2232,30 +2232,6 @@
       }
     },
     {
-      "part_id": "whip_style",
-      "display_name": "WHIP STYLE",
-      "category": "RADIO & COMMUNICATIONS",
-      "manufacturer": "",
-      "model_number": "WHIP STYLE",
-      "compatible_types": [
-        "Radio Antenna Top"
-      ],
-      "images": {
-        "top": "lights/part_whip_style_top.png",
-        "side": "lights/part_whip_style_side.png"
-      },
-      "size_per_view": {
-        "side": {
-          "w": 0.14,
-          "h": 0.43
-        },
-        "top": {
-          "w": 0.12,
-          "h": 0.12
-        }
-      }
-    },
-    {
       "part_id": "cylinder_style",
       "display_name": "CYLINDER STYLE",
       "category": "RADIO & COMMUNICATIONS",
@@ -2272,6 +2248,30 @@
         "side": {
           "w": 0.14,
           "h": 0.28
+        },
+        "top": {
+          "w": 0.12,
+          "h": 0.12
+        }
+      }
+    },
+    {
+      "part_id": "whip_style",
+      "display_name": "WHIP STYLE",
+      "category": "RADIO & COMMUNICATIONS",
+      "manufacturer": "",
+      "model_number": "WHIP STYLE",
+      "compatible_types": [
+        "Radio Antenna Top"
+      ],
+      "images": {
+        "top": "lights/part_whip_style_top.png",
+        "side": "lights/part_whip_style_side.png"
+      },
+      "size_per_view": {
+        "side": {
+          "w": 0.14,
+          "h": 0.43
         },
         "top": {
           "w": 0.12,
