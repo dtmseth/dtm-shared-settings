@@ -978,14 +978,6 @@
               "orientation": "h",
               "slot_count": 1,
               "pattern": "single"
-            },
-            "REAR LEFT ROOF": {
-              "x": 0.36,
-              "y": 0.015,
-              "units": "relative_image",
-              "orientation": "h",
-              "slot_count": 1,
-              "pattern": "single"
             }
           }
         },
