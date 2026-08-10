@@ -12768,8 +12768,8 @@
           "tertiary_color": "amber",
           "lens_type": "",
           "friendly_name": "WHELEN ONE TRIO\u2122 LIGHTHEAD, RED/WHITE/AMBER, FOR WECANX\u00ae SERIES ONLY, PRICE AVAILABLE WHEN ORDERED WITH INNER EDGE\u00ae",
-          "qb_sales_description": "WHELEN ONE TRIO\u2122 LIGHTHEAD, RED/WHITE/AMBER, FOR WECANX\u00ae SERIES ONLY, PRICE AVAILABLE WHEN ORDERED WITH INNER EDGE\u00ae",
-          "qb_last_synced": "2026-07-22T18:09:49Z"
+          "qb_sales_description": "WHELEN ONE TRIO\u2122 LIGHTHEAD, RED/BLUE/WHITE, FOR WECANX\u00ae SERIES ONLY, PRICE AVAILABLE WHEN ORDERED WITH INNER EDGE\u00ae",
+          "qb_last_synced": "2026-08-10T17:47:54Z"
         },
         {
           "part_number": "ISDD",
@@ -18483,10 +18483,9 @@
         "radio_mic_clip"
       ],
       "tag_ids": [
-        "comms",
-        "unbilled"
+        "comms"
       ],
-      "description": "Radio mic mounting detail; not an ordered part.",
+      "description": "Billable radio microphone mounting bracket.",
       "images": {},
       "part_numbers": [
         {
@@ -21227,7 +21226,7 @@
           "qb_last_synced": "2026-07-22T18:09:49Z",
           "price_usd": 215,
           "vehicle_tags": [
-            "any"
+            "PIU"
           ],
           "options": {},
           "qb_sales_description": "HAVIS HEAVY-DUTY MOUNT FOR 2020-2024 FORD INTERCEPTOR UTILITY"
@@ -21255,7 +21254,7 @@
           "qb_last_synced": "2026-07-22T18:09:49Z",
           "price_usd": 239,
           "vehicle_tags": [
-            "any"
+            "BLAZER"
           ],
           "options": {},
           "qb_sales_description": "HAVIS HEAVY-DUTY MOUNT FOR 2024 CHEVROLET BLAZER EV"
@@ -21354,10 +21353,9 @@
         "radio_mic_clip"
       ],
       "tag_ids": [
-        "comms",
-        "unbilled"
+        "comms"
       ],
-      "description": "Radio mic mounting detail; not an ordered part.",
+      "description": "Billable radio microphone mounting bracket.",
       "images": {},
       "part_numbers": [
         {
@@ -21596,7 +21594,7 @@
           "qb_last_synced": "2026-07-22T18:09:49Z",
           "price_usd": 529,
           "vehicle_tags": [
-            "any"
+            "PIU"
           ],
           "options": {},
           "qb_sales_description": "HAVIS TUNNEL MOUNT ASSEMBLY FOR 2020-2024 FORD INTERCEPTOR UTILITY"
@@ -25859,7 +25857,7 @@
           "qb_last_synced": "2026-07-22T18:09:49Z",
           "price_usd": 951,
           "vehicle_tags": [
-            "any"
+            "CHEVY-1500"
           ],
           "options": {},
           "qb_sales_description": "HAVIS PREMIUM PEDESTAL MOUNT PACKAGE FOR 2019-2024 CHEVROLET SILVERADO"
@@ -32167,19 +32165,19 @@
         },
         "size_per_view": {
           "front": {
-            "w": 3.128,
-            "h": 2.87
+            "w": 2.1,
+            "h": 0.95
           },
           "side": {
-            "w": 3.128,
-            "h": 2.87
+            "w": 1.35,
+            "h": 0.75
           }
         },
         "co_part_rules": [
           {
             "co_part": "Wing Wraps",
             "if_present": {
-              "skip": true
+              "suppress_render": true
             }
           }
         ]
@@ -32206,7 +32204,7 @@
           "front",
           "side"
         ],
-        "render_quantity_policy": "location_slots",
+        "render_quantity_policy": "single_per_line",
         "images": {
           "front": "equipment/wing_wraps_front.png",
           "side": "equipment/westin_wing_wrap_elitexd_side.png"
@@ -32990,7 +32988,36 @@
         "LEFT CARGO WINDOW",
         "RIGHT CARGO WINDOW"
       ],
-      "location_mode": "text"
+      "location_mode": "placement",
+      "family_id": "radio_comms",
+      "render": {
+        "asset_key": "radio_antenna_top",
+        "default_views": [
+          "side",
+          "top",
+          "rear"
+        ],
+        "render_quantity_policy": "single_per_line",
+        "images": {
+          "side": "lights/part_whip_style_side.png",
+          "top": "lights/part_whip_style_top.png",
+          "rear": "lights/part_whip_style_side.png"
+        },
+        "size_per_view": {
+          "side": {
+            "w": 0.12,
+            "h": 0.4
+          },
+          "top": {
+            "w": 0.14,
+            "h": 0.14
+          },
+          "rear": {
+            "w": 0.12,
+            "h": 0.4
+          }
+        }
+      }
     },
     "console": {
       "label": "Console",
