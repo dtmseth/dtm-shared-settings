@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-08-05T17:13:50.110Z",
-    "updated_by": "size-rules-ui"
+    "last_updated": "2026-08-11T16:16:42.115234+00:00",
+    "updated_by": "part-manager-ui"
   },
   "types": {
     "extras": {
@@ -1661,55 +1661,6 @@
           "required": false
         }
       ]
-    },
-    "soundoff_nforce": {
-      "manufacturer_id": "soundoff",
-      "model": "NFORCE",
-      "render": {
-        "size_rule_id": "sm"
-      },
-      "fits_part_types": [
-        "warning_light"
-      ],
-      "tag_ids": [
-        "light"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "NFORCE"
-        },
-        {
-          "part_number": "N-FORCE"
-        }
-      ],
-      "reviewed": false
-    },
-    "soundoff_mpower": {
-      "manufacturer_id": "soundoff",
-      "model": "MPOWER",
-      "render": {
-        "size_rule_id": "sm"
-      },
-      "fits_part_types": [
-        "warning_light",
-        "roof_light_bar"
-      ],
-      "tag_ids": [
-        "light"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "MPOWER"
-        },
-        {
-          "part_number": "M-POWER"
-        }
-      ],
-      "reviewed": false
     },
     "whelen_vxe": {
       "manufacturer_id": "whelen",
@@ -5861,34 +5812,6 @@
       ],
       "reviewed": true
     },
-    "havis_vehicle_specific": {
-      "manufacturer_id": "havis",
-      "model": "VEHICLE SPECIFIC",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "description": "Placeholder hidden from picker until an exact Havis console series and vehicle application are curated.",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "VEHICLE SPECIFIC"
-        }
-      ]
-    },
-    "havis_universal": {
-      "manufacturer_id": "havis",
-      "model": "UNIVERSAL",
-      "fits_part_types": [
-        "console"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "UNIVERSAL"
-        }
-      ]
-    },
     "whelen_core_control_head": {
       "manufacturer_id": "whelen",
       "model": "CORE CONTROL HEAD FACEPLATE",
@@ -5991,21 +5914,6 @@
       "part_numbers": [
         {
           "part_number": "ACE K-9"
-        }
-      ]
-    },
-    "havis_cup_holders": {
-      "manufacturer_id": "havis",
-      "model": "CUP HOLDERS",
-      "fits_part_types": [
-        "special_face_plate"
-      ],
-      "tag_ids": [],
-      "description": "",
-      "images": {},
-      "part_numbers": [
-        {
-          "part_number": "CUP HOLDERS"
         }
       ]
     },
@@ -11346,7 +11254,8 @@
         }
       ],
       "render": {
-        "size_rule_id": "PN"
+        "size_rule_id": "PN",
+        "center_single_at_mirror_location": true
       }
     },
     "whelen_pioneer_nano": {
@@ -11384,7 +11293,8 @@
         }
       ],
       "render": {
-        "size_rule_id": "PN"
+        "size_rule_id": "PN",
+        "center_single_at_mirror_location": true
       }
     },
     "whelen_pioneer_plus": {
@@ -11439,7 +11349,8 @@
         }
       ],
       "render": {
-        "size_rule_id": "PN"
+        "size_rule_id": "PN",
+        "center_single_at_mirror_location": true
       }
     },
     "whelen_pioneer_slimline": {
@@ -11494,7 +11405,8 @@
         }
       ],
       "render": {
-        "size_rule_id": "PN"
+        "size_rule_id": "PN",
+        "center_single_at_mirror_location": true
       }
     },
     "whelen_micron": {
@@ -12764,10 +12676,10 @@
             "any"
           ],
           "color": "red",
-          "secondary_color": "white",
-          "tertiary_color": "amber",
+          "secondary_color": "blue",
+          "tertiary_color": "white",
           "lens_type": "",
-          "friendly_name": "WHELEN ONE TRIO\u2122 LIGHTHEAD, RED/WHITE/AMBER, FOR WECANX\u00ae SERIES ONLY, PRICE AVAILABLE WHEN ORDERED WITH INNER EDGE\u00ae",
+          "friendly_name": "WHELEN ONE TRIO\u2122 LIGHTHEAD, RED/BLUE/WHITE, FOR WECANX\u00ae SERIES ONLY, PRICE AVAILABLE WHEN ORDERED WITH INNER EDGE\u00ae",
           "qb_sales_description": "WHELEN ONE TRIO\u2122 LIGHTHEAD, RED/BLUE/WHITE, FOR WECANX\u00ae SERIES ONLY, PRICE AVAILABLE WHEN ORDERED WITH INNER EDGE\u00ae",
           "qb_last_synced": "2026-08-10T17:47:54Z"
         },
