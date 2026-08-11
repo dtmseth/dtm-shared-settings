@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-08-11T16:17:47.851319+00:00",
+    "last_updated": "2026-08-11T16:15:40.260301+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -737,6 +737,21 @@
           "friendly_name": "SETINA PB450L4 LIGHTED PUSH BUMPER WITH SOUNDOFF SIGNAL MPOWER TRI-COLOR 18-LED 4 LIGHTS TOTAL: 2 FORWARD FACING, 1 EACH SIDE 2025-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA PB450L4 LIGHTED PUSH BUMPER WITH SOUNDOFF SIGNAL MPOWER TRI-COLOR 18-LED 4 LIGHTS TOTAL: 2 FORWARD FACING, 1 EACH SIDE 2025-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-07-22T18:09:49Z"
+        }
+      ]
+    },
+    "pro_gard_hdx": {
+      "manufacturer_id": "pro_gard",
+      "model": "HDX Push Bumper",
+      "fits_part_types": [
+        "push_bumper"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "HDX"
         }
       ]
     },
@@ -5797,6 +5812,34 @@
       ],
       "reviewed": true
     },
+    "havis_vehicle_specific": {
+      "manufacturer_id": "havis",
+      "model": "VEHICLE SPECIFIC",
+      "fits_part_types": [],
+      "tag_ids": [],
+      "description": "Placeholder hidden from picker until an exact Havis console series and vehicle application are curated.",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "VEHICLE SPECIFIC"
+        }
+      ]
+    },
+    "havis_universal": {
+      "manufacturer_id": "havis",
+      "model": "UNIVERSAL",
+      "fits_part_types": [
+        "console"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "UNIVERSAL"
+        }
+      ]
+    },
     "whelen_core_control_head": {
       "manufacturer_id": "whelen",
       "model": "CORE CONTROL HEAD FACEPLATE",
@@ -6786,6 +6829,21 @@
       "part_numbers": [
         {
           "part_number": "PASSENGER SIDE XL PARTITION"
+        }
+      ]
+    },
+    "setina_steel": {
+      "manufacturer_id": "setina",
+      "model": "STEEL",
+      "fits_part_types": [
+        "chicago_barrier"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "STEEL"
         }
       ]
     },
