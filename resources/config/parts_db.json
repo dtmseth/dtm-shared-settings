@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-08-11T16:34:54.646191+00:00",
+    "last_updated": "2026-08-11T16:18:03.802460+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -1828,6 +1828,38 @@
         }
       ]
     },
+    "westin_westin_2_light_tube": {
+      "manufacturer_id": "westin",
+      "model": "2-Light Push Bumper Light Channel",
+      "fits_part_types": [
+        "fw_bracket"
+      ],
+      "include_in_generic_accessory_options": false,
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WESTIN 2 LIGHT TUBE"
+        }
+      ]
+    },
+    "westin_westin_4_light_tube": {
+      "manufacturer_id": "westin",
+      "model": "4-Light Push Bumper Light Channel",
+      "fits_part_types": [
+        "fw_bracket"
+      ],
+      "include_in_generic_accessory_options": false,
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "WESTIN 4 LIGHT TUBE"
+        }
+      ]
+    },
     "whelen_tracer_l_brackets_x2_per": {
       "manufacturer_id": "whelen",
       "model": "TRACER L BRACKETS X2 PER",
@@ -2319,6 +2351,26 @@
         }
       ],
       "reviewed": true
+    },
+    "soundoff_m4": {
+      "manufacturer_id": "soundoff",
+      "model": "M4 Warning Light",
+      "render": {
+        "size_rule_id": "md"
+      },
+      "fits_part_types": [
+        "warning_light"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "M4"
+        }
+      ]
     },
     "whelen_field_series": {
       "manufacturer_id": "whelen",
@@ -7308,6 +7360,21 @@
         }
       ]
     },
+    "pro_gard_poly_floor_pan": {
+      "manufacturer_id": "pro_gard",
+      "model": "POLY FLOOR PAN",
+      "fits_part_types": [
+        "floor_pan"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "POLY FLOOR PAN"
+        }
+      ]
+    },
     "pro_gard_poly_floor_pan_w_drains": {
       "manufacturer_id": "pro_gard",
       "model": "POLY FLOOR PAN W/ DRAINS",
@@ -8249,6 +8316,21 @@
       "part_numbers": [
         {
           "part_number": "ARGES W/ VERSATILE BAIL BRACKET"
+        }
+      ]
+    },
+    "whelen_light_bar_mount": {
+      "manufacturer_id": "whelen",
+      "model": "LIGHT BAR MOUNT",
+      "fits_part_types": [
+        "arges_mount"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "LIGHT BAR MOUNT"
         }
       ]
     },
