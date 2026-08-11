@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-08-11T16:15:40.260301+00:00",
+    "last_updated": "2026-08-11T16:14:59.788266+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -1661,6 +1661,30 @@
           "required": false
         }
       ]
+    },
+    "soundoff_nforce": {
+      "manufacturer_id": "soundoff",
+      "model": "NFORCE",
+      "render": {
+        "size_rule_id": "sm"
+      },
+      "fits_part_types": [
+        "warning_light"
+      ],
+      "tag_ids": [
+        "light"
+      ],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "NFORCE"
+        },
+        {
+          "part_number": "N-FORCE"
+        }
+      ],
+      "reviewed": false
     },
     "whelen_vxe": {
       "manufacturer_id": "whelen",
@@ -5942,6 +5966,21 @@
       "part_numbers": [
         {
           "part_number": "ACE K-9"
+        }
+      ]
+    },
+    "havis_cup_holders": {
+      "manufacturer_id": "havis",
+      "model": "CUP HOLDERS",
+      "fits_part_types": [
+        "special_face_plate"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CUP HOLDERS"
         }
       ]
     },
