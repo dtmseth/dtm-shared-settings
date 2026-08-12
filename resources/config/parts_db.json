@@ -23482,13 +23482,13 @@
           "qb_sku": "",
           "qb_unit_price": 50.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-08-12T15:13:28Z",
           "price_usd": 50,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "DTM OVER HEAD GUN LOCK BRACKET"
+          "qb_sales_description": "DTM OVER HEAD GUN LOCK BRACKET (PAIR)"
         }
       ],
       "reviewed": false
@@ -35125,6 +35125,20 @@
       "kind": "system",
       "picker_flow": null,
       "order": 4
+    }
+  },
+  "customer_pricing": {
+    "default_rule": {
+      "name": "Default",
+      "manufacturer_discounts": {
+        "gamber_johnson": 40.0,
+        "havis": 20.0,
+        "pac_tool": 5.0,
+        "santa_cruz": 25.0,
+        "setina": 20.0,
+        "westin": 15.0,
+        "whelen": 38.0
+      }
     }
   }
 }
