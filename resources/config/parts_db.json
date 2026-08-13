@@ -35129,7 +35129,7 @@
   },
   "customer_pricing": {
     "default_rule": {
-      "name": "Default",
+      "name": "Retail",
       "manufacturer_discounts": {
         "gamber_johnson": 40.0,
         "havis": 20.0,
