@@ -1,6 +1,6 @@
 {
   "agency_id": "a6081102-f8f0-4b20-9b3b-2d1c4c7d0d1f",
-  "name": "ICE",
+  "name": "Imigration & Customs Enforcement (ICE)",
   "contact_name": "Shawn Kline",
   "contact_title": "",
   "contact_phone": "612-541-2655",
@@ -39,7 +39,7 @@
     "lens": ""
   },
   "pricing_overrides": {},
-  "qb_customer_id": "",
+  "qb_customer_id": "443",
   "created_at": "2026-08-20T17:02:27.452255+00:00",
-  "updated_at": "2026-08-20T18:18:00.552975+00:00"
+  "updated_at": "2026-08-20T18:20:27.429170+00:00"
 }
