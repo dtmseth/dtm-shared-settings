@@ -1,0 +1,19 @@
+{
+  "schema_version": 4,
+  "preset_id": "us_imigration_customs_enforcement_ice_pa_23edac",
+  "label": "US Imigration & Customs Enforcement (ICE) PIU",
+  "description": "",
+  "vehicle_types": [
+    "PIU"
+  ],
+  "agency_ids": [
+    "a6081102-f8f0-4b20-9b3b-2d1c4c7d0d1f"
+  ],
+  "build_types": [
+    "Admin",
+    "Patrol"
+  ],
+  "tag": "",
+  "parts": [],
+  "placement_overrides": {}
+}
