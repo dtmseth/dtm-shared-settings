@@ -29779,24 +29779,24 @@
           "friendly_name": "STALKER 2 FT. ANTENNA CABLE",
           "qb_item_id": "1210",
           "qb_sku": "",
-          "qb_unit_price": 99.6,
+          "qb_unit_price": 109.5,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-08-26T15:21:54Z",
           "price_usd": 99.6,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "STALKER 2 FT. ANTENNA CABLE"
+          "qb_sales_description": "STALKER 2 FT ANTENNA CABLE"
         },
         {
           "part_number": "155-2591-04",
           "friendly_name": "STALKER 4 FT ANTENNA CABLE",
           "qb_item_id": "1211",
           "qb_sku": "",
-          "qb_unit_price": 124.8,
+          "qb_unit_price": 137.4,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-08-26T15:21:54Z",
           "price_usd": 124.8,
           "vehicle_tags": [
             "any"
@@ -29809,9 +29809,9 @@
           "friendly_name": "STALKER 8 FT ANTENNA CABLE",
           "qb_item_id": "845",
           "qb_sku": "",
-          "qb_unit_price": 124.8,
+          "qb_unit_price": 130.54,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-08-26T15:21:54Z",
           "price_usd": 124.8,
           "vehicle_tags": [
             "any"
@@ -29824,9 +29824,9 @@
           "friendly_name": "STALKER 16 FT ANTENNA CABLE",
           "qb_item_id": "1212",
           "qb_sku": "",
-          "qb_unit_price": 168.0,
+          "qb_unit_price": 184.8,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-08-26T15:21:54Z",
           "price_usd": 168,
           "vehicle_tags": [
             "any"
@@ -29839,9 +29839,9 @@
           "friendly_name": "STALKER 20 FT ANTENNA CABLE",
           "qb_item_id": "846",
           "qb_sku": "",
-          "qb_unit_price": 188.4,
+          "qb_unit_price": 206.7,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-08-26T15:21:54Z",
           "price_usd": 188.4,
           "vehicle_tags": [
             "any"
@@ -29854,9 +29854,9 @@
           "friendly_name": "STALKER 25 FT ANTENNA CABLE",
           "qb_item_id": "1213",
           "qb_sku": "",
-          "qb_unit_price": 188.4,
+          "qb_unit_price": 196.93,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-08-26T15:21:54Z",
           "price_usd": 188.4,
           "vehicle_tags": [
             "any"
