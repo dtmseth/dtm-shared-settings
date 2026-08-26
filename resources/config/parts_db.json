@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-08-25T18:46:04.641407+00:00",
+    "last_updated": "2026-08-11T16:34:54.646191+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -1869,8 +1869,7 @@
       "images": {},
       "part_numbers": [
         {
-          "part_number": "UNIVERSAL GRILL BRACKET",
-          "price_usd": 25.0
+          "part_number": "UNIVERSAL GRILL BRACKET"
         }
       ],
       "reviewed": false
@@ -11818,8 +11817,6 @@
         "Prisoner Headliner",
         "Liftgate Mounted"
       ],
-      "fixed_location": "SELECTED LOCATIONS",
-      "picker_location_allocation": true,
       "default_colors": [
         "red",
         "white"
@@ -11886,34 +11883,7 @@
           "friendly_name": "WHELEN 3\" ROUND SPLIT RED/WHT COMPART",
           "qb_sales_description": "WHELEN 3\" ROUND SPLIT RED/WHT COMPART\n(x2 REAR CARGO AREA, x3 CAGE LIGHT)",
           "qb_last_synced": "2026-08-11T17:04:28Z"
-        }
-      ]
-    },
-    "whelen_4in_flat_lighthead": {
-      "manufacturer_id": "whelen",
-      "model": "4-inch Flat Synchronizable Interior Light",
-      "render": {
-        "size_rule_id": "rd"
-      },
-      "location_options": [
-        "Lower Kick Panels",
-        "Prisoner Headliner",
-        "Liftgate Mounted"
-      ],
-      "default_colors": [
-        "white"
-      ],
-      "accessories_disabled": true,
-      "fits_part_types": [
-        "rear_seat_cargo_lights",
-        "cargo_lighting"
-      ],
-      "tag_ids": [
-        "light"
-      ],
-      "description": "",
-      "images": {},
-      "part_numbers": [
+        },
         {
           "part_number": "2FC00ZCR",
           "qb_item_id": "1010000071",
@@ -12722,10 +12692,6 @@
       "part_numbers": [
         {
           "part_number": "THSG1",
-          "accessory_quantity": {
-            "mode": "cover_parent_quantity",
-            "parent_units_per_item": 1
-          },
           "qb_item_id": "1510",
           "qb_sku": "",
           "qb_unit_price": 59.0,
@@ -12743,12 +12709,6 @@
         },
         {
           "part_number": "THSG2",
-          "accessory_quantity": {
-            "mode": "cover_parent_quantity",
-            "parent_units_per_item": 2,
-            "requires_complete_groups": true,
-            "render_parent_group": "dual_shroud"
-          },
           "qb_item_id": "1509",
           "qb_sku": "",
           "qb_unit_price": 69.0,
@@ -29307,8 +29267,6 @@
     "qb_unassigned_tint": {
       "manufacturer_id": "qb_unassigned",
       "model": "WINDOW TINT",
-      "picker_form": "window_tint",
-      "fixed_location": "SELECTED WINDOWS",
       "fits_part_types": [
         "window_tint"
       ],
@@ -29781,7 +29739,7 @@
           "qb_sku": "",
           "qb_unit_price": 109.5,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-26T15:21:54Z",
+          "qb_last_synced": "2026-08-26T15:17:37Z",
           "price_usd": 99.6,
           "vehicle_tags": [
             "any"
@@ -29796,7 +29754,7 @@
           "qb_sku": "",
           "qb_unit_price": 137.4,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-26T15:21:54Z",
+          "qb_last_synced": "2026-08-26T15:17:37Z",
           "price_usd": 124.8,
           "vehicle_tags": [
             "any"
@@ -29811,7 +29769,7 @@
           "qb_sku": "",
           "qb_unit_price": 130.54,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-26T15:21:54Z",
+          "qb_last_synced": "2026-08-26T15:17:37Z",
           "price_usd": 124.8,
           "vehicle_tags": [
             "any"
@@ -29826,7 +29784,7 @@
           "qb_sku": "",
           "qb_unit_price": 184.8,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-26T15:21:54Z",
+          "qb_last_synced": "2026-08-26T15:17:37Z",
           "price_usd": 168,
           "vehicle_tags": [
             "any"
@@ -29841,7 +29799,7 @@
           "qb_sku": "",
           "qb_unit_price": 206.7,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-26T15:21:54Z",
+          "qb_last_synced": "2026-08-26T15:17:37Z",
           "price_usd": 188.4,
           "vehicle_tags": [
             "any"
@@ -29856,7 +29814,7 @@
           "qb_sku": "",
           "qb_unit_price": 196.93,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-26T15:21:54Z",
+          "qb_last_synced": "2026-08-26T15:17:37Z",
           "price_usd": 188.4,
           "vehicle_tags": [
             "any"
