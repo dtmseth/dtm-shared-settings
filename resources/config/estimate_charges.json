@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "card_fee_percent": 4.0,
+  "service_items": {
+    "labor": "LABOR INSTALL",
+    "install_supplies": "INSTALL SUPPLIES",
+    "card_fee": "Convenience Fee",
+    "delivery": "TRAVEL"
+  },
+  "presets": {
+    "patrol": {
+      "label": "Patrol",
+      "aliases": [
+        "patrol"
+      ],
+      "labor_amount": 4900.0,
+      "install_supplies_amount": 500.0
+    },
+    "undercover": {
+      "label": "Undercover",
+      "aliases": [
+        "undercover",
+        "slick top",
+        "slicktop"
+      ],
+      "labor_amount": 3200.0,
+      "install_supplies_amount": 475.0
+    },
+    "admin": {
+      "label": "Admin",
+      "aliases": [
+        "admin",
+        "command"
+      ],
+      "labor_amount": 3200.0,
+      "install_supplies_amount": 475.0
+    },
+    "custom": {
+      "label": "Custom",
+      "aliases": [],
+      "labor_amount": 0.0,
+      "install_supplies_amount": 475.0
+    }
+  }
+}
