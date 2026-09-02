@@ -15638,8 +15638,8 @@
               "y": 0.85,
               "units": "relative_image",
               "orientation": "h",
-              "slot_count": 1,
-              "pattern": "single"
+              "slot_count": 2,
+              "pattern": "vertical_mirror"
             },
             "UPPER CARGO WINDOW": {
               "x": 0.815,
