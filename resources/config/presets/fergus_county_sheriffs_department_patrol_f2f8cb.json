@@ -1,0 +1,2114 @@
+{
+  "schema_version": 4,
+  "preset_id": "fergus_county_sheriffs_department_patrol_f2f8cb",
+  "label": "Fergus County Sheriffs Department Patrol PIU",
+  "description": "",
+  "vehicle_types": [
+    "PIU"
+  ],
+  "agency_ids": [
+    "958d6c80-f3d1-4a0b-8d9f-6b6f90ef4cc5"
+  ],
+  "build_types": [
+    "Patrol"
+  ],
+  "tag": "",
+  "parts": [
+    {
+      "name": "Light Bar 1",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "EB2DEDE",
+      "location": "ROOF LIGHT BAR",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "clear",
+      "notes": "Standard setup \u00b7 Clear lens",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "27f425e7-2479-49d5-9e66-5aafc8575a6f",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "roof_light_bar",
+      "picker_config": {}
+    },
+    {
+      "name": "Light Bar 1 \u00b7 Lightbar Mount Kit",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "STPKT105",
+      "location": "ROOF LIGHT BAR",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "c263132a-2909-462a-aec1-556b99f7a1a3",
+      "parent_line_id": "27f425e7-2479-49d5-9e66-5aafc8575a6f",
+      "linked_parent_line_id": "",
+      "accessory_category": "bracket_mount",
+      "accessory_parent_product": "whelen_legacy",
+      "part_type": "",
+      "picker_config": {}
+    },
+    {
+      "name": "Push Bumper",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Westin",
+      "part_number": "PUSH BUMPER ELITE 2020-2026 FORD POLCE INTERCEPTOR UTILITY",
+      "location": "Push Bumper",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "36-2125",
+          "color": "",
+          "quantity": 1,
+          "price": 598
+        }
+      ],
+      "line_id": "7069921f-ccfe-4894-b7ff-0361ab7bd227",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "push_bumper",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {},
+        "westin": {
+          "wire": "westin_36_2125wc::36-2125WC",
+          "channel": "westin_36_6005w2::36-6005W2",
+          "channel_info": {
+            "channelProductId": "westin_36_6005w2",
+            "channelModel": "PUSH BUMPER ELITE 23.5 IN. LIGHT CHANNEL - WHELEN ION SERIES, 2 HOLE 2013-2026 FORD POLICE INTERCEPTOR UTILITY/2020-2026 DODGE DURANGO",
+            "channelPartNumber": "36-6005W2",
+            "count": 2,
+            "lightProductId": "whelen_ion",
+            "lightLabel": "Whelen ION"
+          },
+          "lights": {
+            "mode": "duo",
+            "secondary": "white",
+            "lens": "clear"
+          }
+        }
+      }
+    },
+    {
+      "name": "Push Bumper \u00b7 ELITE UPRIGHT WIRE COVER 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Westin",
+      "part_number": "36-2125WC",
+      "location": "Push Bumper",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "a5853ce6-2816-48c4-b655-eb39dd9d7264",
+      "parent_line_id": "7069921f-ccfe-4894-b7ff-0361ab7bd227",
+      "linked_parent_line_id": "",
+      "accessory_category": "westin_wire_cover",
+      "accessory_parent_product": "westin_36_2125",
+      "part_type": "",
+      "picker_config": {}
+    },
+    {
+      "name": "Push Bumper \u00b7 PUSH BUMPER ELITE 23.5 IN. LIGHT CHANNEL - WHELEN ION SERIES, 2 HOLE 2013-2026 FORD POLICE INTERCEPTOR UTILITY/2020-2026 DODGE DURANGO",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Westin",
+      "part_number": "36-6005W2",
+      "location": "Push Bumper",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "540986f6-a97a-4064-9a40-9ef3b5ef9042",
+      "parent_line_id": "7069921f-ccfe-4894-b7ff-0361ab7bd227",
+      "linked_parent_line_id": "",
+      "accessory_category": "westin_light_channel",
+      "accessory_parent_product": "westin_36_2125",
+      "part_type": "",
+      "picker_config": {}
+    },
+    {
+      "name": "Forward Warning 1",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "ION",
+      "location": "TOP TUBE",
+      "raw_color": "Red/White / Blue/White",
+      "quantity": 2,
+      "lens": "clear",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "Red/White",
+      "passenger_color": "Blue/White",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "I2D",
+          "color": "Red/White",
+          "quantity": 1,
+          "price": 206
+        },
+        {
+          "part_number": "I2E",
+          "color": "Blue/White",
+          "quantity": 1,
+          "price": 206
+        }
+      ],
+      "line_id": "7240eff5-90cb-4179-9e75-098bb78af624",
+      "parent_line_id": "",
+      "linked_parent_line_id": "7069921f-ccfe-4894-b7ff-0361ab7bd227",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "warning_light",
+      "picker_config": {
+        "mode": "split",
+        "colorsPerHead": 2,
+        "uniform": [],
+        "splitSecondary": [
+          "white"
+        ],
+        "custom": [],
+        "_noColor": false,
+        "count": 2,
+        "lens": "clear",
+        "westin_channel_light": {
+          "product_id": "whelen_ion",
+          "channel_product_id": "westin_36_6005w2",
+          "mode": "duo",
+          "secondary": "white"
+        }
+      }
+    },
+    {
+      "name": "Pit Bar",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Westin",
+      "part_number": "PIT BARS",
+      "location": "Pit Bar",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "36-2125PB",
+          "color": "",
+          "quantity": 1,
+          "price": 545
+        }
+      ],
+      "line_id": "581945e9-4a24-4e9c-89c1-88db46d68b5c",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "pit_bar",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Wing Wraps",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Westin",
+      "part_number": "WING WRAPS",
+      "location": "Wing Wraps",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "36-2125W",
+          "color": "",
+          "quantity": 1,
+          "price": 380
+        }
+      ],
+      "line_id": "df7e67cd-7bca-40c6-bba4-e91bede533e1",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "wing_wraps",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Forward Warning 2",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "ION Surface Mount",
+      "location": "PIT BARS",
+      "raw_color": "Red/White / Blue/White",
+      "quantity": 2,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "Red/White",
+      "passenger_color": "Blue/White",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "I2SMD",
+          "color": "Red/White",
+          "quantity": 1,
+          "price": 206
+        },
+        {
+          "part_number": "I2SME",
+          "color": "Blue/White",
+          "quantity": 1,
+          "price": 206
+        }
+      ],
+      "line_id": "572c6f75-7bff-440d-8137-645680268062",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "warning_light",
+      "picker_config": {
+        "mode": "split",
+        "colorsPerHead": "duo",
+        "uniform": [
+          "red",
+          "red"
+        ],
+        "splitSecondary": [
+          "white"
+        ],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Forward Warning 3",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "U-Series",
+      "location": "UNDER MIRROR",
+      "raw_color": "Red/White / Blue/White",
+      "quantity": 2,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "Red/White",
+      "passenger_color": "Blue/White",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "U180D",
+          "color": "Red/White",
+          "quantity": 1,
+          "price": 309
+        },
+        {
+          "part_number": "U180E",
+          "color": "Blue/White",
+          "quantity": 1,
+          "price": 309
+        }
+      ],
+      "line_id": "dfe7b3d3-d9ab-4aa2-aea0-a09b61c93d83",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "warning_light",
+      "picker_config": {
+        "mode": "split",
+        "colorsPerHead": "duo",
+        "uniform": [
+          "red",
+          "red"
+        ],
+        "splitSecondary": [
+          "white"
+        ],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Forward Warning 3 \u00b7 U-Series Under-Mirror Warning Bracket",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "U18050",
+      "location": "UNDER MIRROR",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "c2e8f10f-7a30-4ea9-8bd6-91480d554402",
+      "parent_line_id": "dfe7b3d3-d9ab-4aa2-aea0-a09b61c93d83",
+      "linked_parent_line_id": "",
+      "accessory_category": "bracket_mount",
+      "accessory_parent_product": "whelen_u_series",
+      "part_type": "",
+      "picker_config": {}
+    },
+    {
+      "name": "Side Warning 1",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "ION",
+      "location": "LOWER CARGO WINDOW",
+      "raw_color": "Red/White / Blue/White",
+      "quantity": 2,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "Red/White",
+      "passenger_color": "Blue/White",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "I2D",
+          "color": "Red/White",
+          "quantity": 1,
+          "price": 206
+        },
+        {
+          "part_number": "I2E",
+          "color": "Blue/White",
+          "quantity": 1,
+          "price": 206
+        }
+      ],
+      "line_id": "06fdc5ca-b860-493c-90f9-cee6e3f789f5",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "warning_light",
+      "picker_config": {
+        "mode": "split",
+        "colorsPerHead": "duo",
+        "uniform": [
+          "red",
+          "red"
+        ],
+        "splitSecondary": [
+          "white"
+        ],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Rear Warning 1",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "ION",
+      "location": "LICENSE PLATE BRACKET",
+      "raw_color": "Red/White / Blue/White",
+      "quantity": 2,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "Red/White",
+      "passenger_color": "Blue/White",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "I2D",
+          "color": "Red/White",
+          "quantity": 1,
+          "price": 206
+        },
+        {
+          "part_number": "I2E",
+          "color": "Blue/White",
+          "quantity": 1,
+          "price": 206
+        }
+      ],
+      "line_id": "7a12a862-4b9c-4e08-8f05-77ad91e5e4cf",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "warning_light",
+      "picker_config": {
+        "mode": "split",
+        "colorsPerHead": "duo",
+        "uniform": [
+          "red",
+          "red"
+        ],
+        "splitSecondary": [
+          "white"
+        ],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Rear Warning 2",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "T-Series",
+      "location": "LOWER LIFTGATE LIP",
+      "raw_color": "Red/White / Blue/White",
+      "quantity": 2,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "Red/White",
+      "passenger_color": "Blue/White",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "TSS0D",
+          "color": "Red/White",
+          "quantity": 1,
+          "price": 199
+        },
+        {
+          "part_number": "TSS0E",
+          "color": "Blue/White",
+          "quantity": 1,
+          "price": 199
+        }
+      ],
+      "line_id": "715bb0b7-d4f5-455f-9c00-e1f390efd289",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "warning_light",
+      "picker_config": {
+        "mode": "split",
+        "colorsPerHead": "duo",
+        "uniform": [
+          "red",
+          "red"
+        ],
+        "splitSecondary": [
+          "white"
+        ],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Front Partition",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Setina",
+      "part_number": "FULL PARTITION",
+      "location": "PRISONER AREA",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "PK0419ITU20TM",
+          "color": "",
+          "quantity": 1,
+          "price": 1179
+        }
+      ],
+      "line_id": "d8571169-d582-40bd-b0b2-31491c846096",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "front_partition",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Rear Window Bars",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Setina",
+      "part_number": "Window Barrier",
+      "location": "REAR WINDOWS",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "WK0514ITU20",
+          "color": "",
+          "quantity": 1,
+          "price": 339
+        }
+      ],
+      "line_id": "3bb5ae86-470f-4796-9763-91434756ee39",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "rear_window_bars",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Replacement Seat",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Setina",
+      "part_number": "FULL REPLACEMENT SEAT",
+      "location": "PRISONER AREA",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "QK0566ITU25",
+          "color": "",
+          "quantity": 1,
+          "price": 1809
+        }
+      ],
+      "line_id": "7aaf4f89-774e-49b2-9299-b50c16b5df5b",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "replacement_rear_seat",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Center Console",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Gamber Johnson",
+      "part_number": "7170-0734-09",
+      "location": "IN CENTER CONSOLE",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "console",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {},
+        "console_setup": {
+          "style": "low_profile",
+          "consoleChoice": {
+            "product_id": "gamber_johnson_7170_0734_09",
+            "model": "2020-2029 FORD POLICE INTERCEPTOR UTILITY LOW-PROFILE CONSOLE KIT WITH CUP HOLDER, PRINTER ARMREST, AND 9\" LOCKING SLIDE ARM KIT",
+            "manufacturer_label": "Gamber Johnson",
+            "part_number": "7170-0734-09",
+            "price": 1690,
+            "new_or_used": "New",
+            "supply_type": "new",
+            "customer_condition": "",
+            "customer_source": "",
+            "source": ""
+          },
+          "faceplates": [
+            {
+              "product_id": "gamber_johnson_15250",
+              "model": "OEM Relocation Plate",
+              "manufacturer_label": "Gamber Johnson",
+              "part_number": "15250",
+              "price": 12.6,
+              "supply_type": "new",
+              "customer_condition": "",
+              "customer_source": "",
+              "new_or_used": "New",
+              "source": "",
+              "auto_kind": "oem_relocation_plate",
+              "kit_included": true,
+              "required": true,
+              "no_charge_faceplate": false
+            },
+            {
+              "product_id": "gamber_johnson_7160_0321",
+              "model": "Radio Faceplate",
+              "manufacturer_label": "Gamber Johnson",
+              "part_number": "7160-0321",
+              "price": 17.28,
+              "supply_type": "new",
+              "customer_condition": "",
+              "customer_source": "",
+              "new_or_used": "New",
+              "source": "",
+              "auto_kind": "radio",
+              "kit_included": false,
+              "required": true,
+              "no_charge_faceplate": true
+            },
+            {
+              "product_id": "gamber_johnson_7160_0339",
+              "model": "Core Control Head Faceplate",
+              "manufacturer_label": "Gamber Johnson",
+              "part_number": "7160-0339",
+              "price": 12.96,
+              "supply_type": "new",
+              "customer_condition": "",
+              "customer_source": "",
+              "new_or_used": "New",
+              "source": "",
+              "auto_kind": "core",
+              "kit_included": false,
+              "required": true,
+              "no_charge_faceplate": true
+            },
+            {
+              "product_id": "gamber_johnson_7160_0846",
+              "model": "Cup Holder Faceplate",
+              "manufacturer_label": "Gamber Johnson",
+              "part_number": "7160-0846",
+              "price": 56.4,
+              "supply_type": "new",
+              "customer_condition": "",
+              "customer_source": "",
+              "new_or_used": "New",
+              "source": "",
+              "auto_kind": "cup_holder",
+              "kit_included": true,
+              "required": true,
+              "no_charge_faceplate": false
+            },
+            {
+              "product_id": "gamber_johnson_7160_0597",
+              "model": "6 INCH SHORT INTERIOR POCKET",
+              "manufacturer_label": "Gamber Johnson",
+              "part_number": "7160-0597",
+              "price": 81,
+              "new_or_used": "New",
+              "supply_type": "new",
+              "customer_condition": "",
+              "customer_source": "",
+              "source": ""
+            },
+            {
+              "product_id": "gamber_johnson_3130_0152",
+              "model": "1/2\" BLANK FILLER PANEL",
+              "manufacturer_label": "Gamber Johnson",
+              "part_number": "3130-0152",
+              "price": 11,
+              "new_or_used": "New",
+              "supply_type": "new",
+              "customer_condition": "",
+              "customer_source": "",
+              "source": ""
+            }
+          ],
+          "armRest": {
+            "product_id": "gamber_johnson_7160_0006",
+            "model": "BROTHER ARM REST PRINTER MOUNT",
+            "manufacturer_label": "Gamber Johnson",
+            "part_number": "7160-0006",
+            "price": 585,
+            "new_or_used": "New",
+            "supply_type": "new",
+            "customer_condition": "",
+            "customer_source": "",
+            "source": ""
+          },
+          "motionAttachment": {
+            "product_id": "gamber_johnson_7160_0220",
+            "model": "MONGOOSE 9\" LOCKING SLIDE ARM WITH 360 DEGREE CLEVIS",
+            "manufacturer_label": "Gamber Johnson",
+            "part_number": "7160-0220",
+            "price": 458,
+            "new_or_used": "New",
+            "supply_type": "new",
+            "customer_condition": "",
+            "customer_source": "",
+            "source": ""
+          },
+          "motionLocation": "mounted_to_console",
+          "pedestalMount": null,
+          "dockingStation": {
+            "product_id": "gamber_johnson_7160_1982_10",
+            "model": "DELL RUGED LAPTOP VEHICLE DOCKING STATION, FULL PORT, NO RF 14 RUGGED LAPTOP (5404/5414/5420/5424/5430)",
+            "manufacturer_label": "Gamber Johnson",
+            "part_number": "7160-1982-10",
+            "price": 1088,
+            "new_or_used": "Used",
+            "supply_type": "customer_supplied",
+            "customer_condition": "used",
+            "customer_source": "Agency",
+            "source": "Agency"
+          },
+          "radioMicClip": null,
+          "radioMicClipRelation": "",
+          "addMagMic": true,
+          "magMicSupply": {
+            "supply_type": "new",
+            "customer_condition": "",
+            "customer_source": "",
+            "new_or_used": "New",
+            "source": ""
+          },
+          "magMicCondition": "New",
+          "addPrinter": true,
+          "printer": {
+            "product_id": "brother_pj_822",
+            "model": "PJ-822",
+            "manufacturer_label": "Brother",
+            "part_number": "PJ-822",
+            "price": 387.59,
+            "new_or_used": "Used",
+            "supply_type": "customer_supplied",
+            "customer_condition": "used",
+            "customer_source": "Agency",
+            "source": "Agency"
+          },
+          "printerPower": {
+            "product_id": "brother_pocketjet_power_cable",
+            "model": "PocketJet Power Cable",
+            "manufacturer_label": "Brother",
+            "part_number": "14331",
+            "price": 27,
+            "new_or_used": "Used",
+            "supply_type": "customer_supplied",
+            "customer_condition": "used",
+            "customer_source": "Agency",
+            "source": "Agency"
+          },
+          "printerUsb": {
+            "product_id": "brother_pocketjet_usb_cable",
+            "model": "PocketJet USB Cable",
+            "manufacturer_label": "Brother",
+            "part_number": "14831",
+            "price": 15,
+            "new_or_used": "Used",
+            "supply_type": "customer_supplied",
+            "customer_condition": "used",
+            "customer_source": "Agency",
+            "source": "Agency"
+          },
+          "wings": null
+        }
+      }
+    },
+    {
+      "name": "Light Controller",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "CenCom Core",
+      "location": "ON EQUIPMENT TRAY",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "C399",
+          "color": "",
+          "quantity": 1,
+          "price": 1411
+        }
+      ],
+      "line_id": "307e21fe-c88e-4bae-b90c-cf891ca68c59",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "light_controller",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Light Controller \u00b7 CenCom Core CANPORT Cable",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "C399SP",
+      "location": "ON EQUIPMENT TRAY",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "7d045f3e-2650-45f9-8d00-6e3b8186f83b",
+      "parent_line_id": "307e21fe-c88e-4bae-b90c-cf891ca68c59",
+      "linked_parent_line_id": "",
+      "accessory_category": "cable",
+      "accessory_parent_product": "whelen_core",
+      "part_type": "",
+      "picker_config": {}
+    },
+    {
+      "name": "Control Head",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "CCTL7 WeCanX 21-Button/Slide Control Head",
+      "location": "IN CENTER CONSOLE",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "PA mic: Driver's door \u00b7 Magnetic mic",
+      "comment": "Add P.A. Mic in door",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "CCTL7",
+          "color": "",
+          "quantity": 1,
+          "price": 473
+        },
+        {
+          "label": "PA Mic",
+          "location": "Driver's door",
+          "detail": "Magnetic mic"
+        }
+      ],
+      "line_id": "9753b418-c167-4c4b-9640-c4ad398cebfe",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "control_head",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {
+          "paMicLocation": "drivers_door",
+          "paMicLocationCustom": "",
+          "paMicClip": "magnetic_mic",
+          "handheldMagMic": null
+        }
+      }
+    },
+    {
+      "name": "Control Head \u00b7 Mag Mic",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Magnetic Mic",
+      "part_number": "MMSU-1",
+      "location": "Driver's door",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "6f75f4e8-a4bc-446a-a98c-04a0982a694b",
+      "parent_line_id": "9753b418-c167-4c4b-9640-c4ad398cebfe",
+      "linked_parent_line_id": "",
+      "accessory_category": "magnetic_mic",
+      "accessory_parent_product": "",
+      "part_type": "radio_mic_clip",
+      "picker_config": {}
+    },
+    {
+      "name": "Expansion Module",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "CEM24 WeCanX 24-Output Expansion Module",
+      "location": "ON EQUIPMENT TRAY",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "CEM24",
+          "color": "",
+          "quantity": 1,
+          "price": 399
+        }
+      ],
+      "line_id": "aea21931-cefc-4cf1-b61d-0afb5e630456",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "expansion_module",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Interior Lights",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "Round Lighthead",
+      "location": "LOWER KICK PANELS",
+      "raw_color": "Red/White",
+      "quantity": 2,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "3SRCCDCR",
+          "color": "Red/White",
+          "quantity": 2,
+          "price": 104
+        }
+      ],
+      "line_id": "6cc6cb26-0df8-491f-afa9-be05d3f5d2bc",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "cargo_lighting",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "duo",
+        "uniform": [
+          "red",
+          "white"
+        ],
+        "splitSecondary": [
+          "white"
+        ],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Interior Lights",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "Round Lighthead",
+      "location": "PRISONER HEADLINER",
+      "raw_color": "Red/White",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "3SRCCDCR",
+          "color": "Red/White",
+          "quantity": 1,
+          "price": 104
+        }
+      ],
+      "line_id": "5825c8a4-f78a-4abc-bf3a-dc596514b351",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "cargo_lighting",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "duo",
+        "uniform": [
+          "red",
+          "white"
+        ],
+        "splitSecondary": [
+          "white"
+        ],
+        "custom": [
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 1,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Interior Lights",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "Round Lighthead",
+      "location": "LIFTGATE MOUNTED",
+      "raw_color": "Red/White",
+      "quantity": 2,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "3SRCCDCR",
+          "color": "Red/White",
+          "quantity": 2,
+          "price": 104
+        }
+      ],
+      "line_id": "97b5fbb8-bbe5-4531-8613-32937a1c1cd9",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "cargo_lighting",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "duo",
+        "uniform": [
+          "red",
+          "white"
+        ],
+        "splitSecondary": [
+          "white"
+        ],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Siren Speaker 1",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "SA315P Speaker",
+      "location": "BEHIND GRILL (CENTER)",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "SA315P",
+          "color": "",
+          "quantity": 1,
+          "price": 412
+        }
+      ],
+      "line_id": "b86ff97e-697b-416b-8dce-521f0def3e2e",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "siren_speaker",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 1,
+        "lens": "",
+        "skuChoices": {},
+        "details": {},
+        "siren_dual_tones": false
+      }
+    },
+    {
+      "name": "Siren Speaker 1 \u00b7 SA-315 Siren Speaker Mount Kit",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "SAK75D",
+      "location": "BEHIND GRILL (CENTER)",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "bc464cb5-e898-40bb-8544-8cc23e3a92f2",
+      "parent_line_id": "b86ff97e-697b-416b-8dce-521f0def3e2e",
+      "linked_parent_line_id": "",
+      "accessory_category": "bracket_mount",
+      "accessory_parent_product": "whelen_sa315p",
+      "part_type": "",
+      "picker_config": {}
+    },
+    {
+      "name": "Center Console \u00b7 Face Plate 1 \u00b7 OEM Relocation Plate",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Gamber Johnson",
+      "part_number": "15250",
+      "location": "IN CENTER CONSOLE",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "Included with selected console kit \u2014 do not bill separately.",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "64995847-db39-4e4f-980c-e8693401d29d",
+      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "linked_parent_line_id": "",
+      "accessory_category": "console_faceplate",
+      "accessory_parent_product": "",
+      "part_type": "special_face_plate",
+      "picker_config": {
+        "console_kit_included": true,
+        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_component_key": "console_faceplate"
+      }
+    },
+    {
+      "name": "Center Console \u00b7 Face Plate 2 \u00b7 Radio Faceplate",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Gamber Johnson",
+      "part_number": "7160-0321",
+      "location": "IN CENTER CONSOLE",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "Included specialty faceplate \u2014 quote at $0.00.",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "65520230-6a5e-4741-8210-27fb1db49da4",
+      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "linked_parent_line_id": "",
+      "accessory_category": "console_faceplate",
+      "accessory_parent_product": "",
+      "part_type": "special_face_plate",
+      "picker_config": {
+        "quote_unit_price_override": 0,
+        "quote_note": "Included specialty faceplate \u2014 no charge",
+        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_component_key": "console_faceplate"
+      }
+    },
+    {
+      "name": "Center Console \u00b7 Face Plate 3 \u00b7 Core Control Head Faceplate",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Gamber Johnson",
+      "part_number": "7160-0339",
+      "location": "IN CENTER CONSOLE",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "Included specialty faceplate \u2014 quote at $0.00.",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "890e9d74-8959-47a4-bee8-b55c94949301",
+      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "linked_parent_line_id": "",
+      "accessory_category": "console_faceplate",
+      "accessory_parent_product": "",
+      "part_type": "special_face_plate",
+      "picker_config": {
+        "quote_unit_price_override": 0,
+        "quote_note": "Included specialty faceplate \u2014 no charge",
+        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_component_key": "console_faceplate"
+      }
+    },
+    {
+      "name": "Center Console \u00b7 Face Plate 4 \u00b7 Cup Holder Faceplate",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Gamber Johnson",
+      "part_number": "7160-0846",
+      "location": "IN CENTER CONSOLE",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "Included with selected console kit \u2014 do not bill separately.",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "53283b46-fd16-4648-8b4a-f3bf8bc726a4",
+      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "linked_parent_line_id": "",
+      "accessory_category": "console_faceplate",
+      "accessory_parent_product": "",
+      "part_type": "special_face_plate",
+      "picker_config": {
+        "console_kit_included": true,
+        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_component_key": "console_faceplate"
+      }
+    },
+    {
+      "name": "Center Console \u00b7 Face Plate 5 \u00b7 6 INCH SHORT INTERIOR POCKET",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Gamber Johnson",
+      "part_number": "7160-0597",
+      "location": "IN CENTER CONSOLE",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "f194c416-fd65-4e7b-935c-42a5d470f1a7",
+      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "linked_parent_line_id": "",
+      "accessory_category": "console_faceplate",
+      "accessory_parent_product": "",
+      "part_type": "special_face_plate",
+      "picker_config": {
+        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_component_key": "console_faceplate"
+      }
+    },
+    {
+      "name": "Center Console \u00b7 Face Plate 6 \u00b7 1/2\" BLANK FILLER PANEL",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Gamber Johnson",
+      "part_number": "3130-0152",
+      "location": "IN CENTER CONSOLE",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "47cb179a-3083-4002-937b-78ecf29b1b8e",
+      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "linked_parent_line_id": "",
+      "accessory_category": "console_faceplate",
+      "accessory_parent_product": "",
+      "part_type": "special_face_plate",
+      "picker_config": {
+        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_component_key": "console_faceplate"
+      }
+    },
+    {
+      "name": "Center Console \u00b7 Armrest",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Gamber Johnson",
+      "part_number": "7160-0006",
+      "location": "IN CENTER CONSOLE",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "Included with selected console kit \u2014 do not bill separately.",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "1515cd46-0fed-45e2-9e7c-c4672953c224",
+      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "linked_parent_line_id": "",
+      "accessory_category": "console_component",
+      "accessory_parent_product": "",
+      "part_type": "arm_rest",
+      "picker_config": {
+        "console_kit_included": true,
+        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_component_key": "armRest"
+      }
+    },
+    {
+      "name": "Center Console \u00b7 Motion Attachment",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Gamber Johnson",
+      "part_number": "7160-0220",
+      "location": "MOUNTED TO CONSOLE",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "Included with selected console kit \u2014 do not bill separately.",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "aaa2917f-5ca7-4548-95f5-c20ef4af69ec",
+      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "linked_parent_line_id": "",
+      "accessory_category": "console_component",
+      "accessory_parent_product": "",
+      "part_type": "motion_attachment",
+      "picker_config": {
+        "console_kit_included": true,
+        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_component_key": "motionAttachment"
+      }
+    },
+    {
+      "name": "Center Console \u00b7 Docking Station",
+      "include": true,
+      "new_or_used": "Used",
+      "source": "Agency",
+      "supply_type": "customer_supplied",
+      "customer_condition": "used",
+      "customer_source": "Agency",
+      "manufacturer": "Gamber Johnson",
+      "part_number": "7160-1982-10",
+      "location": "IN CENTER CONSOLE",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "5d52443a-68ad-4f2f-a96e-2af2ef9a7b48",
+      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "linked_parent_line_id": "",
+      "accessory_category": "console_component",
+      "accessory_parent_product": "",
+      "part_type": "docking_station",
+      "picker_config": {
+        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_component_key": "dockingStation"
+      }
+    },
+    {
+      "name": "Center Console \u00b7 Mag Mic",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Magnetic Mic",
+      "part_number": "MMSU-1",
+      "location": "ON CENTER CONSOLE",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "3f5695f1-dcd9-41a6-9e39-18932f13a6c5",
+      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "linked_parent_line_id": "",
+      "accessory_category": "console_component",
+      "accessory_parent_product": "",
+      "part_type": "radio_mic_clip",
+      "picker_config": {
+        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_component_key": "magneticMic"
+      }
+    },
+    {
+      "name": "Printer",
+      "include": true,
+      "new_or_used": "Used",
+      "source": "Agency",
+      "supply_type": "customer_supplied",
+      "customer_condition": "used",
+      "customer_source": "Agency",
+      "manufacturer": "Brother",
+      "part_number": "PJ-822",
+      "location": "PRINTER ARMREST MOUNT",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "f6f0592d-716d-40b2-8596-52618afa2d29",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "printer",
+      "picker_config": {
+        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_component_key": "printer"
+      }
+    },
+    {
+      "name": "Printer \u00b7 Power Cable",
+      "include": true,
+      "new_or_used": "Used",
+      "source": "Agency",
+      "supply_type": "customer_supplied",
+      "customer_condition": "used",
+      "customer_source": "Agency",
+      "manufacturer": "Brother",
+      "part_number": "14331",
+      "location": "PRINTER ARMREST MOUNT",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "9719110f-1f52-41cd-a45a-ddff7da42a7b",
+      "parent_line_id": "f6f0592d-716d-40b2-8596-52618afa2d29",
+      "linked_parent_line_id": "",
+      "accessory_category": "printer_power_cable",
+      "accessory_parent_product": "brother_pj_822",
+      "part_type": "printer_power",
+      "picker_config": {
+        "console_component_key": "printerPower"
+      }
+    },
+    {
+      "name": "Printer \u00b7 USB Cable",
+      "include": true,
+      "new_or_used": "Used",
+      "source": "Agency",
+      "supply_type": "customer_supplied",
+      "customer_condition": "used",
+      "customer_source": "Agency",
+      "manufacturer": "Brother",
+      "part_number": "14831",
+      "location": "PRINTER ARMREST MOUNT",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "9785d09d-77f1-4a94-b1cb-9880afc6127a",
+      "parent_line_id": "f6f0592d-716d-40b2-8596-52618afa2d29",
+      "linked_parent_line_id": "",
+      "accessory_category": "printer_usb_cable",
+      "accessory_parent_product": "brother_pj_822",
+      "part_type": "printer_usb",
+      "picker_config": {
+        "console_component_key": "printerUsb"
+      }
+    }
+  ],
+  "placement_overrides": {
+    "572c6f75-7bff-440d-8137-645680268062:front": {
+      "anchor_dx": -0.05464,
+      "anchor_dy": 0.003202
+    },
+    "7a12a862-4b9c-4e08-8f05-77ad91e5e4cf:rear": {
+      "anchor_dx": 0.005083,
+      "anchor_dy": -0.009266
+    },
+    "b86ff97e-697b-416b-8dce-521f0def3e2e:front": {
+      "anchor_dx": -0.003812,
+      "anchor_dy": 0.008004
+    }
+  }
+}
