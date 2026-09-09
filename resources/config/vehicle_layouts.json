@@ -16205,7 +16205,7 @@
           "label": "Side",
           "category": "external",
           "legend_layout": "grid",
-          "logo_position": "top-right",
+          "logo_position": "bottom",
           "coord_space": "relative_image",
           "locations": {},
           "default_slot_role": "driver"
@@ -16214,7 +16214,7 @@
           "label": "Top",
           "category": "external",
           "legend_layout": "grid",
-          "logo_position": "top-right",
+          "logo_position": "bottom",
           "coord_space": "relative_image",
           "locations": {}
         },
@@ -16229,13 +16229,40 @@
             "negative_x": "driver",
             "positive_x": "passenger"
           }
+        },
+        "internal.console": {
+          "label": "Console",
+          "category": "internal",
+          "legend_layout": "standard",
+          "coord_space": "relative_image",
+          "locations": {},
+          "logo_position": "top-right"
+        },
+        "internal.cargo": {
+          "label": "Cargo Area",
+          "category": "internal",
+          "legend_layout": "standard",
+          "coord_space": "relative_image",
+          "locations": {},
+          "logo_position": "top-right"
+        },
+        "internal.rear_seat": {
+          "label": "Rear Seat",
+          "category": "internal",
+          "legend_layout": "standard",
+          "coord_space": "relative_image",
+          "locations": {},
+          "logo_position": "top-right"
         }
       },
       "view_order": [
         "front",
         "side",
         "top",
-        "rear"
+        "rear",
+        "internal.console",
+        "internal.cargo",
+        "internal.rear_seat"
       ]
     },
     "EQUINOX": {
@@ -16264,7 +16291,7 @@
           "label": "Side",
           "category": "external",
           "legend_layout": "grid",
-          "logo_position": "top-right",
+          "logo_position": "bottom",
           "coord_space": "relative_image",
           "locations": {},
           "default_slot_role": "driver"
@@ -16273,7 +16300,7 @@
           "label": "Top",
           "category": "external",
           "legend_layout": "grid",
-          "logo_position": "top-right",
+          "logo_position": "bottom",
           "coord_space": "relative_image",
           "locations": {}
         },
@@ -16288,13 +16315,298 @@
             "negative_x": "driver",
             "positive_x": "passenger"
           }
+        },
+        "internal.console": {
+          "label": "Console",
+          "category": "internal",
+          "legend_layout": "standard",
+          "coord_space": "relative_image",
+          "locations": {},
+          "logo_position": "top-right"
+        },
+        "internal.cargo": {
+          "label": "Cargo Area",
+          "category": "internal",
+          "legend_layout": "standard",
+          "coord_space": "relative_image",
+          "locations": {},
+          "logo_position": "top-right"
+        },
+        "internal.rear_seat": {
+          "label": "Rear Seat",
+          "category": "internal",
+          "legend_layout": "standard",
+          "coord_space": "relative_image",
+          "locations": {},
+          "logo_position": "top-right"
         }
       },
       "view_order": [
         "front",
         "side",
         "top",
-        "rear"
+        "rear",
+        "internal.console",
+        "internal.cargo",
+        "internal.rear_seat"
+      ]
+    },
+    "TERRAIN": {
+      "make": "GMC",
+      "model": "Terrain",
+      "aliases": [
+        "Terrain",
+        "GMC Terrain"
+      ],
+      "placeholder": true,
+      "fixtures": {},
+      "views": {
+        "front": {
+          "label": "Front",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {},
+          "side_roles": {
+            "negative_x": "passenger",
+            "positive_x": "driver"
+          }
+        },
+        "side": {
+          "label": "Side",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "locations": {},
+          "default_slot_role": "driver"
+        },
+        "top": {
+          "label": "Top",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "rear": {
+          "label": "Rear",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {},
+          "side_roles": {
+            "negative_x": "driver",
+            "positive_x": "passenger"
+          }
+        },
+        "internal.console": {
+          "label": "Console",
+          "category": "internal",
+          "legend_layout": "standard",
+          "coord_space": "relative_image",
+          "locations": {},
+          "logo_position": "top-right"
+        },
+        "internal.cargo": {
+          "label": "Cargo Area",
+          "category": "internal",
+          "legend_layout": "standard",
+          "coord_space": "relative_image",
+          "locations": {},
+          "logo_position": "top-right"
+        },
+        "internal.rear_seat": {
+          "label": "Rear Seat",
+          "category": "internal",
+          "legend_layout": "standard",
+          "coord_space": "relative_image",
+          "locations": {},
+          "logo_position": "top-right"
+        }
+      },
+      "view_order": [
+        "front",
+        "side",
+        "top",
+        "rear",
+        "internal.console",
+        "internal.cargo",
+        "internal.rear_seat"
+      ]
+    },
+    "SILVERADO 1500": {
+      "make": "Chevy",
+      "model": "Silverado 1500",
+      "aliases": [
+        "Silverado 1500",
+        "Chevy Silverado 1500"
+      ],
+      "placeholder": true,
+      "fixtures": {},
+      "views": {
+        "front": {
+          "label": "Front",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {},
+          "side_roles": {
+            "negative_x": "passenger",
+            "positive_x": "driver"
+          }
+        },
+        "side": {
+          "label": "Side",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "locations": {},
+          "default_slot_role": "driver"
+        },
+        "top": {
+          "label": "Top",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "rear": {
+          "label": "Rear",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {},
+          "side_roles": {
+            "negative_x": "driver",
+            "positive_x": "passenger"
+          }
+        },
+        "internal.console": {
+          "label": "Console",
+          "category": "internal",
+          "legend_layout": "standard",
+          "coord_space": "relative_image",
+          "locations": {},
+          "logo_position": "top-right"
+        },
+        "internal.cargo": {
+          "label": "Cargo Area",
+          "category": "internal",
+          "legend_layout": "standard",
+          "coord_space": "relative_image",
+          "locations": {},
+          "logo_position": "top-right"
+        },
+        "internal.rear_seat": {
+          "label": "Rear Seat",
+          "category": "internal",
+          "legend_layout": "standard",
+          "coord_space": "relative_image",
+          "locations": {},
+          "logo_position": "top-right"
+        }
+      },
+      "view_order": [
+        "front",
+        "side",
+        "top",
+        "rear",
+        "internal.console",
+        "internal.cargo",
+        "internal.rear_seat"
+      ]
+    },
+    "SIDE-BY-SIDE": {
+      "make": "Generic",
+      "model": "Side-by-Side",
+      "aliases": [
+        "Side-by-Side",
+        "Generic Side-by-Side"
+      ],
+      "placeholder": true,
+      "fixtures": {},
+      "views": {
+        "front": {
+          "label": "Front",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {},
+          "side_roles": {
+            "negative_x": "passenger",
+            "positive_x": "driver"
+          }
+        },
+        "side": {
+          "label": "Side",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "locations": {},
+          "default_slot_role": "driver"
+        },
+        "top": {
+          "label": "Top",
+          "category": "external",
+          "legend_layout": "grid",
+          "logo_position": "bottom",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "rear": {
+          "label": "Rear",
+          "category": "external",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {},
+          "side_roles": {
+            "negative_x": "driver",
+            "positive_x": "passenger"
+          }
+        },
+        "internal.console": {
+          "label": "Console",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "internal.cargo": {
+          "label": "Cargo Area",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        },
+        "internal.rear_seat": {
+          "label": "Rear Seat",
+          "category": "internal",
+          "legend_layout": "standard",
+          "logo_position": "top-right",
+          "coord_space": "relative_image",
+          "locations": {}
+        }
+      },
+      "view_order": [
+        "front",
+        "side",
+        "top",
+        "rear",
+        "internal.console",
+        "internal.cargo",
+        "internal.rear_seat"
       ]
     }
   },
