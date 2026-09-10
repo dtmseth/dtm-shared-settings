@@ -16523,12 +16523,12 @@
         "internal.rear_seat"
       ]
     },
-    "SIDE-BY-SIDE": {
-      "make": "Generic",
-      "model": "Side-by-Side",
+    "GMC 2500": {
+      "make": "GMC",
+      "model": "2500",
       "aliases": [
-        "Side-by-Side",
-        "Generic Side-by-Side"
+        "2500",
+        "GMC 2500"
       ],
       "placeholder": true,
       "fixtures": {},
