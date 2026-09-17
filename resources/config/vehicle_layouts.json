@@ -16523,12 +16523,12 @@
         "internal.rear_seat"
       ]
     },
-    "F-250": {
-      "make": "Ford",
-      "model": "F-250",
+    "SIDE BY SIDE": {
+      "make": "ATV",
+      "model": "Side by Side",
       "aliases": [
-        "F-250",
-        "Ford F-250"
+        "Side by Side",
+        "ATV Side by Side"
       ],
       "placeholder": true,
       "fixtures": {},
