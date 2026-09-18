@@ -566,7 +566,7 @@
           "tertiary_color": "",
           "friendly_name": "SETINA PB450L6 LIGHTED PUSH BUMPER WITH WHELEN ION TRI-COLOR 6 TOTAL LIGHTS: 4 FORWARD FACING, 1 EACH SIDE 2021-2026 DODGE DURANGO",
           "qb_sales_description": "SETINA PB450L6 LIGHTED PUSH BUMPER\nWITH WHELEN ION TRI-COLOR\n6 TOTAL LIGHTS: 4 FORWARD FACING, 1 EACH SIDE\n\n2021-2026 DODGE DURANGO",
-          "qb_last_synced": "2026-09-16T14:30:14Z"
+          "qb_last_synced": "2026-09-09T22:40:38Z"
         },
         {
           "part_number": "BK1001ITU20",
@@ -2867,8 +2867,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 10-LT CHARGER",
-          "qb_sales_description": "WHELEN I-E FST WCX S/D 10-LT CHARGER",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 10 LAMP, 2018-2023 DODGE CHARGER",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW42X",
@@ -2884,8 +2884,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 12-LT RAM",
-          "qb_sales_description": "WHELEN I-E FST WCX S/D 12-LT RAM",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 12 LAMP,  2019-2024 RAM 1500 CASSIC, 2021-2024 RAM 2500-3500",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW444",
@@ -2901,8 +2901,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 4-LT DURANGO, PASSENGER SIDE UNIT ONLY",
-          "qb_sales_description": "WHELEN I-E FST WCX S/D 4-LT DURANGO, PASSENGER SIDE UNIT ONLY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 4 LAMP, PASSENGER SIDE ONLY, 2018-2025 DODGE DURANGO",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW445",
@@ -2918,15 +2918,15 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 5-LT DURANGO, PASSENGER SIDE ONLY",
-          "qb_sales_description": "WHELEN I-E FST WCX S/D 5-LT DURANGO, PASSENGER SIDE ONLY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 5 LAMP, PASSENGER SIDE ONLY, 2018-2025 DODGE DURANGO",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW448",
           "qb_item_id": "501",
           "qb_sku": "",
           "qb_unit_price": 1383.0,
-          "qb_inactive": false,
+          "qb_inactive": true,
           "vehicle_tags": [
             "DURANGO"
           ],
@@ -2936,7 +2936,7 @@
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 8-LT DURANGO",
           "qb_sales_description": "WHELEN I-E FST WCX S/D 8-LT DURANGO",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW44Z",
@@ -2952,8 +2952,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 10-LT DURANGO",
-          "qb_sales_description": "WHELEN I-E FST WCX S/D 10-LT DURANGO",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 10 LAMP, 2018-2025 DODGE DURANGO",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW44ZT",
@@ -2969,8 +2969,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX TRIO 10-LT DURANGO",
-          "qb_sales_description": "WHELEN I-E FST WCX TRIO 10-LT DURANGO",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 10 LAMP, 2018-2025 DODGE DURANGO",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW475",
@@ -2986,8 +2986,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 5-LT F-SERIES",
-          "qb_sales_description": "WHELEN I-E FST WCX S/D 5-LT F-SERIES",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 5 LAMP, PASSENGER SIDE ONLY, 2017-2026 FORD F-150, 2022-202F FORD F-150 LIGHTNING, 2017-2026 FORD F0250/F-350, 2017-2026 FORD F-450/F-550, 2018-2025 F-600",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW47Z",
@@ -3003,8 +3003,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 10-LT F-SERIES",
-          "qb_sales_description": "WHELEN I-E FST WCX S/D 10-LT F-SERIES",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 10 LAMP, 2017-2026 FORD F-150 PPV, 2022-2025 FORD F-150 LIGHTINING, 2017-2026 FORD F-250/F-350, 2017-2026 FORD F-450-F-550, 208-2025 F-600",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW48X",
@@ -3020,8 +3020,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX SD 12LT EXPEDITION",
-          "qb_sales_description": "WHELEN I-E FST WCX SD 12LT EXPEDITION",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 12 LAMP, 2018-2024 FORD EXPEDITION",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW49X",
@@ -3037,8 +3037,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 12LT SILVERADO",
-          "qb_sales_description": "WHELEN I-E FST WCX S/D 12LT SILVERADO",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 12 LAMP, 2019-2026 CHEVY SILVERADO 1500 PPV, 2023-2026 CHEVY SILVERADO 2500/3500 HD",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW505",
@@ -3054,8 +3054,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 5-LT UTILITY",
-          "qb_sales_description": "WHELEN I-E FST WCX S/D 5-LT UTILITY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 5 LAMP, PASSENGER SIDE ONLY, 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW50Z",
@@ -3071,8 +3071,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 10-LT UTILITY",
-          "qb_sales_description": "WHELEN I-E FST WCX S/D 10-LT UTILITY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 10 LAMP, 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW50ZT",
@@ -3088,8 +3088,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX TRIO 10-LT UTILITY",
-          "qb_sales_description": "WHELEN I-E FST WCX TRIO 10-LT UTILITY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX TRIO 10 LAMP, 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW54X",
@@ -3105,8 +3105,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 12-LT TAHOE",
-          "qb_sales_description": "WHELEN I-E FST WCX S/D 12-LT TAHOE",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 12 LAMP, 2021-2026 CHEVY TAHOE PPV/SSV",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW54XT",
@@ -3122,8 +3122,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX TRIO 12-LT TAHOE",
-          "qb_sales_description": "WHELEN I-E FST WCX TRIO 12-LT TAHOE",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST TRIO WCX S/D 12 LAMP, 2021-2026 CHEVY TAHOE PPV/SSV",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW56X",
@@ -3139,8 +3139,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 12-LT TESLA Y",
-          "qb_sales_description": "WHELEN I-E FST WCX S/D 12-LT TESLA Y",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 12 LAMP, 2021-2022 TESLA MODEL Y",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW57Z",
@@ -3156,8 +3156,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E FST WCX S/D 10-LT MACH-E",
-          "qb_sales_description": "WHELEN I-E FST WCX S/D 10-LT MACH-E",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 10 LAMP, 2021-2025 FORD MACH-E",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSFW59Z",
@@ -3173,8 +3173,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN INNER EDGE FST CHEVY BLAZER EV PPZ, 2024 10 LAMP",
-          "qb_sales_description": "WHELEN INNER EDGE FST CHEVY BLAZER EV PPZ, 2024 10 LAMP",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE FST WCX S/D 10 LAMP, 2024-2025 CHEVY BLAZER EV PPV",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         }
       ],
       "accessories": [
@@ -5025,8 +5025,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E RST WCX 10-LT S/D DURANGO",
-          "qb_sales_description": "WHELEN I-E RST WCX 10-LT S/D DURANGO",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE RST WCX S/D 10 LAMP, 2016-2025 DODGE DURANGO",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BS44ZT",
@@ -5042,8 +5042,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E RST WCX 10-LT TRIO DURANGO",
-          "qb_sales_description": "WHELEN I-E RST WCX 10-LT TRIO DURANGO",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE RST WCX TRIO 10 LAMP,  2016-2025 DODGE DURANGO",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BS48Z",
@@ -5059,8 +5059,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E RST WCX 10LT S/D EXPEDITION",
-          "qb_sales_description": "WHELEN I-E RST WCX 10LT S/D EXPEDITION",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE RST WCX S/D 10 LAMP, 2018-2024 FORD EXPEDITION",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BS50Z",
@@ -5076,8 +5076,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E RST WCX 10-LT S/D UTILITY",
-          "qb_sales_description": "WHELEN I-E RST WCX 10-LT S/D UTILITY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE RST WCX S/D 10 LAMP, 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BS50ZT",
@@ -5093,8 +5093,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E RST WCX 10-LT TRIO UTILITY",
-          "qb_sales_description": "WHELEN I-E RST WCX 10-LT TRIO UTILITY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE RST WCX TRIO 10 LAMP, 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BS54Z",
@@ -5110,8 +5110,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E RST WCX 10-LT S/D 21 TAHOE",
-          "qb_sales_description": "WHELEN I-E RST WCX 10-LT S/D 21 TAHOE",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE RST WCX S/D 10 LAMP, 2021-2026 CHEVY TAHOE",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BS54ZT",
@@ -5127,8 +5127,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E RST WCX 10-LT TRIO TAHOE",
-          "qb_sales_description": "WHELEN I-E RST WCX 10-LT TRIO TAHOE",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE RST WCX TRIO 10 LAMP, 2021-2026 CHEVY TAHOE",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BS578",
@@ -5144,8 +5144,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN I-E RST WCX 8-LT S/D 22 MACH-E",
-          "qb_sales_description": "WHELEN I-E RST WCX 8-LT S/D 22 MACH-E",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE RST WCX S/D 8 LAMP, 2021-2025 FORD MACH-E",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSRW10",
@@ -5161,8 +5161,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN INNER EDGE RST WCX 10-LT TRAY",
-          "qb_sales_description": "WHELEN INNER EDGE RST WCX 10-LT TRAY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE RST WCX S/D 10 LAMP, ADD ISR MOUNTING KIT",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "BSRW12",
@@ -5178,8 +5178,8 @@
           "lens_type": "",
           "tertiary_color": "",
           "friendly_name": "WHELEN INNER EDGE RST WCX 12-LT TRAY",
-          "qb_sales_description": "WHELEN INNER EDGE RST WCX 12-LT TRAY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN INNER EDGE RST WCX S/D 10 LAMP, ADD ISR MOUNTING KIT",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         }
       ],
       "accessories": [
@@ -13383,7 +13383,7 @@
           "part_number": "MKJA101",
           "qb_item_id": "1537",
           "qb_sku": "",
-          "qb_unit_price": 71.3,
+          "qb_unit_price": 0.0,
           "qb_inactive": false,
           "vehicle_tags": [
             "any"
@@ -13393,8 +13393,8 @@
           "tertiary_color": "",
           "lens_type": "",
           "friendly_name": "Adjustable mount kit #101",
-          "qb_sales_description": "WHELEN ADJ LIGHTBAR MOUNT KIT #101",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "qb_sales_description": "WHELEN ADJUSTABLE STRAP KIT, 2021-2025 TAHOE PPV/SSV, 2020-2025 SILVERADO 1500 PPV/SSV",
+          "qb_last_synced": "2026-09-18T14:54:52Z"
         },
         {
           "part_number": "STPKT85",
@@ -15858,13 +15858,13 @@
           "qb_sku": "",
           "qb_unit_price": 21.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 21,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON OEM FILLER PANEL (USD/MP3/SD CARD JACK AND 12VDC POWER PORT)"
+          "qb_sales_description": "GAMBER JOHNSON 2\" OEM FILLER PANEL (USD/MP3/SD CARD JACK AND 12VDC POWER PORT)"
         }
       ],
       "reviewed": false
@@ -15886,13 +15886,13 @@
           "qb_sku": "",
           "qb_unit_price": 76.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 76,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON POCKET, 4.5\" X 2\" DEEP KNOCKOUT"
+          "qb_sales_description": "GAMBER JOHNSON POCKET, 4.5\" X 2\" DEEP with KNOCKOUT"
         }
       ],
       "reviewed": false
@@ -16001,13 +16001,13 @@
           "qb_sku": "",
           "qb_unit_price": 66.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 66,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON ACE K9 HOT'N POP FACEPLATE"
+          "qb_sales_description": "GAMBER JOHNSON 4\"  ACE K9 HOT'N POP FACEPLATE"
         }
       ],
       "reviewed": false
@@ -17774,13 +17774,13 @@
           "qb_sku": "",
           "qb_unit_price": 139.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 139,
           "vehicle_tags": [
             "TAHOE"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2015+ TAHOE WINGS"
+          "qb_sales_description": "GAMBER JOHNSON 2015-2020 TAHOE WINGS"
         }
       ],
       "reviewed": false
@@ -17886,13 +17886,13 @@
           "qb_sku": "",
           "qb_unit_price": 145.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 145,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 29\" LONG BASE PLATE"
+          "qb_sales_description": "GAMBER JOHNSON 29\" LONG BASE PLATE (WIDE)"
         }
       ],
       "reviewed": false
@@ -18052,15 +18052,15 @@
           "friendly_name": "GAMBER JOHNSON FULL SIZE FACEPLATE FOR MOTOROLA XTL 2500/5000",
           "qb_item_id": "40",
           "qb_sku": "",
-          "qb_unit_price": 28.8,
+          "qb_unit_price": 48.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 28.8,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON FULL SIZE FACEPLATE FOR MOTOROLA XTL 2500/5000"
+          "qb_sales_description": "GAMBER JOHNSON 3\" FULL SIZE FACEPLATE FOR MOTOROLA XTL 2500/5000"
         }
       ],
       "reviewed": false
@@ -18082,13 +18082,13 @@
           "qb_sku": "",
           "qb_unit_price": 70.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 70,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON SHORT INTERIOR POCKET"
+          "qb_sales_description": "GAMBER JOHNSON 3\" SHORT INTERIOR POCKET"
         }
       ],
       "reviewed": false
@@ -18110,13 +18110,13 @@
           "qb_sku": "",
           "qb_unit_price": 48.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 48,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON FULL SIZE FACEPLATE FOR FEDERAL SIGNAL SMART SIREN"
+          "qb_sales_description": "GAMBER JOHNSON 4.3\" FULL SIZE FACEPLATE FOR FEDERAL SIGNAL SMART SIREN"
         }
       ],
       "reviewed": false
@@ -18136,15 +18136,15 @@
           "friendly_name": "GAMBER JOHNSON FULL SIZE FACEPLATE FOR WHELEN CENCOM/CARBIDE",
           "qb_item_id": "120",
           "qb_sku": "",
-          "qb_unit_price": 21.6,
+          "qb_unit_price": 36.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 21.6,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON FULL SIZE FACEPLATE FOR WHELEN CENCOM/CARBIDE"
+          "qb_sales_description": "GAMBER JOHNSON 4.3\" FULL SIZE FACEPLATE FOR WHELEN CENCOM/CARBIDE"
         }
       ],
       "reviewed": false
@@ -18166,13 +18166,13 @@
           "qb_sku": "",
           "qb_unit_price": 215.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 215,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON CANON AND HP PRINTER MOUNT"
+          "qb_sales_description": "GAMBER JOHNSON 3.75\" CANON AND HP PRINTER MOUNT"
         }
       ],
       "reviewed": false
@@ -18308,13 +18308,13 @@
           "qb_sku": "",
           "qb_unit_price": 81.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 81,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 6 INCH SHORT INTERIOR POCKET"
+          "qb_sales_description": "GAMBER JOHNSON 6\" SHORT INTERIOR POCKET"
         }
       ],
       "reviewed": false
@@ -18366,13 +18366,13 @@
           "qb_sku": "",
           "qb_unit_price": 94.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 94,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON INTERNAL CUP HOLDER"
+          "qb_sales_description": "GAMBER JOHNSON 4.5\" INTERNAL CUP HOLDER"
         }
       ],
       "reviewed": false
@@ -18450,13 +18450,13 @@
           "qb_sku": "",
           "qb_unit_price": 729.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 729,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON UNIVERSAL STORAGE BOX FOR ELECTRICAL EQUIPMENT"
+          "qb_sales_description": "GAMBER JOHNSON UNIVERSAL STORAGE BOX FOR ELECTRICAL EQUIPMENT IN SUVS 18\" H X 38\" W X 6\" D"
         }
       ],
       "reviewed": false
@@ -18674,13 +18674,13 @@
           "qb_sku": "",
           "qb_unit_price": 30.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 30,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON WHELEN ARGES SPOTLIGHT FACEPLATE"
+          "qb_sales_description": "GAMBER JOHNSON 4\" WHELEN ARGES SPOTLIGHT FACEPLATE"
         }
       ],
       "reviewed": false
@@ -18702,14 +18702,14 @@
           "qb_sku": "",
           "qb_unit_price": 1138.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 1138,
           "vehicle_tags": [
             "F-150",
             "SUPER-DUTY"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2021+ FORD F-150 & 2023+ FORD F-250/550 WIDE BODY CONSOLE BOX"
+          "qb_sales_description": "GAMBER JOHNSON 2021-2026 FORD F-150 & 2023-2026 FORD F-250-550 WIDE BODY CONSOLE BOX"
         }
       ],
       "reviewed": false
@@ -18731,13 +18731,13 @@
           "qb_sku": "",
           "qb_unit_price": 188.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 188,
           "vehicle_tags": [
             "TAHOE"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2021+ CHEVROLET TAHOE LEG KIT"
+          "qb_sales_description": "GAMBER JOHNSON 2021-2026 CHEVROLET TAHOE LEG KIT"
         }
       ],
       "reviewed": false
@@ -18787,13 +18787,13 @@
           "qb_sku": "",
           "qb_unit_price": 1010.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:14:59Z",
           "price_usd": 1010,
           "vehicle_tags": [
             "TAHOE"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2025-2026 CHEVROLET TAHOE WIDE BODY CONSOLE BOX"
+          "qb_sales_description": "GAMBER JOHNSON 2025-2026 CHEVROLET TAHOE WIDE BODY CONSOLE BOX\n(8\" FRONT, 12\" REAR)"
         }
       ],
       "reviewed": false
@@ -18813,9 +18813,9 @@
           "friendly_name": "GAMBER JOHNSON 2000-2012 FORD ESCAPE PEDESTAL SYSTEM KIT",
           "qb_item_id": "497",
           "qb_sku": "",
-          "qb_unit_price": 885.0,
+          "qb_unit_price": 904.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T15:26:53Z",
           "price_usd": 885,
           "vehicle_tags": [
             "any"
@@ -19039,15 +19039,15 @@
           "friendly_name": "GAMBER JOHNSON 2020-2026 FORD POLICE INTERCEPTOR UTILITY LOW PROFILE CONSOLE BOX WITH CUP HOLER, REAR ARMREST, AND MONGOOSE KIT",
           "qb_item_id": "506",
           "qb_sku": "",
-          "qb_unit_price": 1379.0,
+          "qb_unit_price": 1408.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T15:26:53Z",
           "price_usd": 1379,
           "vehicle_tags": [
             "PIU"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2020-2026 FORD POLICE INTERCEPTOR UTILITY LOW PROFILE CONSOLE BOX WITH CUP HOLER, REAR ARMREST, AND MONGOOSE KIT"
+          "qb_sales_description": "GAMBER JOHNSON 2020-2026 FORD POLICE INTERCEPTOR UTILITY LOW PROFILE CONSOLE BOX WITH CUP HOLER, REAR ARMREST, AND MONGOOSE KIT\n(7\" W/ OEM RELOCATION PLATE, 4.5\" REAR W/ 4.5\" CUP HOLDER)"
         }
       ],
       "reviewed": false
@@ -19076,15 +19076,15 @@
           "friendly_name": "GAMBER JOHNSON 2020-2029 FORD POLICE INTERCEPTOR UTILITY LOW-PROFILE CONSOLE KIT WITH CUP HOLDER, PRINTER ARMREST, AND 9\" LOCKING SLIDE ARM KIT",
           "qb_item_id": "188",
           "qb_sku": "",
-          "qb_unit_price": 1690.0,
+          "qb_unit_price": 1719.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T15:26:53Z",
           "price_usd": 1690,
           "vehicle_tags": [
             "PIU"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON  2020-2029 FORD POLICE INTERCEPTOR UTILITY LOW-PROFILE CONSOLE KIT WITH CUP HOLDER, PRINTER ARMREST, AND 9\" LOCKING SLIDE ARM KIT"
+          "qb_sales_description": "GAMBER JOHNSON  2020-2026 FORD POLICE INTERCEPTOR UTILITY LOW-PROFILE CONSOLE KIT WITH CUP HOLDER, PRINTER ARMREST, AND 9\" LOCKING SLIDE ARM KIT\n(7\" FRONT W/ OEM RELOCATION PLATE , 6.5\" REAR W/ 4.5\" CUP HOLDER)"
         }
       ],
       "reviewed": false
@@ -19111,9 +19111,9 @@
           "friendly_name": "GAMBER JOHNSON 2019-2025 CHEVROLET SILVERADO/GMC SIERRA 1500 CONSOLE WITH INTERNAL CUP HOLDER AND VERTICAL SURFACE MOUNT KIT",
           "qb_item_id": "1009",
           "qb_sku": "",
-          "qb_unit_price": 787.0,
+          "qb_unit_price": 798.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T15:26:53Z",
           "price_usd": 787,
           "vehicle_tags": [
             "CHEVY-1500"
@@ -19139,9 +19139,9 @@
           "friendly_name": "GAMBER JOHNSON 2020-2025 FORD POLICE INTERCEPTOR UTILITY PEDESTAL KIT WITH MONGOOSE SLIDE ARM",
           "qb_item_id": "134",
           "qb_sku": "",
-          "qb_unit_price": 1049.0,
+          "qb_unit_price": 1063.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T15:26:53Z",
           "price_usd": 1049,
           "vehicle_tags": [
             "PIU"
@@ -19177,14 +19177,14 @@
           "qb_sku": "",
           "qb_unit_price": 1869.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T14:54:52Z",
           "price_usd": 1869,
           "vehicle_tags": [
             "F-150",
             "SUPER-DUTY"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2021+ FORD F150 & 2023+ F250-550 WIDE BODY CONSOLE BOX KIT WITH MAGNETIC PHONE HOLDER, CUP HOLDER AND PRINTER ARMREST"
+          "qb_sales_description": "GAMBER JOHNSON 2021-2026 FORD F150 & 2023-2026 F250-550 WIDE BODY CONSOLE BOX KIT WITH MAGNETIC PHONE HOLDER, CUP HOLDER AND PRINTER ARMREST\n(8\" FRONT, 7.5\" REAR W/ 4.5\" CUP HOLDER)"
         }
       ],
       "reviewed": false
@@ -19214,14 +19214,14 @@
           "qb_sku": "",
           "qb_unit_price": 1478.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T14:54:52Z",
           "price_usd": 1478,
           "vehicle_tags": [
             "F-150",
             "SUPER-DUTY"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2021-2026 FORD F-150 & 2023-2026 FORD F-250/550 WIDE BODY CONSOLE BOX WITH MAGNETIC PHONE HOLDER, CUP HOLDER AND SIDE ARM REST"
+          "qb_sales_description": "GAMBER JOHNSON 2021-2026 FORD F-150 & 2023-2026 FORD F-250/550 WIDE BODY CONSOLE BOX WITH MAGNETIC PHONE HOLDER, CUP HOLDER AND SIDE ARM REST\n(8\" FRONT, 7.5\" REAR W/ 4.5\" CUP HOLDER)"
         }
       ],
       "reviewed": false
@@ -19250,13 +19250,13 @@
           "qb_sku": "",
           "qb_unit_price": 913.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T14:54:52Z",
           "price_usd": 913,
           "vehicle_tags": [
             "DURANGO"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2021-2026 DODGE DURANGO STANDARD CONSOLE BOX KIT WITH MAGNETIC PHONE HOLDER AND CUP HOLDER"
+          "qb_sales_description": "GAMBER JOHNSON 2021-2026 DODGE DURANGO STANDARD CONSOLE BOX KIT WITH MAGNETIC PHONE HOLDER AND CUP HOLDER\n\n(7.5\" FRONT, 7\" REAR W/ 4.5\" CUP HOLDER)"
         }
       ],
       "reviewed": false
@@ -19285,7 +19285,7 @@
           "qb_sku": "",
           "qb_unit_price": 946.0,
           "qb_inactive": true,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 946,
           "vehicle_tags": [
             "DURANGO"
@@ -19355,13 +19355,13 @@
           "qb_sku": "",
           "qb_unit_price": 1134.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T14:54:52Z",
           "price_usd": 1134,
           "vehicle_tags": [
             "CHEVY-1500"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON KIT - 2020-2025 CHEVROLET SILVERADO 1500/2500/3500 WIDE BODY CONSOLE BOX WITH CUP HOLDER"
+          "qb_sales_description": "GAMBER JOHNSON KIT 2019-2025 CHEVROLET SILVERADO 1500/2500/3500 WIDE BODY CONSOLE BOX WITH CUP HOLDER\n(8\" FRONT, 7.5\" REAR W/ 4.5\" CUP HOLDER)"
         }
       ],
       "reviewed": false
@@ -19418,13 +19418,13 @@
           "qb_sku": "",
           "qb_unit_price": 1180.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T14:54:52Z",
           "price_usd": 1180,
           "vehicle_tags": [
             "TAHOE"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2025-2026 CHEVROLET TAHOE STANDARD WIDTH CONSOLE KIT WITH CUP HOLDER"
+          "qb_sales_description": "GAMBER JOHNSON 2025+ CHEVROLET TAHOE STANDARD WIDTH CONSOLE KIT WITH CUP HOLDER\n(7.5\" FRONT, 8\" REAR W/ 4.5' CUP HOLDER)"
         }
       ],
       "reviewed": false
@@ -19453,13 +19453,13 @@
           "qb_sku": "",
           "qb_unit_price": 1104.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T14:54:52Z",
           "price_usd": 1104,
           "vehicle_tags": [
             "TAHOE"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2025-2026 CHEVROLET TAHOE WIDEBODY CONSOLE WITH CUP HOLDER"
+          "qb_sales_description": "GAMBER JOHNSON 2025+ CHEVROLET TAHOE WIDEBODY CONSOLE WITH CUP HOLDER\n( 8\" FRONT, 7.5\" REAR W/ 4.5\" CUP HOLDER)"
         }
       ],
       "reviewed": false
@@ -19479,9 +19479,9 @@
           "friendly_name": "GAMBER JOHNSON 2025+ CHEVROLET SILVERADO/GMC SIERRA AND CHEVROLET TAHOE PEDESTAL KIT WITH MONGOOSE\u00ae XLE 9",
           "qb_item_id": "1580",
           "qb_sku": "",
-          "qb_unit_price": 735.0,
+          "qb_unit_price": 1225.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T14:54:52Z",
           "price_usd": 735,
           "vehicle_tags": [
             "TAHOE",
@@ -29121,7 +29121,7 @@
           "qb_sku": "",
           "qb_unit_price": 367.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 321.49,
           "vehicle_tags": [
             "F-150"
@@ -29149,7 +29149,7 @@
           "qb_sku": "",
           "qb_unit_price": 249.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 218.12,
           "vehicle_tags": [
             "PIU"
@@ -29177,7 +29177,7 @@
           "qb_sku": "",
           "qb_unit_price": 249.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 218.12,
           "vehicle_tags": [
             "F-150"
@@ -29205,7 +29205,7 @@
           "qb_sku": "",
           "qb_unit_price": 367.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 321.49,
           "vehicle_tags": [
             "TAHOE"
@@ -29233,7 +29233,7 @@
           "qb_sku": "",
           "qb_unit_price": 249.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 218.12,
           "vehicle_tags": [
             "TAHOE"
@@ -29579,7 +29579,7 @@
           "qb_sku": "",
           "qb_unit_price": 327.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 278.6,
           "vehicle_tags": [
             "F-150",
@@ -29609,7 +29609,7 @@
           "qb_sku": "",
           "qb_unit_price": 397.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 338.24,
           "vehicle_tags": [
             "F-150",
@@ -29638,7 +29638,7 @@
           "qb_sku": "",
           "qb_unit_price": 387.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 329.72,
           "vehicle_tags": [
             "F-150",
@@ -29668,7 +29668,7 @@
           "qb_sku": "",
           "qb_unit_price": 327.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 278.6,
           "vehicle_tags": [
             "RAM-1500",
@@ -29781,7 +29781,7 @@
           "qb_sku": "",
           "qb_unit_price": 109.5,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 99.6,
           "vehicle_tags": [
             "any"
@@ -29796,7 +29796,7 @@
           "qb_sku": "",
           "qb_unit_price": 137.4,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 124.8,
           "vehicle_tags": [
             "any"
@@ -29811,7 +29811,7 @@
           "qb_sku": "",
           "qb_unit_price": 130.54,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 124.8,
           "vehicle_tags": [
             "any"
@@ -29826,7 +29826,7 @@
           "qb_sku": "",
           "qb_unit_price": 184.8,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 168,
           "vehicle_tags": [
             "any"
@@ -29841,7 +29841,7 @@
           "qb_sku": "",
           "qb_unit_price": 206.7,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 188.4,
           "vehicle_tags": [
             "any"
@@ -29856,7 +29856,7 @@
           "qb_sku": "",
           "qb_unit_price": 196.93,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-16T14:30:14Z",
+          "qb_last_synced": "2026-09-09T22:40:38Z",
           "price_usd": 188.4,
           "vehicle_tags": [
             "any"
