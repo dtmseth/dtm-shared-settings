@@ -18968,13 +18968,13 @@
           "qb_sku": "",
           "qb_unit_price": 645.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:56:59Z",
           "price_usd": 645,
           "vehicle_tags": [
             "PIU"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2020-2026 FORD POLICE INTERCEPTOR UTILITY LOW-PROFILE CONSOLE BOX WITH CUP HOLDER KIT"
+          "qb_sales_description": "GAMBER JOHNSON 2020-2026 FORD POLICE INTERCEPTOR UTILITY LOW-PROFILE CONSOLE BOX WITH CUP HOLDER KIT\n(7\" FRONT W/ OEM RELOCATION PLATE, 6.5\" REAR W/ 4.5\" CUP HOLDER)"
         }
       ],
       "reviewed": false
@@ -19004,13 +19004,13 @@
           "qb_sku": "",
           "qb_unit_price": 1232.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-18T16:56:59Z",
           "price_usd": 1232,
           "vehicle_tags": [
             "PIU"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2020-2026 FORD POLICE INTERCEPTOR UTILITY LOW-PROFILE CONSOLE BOX WITH CUP HOLDER AND PRINTER ARMREST KIT"
+          "qb_sales_description": "GAMBER JOHNSON 2020-2026 FORD POLICE INTERCEPTOR UTILITY LOW-PROFILE CONSOLE BOX WITH CUP HOLDER AND PRINTER ARMREST KIT\n(6.5\" FRONT, 7\" REAR W/ 2\" OEM RELOCATION PLATE)"
         }
       ],
       "reviewed": false
@@ -19041,13 +19041,13 @@
           "qb_sku": "",
           "qb_unit_price": 1408.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-18T15:26:53Z",
+          "qb_last_synced": "2026-09-18T16:56:59Z",
           "price_usd": 1379,
           "vehicle_tags": [
             "PIU"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2020-2026 FORD POLICE INTERCEPTOR UTILITY LOW PROFILE CONSOLE BOX WITH CUP HOLER, REAR ARMREST, AND MONGOOSE KIT\n(7\" W/ OEM RELOCATION PLATE, 4.5\" REAR W/ 4.5\" CUP HOLDER)"
+          "qb_sales_description": "GAMBER JOHNSON 2020-2026 FORD POLICE INTERCEPTOR UTILITY LOW PROFILE CONSOLE BOX WITH CUP HOLER, REAR ARMREST, AND MONGOOSE KIT\n(7\" FRONT W/ 2\" OEM RELOCATION PLATE, 4.5\" REAR W/ 4.5\" CUP HOLDER)"
         }
       ],
       "reviewed": false
@@ -19078,13 +19078,13 @@
           "qb_sku": "",
           "qb_unit_price": 1719.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-18T15:26:53Z",
+          "qb_last_synced": "2026-09-18T16:56:59Z",
           "price_usd": 1690,
           "vehicle_tags": [
             "PIU"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON  2020-2026 FORD POLICE INTERCEPTOR UTILITY LOW-PROFILE CONSOLE KIT WITH CUP HOLDER, PRINTER ARMREST, AND 9\" LOCKING SLIDE ARM KIT\n(7\" FRONT W/ OEM RELOCATION PLATE , 6.5\" REAR W/ 4.5\" CUP HOLDER)"
+          "qb_sales_description": "GAMBER JOHNSON  2020-2026 FORD POLICE INTERCEPTOR UTILITY LOW-PROFILE CONSOLE KIT WITH CUP HOLDER, PRINTER ARMREST, AND 9\" LOCKING SLIDE ARM KIT\n(7\" FRONT W/ 2\" OEM RELOCATION PLATE , 6.5\" REAR W/ 4.5\" CUP HOLDER)"
         }
       ],
       "reviewed": false
@@ -19111,15 +19111,15 @@
           "friendly_name": "GAMBER JOHNSON 2019-2025 CHEVROLET SILVERADO/GMC SIERRA 1500 CONSOLE WITH INTERNAL CUP HOLDER AND VERTICAL SURFACE MOUNT KIT",
           "qb_item_id": "1009",
           "qb_sku": "",
-          "qb_unit_price": 798.0,
+          "qb_unit_price": 787.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-18T15:26:53Z",
+          "qb_last_synced": "2026-09-18T16:56:59Z",
           "price_usd": 787,
           "vehicle_tags": [
             "CHEVY-1500"
           ],
           "options": {},
-          "qb_sales_description": "GAMBER JOHNSON 2019-2025 CHEVROLET SILVERADO/GMC SIERRA 1500 CONSOLE WITH INTERNAL CUP HOLDER AND VERTICAL SURFACE MOUNT KIT"
+          "qb_sales_description": "GAMBER JOHNSON 2019-2025 CHEVROLET SILVERADO/GMC SIERRA 1500 CONSOLE WITH INTERNAL CUP HOLDER AND VERTICAL SURFACE MOUNT KIT\n(7.5\" FRONT, 7\" W/ 4.5\" CUP HOLDER)"
         }
       ],
       "reviewed": false
@@ -19139,9 +19139,9 @@
           "friendly_name": "GAMBER JOHNSON 2020-2025 FORD POLICE INTERCEPTOR UTILITY PEDESTAL KIT WITH MONGOOSE SLIDE ARM",
           "qb_item_id": "134",
           "qb_sku": "",
-          "qb_unit_price": 1063.0,
+          "qb_unit_price": 1049.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-18T15:26:53Z",
+          "qb_last_synced": "2026-09-18T16:56:59Z",
           "price_usd": 1049,
           "vehicle_tags": [
             "PIU"
