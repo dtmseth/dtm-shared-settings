@@ -193,46 +193,14 @@
       "side": "equipment/Push Bumper alone_side.png"
     },
     "Push Bumper Alone": {
-      "side": "equipment/Push Bumper Alone_side.png"
+      "side": "equipment/Push Bumper alone_side.png"
     },
     "opticom": {
       "front": "equipment/opticom_front.png"
     },
     "radio_speaker": {}
   },
-  "part_number_size_rules": {
-    "3": "rd",
-    "6": "rd",
-    "ION": "sm",
-    "T-ION": "sm",
-    "SURFACE MOUNT ION": "sm",
-    "STANDARD MOUNT ION": "sm",
-    "VXE": "sq",
-    "VERTEX": "rd",
-    "M4": "md",
-    "MPOWER": "sm",
-    "M-POWER": "sm",
-    "N-FORCE": "sm",
-    "NFORCE": "sm",
-    "U-SERIES": "sm",
-    "MIRROR BEAMS": "sm",
-    "INTERSECTORS": "sm",
-    "2 LAMP TRACER": "tracer",
-    "MINI T-SERIES": "sq",
-    "T-SERIES": "sm",
-    "FIELD SERIES": "tracer",
-    "PIONEER": "lg",
-    "AM-900": "md",
-    "MEGA T-SERIES": "long",
-    "TRACER 5 LAMP": "tracer",
-    "TRACER 6 LAMP": "tracer",
-    "SA315P": "sm",
-    "SA315U": "sm",
-    "SA350MH": "sm",
-    "SP123BMC": "sm",
-    "295SLSA6": "sm",
-    "Pioneer": "sm"
-  },
+  "part_number_size_rules": {},
   "size_rule_definitions": {
     "sm": {
       "label": "Small",
@@ -393,8 +361,8 @@
       "maintain_aspect_ratio": false,
       "views": {
         "front": {
-          "w": 0.9,
-          "h": 0.2
+          "w": 1,
+          "h": 0.22
         },
         "rear": {
           "w": 0.7,
