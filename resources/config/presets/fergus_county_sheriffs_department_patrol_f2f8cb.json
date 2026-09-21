@@ -1,8 +1,8 @@
 {
   "schema_version": 4,
   "preset_id": "fergus_county_sheriffs_department_patrol_f2f8cb",
-  "label": "Fergus County Sheriffs Department Patrol PIU",
-  "description": "",
+  "label": "Fergus County Sheriff's Office Patrol PIU",
+  "description": "Marked Non-slick top",
   "vehicle_types": [
     "PIU"
   ],
@@ -625,7 +625,7 @@
       "quantity": 2,
       "lens": "",
       "notes": "",
-      "comment": "",
+      "comment": "Mount using standard ION bracket",
       "explicit_color_profile": "",
       "driver_color": "Red/White",
       "passenger_color": "Blue/White",
@@ -636,13 +636,13 @@
           "part_number": "I2D",
           "color": "Red/White",
           "quantity": 1,
-          "price": 206
+          "price": 127.72
         },
         {
           "part_number": "I2E",
           "color": "Blue/White",
           "quantity": 1,
-          "price": 206
+          "price": 127.72
         }
       ],
       "line_id": "7a12a862-4b9c-4e08-8f05-77ad91e5e4cf",
@@ -743,120 +743,6 @@
       }
     },
     {
-      "name": "Front Partition",
-      "include": true,
-      "new_or_used": "New",
-      "source": "",
-      "supply_type": "new",
-      "customer_condition": "",
-      "customer_source": "",
-      "manufacturer": "Setina",
-      "part_number": "FULL PARTITION",
-      "location": "PRISONER AREA",
-      "raw_color": "",
-      "quantity": 1,
-      "lens": "",
-      "notes": "",
-      "comment": "",
-      "explicit_color_profile": "",
-      "driver_color": "",
-      "passenger_color": "",
-      "center_color": "",
-      "placement_overrides": {},
-      "components": [
-        {
-          "part_number": "PK0419ITU20TM",
-          "color": "",
-          "quantity": 1,
-          "price": 1179
-        }
-      ],
-      "line_id": "d8571169-d582-40bd-b0b2-31491c846096",
-      "parent_line_id": "",
-      "linked_parent_line_id": "",
-      "accessory_category": "",
-      "accessory_parent_product": "",
-      "part_type": "front_partition",
-      "picker_config": {
-        "mode": "uniform",
-        "colorsPerHead": "single",
-        "uniform": [
-          "red"
-        ],
-        "splitSecondary": [],
-        "custom": [
-          [
-            "red"
-          ],
-          [
-            "red"
-          ]
-        ],
-        "_noColor": false,
-        "count": 2,
-        "lens": "",
-        "skuChoices": {},
-        "details": {}
-      }
-    },
-    {
-      "name": "Rear Window Bars",
-      "include": true,
-      "new_or_used": "New",
-      "source": "",
-      "supply_type": "new",
-      "customer_condition": "",
-      "customer_source": "",
-      "manufacturer": "Setina",
-      "part_number": "Window Barrier",
-      "location": "REAR WINDOWS",
-      "raw_color": "",
-      "quantity": 1,
-      "lens": "",
-      "notes": "",
-      "comment": "",
-      "explicit_color_profile": "",
-      "driver_color": "",
-      "passenger_color": "",
-      "center_color": "",
-      "placement_overrides": {},
-      "components": [
-        {
-          "part_number": "WK0514ITU20",
-          "color": "",
-          "quantity": 1,
-          "price": 339
-        }
-      ],
-      "line_id": "3bb5ae86-470f-4796-9763-91434756ee39",
-      "parent_line_id": "",
-      "linked_parent_line_id": "",
-      "accessory_category": "",
-      "accessory_parent_product": "",
-      "part_type": "rear_window_bars",
-      "picker_config": {
-        "mode": "uniform",
-        "colorsPerHead": "single",
-        "uniform": [
-          "red"
-        ],
-        "splitSecondary": [],
-        "custom": [
-          [
-            "red"
-          ],
-          [
-            "red"
-          ]
-        ],
-        "_noColor": false,
-        "count": 2,
-        "lens": "",
-        "skuChoices": {},
-        "details": {}
-      }
-    },
-    {
       "name": "Replacement Seat",
       "include": true,
       "new_or_used": "New",
@@ -911,248 +797,6 @@
         "lens": "",
         "skuChoices": {},
         "details": {}
-      }
-    },
-    {
-      "name": "Center Console",
-      "include": true,
-      "new_or_used": "New",
-      "source": "",
-      "supply_type": "new",
-      "customer_condition": "",
-      "customer_source": "",
-      "manufacturer": "Gamber Johnson",
-      "part_number": "7170-0734-09",
-      "location": "IN CENTER CONSOLE",
-      "raw_color": "",
-      "quantity": 1,
-      "lens": "",
-      "notes": "",
-      "comment": "",
-      "explicit_color_profile": "",
-      "driver_color": "",
-      "passenger_color": "",
-      "center_color": "",
-      "placement_overrides": {},
-      "components": [],
-      "line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
-      "parent_line_id": "",
-      "linked_parent_line_id": "",
-      "accessory_category": "",
-      "accessory_parent_product": "",
-      "part_type": "console",
-      "picker_config": {
-        "mode": "uniform",
-        "colorsPerHead": "single",
-        "uniform": [
-          "red"
-        ],
-        "splitSecondary": [],
-        "custom": [
-          [
-            "red"
-          ],
-          [
-            "red"
-          ]
-        ],
-        "_noColor": false,
-        "count": 2,
-        "lens": "",
-        "skuChoices": {},
-        "details": {},
-        "console_setup": {
-          "style": "low_profile",
-          "consoleChoice": {
-            "product_id": "gamber_johnson_7170_0734_09",
-            "model": "2020-2029 FORD POLICE INTERCEPTOR UTILITY LOW-PROFILE CONSOLE KIT WITH CUP HOLDER, PRINTER ARMREST, AND 9\" LOCKING SLIDE ARM KIT",
-            "manufacturer_label": "Gamber Johnson",
-            "part_number": "7170-0734-09",
-            "price": 1690,
-            "new_or_used": "New",
-            "supply_type": "new",
-            "customer_condition": "",
-            "customer_source": "",
-            "source": ""
-          },
-          "faceplates": [
-            {
-              "product_id": "gamber_johnson_15250",
-              "model": "OEM Relocation Plate",
-              "manufacturer_label": "Gamber Johnson",
-              "part_number": "15250",
-              "price": 12.6,
-              "supply_type": "new",
-              "customer_condition": "",
-              "customer_source": "",
-              "new_or_used": "New",
-              "source": "",
-              "auto_kind": "oem_relocation_plate",
-              "kit_included": true,
-              "required": true,
-              "no_charge_faceplate": false
-            },
-            {
-              "product_id": "gamber_johnson_7160_0321",
-              "model": "Radio Faceplate",
-              "manufacturer_label": "Gamber Johnson",
-              "part_number": "7160-0321",
-              "price": 17.28,
-              "supply_type": "new",
-              "customer_condition": "",
-              "customer_source": "",
-              "new_or_used": "New",
-              "source": "",
-              "auto_kind": "radio",
-              "kit_included": false,
-              "required": true,
-              "no_charge_faceplate": true
-            },
-            {
-              "product_id": "gamber_johnson_7160_0339",
-              "model": "Core Control Head Faceplate",
-              "manufacturer_label": "Gamber Johnson",
-              "part_number": "7160-0339",
-              "price": 12.96,
-              "supply_type": "new",
-              "customer_condition": "",
-              "customer_source": "",
-              "new_or_used": "New",
-              "source": "",
-              "auto_kind": "core",
-              "kit_included": false,
-              "required": true,
-              "no_charge_faceplate": true
-            },
-            {
-              "product_id": "gamber_johnson_7160_0846",
-              "model": "Cup Holder Faceplate",
-              "manufacturer_label": "Gamber Johnson",
-              "part_number": "7160-0846",
-              "price": 56.4,
-              "supply_type": "new",
-              "customer_condition": "",
-              "customer_source": "",
-              "new_or_used": "New",
-              "source": "",
-              "auto_kind": "cup_holder",
-              "kit_included": true,
-              "required": true,
-              "no_charge_faceplate": false
-            },
-            {
-              "product_id": "gamber_johnson_7160_0597",
-              "model": "6 INCH SHORT INTERIOR POCKET",
-              "manufacturer_label": "Gamber Johnson",
-              "part_number": "7160-0597",
-              "price": 81,
-              "new_or_used": "New",
-              "supply_type": "new",
-              "customer_condition": "",
-              "customer_source": "",
-              "source": ""
-            },
-            {
-              "product_id": "gamber_johnson_3130_0152",
-              "model": "1/2\" BLANK FILLER PANEL",
-              "manufacturer_label": "Gamber Johnson",
-              "part_number": "3130-0152",
-              "price": 11,
-              "new_or_used": "New",
-              "supply_type": "new",
-              "customer_condition": "",
-              "customer_source": "",
-              "source": ""
-            }
-          ],
-          "armRest": {
-            "product_id": "gamber_johnson_7160_0006",
-            "model": "BROTHER ARM REST PRINTER MOUNT",
-            "manufacturer_label": "Gamber Johnson",
-            "part_number": "7160-0006",
-            "price": 585,
-            "new_or_used": "New",
-            "supply_type": "new",
-            "customer_condition": "",
-            "customer_source": "",
-            "source": ""
-          },
-          "motionAttachment": {
-            "product_id": "gamber_johnson_7160_0220",
-            "model": "MONGOOSE 9\" LOCKING SLIDE ARM WITH 360 DEGREE CLEVIS",
-            "manufacturer_label": "Gamber Johnson",
-            "part_number": "7160-0220",
-            "price": 458,
-            "new_or_used": "New",
-            "supply_type": "new",
-            "customer_condition": "",
-            "customer_source": "",
-            "source": ""
-          },
-          "motionLocation": "mounted_to_console",
-          "pedestalMount": null,
-          "dockingStation": {
-            "product_id": "gamber_johnson_7160_1982_10",
-            "model": "DELL RUGED LAPTOP VEHICLE DOCKING STATION, FULL PORT, NO RF 14 RUGGED LAPTOP (5404/5414/5420/5424/5430)",
-            "manufacturer_label": "Gamber Johnson",
-            "part_number": "7160-1982-10",
-            "price": 1088,
-            "new_or_used": "Used",
-            "supply_type": "customer_supplied",
-            "customer_condition": "used",
-            "customer_source": "Agency",
-            "source": "Agency"
-          },
-          "radioMicClip": null,
-          "radioMicClipRelation": "",
-          "addMagMic": true,
-          "magMicSupply": {
-            "supply_type": "new",
-            "customer_condition": "",
-            "customer_source": "",
-            "new_or_used": "New",
-            "source": ""
-          },
-          "magMicCondition": "New",
-          "addPrinter": true,
-          "printer": {
-            "product_id": "brother_pj_822",
-            "model": "PJ-822",
-            "manufacturer_label": "Brother",
-            "part_number": "PJ-822",
-            "price": 387.59,
-            "new_or_used": "Used",
-            "supply_type": "customer_supplied",
-            "customer_condition": "used",
-            "customer_source": "Agency",
-            "source": "Agency"
-          },
-          "printerPower": {
-            "product_id": "brother_pocketjet_power_cable",
-            "model": "PocketJet Power Cable",
-            "manufacturer_label": "Brother",
-            "part_number": "14331",
-            "price": 27,
-            "new_or_used": "Used",
-            "supply_type": "customer_supplied",
-            "customer_condition": "used",
-            "customer_source": "Agency",
-            "source": "Agency"
-          },
-          "printerUsb": {
-            "product_id": "brother_pocketjet_usb_cable",
-            "model": "PocketJet USB Cable",
-            "manufacturer_label": "Brother",
-            "part_number": "14831",
-            "price": 15,
-            "new_or_used": "Used",
-            "supply_type": "customer_supplied",
-            "customer_condition": "used",
-            "customer_source": "Agency",
-            "source": "Agency"
-          },
-          "wings": null
-        }
       }
     },
     {
@@ -1251,13 +895,13 @@
       "customer_condition": "",
       "customer_source": "",
       "manufacturer": "Whelen",
-      "part_number": "CCTL7 WeCanX 21-Button/Slide Control Head",
+      "part_number": "CCTL6 WeCanX Knob/Slide Control Head",
       "location": "IN CENTER CONSOLE",
       "raw_color": "",
       "quantity": 1,
       "lens": "",
       "notes": "PA mic: Driver's door \u00b7 Magnetic mic",
-      "comment": "Add P.A. Mic in door",
+      "comment": "",
       "explicit_color_profile": "",
       "driver_color": "",
       "passenger_color": "",
@@ -1265,10 +909,10 @@
       "placement_overrides": {},
       "components": [
         {
-          "part_number": "CCTL7",
+          "part_number": "CCTL6",
           "color": "",
           "quantity": 1,
-          "price": 473
+          "price": 293.26
         },
         {
           "label": "PA Mic",
@@ -1308,36 +952,6 @@
           "handheldMagMic": null
         }
       }
-    },
-    {
-      "name": "Control Head \u00b7 Mag Mic",
-      "include": true,
-      "new_or_used": "New",
-      "source": "",
-      "supply_type": "new",
-      "customer_condition": "",
-      "customer_source": "",
-      "manufacturer": "Magnetic Mic",
-      "part_number": "MMSU-1",
-      "location": "Driver's door",
-      "raw_color": "",
-      "quantity": 1,
-      "lens": "",
-      "notes": "",
-      "comment": "",
-      "explicit_color_profile": "",
-      "driver_color": "",
-      "passenger_color": "",
-      "center_color": "",
-      "placement_overrides": {},
-      "components": [],
-      "line_id": "6f75f4e8-a4bc-446a-a98c-04a0982a694b",
-      "parent_line_id": "9753b418-c167-4c4b-9640-c4ad398cebfe",
-      "linked_parent_line_id": "",
-      "accessory_category": "magnetic_mic",
-      "accessory_parent_product": "",
-      "part_type": "radio_mic_clip",
-      "picker_config": {}
     },
     {
       "name": "Expansion Module",
@@ -1599,7 +1213,7 @@
           "part_number": "SA315P",
           "color": "",
           "quantity": 1,
-          "price": 412
+          "price": 255.44
         }
       ],
       "line_id": "b86ff97e-697b-416b-8dce-521f0def3e2e",
@@ -1618,9 +1232,6 @@
         "custom": [
           [
             "red"
-          ],
-          [
-            "red"
           ]
         ],
         "_noColor": false,
@@ -1632,6 +1243,90 @@
       }
     },
     {
+      "name": "Printer",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Brother",
+      "part_number": "PJ-822",
+      "location": "PRINTER ARMREST MOUNT",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "PJ-822",
+          "color": "",
+          "quantity": 1,
+          "price": 387.59
+        }
+      ],
+      "line_id": "f6f0592d-716d-40b2-8596-52618afa2d29",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "printer",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 1,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Control Head \u00b7 Mag Mic",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Magnetic Mic",
+      "part_number": "MMSU-1",
+      "location": "Driver's door",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "7fcc73f3-3835-4aa9-b377-28416bb46358",
+      "parent_line_id": "9753b418-c167-4c4b-9640-c4ad398cebfe",
+      "linked_parent_line_id": "",
+      "accessory_category": "magnetic_mic",
+      "accessory_parent_product": "",
+      "part_type": "radio_mic_clip",
+      "picker_config": {}
+    },
+    {
       "name": "Siren Speaker 1 \u00b7 SA-315 Siren Speaker Mount Kit",
       "include": true,
       "new_or_used": "New",
@@ -1640,7 +1335,7 @@
       "customer_condition": "",
       "customer_source": "",
       "manufacturer": "Whelen",
-      "part_number": "SAK75D",
+      "part_number": "SAK75P",
       "location": "BEHIND GRILL (CENTER)",
       "raw_color": "",
       "quantity": 1,
@@ -1653,13 +1348,524 @@
       "center_color": "",
       "placement_overrides": {},
       "components": [],
-      "line_id": "bc464cb5-e898-40bb-8544-8cc23e3a92f2",
+      "line_id": "e65152d2-2c04-4a63-b326-9f1452398826",
       "parent_line_id": "b86ff97e-697b-416b-8dce-521f0def3e2e",
       "linked_parent_line_id": "",
       "accessory_category": "bracket_mount",
       "accessory_parent_product": "whelen_sa315p",
       "part_type": "",
-      "picker_config": {}
+      "picker_config": {
+        "accessory_quantity": {
+          "manual_quantity": false
+        }
+      }
+    },
+    {
+      "name": "Rear Warning 3",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Whelen",
+      "part_number": "VXE Warning Light",
+      "location": "TAIL LIGHTS",
+      "raw_color": "Red/White, Blue/White",
+      "quantity": 2,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "std_duo_rb_w",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "VXTD",
+          "color": "Red/White",
+          "quantity": 1,
+          "price": 106.02
+        },
+        {
+          "part_number": "VXTE",
+          "color": "Blue/White",
+          "quantity": 1,
+          "price": 106.02
+        }
+      ],
+      "line_id": "4b4e2a3d-86c7-49e3-b9e4-06a12f696616",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "warning_light",
+      "picker_config": {
+        "mode": "custom",
+        "colorsPerHead": "duo",
+        "uniform": [
+          "red",
+          "white"
+        ],
+        "splitSecondary": [
+          "white"
+        ],
+        "custom": [
+          [
+            "red",
+            "white"
+          ],
+          [
+            "blue",
+            "white"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {
+          "head_0": "VXTD",
+          "head_1": "VXTE"
+        },
+        "details": {}
+      }
+    },
+    {
+      "name": "Center Console",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Gamber Johnson",
+      "part_number": "7170-0734-00",
+      "location": "IN CENTER CONSOLE",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "Also include Show-Me Multi-Port Accessory Box on side of console.",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "console",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {},
+        "console_setup": {
+          "style": "low_profile",
+          "consoleChoice": {
+            "product_id": "gamber_johnson_7170_0734_00",
+            "model": "2020-2026 FORD POLICE INTERCEPTOR UTILITY LOW-PROFILE CONSOLE BOX WITH CUP HOLDER KIT",
+            "manufacturer_label": "Gamber Johnson",
+            "part_number": "7170-0734-00",
+            "price": 387,
+            "supply_type": "new",
+            "customer_condition": "",
+            "customer_source": "",
+            "new_or_used": "New",
+            "source": ""
+          },
+          "faceplates": [
+            {
+              "product_id": "gamber_johnson_15250",
+              "model": "OEM Relocation Plate",
+              "manufacturer_label": "Gamber Johnson",
+              "part_number": "15250",
+              "price": 12.6,
+              "supply_type": "new",
+              "customer_condition": "",
+              "customer_source": "",
+              "new_or_used": "New",
+              "source": "",
+              "auto_kind": "oem_relocation_plate",
+              "kit_included": true,
+              "required": true,
+              "no_charge_faceplate": false
+            },
+            {
+              "product_id": "gamber_johnson_7160_0321",
+              "model": "Radio Faceplate",
+              "manufacturer_label": "Gamber Johnson",
+              "part_number": "7160-0321",
+              "price": 28.8,
+              "supply_type": "new",
+              "customer_condition": "",
+              "customer_source": "",
+              "new_or_used": "New",
+              "source": "",
+              "auto_kind": "radio",
+              "kit_included": false,
+              "required": true,
+              "no_charge_faceplate": true
+            },
+            {
+              "product_id": "gamber_johnson_7160_0339",
+              "model": "Core Control Head Faceplate",
+              "manufacturer_label": "Gamber Johnson",
+              "part_number": "7160-0339",
+              "price": 21.6,
+              "supply_type": "new",
+              "customer_condition": "",
+              "customer_source": "",
+              "new_or_used": "New",
+              "source": "",
+              "auto_kind": "core",
+              "kit_included": false,
+              "required": true,
+              "no_charge_faceplate": true
+            },
+            {
+              "product_id": "gamber_johnson_7160_0846",
+              "model": "Cup Holder Faceplate",
+              "manufacturer_label": "Gamber Johnson",
+              "part_number": "7160-0846",
+              "price": 56.4,
+              "supply_type": "new",
+              "customer_condition": "",
+              "customer_source": "",
+              "new_or_used": "New",
+              "source": "",
+              "auto_kind": "cup_holder",
+              "kit_included": true,
+              "required": true,
+              "no_charge_faceplate": false
+            },
+            {
+              "product_id": "gamber_johnson_7160_0597",
+              "model": "6 INCH SHORT INTERIOR POCKET",
+              "manufacturer_label": "Gamber Johnson",
+              "part_number": "7160-0597",
+              "price": 48.6,
+              "supply_type": "new",
+              "customer_condition": "",
+              "customer_source": "",
+              "new_or_used": "New",
+              "source": ""
+            }
+          ],
+          "armRest": {
+            "product_id": "gamber_johnson_7160_0430",
+            "model": "EXTERNAL PRINTER MOUNT ARMREST - VEHICLE SPECIFIC CONSOLE",
+            "manufacturer_label": "Gamber Johnson",
+            "part_number": "7160-0430",
+            "price": 352.2,
+            "supply_type": "new",
+            "customer_condition": "",
+            "customer_source": "",
+            "new_or_used": "New",
+            "source": ""
+          },
+          "motionAttachment": {
+            "product_id": "gamber_johnson_7160_0220",
+            "model": "MONGOOSE 9\" LOCKING SLIDE ARM WITH 360 DEGREE CLEVIS",
+            "manufacturer_label": "Gamber Johnson",
+            "part_number": "7160-0220",
+            "price": 274.8,
+            "supply_type": "new",
+            "customer_condition": "",
+            "customer_source": "",
+            "new_or_used": "New",
+            "source": ""
+          },
+          "motionLocation": "mounted_to_console",
+          "pedestalMount": null,
+          "dockingStation": null,
+          "radioMicClip": null,
+          "radioMicClipRelation": "",
+          "addMagMic": true,
+          "magMicSupply": {
+            "supply_type": "new",
+            "customer_condition": "",
+            "customer_source": "",
+            "new_or_used": "New",
+            "source": ""
+          },
+          "magMicCondition": "New",
+          "addPrinter": true,
+          "printer": {
+            "product_id": "brother_pj_822",
+            "model": "PJ-822",
+            "manufacturer_label": "Brother",
+            "part_number": "PJ-822",
+            "price": 387.59,
+            "supply_type": "new",
+            "customer_condition": "",
+            "customer_source": "",
+            "new_or_used": "New",
+            "source": ""
+          },
+          "printerPower": null,
+          "printerUsb": null,
+          "wings": null
+        }
+      }
+    },
+    {
+      "name": "Front Partition",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Setina",
+      "part_number": "FULL PARTITION",
+      "location": "PRISONER AREA",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "PK0228ITU20TM",
+          "color": "",
+          "quantity": 1,
+          "price": 935.2
+        }
+      ],
+      "line_id": "f15b0c8e-6db4-4f78-8ac1-4d31bf5cc9e9",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "front_partition",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Gunlock 1",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Setina",
+      "part_number": "SINGLE WEAPON LOCK",
+      "location": "GUN LOCK POCKET",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "GK10271UHK",
+          "color": "",
+          "quantity": 1,
+          "price": 335.2
+        }
+      ],
+      "line_id": "17b3da52-b508-4c4a-9c28-cd7e3c5e4ab5",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "gun_lock",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Equipment Tray",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "5-0 Fab (Dtm)",
+      "part_number": "EQUIPMENT TRAY USED WITH SETINA 12VS REAR PARTITION 2020+ FORD PIU",
+      "location": "ON REAR PARTITION",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "part_number": "ETS20FPIU",
+          "color": "",
+          "quantity": 1,
+          "price": 350
+        }
+      ],
+      "line_id": "358dec8f-dfad-440b-adaf-d004de679fbb",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "equipment_tray",
+      "picker_config": {
+        "mode": "uniform",
+        "colorsPerHead": "single",
+        "uniform": [
+          "red"
+        ],
+        "splitSecondary": [],
+        "custom": [
+          [
+            "red"
+          ],
+          [
+            "red"
+          ]
+        ],
+        "_noColor": false,
+        "count": 2,
+        "lens": "",
+        "skuChoices": {},
+        "details": {}
+      }
+    },
+    {
+      "name": "Printer \u00b7 PocketJet Power Cable",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Brother",
+      "part_number": "14331",
+      "location": "PRINTER ARMREST MOUNT",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "141fe62c-5456-4f47-8d33-2346a593bedf",
+      "parent_line_id": "f6f0592d-716d-40b2-8596-52618afa2d29",
+      "linked_parent_line_id": "",
+      "accessory_category": "printer_power_cable",
+      "accessory_parent_product": "brother_pj_822",
+      "part_type": "",
+      "picker_config": {
+        "accessory_quantity": {
+          "manual_quantity": false
+        }
+      }
+    },
+    {
+      "name": "Printer \u00b7 PocketJet USB Cable",
+      "include": true,
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
+      "manufacturer": "Brother",
+      "part_number": "14831",
+      "location": "PRINTER ARMREST MOUNT",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [],
+      "line_id": "7c62a34a-7e6c-47ef-bfd5-1edb68c709f0",
+      "parent_line_id": "f6f0592d-716d-40b2-8596-52618afa2d29",
+      "linked_parent_line_id": "",
+      "accessory_category": "printer_usb_cable",
+      "accessory_parent_product": "brother_pj_822",
+      "part_type": "",
+      "picker_config": {
+        "accessory_quantity": {
+          "manual_quantity": false
+        }
+      }
     },
     {
       "name": "Center Console \u00b7 Face Plate 1 \u00b7 OEM Relocation Plate",
@@ -1683,15 +1889,15 @@
       "center_color": "",
       "placement_overrides": {},
       "components": [],
-      "line_id": "64995847-db39-4e4f-980c-e8693401d29d",
-      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "line_id": "6ec6e5b0-5c31-4e4d-895f-aa5bd0ddb3c2",
+      "parent_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
       "linked_parent_line_id": "",
       "accessory_category": "console_faceplate",
       "accessory_parent_product": "",
       "part_type": "special_face_plate",
       "picker_config": {
         "console_kit_included": true,
-        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_setup_owner_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
         "console_component_key": "console_faceplate"
       }
     },
@@ -1717,8 +1923,8 @@
       "center_color": "",
       "placement_overrides": {},
       "components": [],
-      "line_id": "65520230-6a5e-4741-8210-27fb1db49da4",
-      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "line_id": "96e4a370-5cd3-4c79-b582-ced0d6e1f2cb",
+      "parent_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
       "linked_parent_line_id": "",
       "accessory_category": "console_faceplate",
       "accessory_parent_product": "",
@@ -1726,7 +1932,7 @@
       "picker_config": {
         "quote_unit_price_override": 0,
         "quote_note": "Included specialty faceplate \u2014 no charge",
-        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_setup_owner_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
         "console_component_key": "console_faceplate"
       }
     },
@@ -1752,8 +1958,8 @@
       "center_color": "",
       "placement_overrides": {},
       "components": [],
-      "line_id": "890e9d74-8959-47a4-bee8-b55c94949301",
-      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "line_id": "284243e5-bb88-4579-9d70-94d2e6f2fd5f",
+      "parent_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
       "linked_parent_line_id": "",
       "accessory_category": "console_faceplate",
       "accessory_parent_product": "",
@@ -1761,7 +1967,7 @@
       "picker_config": {
         "quote_unit_price_override": 0,
         "quote_note": "Included specialty faceplate \u2014 no charge",
-        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_setup_owner_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
         "console_component_key": "console_faceplate"
       }
     },
@@ -1787,15 +1993,15 @@
       "center_color": "",
       "placement_overrides": {},
       "components": [],
-      "line_id": "53283b46-fd16-4648-8b4a-f3bf8bc726a4",
-      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "line_id": "17e17f23-5520-4ae9-97ab-40c07f57fced",
+      "parent_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
       "linked_parent_line_id": "",
       "accessory_category": "console_faceplate",
       "accessory_parent_product": "",
       "part_type": "special_face_plate",
       "picker_config": {
         "console_kit_included": true,
-        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_setup_owner_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
         "console_component_key": "console_faceplate"
       }
     },
@@ -1821,47 +2027,14 @@
       "center_color": "",
       "placement_overrides": {},
       "components": [],
-      "line_id": "f194c416-fd65-4e7b-935c-42a5d470f1a7",
-      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "line_id": "31c95eb7-872c-4110-9283-8979aff3c9da",
+      "parent_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
       "linked_parent_line_id": "",
       "accessory_category": "console_faceplate",
       "accessory_parent_product": "",
       "part_type": "special_face_plate",
       "picker_config": {
-        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
-        "console_component_key": "console_faceplate"
-      }
-    },
-    {
-      "name": "Center Console \u00b7 Face Plate 6 \u00b7 1/2\" BLANK FILLER PANEL",
-      "include": true,
-      "new_or_used": "New",
-      "source": "",
-      "supply_type": "new",
-      "customer_condition": "",
-      "customer_source": "",
-      "manufacturer": "Gamber Johnson",
-      "part_number": "3130-0152",
-      "location": "IN CENTER CONSOLE",
-      "raw_color": "",
-      "quantity": 1,
-      "lens": "",
-      "notes": "",
-      "comment": "",
-      "explicit_color_profile": "",
-      "driver_color": "",
-      "passenger_color": "",
-      "center_color": "",
-      "placement_overrides": {},
-      "components": [],
-      "line_id": "47cb179a-3083-4002-937b-78ecf29b1b8e",
-      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
-      "linked_parent_line_id": "",
-      "accessory_category": "console_faceplate",
-      "accessory_parent_product": "",
-      "part_type": "special_face_plate",
-      "picker_config": {
-        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_setup_owner_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
         "console_component_key": "console_faceplate"
       }
     },
@@ -1874,12 +2047,12 @@
       "customer_condition": "",
       "customer_source": "",
       "manufacturer": "Gamber Johnson",
-      "part_number": "7160-0006",
+      "part_number": "7160-0430",
       "location": "IN CENTER CONSOLE",
       "raw_color": "",
       "quantity": 1,
       "lens": "",
-      "notes": "Included with selected console kit \u2014 do not bill separately.",
+      "notes": "",
       "comment": "",
       "explicit_color_profile": "",
       "driver_color": "",
@@ -1887,15 +2060,14 @@
       "center_color": "",
       "placement_overrides": {},
       "components": [],
-      "line_id": "1515cd46-0fed-45e2-9e7c-c4672953c224",
-      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "line_id": "69d71a8b-846b-4bbc-984a-fbcf8945d666",
+      "parent_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
       "linked_parent_line_id": "",
       "accessory_category": "console_component",
       "accessory_parent_product": "",
       "part_type": "arm_rest",
       "picker_config": {
-        "console_kit_included": true,
-        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_setup_owner_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
         "console_component_key": "armRest"
       }
     },
@@ -1913,40 +2085,6 @@
       "raw_color": "",
       "quantity": 1,
       "lens": "",
-      "notes": "Included with selected console kit \u2014 do not bill separately.",
-      "comment": "",
-      "explicit_color_profile": "",
-      "driver_color": "",
-      "passenger_color": "",
-      "center_color": "",
-      "placement_overrides": {},
-      "components": [],
-      "line_id": "aaa2917f-5ca7-4548-95f5-c20ef4af69ec",
-      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
-      "linked_parent_line_id": "",
-      "accessory_category": "console_component",
-      "accessory_parent_product": "",
-      "part_type": "motion_attachment",
-      "picker_config": {
-        "console_kit_included": true,
-        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
-        "console_component_key": "motionAttachment"
-      }
-    },
-    {
-      "name": "Center Console \u00b7 Docking Station",
-      "include": true,
-      "new_or_used": "Used",
-      "source": "Agency",
-      "supply_type": "customer_supplied",
-      "customer_condition": "used",
-      "customer_source": "Agency",
-      "manufacturer": "Gamber Johnson",
-      "part_number": "7160-1982-10",
-      "location": "IN CENTER CONSOLE",
-      "raw_color": "",
-      "quantity": 1,
-      "lens": "",
       "notes": "",
       "comment": "",
       "explicit_color_profile": "",
@@ -1955,15 +2093,15 @@
       "center_color": "",
       "placement_overrides": {},
       "components": [],
-      "line_id": "5d52443a-68ad-4f2f-a96e-2af2ef9a7b48",
-      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "line_id": "cb0f1107-c503-40d7-b286-4d54b10e2df6",
+      "parent_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
       "linked_parent_line_id": "",
       "accessory_category": "console_component",
       "accessory_parent_product": "",
-      "part_type": "docking_station",
+      "part_type": "motion_attachment",
       "picker_config": {
-        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
-        "console_component_key": "dockingStation"
+        "console_setup_owner_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
+        "console_component_key": "motionAttachment"
       }
     },
     {
@@ -1988,25 +2126,25 @@
       "center_color": "",
       "placement_overrides": {},
       "components": [],
-      "line_id": "3f5695f1-dcd9-41a6-9e39-18932f13a6c5",
-      "parent_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+      "line_id": "a354f0ea-6188-4bd3-895e-ec1194c606bc",
+      "parent_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
       "linked_parent_line_id": "",
       "accessory_category": "console_component",
       "accessory_parent_product": "",
       "part_type": "radio_mic_clip",
       "picker_config": {
-        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_setup_owner_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
         "console_component_key": "magneticMic"
       }
     },
     {
       "name": "Printer",
       "include": true,
-      "new_or_used": "Used",
-      "source": "Agency",
-      "supply_type": "customer_supplied",
-      "customer_condition": "used",
-      "customer_source": "Agency",
+      "new_or_used": "New",
+      "source": "",
+      "supply_type": "new",
+      "customer_condition": "",
+      "customer_source": "",
       "manufacturer": "Brother",
       "part_number": "PJ-822",
       "location": "PRINTER ARMREST MOUNT",
@@ -2021,60 +2159,429 @@
       "center_color": "",
       "placement_overrides": {},
       "components": [],
-      "line_id": "f6f0592d-716d-40b2-8596-52618afa2d29",
+      "line_id": "2a523e5b-14f3-4bdf-ad1c-8fe077a9901b",
       "parent_line_id": "",
       "linked_parent_line_id": "",
       "accessory_category": "",
       "accessory_parent_product": "",
       "part_type": "printer",
       "picker_config": {
-        "console_setup_owner_line_id": "6ae64411-eaa0-4fdb-abe3-939f433f59be",
+        "console_setup_owner_line_id": "c155b25f-b8bc-4d92-ad61-4790ba003cd8",
         "console_component_key": "printer"
       }
     },
     {
-      "name": "Printer \u00b7 Power Cable",
+      "name": "Radar Display Unit",
       "include": true,
       "new_or_used": "Used",
-      "source": "Agency",
+      "source": "",
       "supply_type": "customer_supplied",
-      "customer_condition": "used",
-      "customer_source": "Agency",
-      "manufacturer": "Brother",
-      "part_number": "14331",
-      "location": "PRINTER ARMREST MOUNT",
+      "customer_condition": "new",
+      "customer_source": "",
+      "manufacturer": "Stalker",
+      "part_number": "CUSTOMER SUPPLIED KIT",
+      "location": "Integrated display unit",
       "raw_color": "",
       "quantity": 1,
       "lens": "",
-      "notes": "",
+      "notes": "Radar System \u2014 guided system details",
       "comment": "",
       "explicit_color_profile": "",
       "driver_color": "",
       "passenger_color": "",
       "center_color": "",
       "placement_overrides": {},
-      "components": [],
-      "line_id": "9719110f-1f52-41cd-a45a-ddff7da42a7b",
-      "parent_line_id": "f6f0592d-716d-40b2-8596-52618afa2d29",
+      "components": [
+        {
+          "key": "radar_display",
+          "label": "Radar display / counting unit",
+          "part_type": "radar_display_unit",
+          "location": "Integrated display unit",
+          "detail": "Integrated unit",
+          "quantity": 1,
+          "supply_type": "customer_supplied",
+          "customer_condition": "new",
+          "customer_source": "",
+          "new_or_used": "Used",
+          "source": ""
+        },
+        {
+          "key": "radar_front_antenna",
+          "label": "Front radar antenna",
+          "part_type": "front_radar_antenna_mount",
+          "location": "On dash",
+          "detail": "Short A-bracket",
+          "quantity": 1,
+          "supply_type": "customer_supplied",
+          "customer_condition": "new",
+          "customer_source": "",
+          "new_or_used": "Used",
+          "source": ""
+        },
+        {
+          "key": "radar_rear_antenna",
+          "label": "Rear radar antenna",
+          "part_type": "rear_radar_antenna_mount",
+          "location": "On D-pillar",
+          "detail": "Tall A-bracket",
+          "quantity": 1,
+          "supply_type": "customer_supplied",
+          "customer_condition": "new",
+          "customer_source": "",
+          "new_or_used": "Used",
+          "source": ""
+        }
+      ],
+      "line_id": "293d2342-9c6f-4bec-88c1-70814854f9ac",
+      "parent_line_id": "",
       "linked_parent_line_id": "",
-      "accessory_category": "printer_power_cable",
-      "accessory_parent_product": "brother_pj_822",
-      "part_type": "printer_power",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "radar_display_unit",
       "picker_config": {
-        "console_component_key": "printerPower"
+        "system_type": "radar",
+        "system_label": "Radar System",
+        "choices": {
+          "systemProduct": {
+            "product_id": "stalker_dsr_2x",
+            "manufacturer_label": "Stalker",
+            "model": "DSR 2X",
+            "part_number": "",
+            "friendly_name": ""
+          },
+          "supplyType": "customer_supplied",
+          "customerCondition": "new",
+          "customerSource": "",
+          "componentSupply": {
+            "radar_display": {
+              "supply_type": "customer_supplied",
+              "customer_condition": "new",
+              "customer_source": "",
+              "new_or_used": "Used",
+              "source": "",
+              "inherits_parent_supply": true
+            },
+            "radar_front_antenna": {
+              "supply_type": "customer_supplied",
+              "customer_condition": "new",
+              "customer_source": "",
+              "new_or_used": "Used",
+              "source": "",
+              "inherits_parent_supply": true
+            },
+            "radar_rear_antenna": {
+              "supply_type": "customer_supplied",
+              "customer_condition": "new",
+              "customer_source": "",
+              "new_or_used": "Used",
+              "source": "",
+              "inherits_parent_supply": true
+            }
+          },
+          "condition": "new",
+          "componentConditions": {
+            "radar_display": "Used",
+            "radar_front_antenna": "Used",
+            "radar_rear_antenna": "Used"
+          },
+          "provider": "customer",
+          "refresh": "",
+          "refreshCables": [],
+          "purchaseDetails": "",
+          "split": "no",
+          "frontLoc": "dash",
+          "frontBracket": "short_a_bracket",
+          "rearLoc": "d_pillar",
+          "rearBracket": "tall_a_bracket",
+          "countingLoc": ""
+        },
+        "details": [
+          {
+            "label": "Selected system",
+            "value": "Stalker \u00b7 DSR 2X",
+            "key": "systemProduct"
+          },
+          {
+            "label": "Who is supplying this radar system",
+            "value": "Customer supplied",
+            "key": "supplyType"
+          },
+          {
+            "label": "What condition is the customer-supplied system in",
+            "value": "New",
+            "key": "customerCondition"
+          },
+          {
+            "label": "Will the counting unit be split from the display unit",
+            "value": "No \u2014 integrated unit",
+            "key": "split"
+          },
+          {
+            "label": "Where will the front antenna be mounted",
+            "value": "On dash",
+            "key": "frontLoc"
+          },
+          {
+            "label": "What bracket will mount the front antenna",
+            "value": "Short A-bracket",
+            "key": "frontBracket"
+          },
+          {
+            "label": "Where will the rear antenna be mounted",
+            "value": "On D-pillar",
+            "key": "rearLoc"
+          },
+          {
+            "label": "What bracket will mount the rear antenna",
+            "value": "Tall A-bracket",
+            "key": "rearBracket"
+          },
+          {
+            "label": "What is the condition of each individual part",
+            "value": "Each component condition recorded",
+            "key": "componentConditions"
+          }
+        ],
+        "step": 7
       }
     },
     {
-      "name": "Printer \u00b7 USB Cable",
+      "name": "Radio Control Head",
       "include": true,
       "new_or_used": "Used",
-      "source": "Agency",
+      "source": "",
       "supply_type": "customer_supplied",
-      "customer_condition": "used",
-      "customer_source": "Agency",
-      "manufacturer": "Brother",
-      "part_number": "14831",
-      "location": "PRINTER ARMREST MOUNT",
+      "customer_condition": "new",
+      "customer_source": "",
+      "manufacturer": "Kenwood",
+      "part_number": "CUSTOMER SUPPLIED KIT",
+      "location": "",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "Radio Communications \u2014 guided system details",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "key": "radio_control_head",
+          "label": "Radio control head",
+          "part_type": "radio_head",
+          "location": "",
+          "detail": "Split radio layout \u2014 console position is set with the center console.",
+          "quantity": 1,
+          "supply_type": "customer_supplied",
+          "customer_condition": "new",
+          "customer_source": "",
+          "new_or_used": "Used",
+          "source": ""
+        },
+        {
+          "key": "radio_brick",
+          "label": "Radio brick",
+          "part_type": "radio_brick",
+          "location": "On equipment tray",
+          "detail": "Separate electronics module",
+          "quantity": 1,
+          "supply_type": "customer_supplied",
+          "customer_condition": "new",
+          "customer_source": "",
+          "new_or_used": "Used",
+          "source": ""
+        },
+        {
+          "key": "radio_antenna",
+          "label": "Radio antenna",
+          "part_type": "radio_antenna_top",
+          "location": "Rear left roof",
+          "detail": "Whip style",
+          "quantity": 1,
+          "supply_type": "new",
+          "customer_condition": "",
+          "customer_source": "",
+          "new_or_used": "New",
+          "source": ""
+        },
+        {
+          "key": "radio_speaker",
+          "label": "Radio speaker",
+          "part_type": "radio_speaker",
+          "location": "Top of cage \u2014 driver side",
+          "detail": "Shop mounting location",
+          "quantity": 1,
+          "supply_type": "customer_supplied",
+          "customer_condition": "new",
+          "customer_source": "",
+          "new_or_used": "Used",
+          "source": ""
+        },
+        {
+          "key": "radio_microphone",
+          "label": "Radio microphone",
+          "part_type": "radio_mic_clip",
+          "location": "Top plate of console",
+          "detail": "Magnetic Mic without bracket",
+          "quantity": 1,
+          "supply_type": "customer_supplied",
+          "customer_condition": "new",
+          "customer_source": "",
+          "new_or_used": "Used",
+          "source": ""
+        }
+      ],
+      "line_id": "b01838cf-2e22-4a95-b078-3d3963f831b4",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "radio_head",
+      "picker_config": {
+        "system_type": "radio",
+        "system_label": "Radio Communications",
+        "choices": {
+          "systemProduct": {
+            "product_id": "kenwood_radio_control_head",
+            "manufacturer_label": "Kenwood",
+            "model": "Radio Control Head",
+            "part_number": "KENWOOD RADIO",
+            "friendly_name": "Kenwood Radio Control Head"
+          },
+          "supplyType": "customer_supplied",
+          "customerCondition": "new",
+          "customerSource": "",
+          "componentSupply": {
+            "radio_control_head": {
+              "supply_type": "customer_supplied",
+              "customer_condition": "new",
+              "customer_source": "",
+              "new_or_used": "Used",
+              "source": "",
+              "inherits_parent_supply": true
+            },
+            "radio_brick": {
+              "supply_type": "customer_supplied",
+              "customer_condition": "new",
+              "customer_source": "",
+              "new_or_used": "Used",
+              "source": "",
+              "inherits_parent_supply": true
+            },
+            "radio_antenna": {
+              "supply_type": "new",
+              "customer_condition": "",
+              "customer_source": "",
+              "new_or_used": "New",
+              "source": ""
+            },
+            "radio_speaker": {
+              "supply_type": "customer_supplied",
+              "customer_condition": "new",
+              "customer_source": "",
+              "new_or_used": "Used",
+              "source": "",
+              "inherits_parent_supply": true
+            },
+            "radio_microphone": {
+              "supply_type": "customer_supplied",
+              "customer_condition": "new",
+              "customer_source": "",
+              "new_or_used": "Used",
+              "source": "",
+              "inherits_parent_supply": true
+            }
+          },
+          "condition": "new",
+          "componentConditions": {
+            "radio_control_head": "Used",
+            "radio_brick": "Used",
+            "radio_antenna": "New",
+            "radio_speaker": "Used",
+            "radio_microphone": "Used"
+          },
+          "provider": "customer",
+          "refresh": "",
+          "refreshCables": [],
+          "purchaseDetails": "",
+          "format": "split",
+          "brickLoc": "equipment_tray",
+          "antennaStyle": "whip",
+          "antennaLoc": "rear_left_roof",
+          "antennaLocPlacement": null,
+          "speakerLoc": "cage_driver",
+          "micClipRelation": "",
+          "micMount": "magnetic_no_bracket",
+          "micLoc": "top_console"
+        },
+        "details": [
+          {
+            "label": "Selected system",
+            "value": "Kenwood \u00b7 Radio Control Head \u00b7 KENWOOD RADIO",
+            "key": "systemProduct"
+          },
+          {
+            "label": "Who is supplying this radio system",
+            "value": "Customer supplied",
+            "key": "supplyType"
+          },
+          {
+            "label": "What condition is the customer-supplied system in",
+            "value": "New",
+            "key": "customerCondition"
+          },
+          {
+            "label": "Where will the radio brick go",
+            "value": "On equipment tray",
+            "key": "brickLoc"
+          },
+          {
+            "label": "What antenna style is expected",
+            "value": "Whip style",
+            "key": "antennaStyle"
+          },
+          {
+            "label": "Where will the radio antenna go",
+            "value": "Rear left roof",
+            "key": "antennaLoc"
+          },
+          {
+            "label": "Where will the radio speaker go",
+            "value": "Top of cage \u2014 driver side",
+            "key": "speakerLoc"
+          },
+          {
+            "label": "What microphone mount should the shop use",
+            "value": "Magnetic Mic without bracket",
+            "key": "micMount"
+          },
+          {
+            "label": "Where will the radio microphone mount",
+            "value": "Top plate of console",
+            "key": "micLoc"
+          },
+          {
+            "label": "What is the condition of each individual part",
+            "value": "Each component condition recorded",
+            "key": "componentConditions"
+          }
+        ],
+        "step": 8
+      }
+    },
+    {
+      "name": "Radio Control Head \u00b7 Mag Mic",
+      "include": true,
+      "new_or_used": "Used",
+      "source": "",
+      "supply_type": "customer_supplied",
+      "customer_condition": "new",
+      "customer_source": "",
+      "manufacturer": "Magnetic Mic",
+      "part_number": "MMSU-1",
+      "location": "Top plate of console",
       "raw_color": "",
       "quantity": 1,
       "lens": "",
@@ -2086,14 +2593,225 @@
       "center_color": "",
       "placement_overrides": {},
       "components": [],
-      "line_id": "9785d09d-77f1-4a94-b1cb-9880afc6127a",
-      "parent_line_id": "f6f0592d-716d-40b2-8596-52618afa2d29",
+      "line_id": "2af81d72-2de9-4a6e-bc0a-404586dd48fe",
+      "parent_line_id": "b01838cf-2e22-4a95-b078-3d3963f831b4",
       "linked_parent_line_id": "",
-      "accessory_category": "printer_usb_cable",
-      "accessory_parent_product": "brother_pj_822",
-      "part_type": "printer_usb",
+      "accessory_category": "magnetic_mic",
+      "accessory_parent_product": "",
+      "part_type": "radio_mic_clip",
+      "picker_config": {}
+    },
+    {
+      "name": "Camera DVR",
+      "include": true,
+      "new_or_used": "Used",
+      "source": "",
+      "supply_type": "customer_supplied",
+      "customer_condition": "new",
+      "customer_source": "",
+      "manufacturer": "",
+      "part_number": "10-8 Video",
+      "location": "On equipment tray",
+      "raw_color": "",
+      "quantity": 1,
+      "lens": "",
+      "notes": "10-8 Video \u2014 reference only; do not bill in QuickBooks",
+      "comment": "",
+      "explicit_color_profile": "",
+      "driver_color": "",
+      "passenger_color": "",
+      "center_color": "",
+      "placement_overrides": {},
+      "components": [
+        {
+          "key": "camera_dvr",
+          "label": "Camera DVR / recorder",
+          "part_type": "camera_dvr",
+          "location": "On equipment tray",
+          "detail": "Platform: 10-8 Video",
+          "quantity": 1,
+          "supply_type": "customer_supplied",
+          "customer_condition": "new",
+          "customer_source": "",
+          "new_or_used": "Used",
+          "source": ""
+        },
+        {
+          "key": "camera_antenna",
+          "label": "Camera antenna",
+          "part_type": "camera_antenna",
+          "location": "Rear Right Roof (if there is an antenna)",
+          "detail": "Unknown.",
+          "quantity": 1,
+          "picker_config": {
+            "custom_location": {
+              "label": "Rear Right Roof (if there is an antenna)"
+            }
+          },
+          "supply_type": "customer_supplied",
+          "customer_condition": "new",
+          "customer_source": "",
+          "new_or_used": "Used",
+          "source": ""
+        },
+        {
+          "key": "camera_front",
+          "label": "Front-facing camera",
+          "part_type": "front_camera",
+          "location": "Upper windshield",
+          "detail": "Fixed location",
+          "quantity": 1,
+          "supply_type": "customer_supplied",
+          "customer_condition": "new",
+          "customer_source": "",
+          "new_or_used": "Used",
+          "source": ""
+        },
+        {
+          "key": "camera_rear_seat",
+          "label": "Prisoner / rear-seat camera",
+          "part_type": "rear_seat_camera",
+          "location": "On upper cage bar",
+          "detail": "Selected camera component",
+          "quantity": 1,
+          "supply_type": "customer_supplied",
+          "customer_condition": "new",
+          "customer_source": "",
+          "new_or_used": "Used",
+          "source": ""
+        }
+      ],
+      "line_id": "80a778a6-01cb-4c17-b7ee-ff3e895861ec",
+      "parent_line_id": "",
+      "linked_parent_line_id": "",
+      "accessory_category": "",
+      "accessory_parent_product": "",
+      "part_type": "camera_dvr",
       "picker_config": {
-        "console_component_key": "printerUsb"
+        "system_type": "camera",
+        "system_label": "Camera System",
+        "reference_only": true,
+        "choices": {
+          "systemProduct": {
+            "product_id": "custom_camera",
+            "manufacturer_label": "",
+            "model": "10-8 Video",
+            "part_number": "",
+            "friendly_name": "10-8 Video",
+            "reference_only": true
+          },
+          "supplyType": "customer_supplied",
+          "customerCondition": "new",
+          "customerSource": "",
+          "componentSupply": {
+            "camera_dvr": {
+              "supply_type": "customer_supplied",
+              "customer_condition": "new",
+              "customer_source": "",
+              "new_or_used": "Used",
+              "source": "",
+              "inherits_parent_supply": true
+            },
+            "camera_antenna": {
+              "supply_type": "customer_supplied",
+              "customer_condition": "new",
+              "customer_source": "",
+              "new_or_used": "Used",
+              "source": "",
+              "inherits_parent_supply": true
+            },
+            "camera_front": {
+              "supply_type": "customer_supplied",
+              "customer_condition": "new",
+              "customer_source": "",
+              "new_or_used": "Used",
+              "source": "",
+              "inherits_parent_supply": true
+            },
+            "camera_rear_seat": {
+              "supply_type": "customer_supplied",
+              "customer_condition": "new",
+              "customer_source": "",
+              "new_or_used": "Used",
+              "source": "",
+              "inherits_parent_supply": true
+            }
+          },
+          "condition": "new",
+          "componentConditions": {
+            "camera_dvr": "Used",
+            "camera_antenna": "Used",
+            "camera_front": "Used",
+            "camera_rear_seat": "Used"
+          },
+          "provider": "customer",
+          "refresh": "",
+          "refreshCables": [],
+          "purchaseDetails": "",
+          "cameraBrand": "custom_camera",
+          "dvrLoc": "equipment_tray",
+          "referenceOnly": true,
+          "cameraAntennaStyle": "custom",
+          "cameraAntennaStyleCustom": "Unknown.",
+          "cameraAntennaLoc": "__custom__",
+          "cameraAntennaLocPlacement": null,
+          "cameraParts": [
+            "front",
+            "rear_seat"
+          ],
+          "rearSeatLoc": "upper_cage_bar",
+          "bodyDockLoc": "",
+          "wirelessMicLoc": "",
+          "cameraAntennaLocCustom": "Rear Right Roof (if there is an antenna)"
+        },
+        "details": [
+          {
+            "label": "Selected system",
+            "value": "10-8 Video",
+            "key": "systemProduct"
+          },
+          {
+            "label": "What condition is this reference-only camera system in",
+            "value": "New",
+            "key": "customerCondition"
+          },
+          {
+            "label": "What camera antenna style will be installed",
+            "value": "Custom",
+            "key": "cameraAntennaStyle"
+          },
+          {
+            "label": "Describe the custom camera antenna",
+            "value": "Unknown.",
+            "key": "cameraAntennaStyleCustom"
+          },
+          {
+            "label": "Where will the camera antenna go",
+            "value": "Rear Right Roof (if there is an antenna)",
+            "key": "cameraAntennaLoc"
+          },
+          {
+            "label": "Where will the camera DVR / recorder go",
+            "value": "On equipment tray",
+            "key": "dvrLoc"
+          },
+          {
+            "label": "Which camera components are included",
+            "value": "Front-facing camera, Prisoner / rear-seat camera",
+            "key": "cameraParts"
+          },
+          {
+            "label": "Where will the prisoner / rear-seat camera go",
+            "value": "On upper cage bar",
+            "key": "rearSeatLoc"
+          },
+          {
+            "label": "What is the condition of each individual part",
+            "value": "Each component condition recorded",
+            "key": "componentConditions"
+          }
+        ],
+        "step": 7
       }
     }
   ],
@@ -2108,7 +2826,31 @@
     },
     "b86ff97e-697b-416b-8dce-521f0def3e2e:front": {
       "anchor_dx": -0.003812,
-      "anchor_dy": 0.008004
+      "anchor_dy": 0.008004,
+      "callout_dx": 0.188146,
+      "callout_dy": -0.128119
+    },
+    "06fdc5ca-b860-493c-90f9-cee6e3f789f5:top": {
+      "visible": true,
+      "rotation": -6,
+      "flip_h": false,
+      "flip_v": false,
+      "anchor_dx": 0,
+      "anchor_dy": 0,
+      "layer": 0,
+      "size_w": 0.24,
+      "size_h": 0.06
+    },
+    "27f425e7-2479-49d5-9e66-5aafc8575a6f:top": {
+      "visible": true,
+      "rotation": 0,
+      "flip_h": false,
+      "flip_v": false,
+      "anchor_dx": 0,
+      "anchor_dy": 0,
+      "layer": 0,
+      "size_w": 0.52,
+      "size_h": 2.24
     }
   }
 }
