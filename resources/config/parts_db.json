@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-09-24T20:28:41.261295+00:00",
+    "last_updated": "2026-09-24T20:30:26.022629+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -6755,7 +6755,7 @@
     },
     "setina_poly": {
       "manufacturer_id": "setina",
-      "model": "Polycarbonate Window Barrier",
+      "model": "Poly Window Barrier",
       "fits_part_types": [
         "rear_window_bars"
       ],
@@ -7062,40 +7062,6 @@
           "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED 2015-2026 FORD TRUCK F150",
           "qb_sales_description": "SETINA WINDOW BARRIER\nPOLYCARBONATE TINTED\n\n2015-2026 FORD TRUCK F150",
           "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "WK1491ITU20T",
-          "qb_item_id": "528",
-          "qb_sku": "",
-          "qb_unit_price": 419,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA WINDOW BARRIER VS POLYCARBONATE TINTED 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_sales_description": "SETINA WINDOW BARRIER VS\nPOLYCARBONATE TINTED\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "WK1491TAH21T",
-          "qb_item_id": "861",
-          "qb_sku": "",
-          "qb_unit_price": 419,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE",
-          "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE TINTED\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n-ALUMINUM DOOR PANELS\n\n2021-2026 CHEVROLET TAHOE",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ],
       "reviewed": true
@@ -7161,7 +7127,7 @@
     },
     "setina_poly_window": {
       "manufacturer_id": "setina",
-      "model": "POLY WINDOW",
+      "model": "REAR PARTITION W/ POLY WINDOW",
       "fits_part_types": [
         "rear_partition"
       ],
@@ -31957,7 +31923,7 @@
     },
     "setina_poly_window_barrier": {
       "manufacturer_id": "setina",
-      "model": "POLY WINDOW BARRIER",
+      "model": "POLY WINDOW BARRIER - TINTED",
       "description": "",
       "fits_part_types": [],
       "tag_ids": [],
@@ -31977,6 +31943,40 @@
           "tertiary_color": "",
           "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS 2011-2026 DODGE DURANGO",
           "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE TINTED\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n\n2011-2026 DODGE DURANGO",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK1491TAH21T",
+          "qb_item_id": "861",
+          "qb_sku": "",
+          "qb_unit_price": 419,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE",
+          "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE TINTED\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n-ALUMINUM DOOR PANELS\n\n2021-2026 CHEVROLET TAHOE",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK1491ITU20T",
+          "qb_item_id": "528",
+          "qb_sku": "",
+          "qb_unit_price": 419,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER VS POLYCARBONATE TINTED 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_sales_description": "SETINA WINDOW BARRIER VS\nPOLYCARBONATE TINTED\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ]
