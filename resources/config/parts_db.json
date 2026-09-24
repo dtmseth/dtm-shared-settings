@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-09-24T19:16:25.833922+00:00",
+    "last_updated": "2026-08-25T18:46:04.641407+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -6738,6 +6738,21 @@
         }
       ]
     },
+    "setina_passenger_side_xl_partition": {
+      "manufacturer_id": "setina",
+      "model": "PASSENGER SIDE XL PARTITION",
+      "fits_part_types": [
+        "front_partition"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PASSENGER SIDE XL PARTITION"
+        }
+      ]
+    },
     "setina_poly": {
       "manufacturer_id": "setina",
       "model": "Polycarbonate Window Barrier",
@@ -6748,6 +6763,23 @@
       "description": "",
       "images": {},
       "part_numbers": [
+        {
+          "part_number": "WK0594CGR11",
+          "qb_item_id": "593",
+          "qb_sku": "",
+          "qb_unit_price": 309.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "CHARGER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE 2011-2023 DODGE CHARGER",
+          "qb_sales_description": "SETINA WINDOW BARRIER\nPOLYCARBONATE \n\n2011-2023 DODGE CHARGER",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
         {
           "part_number": "WK0595DUR11",
           "qb_item_id": "376",
@@ -7149,23 +7181,6 @@
           "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE TINTED\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n-ALUMINUM DOOR PANELS\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "WK0594CGR11",
-          "qb_item_id": "593",
-          "qb_sku": "",
-          "qb_unit_price": 309.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "CHARGER"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE 2011-2023 DODGE CHARGER",
-          "qb_sales_description": "SETINA WINDOW BARRIER\nPOLYCARBONATE \n\n2011-2023 DODGE CHARGER",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ],
       "reviewed": true
@@ -7306,18 +7321,6 @@
           "friendly_name": "SETINA CARGO AREA REAR PARTITION FOR 2ND ROW SEAT #12VS STATIONARY WINDOW COATED POLYCARBONATE PARTITION 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA CARGO AREA REAR PARTITION\nFOR 2ND ROW SEAT\n#12VS STATIONARY WINDOW\nCOATED POLYCARBONATE PARTITION\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "PK0316ITU252ND",
-          "friendly_name": "SETINA Cargo Area Rear Partition\n#12VS Stationary Window\nCoated Polycarbonate\n*FOR USE WITH:\n   -2nd Row Seat\n\n2025-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_item_id": "1661",
-          "qb_sku": "",
-          "qb_sales_description": "SETINA Cargo Area Rear Partition\n#12VS Stationary Window\nCoated Polycarbonate\n*FOR USE WITH:\n   -2nd Row Seat\n\n2025-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_unit_price": 709.0,
-          "qb_last_synced": "2026-09-24T18:51:29.430406+00:00",
-          "vehicle_tags": [
-            "PIU"
-          ]
         }
       ]
     },
@@ -7496,23 +7499,6 @@
           "friendly_name": "SETINA CARGO DECK W/ DRAWER SUPER MAX *NOT COMPATIBLE WITH: SPT PARTITION *INCLUDES REQUIRED: -DUAL POLY WALL FOR RECESSED PANEL OR XL FRONT PARTITION -LOWER CARGO DECK W/ RUBBER MAT -STORAGE BOX -DOOR PANEL 1PC DRIVER SIDE ONLY *INCLUDES OPTIONAL ACCESSORIES: -UPPER CARGO DECK -TPO SINGLE REPLACEMENT SEAT W/ CENTER PULL SEAT BELT -DOOR PANEL ALUMINUM 1PC PASSENGER SIDE ONLY -WINDOW BARRIER 2PC SET HORIZONTAL BARS *DOES NOT INCLUDE REQUIRED: -RECESSED PANEL OR XL FRONT PARTITION -#12VS REAR PARTITION 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA CARGO DECK W/ DRAWER SUPER MAX\n*NOT COMPATIBLE WITH: SPT PARTITION\n*INCLUDES REQUIRED:\n   -DUAL POLY WALL FOR RECESSED PANEL OR XL FRONT PARTITION\n   -LOWER CARGO DECK W/ RUBBER MAT\n   -STORAGE BOX\n   -DOOR PANEL 1PC DRIVER SIDE ONLY\n*INCLUDES OPTIONAL ACCESSORIES:\n   -UPPER CARGO DECK\n   -TPO SINGLE REPLACEMENT SEAT W/ CENTER PULL SEAT BELT\n   -DOOR PANEL ALUMINUM 1PC PASSENGER SIDE ONLY\n   -WINDOW BARRIER 2PC SET HORIZONTAL BARS\n*DOES NOT INCLUDE REQUIRED:\n   -RECESSED PANEL OR XL FRONT PARTITION\n   -#12VS REAR PARTITION\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "TK0661BLE24",
-          "qb_item_id": "1273",
-          "qb_sku": "",
-          "qb_unit_price": 449.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "BLAZER"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA CARGO REAR DECK 2024-2026 CHEVROLET BLAZER EV",
-          "qb_sales_description": "SETINA CARGO REAR DECK\n\n2024-2026 CHEVROLET BLAZER EV",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ]
     },
@@ -7673,14 +7659,32 @@
     },
     "setina_board": {
       "manufacturer_id": "setina",
-      "model": "Equipment Drawer",
+      "model": "BOARD",
       "fits_part_types": [
         "equipment_tray"
       ],
       "tag_ids": [],
       "description": "",
       "images": {},
-      "part_numbers": []
+      "part_numbers": [
+        {
+          "part_number": "TK0661BLE24",
+          "qb_item_id": "1273",
+          "qb_sku": "",
+          "qb_unit_price": 449.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "BLAZER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO REAR DECK 2024-2026 CHEVROLET BLAZER EV",
+          "qb_sales_description": "SETINA CARGO REAR DECK\n\n2024-2026 CHEVROLET BLAZER EV",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        }
+      ]
     },
     "pro_gard_single_handcuff": {
       "manufacturer_id": "pro_gard",
@@ -8609,7 +8613,7 @@
     },
     "setina_full_cover_seat": {
       "manufacturer_id": "setina",
-      "model": "FULL COVER SEAT w/ Rear Partition",
+      "model": "FULL COVER SEAT",
       "fits_part_types": [
         "replacement_rear_seat"
       ],
@@ -8718,8 +8722,7 @@
           "vehicle_tags": [
             "TAHOE",
             "DURANGO",
-            "F-150",
-            "PIU"
+            "F-150"
           ],
           "color": "",
           "secondary_color": "",
@@ -8727,7 +8730,7 @@
           "tertiary_color": "",
           "friendly_name": "SETINA CENTER PULL SEAT BELT RETRACTOR 11-24 DURANGO/20-25 UTILITY/21-25 TAHOE/15-25 FORD TRUCK F150",
           "qb_sales_description": "SETINA CENTER PULL SEAT BELT RETRACTOR\n11-27 DURANGO/20-27 UTILITY/21-26\nTAHOE/15-27 FORD TRUCK F150/24-26 BLE",
-          "qb_last_synced": "2026-09-24T18:50:58Z"
+          "qb_last_synced": "2026-09-24T18:03:21Z"
         }
       ]
     },
@@ -12973,7 +12976,7 @@
           "lens_type": "",
           "friendly_name": "Ford F-250/350/450/550 '17-26, driver",
           "qb_sales_description": "WHELEN SA-315 SIREN MOUNT KIT, 2017-2026 FORD F-250/F-350/F-450/F-550, 2018-2026 F-600, DRIVER SIDE",
-          "qb_last_synced": "2026-09-24T18:50:58Z"
+          "qb_last_synced": "2026-09-24T18:03:21Z"
         },
         {
           "part_number": "SAK63D",
@@ -35191,10 +35194,5 @@
         "whelen": 38.0
       }
     }
-  },
-  "qb_inbox": {
-    "ignored_item_ids": [
-      "15"
-    ]
   }
 }
