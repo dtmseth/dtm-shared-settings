@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-09-24T19:23:07.787103+00:00",
+    "last_updated": "2026-09-24T19:10:49.047278+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -6738,6 +6738,21 @@
         }
       ]
     },
+    "setina_passenger_side_xl_partition": {
+      "manufacturer_id": "setina",
+      "model": "PASSENGER SIDE XL PARTITION",
+      "fits_part_types": [
+        "front_partition"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PASSENGER SIDE XL PARTITION"
+        }
+      ]
+    },
     "setina_poly": {
       "manufacturer_id": "setina",
       "model": "Polycarbonate Window Barrier",
@@ -8876,7 +8891,7 @@
     },
     "setina_dual_prisoner": {
       "manufacturer_id": "setina",
-      "model": "DUAL PRISONER DIVIDER",
+      "model": "DUAL PRISONER PARTITION",
       "fits_part_types": [
         "front_partition"
       ],
@@ -8897,7 +8912,7 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETNA DUAL PRISONER TRANSPORT DIVIDER *FOR USE WITH: - CREW CAB - RECESSED OR XL PANEL PARTITION - FULL STOCK SEAT -REAR WINDOW BARRIER 2019-2026 CHEVROLET TRUCK 1500",
+          "friendly_name": "SETNA DUAL PRISONER TRANSPORT PARTITION *FOR USE WITH: - CREW CAB - RECESSED OR XL PANEL PARTITION - FULL STOCK SEAT -REAR WINDOW BARRIER 2019-2026 CHEVROLET TRUCK 1500",
           "qb_sales_description": "SETNA DUAL PRISONER TRANSPORT PARTITION\n*FOR USE WITH:\n   - CREW CAB\n   - RECESSED OR XL PANEL PARTITION\n   - FULL STOCK SEAT\n  -REAR WINDOW BARRIER\n\n2019-2026 CHEVROLET TRUCK 1500",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
