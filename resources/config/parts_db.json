@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-09-24T18:52:01.535288+00:00",
+    "last_updated": "2026-09-24T18:31:19.335094+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -7323,16 +7323,7 @@
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
         {
-          "part_number": "PK0316ITU252ND",
-          "friendly_name": "SETINA Cargo Area Rear Partition\n#12VS Stationary Window\nCoated Polycarbonate\n*FOR USE WITH:\n   -2nd Row Seat\n\n2025-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_item_id": "1661",
-          "qb_sku": "",
-          "qb_sales_description": "SETINA Cargo Area Rear Partition\n#12VS Stationary Window\nCoated Polycarbonate\n*FOR USE WITH:\n   -2nd Row Seat\n\n2025-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_unit_price": 709.0,
-          "qb_last_synced": "2026-09-24T18:51:29.430406+00:00",
-          "vehicle_tags": [
-            "PIU"
-          ]
+          "part_number": "PK0316ITU252ND"
         }
       ]
     },
@@ -8742,7 +8733,7 @@
           "tertiary_color": "",
           "friendly_name": "SETINA CENTER PULL SEAT BELT RETRACTOR 11-24 DURANGO/20-25 UTILITY/21-25 TAHOE/15-25 FORD TRUCK F150",
           "qb_sales_description": "SETINA CENTER PULL SEAT BELT RETRACTOR\n11-27 DURANGO/20-27 UTILITY/21-26\nTAHOE/15-27 FORD TRUCK F150/24-26 BLE",
-          "qb_last_synced": "2026-09-24T18:50:58Z"
+          "qb_last_synced": "2026-09-24T18:23:04Z"
         }
       ]
     },
@@ -12988,7 +12979,7 @@
           "lens_type": "",
           "friendly_name": "Ford F-250/350/450/550 '17-26, driver",
           "qb_sales_description": "WHELEN SA-315 SIREN MOUNT KIT, 2017-2026 FORD F-250/F-350/F-450/F-550, 2018-2026 F-600, DRIVER SIDE",
-          "qb_last_synced": "2026-09-24T18:50:58Z"
+          "qb_last_synced": "2026-09-24T18:23:04Z"
         },
         {
           "part_number": "SAK63D",
@@ -35206,10 +35197,5 @@
         "whelen": 38.0
       }
     }
-  },
-  "qb_inbox": {
-    "ignored_item_ids": [
-      "15"
-    ]
   }
 }
