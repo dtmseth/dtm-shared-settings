@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-09-24T19:57:47.273641+00:00",
+    "last_updated": "2026-09-24T19:04:32.289967+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -6491,8 +6491,7 @@
           "qb_sales_description": "SETINA #10VS RP HORIZONTAL SLIDING WINDOW\nUNCOATED POLYCARBONATE\nRECESSED PANEL PARTITION TM (TALL MAN)\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_single_prisioner": {
       "manufacturer_id": "setina",
@@ -6674,8 +6673,7 @@
           "qb_sales_description": "SETINA SINGLE PRISONER TRANSPORT PARTITION\n#7VS STATIONARY WINDOW\nVINYL COATED EXPANDED METAL\n*FOR USE WITH:\n   -STOCK SEAT\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_full_xl_partition": {
       "manufacturer_id": "setina",
@@ -6738,8 +6736,22 @@
           "qb_sales_description": "SETINA #10XL C2 HORIZONTAL SLIDING WINDOW\nCOATED POLYCARBONATE\nWITH SLOTTED POLYCARBONATE WINDOW SECURITY SCREEN\nXL PANEL PARTITION\n\n2019-2026 CHEVROLET TRUCK 1500",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
+      ]
+    },
+    "setina_passenger_side_xl_partition": {
+      "manufacturer_id": "setina",
+      "model": "PASSENGER SIDE XL PARTITION",
+      "fits_part_types": [
+        "front_partition"
       ],
-      "reviewed": true
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PASSENGER SIDE XL PARTITION"
+        }
+      ]
     },
     "setina_poly": {
       "manufacturer_id": "setina",
@@ -6751,6 +6763,23 @@
       "description": "",
       "images": {},
       "part_numbers": [
+        {
+          "part_number": "WK0594CGR11",
+          "qb_item_id": "593",
+          "qb_sku": "",
+          "qb_unit_price": 309.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "CHARGER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE 2011-2023 DODGE CHARGER",
+          "qb_sales_description": "SETINA WINDOW BARRIER\nPOLYCARBONATE \n\n2011-2023 DODGE CHARGER",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
         {
           "part_number": "WK0595DUR11",
           "qb_item_id": "376",
@@ -6818,6 +6847,21 @@
           "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n-ALUMINUM DOOR PANELS\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
+        }
+      ]
+    },
+    "setina_cargo_maxx": {
+      "manufacturer_id": "setina",
+      "model": "CARGO MAXX",
+      "fits_part_types": [
+        "rear_seat_divider"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "CARGO MAXX"
         }
       ]
     },
@@ -7137,23 +7181,6 @@
           "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE TINTED\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n-ALUMINUM DOOR PANELS\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "WK0594CGR11",
-          "qb_item_id": "593",
-          "qb_sku": "",
-          "qb_unit_price": 309.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "CHARGER"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE 2011-2023 DODGE CHARGER",
-          "qb_sales_description": "SETINA WINDOW BARRIER\nPOLYCARBONATE \n\n2011-2023 DODGE CHARGER",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ],
       "reviewed": true
@@ -7190,7 +7217,7 @@
     },
     "setina_steel_window": {
       "manufacturer_id": "setina",
-      "model": "REAR PARTITION W/ STEEL WINDOW",
+      "model": "STEEL WINDOW",
       "fits_part_types": [
         "rear_partition"
       ],
@@ -7219,7 +7246,7 @@
     },
     "setina_poly_window": {
       "manufacturer_id": "setina",
-      "model": "REAR PARTITION W/ POLY WINDOW",
+      "model": "POLY WINDOW",
       "fits_part_types": [
         "rear_partition"
       ],
@@ -7484,23 +7511,6 @@
           "friendly_name": "SETINA CARGO DECK W/ DRAWER SUPER MAX *NOT COMPATIBLE WITH: SPT PARTITION *INCLUDES REQUIRED: -DUAL POLY WALL FOR RECESSED PANEL OR XL FRONT PARTITION -LOWER CARGO DECK W/ RUBBER MAT -STORAGE BOX -DOOR PANEL 1PC DRIVER SIDE ONLY *INCLUDES OPTIONAL ACCESSORIES: -UPPER CARGO DECK -TPO SINGLE REPLACEMENT SEAT W/ CENTER PULL SEAT BELT -DOOR PANEL ALUMINUM 1PC PASSENGER SIDE ONLY -WINDOW BARRIER 2PC SET HORIZONTAL BARS *DOES NOT INCLUDE REQUIRED: -RECESSED PANEL OR XL FRONT PARTITION -#12VS REAR PARTITION 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA CARGO DECK W/ DRAWER SUPER MAX\n*NOT COMPATIBLE WITH: SPT PARTITION\n*INCLUDES REQUIRED:\n   -DUAL POLY WALL FOR RECESSED PANEL OR XL FRONT PARTITION\n   -LOWER CARGO DECK W/ RUBBER MAT\n   -STORAGE BOX\n   -DOOR PANEL 1PC DRIVER SIDE ONLY\n*INCLUDES OPTIONAL ACCESSORIES:\n   -UPPER CARGO DECK\n   -TPO SINGLE REPLACEMENT SEAT W/ CENTER PULL SEAT BELT\n   -DOOR PANEL ALUMINUM 1PC PASSENGER SIDE ONLY\n   -WINDOW BARRIER 2PC SET HORIZONTAL BARS\n*DOES NOT INCLUDE REQUIRED:\n   -RECESSED PANEL OR XL FRONT PARTITION\n   -#12VS REAR PARTITION\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "TK0661BLE24",
-          "qb_item_id": "1273",
-          "qb_sku": "",
-          "qb_unit_price": 449.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "BLAZER"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA CARGO REAR DECK 2024-2026 CHEVROLET BLAZER EV",
-          "qb_sales_description": "SETINA CARGO REAR DECK\n\n2024-2026 CHEVROLET BLAZER EV",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ]
     },
@@ -7668,7 +7678,25 @@
       "tag_ids": [],
       "description": "",
       "images": {},
-      "part_numbers": []
+      "part_numbers": [
+        {
+          "part_number": "TK0661BLE24",
+          "qb_item_id": "1273",
+          "qb_sku": "",
+          "qb_unit_price": 449.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "BLAZER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO REAR DECK 2024-2026 CHEVROLET BLAZER EV",
+          "qb_sales_description": "SETINA CARGO REAR DECK\n\n2024-2026 CHEVROLET BLAZER EV",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        }
+      ]
     },
     "pro_gard_single_handcuff": {
       "manufacturer_id": "pro_gard",
@@ -8373,6 +8401,23 @@
       "images": {},
       "part_numbers": [
         {
+          "part_number": "QK0566DUR11",
+          "qb_item_id": "375",
+          "qb_sku": "",
+          "qb_unit_price": 1809.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2011-2026 DODGE DURANGO",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2011-2026 DODGE DURANGO",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
           "part_number": "QK0566ITU20",
           "qb_item_id": "38",
           "qb_sku": "",
@@ -8387,6 +8432,23 @@
           "tertiary_color": "",
           "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2020-2024 FORD POLICE INTERCEPTOR UTILITY",
           "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2020-2024 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK0566ITU25",
+          "qb_item_id": "1010000291",
+          "qb_sku": "",
+          "qb_unit_price": 1809.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT SEAT,2-CPSB,#12VS P CENTER PULL SEAT BELTS 25-25 INTERCEPTOR UTILITY NOT COMPATIBLE WITH RETAIL EXPLORER INCLUDES: REPLACEMENT SEAT 2 - CENTER PULL SEAT BELTS #12VS 2ND COATED POLY PARTITION INCLUDES: REPLACEMENT SEAT 2 - CENTER PULL SEAT BELTS #12VS 2ND COATED POLY PARTITION 202-2027 Ford Police Interceptor Utility",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2025-2027 FORD POLICE INTERCEPTOR UTILITY",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
         {
@@ -8441,10 +8503,27 @@
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
         {
-          "part_number": "QK1576BLE24",
-          "qb_item_id": "1275",
+          "part_number": "QK0635DUR11",
+          "qb_item_id": "1091",
           "qb_sku": "",
-          "qb_unit_price": 1429.0,
+          "qb_unit_price": 1799.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2011-2026 DODGE DURANGO",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2011-2026 DODGE DURANGO",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK1224BLE24",
+          "qb_item_id": "1271",
+          "qb_sku": "",
+          "qb_unit_price": 2479.0,
           "qb_inactive": false,
           "vehicle_tags": [
             "BLAZER"
@@ -8453,8 +8532,8 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2024-2026 CHEVROLET BLAZER EV",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n\n2024-2026 CHEVROLET BLAZER EV",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH SETINA SMARTBELT SYSTEM 2024-2026 CHERVOLET BLAZER EV",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH SETINA SMARTBELT SYSTEM\n\n*REQUIRED #12VS CARGO AREA REAR PARTITION NOT INCLUDED\n\n2024-2026 CHERVOLET BLAZER EV",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
         {
@@ -8473,12 +8552,80 @@
           "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK1576BLE24",
+          "qb_item_id": "1275",
+          "qb_sku": "",
+          "qb_unit_price": 1429.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "BLAZER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2024-2026 CHEVROLET BLAZER EV",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n\n2024-2026 CHEVROLET BLAZER EV",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK1684BLE24",
+          "qb_item_id": "1282",
+          "qb_sku": "",
+          "qb_unit_price": 1929.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "BLAZER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2024-2026 CHEVROLET BLAZER EV",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2024-2026 CHEVROLET BLAZER EV",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK2023TAH21",
+          "qb_item_id": "665",
+          "qb_sku": "",
+          "qb_unit_price": 1969.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2021-2026 CHEVROLET TAHOE",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2021-2026 CHEVROLET TAHOE",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK2024TAH21",
+          "qb_item_id": "597",
+          "qb_sku": "",
+          "qb_unit_price": 1979.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2021-2026 CHEVROLET TAHOE",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2021-2026 CHEVROLET TAHOE",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ]
     },
     "setina_full_cover_seat": {
       "manufacturer_id": "setina",
-      "model": "FULL COVER SEAT w/ Rear Partition",
+      "model": "FULL COVER SEAT",
       "fits_part_types": [
         "replacement_rear_seat"
       ],
@@ -8587,8 +8734,7 @@
           "vehicle_tags": [
             "TAHOE",
             "DURANGO",
-            "F-150",
-            "PIU"
+            "F-150"
           ],
           "color": "",
           "secondary_color": "",
@@ -8745,7 +8891,7 @@
     },
     "setina_dual_prisoner": {
       "manufacturer_id": "setina",
-      "model": "DUAL PRISONER DIVIDER",
+      "model": "DUAL PRISONER PARTITION",
       "fits_part_types": [
         "front_partition"
       ],
@@ -8766,7 +8912,7 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETNA DUAL PRISONER TRANSPORT DIVIDER *FOR USE WITH: - CREW CAB - RECESSED OR XL PANEL PARTITION - FULL STOCK SEAT -REAR WINDOW BARRIER 2019-2026 CHEVROLET TRUCK 1500",
+          "friendly_name": "SETNA DUAL PRISONER TRANSPORT PARTITION *FOR USE WITH: - CREW CAB - RECESSED OR XL PANEL PARTITION - FULL STOCK SEAT -REAR WINDOW BARRIER 2019-2026 CHEVROLET TRUCK 1500",
           "qb_sales_description": "SETNA DUAL PRISONER TRANSPORT PARTITION\n*FOR USE WITH:\n   - CREW CAB\n   - RECESSED OR XL PANEL PARTITION\n   - FULL STOCK SEAT\n  -REAR WINDOW BARRIER\n\n2019-2026 CHEVROLET TRUCK 1500",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
@@ -8783,7 +8929,7 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETINA DUAL PRISONER TRANSPORT DIVIDER *FOR USE WITH: -RECESSED OR XL PANEL Partition -Full REPLACEMENT TRANSPORT PARTITION SEAT 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
+          "friendly_name": "SETINA DUAL PRISONER TRANSPORT PARTITION *FOR USE WITH: -RECESSED OR XL PANEL Partition -Full REPLACEMENT TRANSPORT PARTITION SEAT 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
           "qb_sales_description": "SETINA DUAL PRISONER TRANSPORT PARTITION\n*FOR USE WITH:\n   -RECESSED OR XL PANEL Partition\n   -Full REPLACEMENT TRANSPORT PARTITION SEAT\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
@@ -8800,7 +8946,7 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT DIVIDER *FOR USE WITH: -FLAT PANEL PARTITION -FULL STOCK SEAT 2021-2026 CHEROLET TAHOE",
+          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION *FOR USE WITH: -FLAT PANEL PARTITION -FULL STOCK SEAT 2021-2026 CHEROLET TAHOE",
           "qb_sales_description": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION\n*FOR USE WITH:\n   -FLAT PANEL PARTITION\n   -FULL STOCK SEAT\n\n2021-2026 CHEROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
@@ -8817,12 +8963,11 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT DIVIDER FOR USE WITH: 2021-2026 CHEVY TAHOE -RECESSED OR XL PANEL PARTITION -FULL COVER TRANSPORT PARTITION SEAT 2021-2026 CHEVROLET TAHOE",
+          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION FOR USE WITH: 2021-2026 CHEVY TAHOE -RECESSED OR XL PANEL PARTITION -FULL COVER TRANSPORT PARTITION SEAT 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION\nFOR USE WITH: 2021-2026 CHEVY TAHOE\n   -RECESSED OR XL PANEL PARTITION\n   -FULL COVER TRANSPORT PARTITION SEAT\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_ultimate_k9": {
       "manufacturer_id": "setina",
@@ -9220,7 +9365,9 @@
     "setina_module_relocation_plate": {
       "manufacturer_id": "setina",
       "model": "MODULE RELOCATION PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "front_partition_transfer_kit"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -9242,9 +9389,7 @@
           "qb_sales_description": "SETINA #12VS 2ND MODULE RELOCATION PLATE 2024 TO 2025 INTERCEPTOR UTILITY",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
-      ],
-      "reviewed": true,
-      "accessory_category": "bracket_mount"
+      ]
     },
     "setina_lower_extension_panel": {
       "manufacturer_id": "setina",
@@ -31817,137 +31962,6 @@
         }
       ],
       "reviewed": false
-    },
-    "setina_full_replacement_seat_w_rear_partition": {
-      "manufacturer_id": "setina",
-      "model": "FULL REPLACEMENT SEAT W/ REAR PARTITION",
-      "description": "",
-      "fits_part_types": [
-        "rear_partition",
-        "replacement_rear_seat"
-      ],
-      "tag_ids": [],
-      "part_numbers": [
-        {
-          "part_number": "QK2024TAH21",
-          "qb_item_id": "597",
-          "qb_sku": "",
-          "qb_unit_price": 1979.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2021-2026 CHEVROLET TAHOE",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2021-2026 CHEVROLET TAHOE",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK2023TAH21",
-          "qb_item_id": "665",
-          "qb_sku": "",
-          "qb_unit_price": 1969.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2021-2026 CHEVROLET TAHOE",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2021-2026 CHEVROLET TAHOE",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK1684BLE24",
-          "qb_item_id": "1282",
-          "qb_sku": "",
-          "qb_unit_price": 1929.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "BLAZER"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2024-2026 CHEVROLET BLAZER EV",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2024-2026 CHEVROLET BLAZER EV",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK0635DUR11",
-          "qb_item_id": "1091",
-          "qb_sku": "",
-          "qb_unit_price": 1799.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2011-2026 DODGE DURANGO",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2011-2026 DODGE DURANGO",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK1224BLE24",
-          "qb_item_id": "1271",
-          "qb_sku": "",
-          "qb_unit_price": 2479.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "BLAZER"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH SETINA SMARTBELT SYSTEM 2024-2026 CHERVOLET BLAZER EV",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH SETINA SMARTBELT SYSTEM\n\n*REQUIRED #12VS CARGO AREA REAR PARTITION NOT INCLUDED\n\n2024-2026 CHERVOLET BLAZER EV",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK0566ITU25",
-          "qb_item_id": "1010000291",
-          "qb_sku": "",
-          "qb_unit_price": 1809.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT SEAT,2-CPSB,#12VS P CENTER PULL SEAT BELTS 25-25 INTERCEPTOR UTILITY NOT COMPATIBLE WITH RETAIL EXPLORER INCLUDES: REPLACEMENT SEAT 2 - CENTER PULL SEAT BELTS #12VS 2ND COATED POLY PARTITION INCLUDES: REPLACEMENT SEAT 2 - CENTER PULL SEAT BELTS #12VS 2ND COATED POLY PARTITION 202-2027 Ford Police Interceptor Utility",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2025-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK0566DUR11",
-          "qb_item_id": "375",
-          "qb_sku": "",
-          "qb_unit_price": 1809.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2011-2026 DODGE DURANGO",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2011-2026 DODGE DURANGO",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        }
-      ]
     }
   },
   "part_types": {
