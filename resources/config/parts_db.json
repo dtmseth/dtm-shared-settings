@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-09-24T19:58:03.309494+00:00",
+    "last_updated": "2026-09-24T20:06:04.209985+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -6818,6 +6818,57 @@
           "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n-ALUMINUM DOOR PANELS\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK0594CGR11",
+          "qb_item_id": "593",
+          "qb_sku": "",
+          "qb_unit_price": 309.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "CHARGER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE 2011-2023 DODGE CHARGER",
+          "qb_sales_description": "SETINA WINDOW BARRIER\nPOLYCARBONATE \n\n2011-2023 DODGE CHARGER",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK0595DUR11",
+          "qb_item_id": "376",
+          "qb_sku": "",
+          "qb_unit_price": 369.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS 2011-2026 DODGE DURANGO",
+          "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n\n2011-2026 DODGE DURANGO",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK0595FDT15F150P",
+          "qb_item_id": "923",
+          "qb_sku": "",
+          "qb_unit_price": 369.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER REAR WINDOW POLYCARBONATE 2015-2026 FORD TRUCK F150",
+          "qb_sales_description": "SETINA WINDOW BARRIER REAR WINDOW\nPOLYCARBONATE\n\n2015-2026 FORD TRUCK F150",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ]
     },
@@ -6983,57 +7034,6 @@
           "tertiary_color": "",
           "friendly_name": "SETINA WINDOW BARRIER STEEL HORIZONTAL *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA WINDOW BARRIER \nSTEEL\nHORIZONTAL\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n-ALUMINUM DOOR PANELS\n\n2021-2026 CHEVROLET TAHOE",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "WK0594CGR11",
-          "qb_item_id": "593",
-          "qb_sku": "",
-          "qb_unit_price": 309.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "CHARGER"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE 2011-2023 DODGE CHARGER",
-          "qb_sales_description": "SETINA WINDOW BARRIER\nPOLYCARBONATE \n\n2011-2023 DODGE CHARGER",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "WK0595DUR11",
-          "qb_item_id": "376",
-          "qb_sku": "",
-          "qb_unit_price": 369.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS 2011-2026 DODGE DURANGO",
-          "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n\n2011-2026 DODGE DURANGO",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "WK0595FDT15F150P",
-          "qb_item_id": "923",
-          "qb_sku": "",
-          "qb_unit_price": 369.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "F-150"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA WINDOW BARRIER REAR WINDOW POLYCARBONATE 2015-2026 FORD TRUCK F150",
-          "qb_sales_description": "SETINA WINDOW BARRIER REAR WINDOW\nPOLYCARBONATE\n\n2015-2026 FORD TRUCK F150",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
         {
@@ -8407,23 +8407,6 @@
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
         {
-          "part_number": "QK0634ITU20",
-          "qb_item_id": "678",
-          "qb_sku": "",
-          "qb_unit_price": 1129.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
           "part_number": "QK1576BLE24",
           "qb_item_id": "1275",
           "qb_sku": "",
@@ -8455,6 +8438,40 @@
           "tertiary_color": "",
           "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n\n2021-2026 CHEVROLET TAHOE",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK0634ITU20",
+          "qb_item_id": "678",
+          "qb_sku": "",
+          "qb_unit_price": 1129.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK1224BLE24",
+          "qb_item_id": "1271",
+          "qb_sku": "",
+          "qb_unit_price": 2479.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "BLAZER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH SETINA SMARTBELT SYSTEM 2024-2026 CHERVOLET BLAZER EV",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH SETINA SMARTBELT SYSTEM\n\n*REQUIRED #12VS CARGO AREA REAR PARTITION NOT INCLUDED\n\n2024-2026 CHERVOLET BLAZER EV",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ]
@@ -8730,7 +8747,7 @@
       "manufacturer_id": "setina",
       "model": "DUAL PRISONER DIVIDER",
       "fits_part_types": [
-        "front_partition"
+        "rear_seat_divider"
       ],
       "tag_ids": [],
       "description": "",
@@ -31877,23 +31894,6 @@
           "tertiary_color": "",
           "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2011-2026 DODGE DURANGO",
           "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2011-2026 DODGE DURANGO",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK1224BLE24",
-          "qb_item_id": "1271",
-          "qb_sku": "",
-          "qb_unit_price": 2479.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "BLAZER"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH SETINA SMARTBELT SYSTEM 2024-2026 CHERVOLET BLAZER EV",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH SETINA SMARTBELT SYSTEM\n\n*REQUIRED #12VS CARGO AREA REAR PARTITION NOT INCLUDED\n\n2024-2026 CHERVOLET BLAZER EV",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
         {
