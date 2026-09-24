@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-09-24T21:06:18.940Z",
-    "updated_by": "part-manager-ui",
-    "edit_revision": "b465de2e6fa64877aa325345a9f085bb"
+    "last_updated": "2026-09-24T20:49:59.284620+00:00",
+    "updated_by": "audit-recovery-20260924T201035Z",
+    "edit_revision": "dae78ccb31444fe08665eb6d808314cd"
   },
   "types": {
     "extras": {
@@ -33218,17 +33218,17 @@
     "chicago_barrier": {
       "label": "Chicago Barrier",
       "type_id": "structural",
-      "tree_positions": [],
+      "tree_positions": [
+        {
+          "section": "interior",
+          "zone": "prisoner_area"
+        }
+      ],
       "tag_ids": [],
       "workbook_label_pattern": "Chicago Barrier",
       "sequence_scope": "global",
       "location_mode": "text",
-      "location_options": [],
-      "max_count": null,
-      "accessory_of": "",
-      "accessories": [],
-      "allowed_products": [],
-      "allowed_placements": []
+      "location_options": []
     },
     "front_partition_transfer_kit": {
       "label": "Front Partition Transfer Kit",
