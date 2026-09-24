@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-09-24T19:43:08.407774+00:00",
+    "last_updated": "2026-09-24T19:23:12.478992+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -6491,8 +6491,7 @@
           "qb_sales_description": "SETINA #10VS RP HORIZONTAL SLIDING WINDOW\nUNCOATED POLYCARBONATE\nRECESSED PANEL PARTITION TM (TALL MAN)\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_single_prisioner": {
       "manufacturer_id": "setina",
@@ -6674,8 +6673,7 @@
           "qb_sales_description": "SETINA SINGLE PRISONER TRANSPORT PARTITION\n#7VS STATIONARY WINDOW\nVINYL COATED EXPANDED METAL\n*FOR USE WITH:\n   -STOCK SEAT\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_full_xl_partition": {
       "manufacturer_id": "setina",
@@ -6738,8 +6736,7 @@
           "qb_sales_description": "SETINA #10XL C2 HORIZONTAL SLIDING WINDOW\nCOATED POLYCARBONATE\nWITH SLOTTED POLYCARBONATE WINDOW SECURITY SCREEN\nXL PANEL PARTITION\n\n2019-2026 CHEVROLET TRUCK 1500",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_poly": {
       "manufacturer_id": "setina",
@@ -8934,7 +8931,7 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT DIVIDER *FOR USE WITH: -FLAT PANEL PARTITION -FULL STOCK SEAT 2021-2026 CHEROLET TAHOE",
+          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION *FOR USE WITH: -FLAT PANEL PARTITION -FULL STOCK SEAT 2021-2026 CHEROLET TAHOE",
           "qb_sales_description": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION\n*FOR USE WITH:\n   -FLAT PANEL PARTITION\n   -FULL STOCK SEAT\n\n2021-2026 CHEROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
@@ -8951,12 +8948,11 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT DIVIDER FOR USE WITH: 2021-2026 CHEVY TAHOE -RECESSED OR XL PANEL PARTITION -FULL COVER TRANSPORT PARTITION SEAT 2021-2026 CHEVROLET TAHOE",
+          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION FOR USE WITH: 2021-2026 CHEVY TAHOE -RECESSED OR XL PANEL PARTITION -FULL COVER TRANSPORT PARTITION SEAT 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION\nFOR USE WITH: 2021-2026 CHEVY TAHOE\n   -RECESSED OR XL PANEL PARTITION\n   -FULL COVER TRANSPORT PARTITION SEAT\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_ultimate_k9": {
       "manufacturer_id": "setina",
@@ -9354,7 +9350,9 @@
     "setina_module_relocation_plate": {
       "manufacturer_id": "setina",
       "model": "MODULE RELOCATION PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "front_partition_transfer_kit"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -9376,9 +9374,7 @@
           "qb_sales_description": "SETINA #12VS 2ND MODULE RELOCATION PLATE 2024 TO 2025 INTERCEPTOR UTILITY",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
-      ],
-      "reviewed": true,
-      "accessory_category": "bracket_mount"
+      ]
     },
     "setina_lower_extension_panel": {
       "manufacturer_id": "setina",
