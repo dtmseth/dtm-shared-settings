@@ -770,9 +770,9 @@
           "friendly_name": "WESTIN PIT BAR ELITE 2021-2025 CHEVROLET TAHOE PPV",
           "qb_item_id": "782",
           "qb_sku": "",
-          "qb_unit_price": 545,
+          "qb_unit_price": 336.23,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-24T20:30:42Z",
           "price_usd": 545,
           "vehicle_tags": [
             "TAHOE"
@@ -785,9 +785,9 @@
           "friendly_name": "WESTIN PIT BAR ELITE 2021-2026 DODGE DURANOG",
           "qb_item_id": "943",
           "qb_sku": "",
-          "qb_unit_price": 545,
+          "qb_unit_price": 336.23,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-24T20:30:42Z",
           "price_usd": 545,
           "vehicle_tags": [
             "DURANGO"
@@ -16938,9 +16938,9 @@
           "friendly_name": "WESTIN ELITE UPRIGHT WIRE COVER 2020-2026 FORD POLICE INTERCEPTOR UTILITY",
           "qb_item_id": "621",
           "qb_sku": "",
-          "qb_unit_price": 56,
+          "qb_unit_price": 34.34,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-24T20:30:42Z",
           "price_usd": 56,
           "vehicle_tags": [
             "PIU"
@@ -16996,9 +16996,9 @@
           "friendly_name": "WESTIN PUSH BUMPER ELITE WIRE COVER 2021-2026 CHEVROLET TAHOE PPV",
           "qb_item_id": "784",
           "qb_sku": "",
-          "qb_unit_price": 56,
+          "qb_unit_price": 34.34,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-24T20:30:42Z",
           "price_usd": 56,
           "vehicle_tags": [
             "TAHOE"
@@ -17028,9 +17028,9 @@
           "friendly_name": "WESTIN PUSH BUMPER ELITE 2021-2026 DODGE DURANGO",
           "qb_item_id": "942",
           "qb_sku": "",
-          "qb_unit_price": 598,
+          "qb_unit_price": 369.36,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-09-24T20:30:42Z",
           "price_usd": 598,
           "vehicle_tags": [
             "DURANGO"
