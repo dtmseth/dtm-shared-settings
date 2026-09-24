@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-09-24T19:46:49.964174+00:00",
+    "last_updated": "2026-09-24T19:41:02.770985+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -7205,7 +7205,7 @@
     },
     "setina_steel_window": {
       "manufacturer_id": "setina",
-      "model": "REAR PARTITION W/ STEEL WINDOW",
+      "model": "STEEL WINDOW",
       "fits_part_types": [
         "rear_partition"
       ],
@@ -7234,7 +7234,7 @@
     },
     "setina_poly_window": {
       "manufacturer_id": "setina",
-      "model": "REAR PARTITION W/ POLY WINDOW",
+      "model": "POLY WINDOW",
       "fits_part_types": [
         "rear_partition"
       ],
@@ -9377,8 +9377,7 @@
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ],
-      "reviewed": true,
-      "accessory_category": "bracket_mount"
+      "reviewed": true
     },
     "setina_lower_extension_panel": {
       "manufacturer_id": "setina",
