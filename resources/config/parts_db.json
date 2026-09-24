@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-09-24T19:56:04.706226+00:00",
+    "last_updated": "2026-09-24T19:56:18.275054+00:00",
     "updated_by": "part-manager-ui"
   },
   "types": {
@@ -8472,23 +8472,6 @@
           "tertiary_color": "",
           "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
           "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK1224BLE24",
-          "qb_item_id": "1271",
-          "qb_sku": "",
-          "qb_unit_price": 2479.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "BLAZER"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH SETINA SMARTBELT SYSTEM 2024-2026 CHERVOLET BLAZER EV",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH SETINA SMARTBELT SYSTEM\n\n*REQUIRED #12VS CARGO AREA REAR PARTITION NOT INCLUDED\n\n2024-2026 CHERVOLET BLAZER EV",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
         {
@@ -31945,6 +31928,23 @@
           "tertiary_color": "",
           "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2011-2026 DODGE DURANGO",
           "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2011-2026 DODGE DURANGO",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK1224BLE24",
+          "qb_item_id": "1271",
+          "qb_sku": "",
+          "qb_unit_price": 2479.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "BLAZER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH SETINA SMARTBELT SYSTEM 2024-2026 CHERVOLET BLAZER EV",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH SETINA SMARTBELT SYSTEM\n\n*REQUIRED #12VS CARGO AREA REAR PARTITION NOT INCLUDED\n\n2024-2026 CHERVOLET BLAZER EV",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ]
