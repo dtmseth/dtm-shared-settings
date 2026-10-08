@@ -17167,12 +17167,12 @@
         "catalog_model_id": "1946"
       }
     },
-    "F-250": {
-      "make": "Ford",
-      "model": "F-250",
+    "CUSTOM VEHICLE": {
+      "make": "",
+      "model": "Custom vehicle",
       "aliases": [
-        "F-250",
-        "Ford F-250"
+        "Custom vehicle",
+        "Custom vehicle"
       ],
       "placeholder": true,
       "fixtures": {},
@@ -17253,11 +17253,11 @@
         "internal.rear_seat"
       ],
       "vehicle_identity": {
-        "source": "catalog",
-        "category": "automobile",
-        "catalog_source": "NHTSA vPIC",
-        "catalog_make_id": "460",
-        "catalog_model_id": "1805"
+        "source": "custom",
+        "category": "snowmobile",
+        "catalog_source": "",
+        "catalog_make_id": "",
+        "catalog_model_id": ""
       }
     }
   },
