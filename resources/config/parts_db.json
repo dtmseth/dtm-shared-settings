@@ -3,7 +3,7 @@
   "metadata": {
     "last_updated": "2026-08-25T18:46:04.641407+00:00",
     "updated_by": "part-manager-ui",
-    "edit_revision": "2182afdcc74c4f6bb0f010de2e0ce8c0"
+    "edit_revision": "0443fcd7f20440f5b18a4319f1e0f8b1"
   },
   "types": {
     "extras": {
@@ -22930,15 +22930,15 @@
           "friendly_name": "SOUNDOFF SELECT-A-PATTERN HEADLIGHT FLASHER, SOLID STATE, 12V ISOLATION MODEL (FOR SYSTEMS REQUIRING ELECTRICAL ISOLATION)",
           "qb_item_id": "238",
           "qb_sku": "",
-          "qb_unit_price": 63.8,
+          "qb_unit_price": 124.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 63.8,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "SOUNDOFF SELECT-A-PATTERN HEADLIGHT FLASHER, SOLID STATE, 12V ISOLATION MODEL (FOR SYSTEMS REQUIRING ELECTRICAL ISOLATION)"
+          "qb_sales_description": "SELECT-A-PATTERN HEADLIGHT FLASHER, SOLID STATE, 12V ISOLATION MODEL (FOR SYSTEMS REQUIRING ELECTRICAL ISOLATION)"
         }
       ],
       "reviewed": false
@@ -22987,15 +22987,15 @@
           "friendly_name": "SOUNDOFF NERGY\u00ae 400 SERIES HANDHELD REMOTE SIREN W/ 13 FT COIL CABLE LENGTH, 10-16V - 100 WATT SINGLE-TONE",
           "qb_item_id": "304",
           "qb_sku": "",
-          "qb_unit_price": 505.18,
+          "qb_unit_price": 965.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 505.18,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "SOUNDOFF NERGY\u00ae 400 SERIES HANDHELD REMOTE SIREN W/ 13 FT COIL CABLE LENGTH, 10-16V - 100 WATT SINGLE-TONE"
+          "qb_sales_description": "NERGY 400 SERIES HANDHELD REMOTE SIREN W/ 13 FT COIL CABLE LENGTH, 10-16V - 100 WATT SINGLE-TONE"
         }
       ],
       "reviewed": false
@@ -25914,15 +25914,15 @@
           "friendly_name": "SOUNDOFF 90 DEGREE DECK/GRILLE ADJUSTABLE BRACKET KIT FOR MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT - BLACK",
           "qb_item_id": "237",
           "qb_sku": "",
-          "qb_unit_price": 9.28,
+          "qb_unit_price": 19.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 9.28,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "SOUNDOFF 90 DEGREE DECK/GRILLE ADJUSTABLE BRACKET KIT FOR MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT - BLACK"
+          "qb_sales_description": "90 DEGREE DECK/GRILLE ADJUSTABLE BRACKET KIT FOR MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT - BLACK"
         }
       ],
       "reviewed": false,
@@ -25948,15 +25948,15 @@
           "friendly_name": "SOUNDOFF LICENSE PLATE BRACKET, VERTICAL MOUNT FOR MPOWER 4\" FASCIA LIGHT W/ STUD MOUNT - MOUNTS 2 LIGHTS, ONE ON EACH SIDE OF THE LICENSE PLACE (EACH)",
           "qb_item_id": "35",
           "qb_sku": "",
-          "qb_unit_price": 30.16,
+          "qb_unit_price": 61.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 30.16,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "SOUNDOFF LICENSE PLATE BRACKET, VERTICAL MOUNT FOR MPOWER 4\" FASCIA LIGHT W/ STUD MOUNT - MOUNTS 2 LIGHTS, ONE ON EACH SIDE OF THE LICENSE PLACE (EACH)"
+          "qb_sales_description": "LICENSE PLATE BRACKET, VERTICAL MOUNT FOR MPOWER 4\" FASCIA LIGHT W/ STUD MOUNT - MOUNTS 2 LIGHTS, ONE ON EACH SIDE OF THE LICENSE PLACE (EACH)"
         }
       ],
       "reviewed": false,
@@ -25980,15 +25980,15 @@
           "friendly_name": "SOUNDOFF 15 DEGREE WEDGE ASSEMBLY, BLACK, FOR USE WITH 4\" QUICK MOUNT LIGHT",
           "qb_item_id": "413",
           "qb_sku": "",
-          "qb_unit_price": 7.54,
+          "qb_unit_price": 16.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 7.54,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "SOUNDOFF 15 DEGREE WEDGE ASSEMBLY, BLACK, FOR USE WITH 4\" QUICK MOUNT LIGHT"
+          "qb_sales_description": "15 DEGREE WEDGE ASSEMBLY, BLACK, FOR USE WITH 4\" QUICK MOUNT LIGHT"
         }
       ],
       "reviewed": false,
@@ -26013,15 +26013,15 @@
           "friendly_name": "SOUND OFF MPOWER\u00ae THIRD BRAKE LIGHT BRACKET FOR USE WITH (2) MPOWER 4X2 STUD MOUNT LIGHTS",
           "qb_item_id": "870",
           "qb_sku": "",
-          "qb_unit_price": 116.57,
+          "qb_unit_price": 236.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 116.57,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "SOUND OFF MPOWER\u00ae THIRD BRAKE LIGHT BRACKET FOR USE WITH (2) MPOWER 4X2 STUD MOUNT LIGHTS"
+          "qb_sales_description": "MPOWER\u00ae THIRD BRAKE LIGHT BRACKET FOR USE WITH (2) MPOWER 4X2 STUD MOUNT LIGHTS"
         }
       ],
       "reviewed": false,
@@ -29949,9 +29949,9 @@
           "friendly_name": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, DUAL COLOR - AMBER/WHITE",
           "qb_item_id": "750",
           "qb_sku": "",
-          "qb_unit_price": 127.02,
+          "qb_unit_price": 242.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 127.02,
           "vehicle_tags": [
             "any"
@@ -29959,16 +29959,16 @@
           "options": {},
           "color": "amber",
           "secondary_color": "white",
-          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, DUAL COLOR - AMBER/WHITE"
+          "qb_sales_description": "MPOWER\u00ae 3\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, DUAL COLOR - AMBER/WHITE"
         },
         {
           "part_number": "EMPS1SLS3D",
           "friendly_name": "SOUNDOFF 3\" MPOWER STUD MOUNT RED/WHITE",
           "qb_item_id": "531",
           "qb_sku": "",
-          "qb_unit_price": 84.0,
+          "qb_unit_price": 242.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 84,
           "vehicle_tags": [
             "any"
@@ -29976,16 +29976,16 @@
           "options": {},
           "color": "red",
           "secondary_color": "white",
-          "qb_sales_description": "SOUNDOFF 3\" MPOWER STUD MOUNT RED/WHITE"
+          "qb_sales_description": "MPOWER\u00ae 3\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, DUAL COLOR - RED/WHITE"
         },
         {
           "part_number": "EMPS1SLS3E",
           "friendly_name": "SOUNDOFF 3\" MPOWER STUD MOUNT BLUE/WHITE",
           "qb_item_id": "532",
           "qb_sku": "",
-          "qb_unit_price": 84.0,
+          "qb_unit_price": 242.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 84,
           "vehicle_tags": [
             "any"
@@ -29993,16 +29993,16 @@
           "options": {},
           "color": "blue",
           "secondary_color": "white",
-          "qb_sales_description": "SOUNDOFF 3\" MPOWER STUD MOUNT BLUE/WHITE"
+          "qb_sales_description": "MPOWER\u00ae 3\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, DUAL COLOR - BLUE/WHITE"
         },
         {
           "part_number": "EMPS1SMS3B",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE",
           "qb_item_id": "31",
           "qb_sku": "",
-          "qb_unit_price": 127.02,
+          "qb_unit_price": 242.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 127.02,
           "vehicle_tags": [
             "any"
@@ -30010,16 +30010,16 @@
           "options": {},
           "color": "blue",
           "secondary_color": "",
-          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE"
+          "qb_sales_description": "MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE"
         },
         {
           "part_number": "EMPS1SMS3R",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - RED",
           "qb_item_id": "32",
           "qb_sku": "",
-          "qb_unit_price": 127.02,
+          "qb_unit_price": 242.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 127.02,
           "vehicle_tags": [
             "any"
@@ -30027,7 +30027,7 @@
           "options": {},
           "color": "red",
           "secondary_color": "",
-          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - RED"
+          "qb_sales_description": "MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - RED"
         }
       ],
       "reviewed": true
@@ -30052,9 +30052,9 @@
           "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
           "qb_item_id": "470",
           "qb_sku": "",
-          "qb_unit_price": 142.1,
+          "qb_unit_price": 269.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 142.1,
           "vehicle_tags": [
             "any"
@@ -30062,16 +30062,16 @@
           "options": {},
           "color": "red",
           "secondary_color": "white",
-          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
+          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
         },
         {
           "part_number": "EMPS2QMS4E",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
           "qb_item_id": "471",
           "qb_sku": "",
-          "qb_unit_price": 142.1,
+          "qb_unit_price": 269.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 142.1,
           "vehicle_tags": [
             "any"
@@ -30079,16 +30079,16 @@
           "options": {},
           "color": "blue",
           "secondary_color": "white",
-          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
+          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
         },
         {
           "part_number": "EMPS2SMS4D",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
           "qb_item_id": "29",
           "qb_sku": "",
-          "qb_unit_price": 142.1,
+          "qb_unit_price": 269.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 142.1,
           "vehicle_tags": [
             "any"
@@ -30096,16 +30096,16 @@
           "options": {},
           "color": "red",
           "secondary_color": "white",
-          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
+          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
         },
         {
           "part_number": "EMPS2SMS4E",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
           "qb_item_id": "30",
           "qb_sku": "",
-          "qb_unit_price": 142.1,
+          "qb_unit_price": 269.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 142.1,
           "vehicle_tags": [
             "any"
@@ -30113,16 +30113,16 @@
           "options": {},
           "color": "blue",
           "secondary_color": "white",
-          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
+          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
         },
         {
           "part_number": "EMPS2STS3A mpower\u00ae 4\" Fascia Light w/ Stud Mount, 18\" hard wire w/ sync option, SAE Class 1 & CA Tit",
           "friendly_name": "SOUNDOFF EMPS2STS3A MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - AMBER",
           "qb_item_id": "1602",
           "qb_sku": "",
-          "qb_unit_price": 120.96,
+          "qb_unit_price": 252.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 120.96,
           "vehicle_tags": [
             "any"
@@ -30130,16 +30130,16 @@
           "options": {},
           "color": "amber",
           "secondary_color": "",
-          "qb_sales_description": "SOUNDOFF EMPS2STS3A MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - AMBER"
+          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - AMBER"
         },
         {
           "part_number": "EMPS2STS3B",
           "friendly_name": "SOUNDOF EMPS2STS3B MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE",
           "qb_item_id": "1603",
           "qb_sku": "",
-          "qb_unit_price": 120.96,
+          "qb_unit_price": 252.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 120.96,
           "vehicle_tags": [
             "any"
@@ -30147,16 +30147,16 @@
           "options": {},
           "color": "blue",
           "secondary_color": "",
-          "qb_sales_description": "SOUNDOF EMPS2STS3B MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE"
+          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE"
         },
         {
           "part_number": "EMPS2STS4D",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
           "qb_item_id": "33",
           "qb_sku": "",
-          "qb_unit_price": 142.1,
+          "qb_unit_price": 269.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 142.1,
           "vehicle_tags": [
             "any"
@@ -30164,16 +30164,16 @@
           "options": {},
           "color": "red",
           "secondary_color": "white",
-          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
+          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
         },
         {
           "part_number": "EMPS2STS4E",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
           "qb_item_id": "34",
           "qb_sku": "",
-          "qb_unit_price": 142.1,
+          "qb_unit_price": 269.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 142.1,
           "vehicle_tags": [
             "any"
@@ -30181,7 +30181,7 @@
           "options": {},
           "color": "blue",
           "secondary_color": "white",
-          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
+          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
         },
         {
           "part_number": "EMPS2STS4K",
@@ -30240,9 +30240,9 @@
           "friendly_name": "SOUNDOFF NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
           "qb_item_id": "86",
           "qb_sku": "",
-          "qb_unit_price": 154.28,
+          "qb_unit_price": 292.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 154.28,
           "vehicle_tags": [
             "any"
@@ -30250,16 +30250,16 @@
           "options": {},
           "color": "red",
           "secondary_color": "white",
-          "qb_sales_description": "SOUNDOFF NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
+          "qb_sales_description": "NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
         },
         {
           "part_number": "ENFSGS3E",
           "friendly_name": "SOUNDOFF NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
           "qb_item_id": "355",
           "qb_sku": "",
-          "qb_unit_price": 154.28,
+          "qb_unit_price": 292.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 154.28,
           "vehicle_tags": [
             "any"
@@ -30267,7 +30267,7 @@
           "options": {},
           "color": "blue",
           "secondary_color": "white",
-          "qb_sales_description": "SOUNDOFF NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
+          "qb_sales_description": "NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
         }
       ],
       "reviewed": true
@@ -30295,9 +30295,9 @@
           "friendly_name": "SOUND OFF SURFACE MOUNT DUO COLOR INTERSECTOR SUPER LED LIGHT KIT - INCLUDES 1 LIGHT WITH MOUNTING GASKET AND INLINE FLASHER RED/WHT - CLEAR LENS - BLACK HSNG",
           "qb_item_id": "87",
           "qb_sku": "",
-          "qb_unit_price": 163.9,
+          "qb_unit_price": 410.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 163.9,
           "vehicle_tags": [
             "any"
@@ -30305,82 +30305,82 @@
           "options": {},
           "color": "red",
           "secondary_color": "",
-          "qb_sales_description": "SOUND OFF SURFACE MOUNT DUO COLOR INTERSECTOR SUPER LED LIGHT KIT - INCLUDES 1 LIGHT WITH MOUNTING GASKET AND INLINE FLASHER RED/WHT - CLEAR LENS - BLACK HSNG"
+          "qb_sales_description": "INTERSECTOR SURFACE MOUNT LIGHT, 9-32 VDC, BLACK HOUSING, 16 LEDS, DUAL COLOR - RED/WHITE"
         },
         {
           "part_number": "ENT2B3B",
           "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - BLUE",
           "qb_item_id": "283",
           "qb_sku": "",
-          "qb_unit_price": 185.02,
+          "qb_unit_price": 351.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 185.02,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - BLUE"
+          "qb_sales_description": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - BLUE"
         },
         {
           "part_number": "ENT2B3D",
           "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - RED/WHITE",
           "qb_item_id": "50",
           "qb_sku": "",
-          "qb_unit_price": 215.76,
+          "qb_unit_price": 410.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 215.76,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - RED/WHITE"
+          "qb_sales_description": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - RED/WHITE"
         },
         {
           "part_number": "ENT2B3E",
           "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - BLUE/WHITE",
           "qb_item_id": "51",
           "qb_sku": "",
-          "qb_unit_price": 215.76,
+          "qb_unit_price": 410.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 215.76,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - BLUE/WHITE"
+          "qb_sales_description": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - BLUE/WHITE"
         },
         {
           "part_number": "ENT2B3F",
           "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - AMBER/WHITE",
           "qb_item_id": "128",
           "qb_sku": "",
-          "qb_unit_price": 215.76,
+          "qb_unit_price": 410.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 215.76,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - AMBER/WHITE"
+          "qb_sales_description": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - AMBER/WHITE"
         },
         {
           "part_number": "ENT2B3R",
           "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - RED",
           "qb_item_id": "284",
           "qb_sku": "",
-          "qb_unit_price": 185.02,
+          "qb_unit_price": 351.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 185.02,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - RED"
+          "qb_sales_description": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - RED"
         }
       ],
       "reviewed": true
@@ -31363,15 +31363,15 @@
           "friendly_name": "UNDERCOVER LED INSERT - 6 3RD GEN SUPER LED'S - 10' 5-WIRE CABLE - BLUE/WHITE - 10-30 VOLT",
           "qb_item_id": "503",
           "qb_sku": "",
-          "qb_unit_price": 71.22,
+          "qb_unit_price": 183.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-13T01:45:24Z",
           "price_usd": 71.22,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "UNDERCOVER LED INSERT - 6 3RD GEN SUPER LED'S - 10' 5-WIRE CABLE - BLUE/WHITE - 10-30 VOLT"
+          "qb_sales_description": "UNIVERSAL UNDERCOVER SCREW-IN LED INSERT SINGLE LIGHT KIT, 9-32 VDC W/ 10\u2019 5-WIRE HARNESS: INCLUDES INSERT, LENS #1 (EXTREME ANGLE) & INLINE FLASHER \u2013 DUAL COLOR BLUE/WHITE"
         }
       ],
       "reviewed": false
