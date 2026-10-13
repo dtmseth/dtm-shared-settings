@@ -3,7 +3,7 @@
   "metadata": {
     "last_updated": "2026-09-30T14:59:33.392247+00:00",
     "updated_by": "part-manager-ui",
-    "edit_revision": "97e89c41234f4f069f7dbb54be07a618"
+    "edit_revision": "6458206c2dab4ababdde569550f6fa61"
   },
   "types": {
     "extras": {
@@ -29862,9 +29862,9 @@
           "friendly_name": "SOUNDOFF EMPS2STS3A MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - AMBER",
           "qb_item_id": "1602",
           "qb_sku": "",
-          "qb_unit_price": 120.96,
+          "qb_unit_price": 252.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-12T22:01:29Z",
           "price_usd": 120.96,
           "vehicle_tags": [
             "any"
@@ -29872,7 +29872,7 @@
           "options": {},
           "color": "amber",
           "secondary_color": "",
-          "qb_sales_description": "SOUNDOFF EMPS2STS3A MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - AMBER"
+          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - AMBER"
         },
         {
           "part_number": "EMPS2STS3B",
@@ -31105,15 +31105,15 @@
           "friendly_name": "UNDERCOVER LED INSERT - 6 3RD GEN SUPER LED'S - 10' 5-WIRE CABLE - BLUE/WHITE - 10-30 VOLT",
           "qb_item_id": "503",
           "qb_sku": "",
-          "qb_unit_price": 71.22,
+          "qb_unit_price": 183.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-08-11T17:04:28Z",
+          "qb_last_synced": "2026-10-12T22:01:29Z",
           "price_usd": 71.22,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "UNDERCOVER LED INSERT - 6 3RD GEN SUPER LED'S - 10' 5-WIRE CABLE - BLUE/WHITE - 10-30 VOLT"
+          "qb_sales_description": "UNIVERSAL UNDERCOVER SCREW-IN LED INSERT SINGLE LIGHT KIT, 9-32 VDC W/ 10\u2019 5-WIRE HARNESS: INCLUDES INSERT, LENS #1 (EXTREME ANGLE) & INLINE FLASHER \u2013 DUAL COLOR BLUE/WHITE"
         }
       ],
       "reviewed": false
