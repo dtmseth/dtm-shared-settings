@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "metadata": {
-    "last_updated": "2026-09-30T14:59:33.392247+00:00",
+    "last_updated": "2026-08-25T18:46:04.641407+00:00",
     "updated_by": "part-manager-ui",
-    "edit_revision": "6458206c2dab4ababdde569550f6fa61"
+    "edit_revision": "2182afdcc74c4f6bb0f010de2e0ce8c0"
   },
   "types": {
     "extras": {
@@ -758,7 +758,7 @@
           "qb_sku": "",
           "qb_unit_price": 336.23,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 545,
           "vehicle_tags": [
             "PIU"
@@ -773,7 +773,7 @@
           "qb_sku": "",
           "qb_unit_price": 336.23,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 545,
           "vehicle_tags": [
             "TAHOE"
@@ -788,7 +788,7 @@
           "qb_sku": "",
           "qb_unit_price": 336.23,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 545,
           "vehicle_tags": [
             "DURANGO"
@@ -803,7 +803,7 @@
           "qb_sku": "",
           "qb_unit_price": 336.23,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 545,
           "vehicle_tags": [
             "CHEVY-1500"
@@ -818,7 +818,7 @@
           "qb_sku": "",
           "qb_unit_price": 336.23,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 545,
           "vehicle_tags": [
             "F-150"
@@ -1120,7 +1120,7 @@
           "qb_sku": "",
           "qb_unit_price": 234.35,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 380,
           "vehicle_tags": [
             "PIU"
@@ -1135,7 +1135,7 @@
           "qb_sku": "",
           "qb_unit_price": 234.35,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 380,
           "vehicle_tags": [
             "DURANGO"
@@ -1150,7 +1150,7 @@
           "qb_sku": "",
           "qb_unit_price": 234.35,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 380,
           "vehicle_tags": [
             "F-150"
@@ -1165,7 +1165,7 @@
           "qb_sku": "",
           "qb_unit_price": 234.35,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 380,
           "vehicle_tags": [
             "TAHOE",
@@ -6492,8 +6492,7 @@
           "qb_sales_description": "SETINA #10VS RP HORIZONTAL SLIDING WINDOW\nUNCOATED POLYCARBONATE\nRECESSED PANEL PARTITION TM (TALL MAN)\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_single_prisioner": {
       "manufacturer_id": "setina",
@@ -6675,8 +6674,7 @@
           "qb_sales_description": "SETINA SINGLE PRISONER TRANSPORT PARTITION\n#7VS STATIONARY WINDOW\nVINYL COATED EXPANDED METAL\n*FOR USE WITH:\n   -STOCK SEAT\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_full_xl_partition": {
       "manufacturer_id": "setina",
@@ -6739,8 +6737,22 @@
           "qb_sales_description": "SETINA #10XL C2 HORIZONTAL SLIDING WINDOW\nCOATED POLYCARBONATE\nWITH SLOTTED POLYCARBONATE WINDOW SECURITY SCREEN\nXL PANEL PARTITION\n\n2019-2026 CHEVROLET TRUCK 1500",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
+      ]
+    },
+    "setina_passenger_side_xl_partition": {
+      "manufacturer_id": "setina",
+      "model": "PASSENGER SIDE XL PARTITION",
+      "fits_part_types": [
+        "front_partition"
       ],
-      "reviewed": true
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "PASSENGER SIDE XL PARTITION"
+        }
+      ]
     },
     "setina_poly": {
       "manufacturer_id": "setina",
@@ -6752,6 +6764,23 @@
       "description": "",
       "images": {},
       "part_numbers": [
+        {
+          "part_number": "WK0594CGR11",
+          "qb_item_id": "593",
+          "qb_sku": "",
+          "qb_unit_price": 309.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "CHARGER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE 2011-2023 DODGE CHARGER",
+          "qb_sales_description": "SETINA WINDOW BARRIER\nPOLYCARBONATE \n\n2011-2023 DODGE CHARGER",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
         {
           "part_number": "WK0595DUR11",
           "qb_item_id": "376",
@@ -6819,63 +6848,27 @@
           "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n-ALUMINUM DOOR PANELS\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
+        }
+      ]
+    },
+    "setina_cargo_maxx": {
+      "manufacturer_id": "setina",
+      "model": "CARGO MAXX",
+      "fits_part_types": [
+        "rear_seat_divider"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
         {
-          "part_number": "WK0594CGR11",
-          "qb_item_id": "593",
-          "qb_sku": "",
-          "qb_unit_price": 309.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "CHARGER"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE 2011-2023 DODGE CHARGER",
-          "qb_sales_description": "SETINA WINDOW BARRIER\nPOLYCARBONATE \n\n2011-2023 DODGE CHARGER",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "WK1491DUR11T",
-          "qb_item_id": "1064",
-          "qb_sku": "",
-          "qb_unit_price": 419.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS 2011-2026 DODGE DURANGO",
-          "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE TINTED\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n\n2011-2026 DODGE DURANGO",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "WK1491FDT15F150T",
-          "qb_item_id": "1056",
-          "qb_sku": "",
-          "qb_unit_price": 419.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "F-150"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED 2015-2026 FORD TRUCK F150",
-          "qb_sales_description": "SETINA WINDOW BARRIER\nPOLYCARBONATE TINTED\n\n2015-2026 FORD TRUCK F150",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
+          "part_number": "CARGO MAXX"
         }
       ]
     },
     "setina_steel_vertical": {
       "manufacturer_id": "setina",
-      "model": "Steel Window Barrier",
+      "model": "Window Barrier",
       "fits_part_types": [
         "rear_window_bars"
       ],
@@ -7036,6 +7029,159 @@
           "friendly_name": "SETINA WINDOW BARRIER STEEL HORIZONTAL *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA WINDOW BARRIER \nSTEEL\nHORIZONTAL\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n-ALUMINUM DOOR PANELS\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK0594CGR11",
+          "qb_item_id": "593",
+          "qb_sku": "",
+          "qb_unit_price": 309.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "CHARGER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE 2011-2023 DODGE CHARGER",
+          "qb_sales_description": "SETINA WINDOW BARRIER\nPOLYCARBONATE \n\n2011-2023 DODGE CHARGER",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK0595DUR11",
+          "qb_item_id": "376",
+          "qb_sku": "",
+          "qb_unit_price": 369.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS 2011-2026 DODGE DURANGO",
+          "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n\n2011-2026 DODGE DURANGO",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK0595FDT15F150P",
+          "qb_item_id": "923",
+          "qb_sku": "",
+          "qb_unit_price": 369.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER REAR WINDOW POLYCARBONATE 2015-2026 FORD TRUCK F150",
+          "qb_sales_description": "SETINA WINDOW BARRIER REAR WINDOW\nPOLYCARBONATE\n\n2015-2026 FORD TRUCK F150",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK0595ITU20",
+          "qb_item_id": "124",
+          "qb_sku": "",
+          "qb_unit_price": 369.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER VS POLYCARBONATE 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_sales_description": "SETINA WINDOW BARRIER VS\nPOLYCARBONATE\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK0595TAH21",
+          "qb_item_id": "460",
+          "qb_sku": "",
+          "qb_unit_price": 369.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE",
+          "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n-ALUMINUM DOOR PANELS\n\n2021-2026 CHEVROLET TAHOE",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK1491DUR11T",
+          "qb_item_id": "1064",
+          "qb_sku": "",
+          "qb_unit_price": 419.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS 2011-2026 DODGE DURANGO",
+          "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE TINTED\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n\n2011-2026 DODGE DURANGO",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK1491FDT15F150T",
+          "qb_item_id": "1056",
+          "qb_sku": "",
+          "qb_unit_price": 419.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "F-150"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED 2015-2026 FORD TRUCK F150",
+          "qb_sales_description": "SETINA WINDOW BARRIER\nPOLYCARBONATE TINTED\n\n2015-2026 FORD TRUCK F150",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK1491ITU20T",
+          "qb_item_id": "528",
+          "qb_sku": "",
+          "qb_unit_price": 419.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER VS POLYCARBONATE TINTED 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_sales_description": "SETINA WINDOW BARRIER VS\nPOLYCARBONATE TINTED\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "WK1491TAH21T",
+          "qb_item_id": "861",
+          "qb_sku": "",
+          "qb_unit_price": 419.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE",
+          "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE TINTED\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n-ALUMINUM DOOR PANELS\n\n2021-2026 CHEVROLET TAHOE",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ],
       "reviewed": true
@@ -7072,7 +7218,7 @@
     },
     "setina_steel_window": {
       "manufacturer_id": "setina",
-      "model": "REAR PARTITION W/ STEEL WINDOW",
+      "model": "STEEL WINDOW",
       "fits_part_types": [
         "rear_partition"
       ],
@@ -7101,7 +7247,7 @@
     },
     "setina_poly_window": {
       "manufacturer_id": "setina",
-      "model": "REAR PARTITION W/ POLY WINDOW",
+      "model": "POLY WINDOW",
       "fits_part_types": [
         "rear_partition"
       ],
@@ -7176,18 +7322,6 @@
           "friendly_name": "SETINA CARGO AREA REAR PARTITION FOR 2ND ROW SEAT #12VS STATIONARY WINDOW COATED POLYCARBONATE PARTITION 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA CARGO AREA REAR PARTITION\nFOR 2ND ROW SEAT\n#12VS STATIONARY WINDOW\nCOATED POLYCARBONATE PARTITION\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "PK0316ITU252ND",
-          "friendly_name": "SETINA Cargo Area Rear Partition\n#12VS Stationary Window\nCoated Polycarbonate\n*FOR USE WITH:\n   -2nd Row Seat\n\n2025-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_item_id": "1661",
-          "qb_sku": "",
-          "qb_sales_description": "SETINA Cargo Area Rear Partition\n#12VS Stationary Window\nCoated Polycarbonate\n*FOR USE WITH:\n   -2nd Row Seat\n\n2025-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_unit_price": 709.0,
-          "qb_last_synced": "2026-09-24T18:51:29.430406+00:00",
-          "vehicle_tags": [
-            "PIU"
-          ]
         }
       ]
     },
@@ -7366,23 +7500,6 @@
           "friendly_name": "SETINA CARGO DECK W/ DRAWER SUPER MAX *NOT COMPATIBLE WITH: SPT PARTITION *INCLUDES REQUIRED: -DUAL POLY WALL FOR RECESSED PANEL OR XL FRONT PARTITION -LOWER CARGO DECK W/ RUBBER MAT -STORAGE BOX -DOOR PANEL 1PC DRIVER SIDE ONLY *INCLUDES OPTIONAL ACCESSORIES: -UPPER CARGO DECK -TPO SINGLE REPLACEMENT SEAT W/ CENTER PULL SEAT BELT -DOOR PANEL ALUMINUM 1PC PASSENGER SIDE ONLY -WINDOW BARRIER 2PC SET HORIZONTAL BARS *DOES NOT INCLUDE REQUIRED: -RECESSED PANEL OR XL FRONT PARTITION -#12VS REAR PARTITION 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA CARGO DECK W/ DRAWER SUPER MAX\n*NOT COMPATIBLE WITH: SPT PARTITION\n*INCLUDES REQUIRED:\n   -DUAL POLY WALL FOR RECESSED PANEL OR XL FRONT PARTITION\n   -LOWER CARGO DECK W/ RUBBER MAT\n   -STORAGE BOX\n   -DOOR PANEL 1PC DRIVER SIDE ONLY\n*INCLUDES OPTIONAL ACCESSORIES:\n   -UPPER CARGO DECK\n   -TPO SINGLE REPLACEMENT SEAT W/ CENTER PULL SEAT BELT\n   -DOOR PANEL ALUMINUM 1PC PASSENGER SIDE ONLY\n   -WINDOW BARRIER 2PC SET HORIZONTAL BARS\n*DOES NOT INCLUDE REQUIRED:\n   -RECESSED PANEL OR XL FRONT PARTITION\n   -#12VS REAR PARTITION\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "TK0661BLE24",
-          "qb_item_id": "1273",
-          "qb_sku": "",
-          "qb_unit_price": 449.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "BLAZER"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA CARGO REAR DECK 2024-2026 CHEVROLET BLAZER EV",
-          "qb_sales_description": "SETINA CARGO REAR DECK\n\n2024-2026 CHEVROLET BLAZER EV",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ]
     },
@@ -7537,6 +7654,35 @@
           "tertiary_color": "",
           "friendly_name": "SETINA FLOOR PAN TPO PLASTIC 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
           "qb_sales_description": "SETINA FLOOR PAN\nTPO PLASTIC\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        }
+      ]
+    },
+    "setina_board": {
+      "manufacturer_id": "setina",
+      "model": "BOARD",
+      "fits_part_types": [
+        "equipment_tray"
+      ],
+      "tag_ids": [],
+      "description": "",
+      "images": {},
+      "part_numbers": [
+        {
+          "part_number": "TK0661BLE24",
+          "qb_item_id": "1273",
+          "qb_sku": "",
+          "qb_unit_price": 449.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "BLAZER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA CARGO REAR DECK 2024-2026 CHEVROLET BLAZER EV",
+          "qb_sales_description": "SETINA CARGO REAR DECK\n\n2024-2026 CHEVROLET BLAZER EV",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ]
@@ -8244,6 +8390,57 @@
       "images": {},
       "part_numbers": [
         {
+          "part_number": "QK0566DUR11",
+          "qb_item_id": "375",
+          "qb_sku": "",
+          "qb_unit_price": 1809.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2011-2026 DODGE DURANGO",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2011-2026 DODGE DURANGO",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK0566ITU20",
+          "qb_item_id": "38",
+          "qb_sku": "",
+          "qb_unit_price": 1809.0,
+          "qb_inactive": true,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2020-2024 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2020-2024 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK0566ITU25",
+          "qb_item_id": "1010000291",
+          "qb_sku": "",
+          "qb_unit_price": 1809.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT SEAT,2-CPSB,#12VS P CENTER PULL SEAT BELTS 25-25 INTERCEPTOR UTILITY NOT COMPATIBLE WITH RETAIL EXPLORER INCLUDES: REPLACEMENT SEAT 2 - CENTER PULL SEAT BELTS #12VS 2ND COATED POLY PARTITION INCLUDES: REPLACEMENT SEAT 2 - CENTER PULL SEAT BELTS #12VS 2ND COATED POLY PARTITION 202-2027 Ford Police Interceptor Utility",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2025-2027 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
           "part_number": "QK0634CGR11",
           "qb_item_id": "508",
           "qb_sku": "",
@@ -8278,10 +8475,44 @@
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
         {
-          "part_number": "QK1576BLE24",
-          "qb_item_id": "1275",
+          "part_number": "QK0634ITU20",
+          "qb_item_id": "678",
           "qb_sku": "",
-          "qb_unit_price": 1429.0,
+          "qb_unit_price": 1129.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "PIU"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK0635DUR11",
+          "qb_item_id": "1091",
+          "qb_sku": "",
+          "qb_unit_price": 1799.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "DURANGO"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2011-2026 DODGE DURANGO",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2011-2026 DODGE DURANGO",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK1224BLE24",
+          "qb_item_id": "1271",
+          "qb_sku": "",
+          "qb_unit_price": 2479.0,
           "qb_inactive": false,
           "vehicle_tags": [
             "BLAZER"
@@ -8290,8 +8521,8 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2024-2026 CHEVROLET BLAZER EV",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n\n2024-2026 CHEVROLET BLAZER EV",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH SETINA SMARTBELT SYSTEM 2024-2026 CHERVOLET BLAZER EV",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH SETINA SMARTBELT SYSTEM\n\n*REQUIRED #12VS CARGO AREA REAR PARTITION NOT INCLUDED\n\n2024-2026 CHERVOLET BLAZER EV",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
         {
@@ -8312,27 +8543,10 @@
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
         {
-          "part_number": "QK0634ITU20",
-          "qb_item_id": "678",
+          "part_number": "QK1576BLE24",
+          "qb_item_id": "1275",
           "qb_sku": "",
-          "qb_unit_price": 1129.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK1224BLE24",
-          "qb_item_id": "1271",
-          "qb_sku": "",
-          "qb_unit_price": 2479.0,
+          "qb_unit_price": 1429.0,
           "qb_inactive": false,
           "vehicle_tags": [
             "BLAZER"
@@ -8341,15 +8555,66 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH SETINA SMARTBELT SYSTEM 2024-2026 CHERVOLET BLAZER EV",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH SETINA SMARTBELT SYSTEM\n\n*REQUIRED #12VS CARGO AREA REAR PARTITION NOT INCLUDED\n\n2024-2026 CHERVOLET BLAZER EV",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS 2024-2026 CHEVROLET BLAZER EV",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n\n2024-2026 CHEVROLET BLAZER EV",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK1684BLE24",
+          "qb_item_id": "1282",
+          "qb_sku": "",
+          "qb_unit_price": 1929.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "BLAZER"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2024-2026 CHEVROLET BLAZER EV",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2024-2026 CHEVROLET BLAZER EV",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK2023TAH21",
+          "qb_item_id": "665",
+          "qb_sku": "",
+          "qb_unit_price": 1969.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2021-2026 CHEVROLET TAHOE",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2021-2026 CHEVROLET TAHOE",
+          "qb_last_synced": "2026-08-11T17:04:28Z"
+        },
+        {
+          "part_number": "QK2024TAH21",
+          "qb_item_id": "597",
+          "qb_sku": "",
+          "qb_unit_price": 1979.0,
+          "qb_inactive": false,
+          "vehicle_tags": [
+            "TAHOE"
+          ],
+          "color": "",
+          "secondary_color": "",
+          "lens_type": "",
+          "tertiary_color": "",
+          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2021-2026 CHEVROLET TAHOE",
+          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
       ]
     },
     "setina_full_cover_seat": {
       "manufacturer_id": "setina",
-      "model": "FULL COVER SEAT w/ Rear Partition",
+      "model": "FULL COVER SEAT",
       "fits_part_types": [
         "replacement_rear_seat"
       ],
@@ -8458,8 +8723,7 @@
           "vehicle_tags": [
             "TAHOE",
             "DURANGO",
-            "F-150",
-            "PIU"
+            "F-150"
           ],
           "color": "",
           "secondary_color": "",
@@ -8467,7 +8731,7 @@
           "tertiary_color": "",
           "friendly_name": "SETINA CENTER PULL SEAT BELT RETRACTOR 11-24 DURANGO/20-25 UTILITY/21-25 TAHOE/15-25 FORD TRUCK F150",
           "qb_sales_description": "SETINA CENTER PULL SEAT BELT RETRACTOR\n11-27 DURANGO/20-27 UTILITY/21-26\nTAHOE/15-27 FORD TRUCK F150/24-26 BLE",
-          "qb_last_synced": "2026-09-24T18:50:58Z"
+          "qb_last_synced": "2026-09-30T21:39:55Z"
         }
       ]
     },
@@ -8616,9 +8880,9 @@
     },
     "setina_dual_prisoner": {
       "manufacturer_id": "setina",
-      "model": "DUAL PRISONER DIVIDER",
+      "model": "DUAL PRISONER PARTITION",
       "fits_part_types": [
-        "rear_seat_divider"
+        "front_partition"
       ],
       "tag_ids": [],
       "description": "",
@@ -8637,7 +8901,7 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETNA DUAL PRISONER TRANSPORT DIVIDER *FOR USE WITH: - CREW CAB - RECESSED OR XL PANEL PARTITION - FULL STOCK SEAT -REAR WINDOW BARRIER 2019-2026 CHEVROLET TRUCK 1500",
+          "friendly_name": "SETNA DUAL PRISONER TRANSPORT PARTITION *FOR USE WITH: - CREW CAB - RECESSED OR XL PANEL PARTITION - FULL STOCK SEAT -REAR WINDOW BARRIER 2019-2026 CHEVROLET TRUCK 1500",
           "qb_sales_description": "SETNA DUAL PRISONER TRANSPORT PARTITION\n*FOR USE WITH:\n   - CREW CAB\n   - RECESSED OR XL PANEL PARTITION\n   - FULL STOCK SEAT\n  -REAR WINDOW BARRIER\n\n2019-2026 CHEVROLET TRUCK 1500",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
@@ -8654,7 +8918,7 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETINA DUAL PRISONER TRANSPORT DIVIDER *FOR USE WITH: -RECESSED OR XL PANEL Partition -Full REPLACEMENT TRANSPORT PARTITION SEAT 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
+          "friendly_name": "SETINA DUAL PRISONER TRANSPORT PARTITION *FOR USE WITH: -RECESSED OR XL PANEL Partition -Full REPLACEMENT TRANSPORT PARTITION SEAT 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
           "qb_sales_description": "SETINA DUAL PRISONER TRANSPORT PARTITION\n*FOR USE WITH:\n   -RECESSED OR XL PANEL Partition\n   -Full REPLACEMENT TRANSPORT PARTITION SEAT\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
@@ -8671,7 +8935,7 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT DIVIDER *FOR USE WITH: -FLAT PANEL PARTITION -FULL STOCK SEAT 2021-2026 CHEROLET TAHOE",
+          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION *FOR USE WITH: -FLAT PANEL PARTITION -FULL STOCK SEAT 2021-2026 CHEROLET TAHOE",
           "qb_sales_description": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION\n*FOR USE WITH:\n   -FLAT PANEL PARTITION\n   -FULL STOCK SEAT\n\n2021-2026 CHEROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         },
@@ -8688,12 +8952,11 @@
           "secondary_color": "",
           "lens_type": "",
           "tertiary_color": "",
-          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT DIVIDER FOR USE WITH: 2021-2026 CHEVY TAHOE -RECESSED OR XL PANEL PARTITION -FULL COVER TRANSPORT PARTITION SEAT 2021-2026 CHEVROLET TAHOE",
+          "friendly_name": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION FOR USE WITH: 2021-2026 CHEVY TAHOE -RECESSED OR XL PANEL PARTITION -FULL COVER TRANSPORT PARTITION SEAT 2021-2026 CHEVROLET TAHOE",
           "qb_sales_description": "SETINA DPT DUAL PRISONER TRANSPORT PARTITION\nFOR USE WITH: 2021-2026 CHEVY TAHOE\n   -RECESSED OR XL PANEL PARTITION\n   -FULL COVER TRANSPORT PARTITION SEAT\n\n2021-2026 CHEVROLET TAHOE",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
-      ],
-      "reviewed": true
+      ]
     },
     "setina_ultimate_k9": {
       "manufacturer_id": "setina",
@@ -9091,7 +9354,9 @@
     "setina_module_relocation_plate": {
       "manufacturer_id": "setina",
       "model": "MODULE RELOCATION PLATE",
-      "fits_part_types": [],
+      "fits_part_types": [
+        "front_partition_transfer_kit"
+      ],
       "tag_ids": [],
       "description": "",
       "images": {},
@@ -9113,9 +9378,7 @@
           "qb_sales_description": "SETINA #12VS 2ND MODULE RELOCATION PLATE 2024 TO 2025 INTERCEPTOR UTILITY",
           "qb_last_synced": "2026-08-11T17:04:28Z"
         }
-      ],
-      "reviewed": true,
-      "accessory_category": "bracket_mount"
+      ]
     },
     "setina_lower_extension_panel": {
       "manufacturer_id": "setina",
@@ -12714,7 +12977,7 @@
           "lens_type": "",
           "friendly_name": "Ford F-250/350/450/550 '17-26, driver",
           "qb_sales_description": "WHELEN SA-315 SIREN MOUNT KIT, 2017-2026 FORD F-250/F-350/F-450/F-550, 2018-2026 F-600, DRIVER SIDE",
-          "qb_last_synced": "2026-09-24T18:50:58Z"
+          "qb_last_synced": "2026-09-30T21:39:55Z"
         },
         {
           "part_number": "SAK63D",
@@ -15462,12 +15725,7 @@
           "part_number": "ECVDMLTAL00",
           "friendly_name": "SOUNDOFF DOME LIGHT - 6\" ROUND, WHITE AND RED NIGHT LIGHT LEDS, WHITE LENS",
           "color": "white",
-          "secondary_color": "red",
-          "qb_item_id": "121",
-          "qb_sku": "",
-          "qb_sales_description": "OBSERVE DOME LIGHT - 6\" ROUND, WHITE AND RED NIGHT LIGHT LEDS, WHITE LENS",
-          "qb_unit_price": 154.0,
-          "qb_last_synced": "2026-10-12T21:41:31Z"
+          "secondary_color": "red"
         }
       ],
       "reviewed": true
@@ -16515,7 +16773,7 @@
           "qb_sku": "",
           "qb_unit_price": 434.81,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 704,
           "vehicle_tags": [
             "any"
@@ -16713,7 +16971,7 @@
           "qb_sku": "",
           "qb_unit_price": 369.36,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 598,
           "vehicle_tags": [
             "PIU"
@@ -16739,7 +16997,7 @@
           "qb_sku": "",
           "qb_unit_price": 34.34,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 56,
           "vehicle_tags": [
             "PIU"
@@ -16771,7 +17029,7 @@
           "qb_sku": "",
           "qb_unit_price": 515.11,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 834,
           "vehicle_tags": [
             "TAHOE"
@@ -16797,7 +17055,7 @@
           "qb_sku": "",
           "qb_unit_price": 34.34,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 56,
           "vehicle_tags": [
             "TAHOE"
@@ -16829,7 +17087,7 @@
           "qb_sku": "",
           "qb_unit_price": 369.36,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 598,
           "vehicle_tags": [
             "DURANGO"
@@ -16855,7 +17113,7 @@
           "qb_sku": "",
           "qb_unit_price": 36.98,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 56,
           "vehicle_tags": [
             "DURANGO"
@@ -16885,7 +17143,7 @@
           "qb_sku": "",
           "qb_unit_price": 31.22,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 56,
           "vehicle_tags": [
             "F-150"
@@ -16917,7 +17175,7 @@
           "qb_sku": "",
           "qb_unit_price": 515.11,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 834,
           "vehicle_tags": [
             "CHEVY-1500"
@@ -16943,7 +17201,7 @@
           "qb_sku": "",
           "qb_unit_price": 34.65,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 56,
           "vehicle_tags": [
             "CHEVY-1500"
@@ -16975,7 +17233,7 @@
           "qb_sku": "",
           "qb_unit_price": 515.11,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 834,
           "vehicle_tags": [
             "F-150"
@@ -17001,7 +17259,7 @@
           "qb_sku": "",
           "qb_unit_price": 34.34,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 56,
           "vehicle_tags": [
             "PIU",
@@ -17033,7 +17291,7 @@
           "qb_sku": "",
           "qb_unit_price": 34.34,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 56,
           "vehicle_tags": [
             "PIU",
@@ -17065,7 +17323,7 @@
           "qb_sku": "",
           "qb_unit_price": 34.34,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 56,
           "vehicle_tags": [
             "PIU",
@@ -17097,7 +17355,7 @@
           "qb_sku": "",
           "qb_unit_price": 34.34,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 56,
           "vehicle_tags": [
             "PIU",
@@ -17129,7 +17387,7 @@
           "qb_sku": "",
           "qb_unit_price": 34.34,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 56,
           "vehicle_tags": [
             "PIU",
@@ -17161,7 +17419,7 @@
           "qb_sku": "",
           "qb_unit_price": 34.34,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 56,
           "vehicle_tags": [
             "F-150",
@@ -17193,7 +17451,7 @@
           "qb_sku": "",
           "qb_unit_price": 34.34,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 56,
           "vehicle_tags": [
             "TAHOE",
@@ -17227,7 +17485,7 @@
           "qb_sku": "",
           "qb_unit_price": 34.34,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 56,
           "vehicle_tags": [
             "TAHOE",
@@ -17377,7 +17635,7 @@
           "qb_sku": "",
           "qb_unit_price": 266.28,
           "qb_inactive": false,
-          "qb_last_synced": "2026-09-24T20:45:30Z",
+          "qb_last_synced": "2026-09-30T21:39:55Z",
           "price_usd": 366,
           "vehicle_tags": [
             "any"
@@ -22260,7 +22518,7 @@
           "qb_sku": "",
           "qb_unit_price": 117.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-10-12T21:29:24Z",
           "price_usd": 59.74,
           "vehicle_tags": [
             "any"
@@ -22672,15 +22930,15 @@
           "friendly_name": "SOUNDOFF SELECT-A-PATTERN HEADLIGHT FLASHER, SOLID STATE, 12V ISOLATION MODEL (FOR SYSTEMS REQUIRING ELECTRICAL ISOLATION)",
           "qb_item_id": "238",
           "qb_sku": "",
-          "qb_unit_price": 124.0,
+          "qb_unit_price": 63.8,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 63.8,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "SELECT-A-PATTERN HEADLIGHT FLASHER, SOLID STATE, 12V ISOLATION MODEL (FOR SYSTEMS REQUIRING ELECTRICAL ISOLATION)"
+          "qb_sales_description": "SOUNDOFF SELECT-A-PATTERN HEADLIGHT FLASHER, SOLID STATE, 12V ISOLATION MODEL (FOR SYSTEMS REQUIRING ELECTRICAL ISOLATION)"
         }
       ],
       "reviewed": false
@@ -22729,15 +22987,15 @@
           "friendly_name": "SOUNDOFF NERGY\u00ae 400 SERIES HANDHELD REMOTE SIREN W/ 13 FT COIL CABLE LENGTH, 10-16V - 100 WATT SINGLE-TONE",
           "qb_item_id": "304",
           "qb_sku": "",
-          "qb_unit_price": 965.0,
+          "qb_unit_price": 505.18,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 505.18,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "NERGY 400 SERIES HANDHELD REMOTE SIREN W/ 13 FT COIL CABLE LENGTH, 10-16V - 100 WATT SINGLE-TONE"
+          "qb_sales_description": "SOUNDOFF NERGY\u00ae 400 SERIES HANDHELD REMOTE SIREN W/ 13 FT COIL CABLE LENGTH, 10-16V - 100 WATT SINGLE-TONE"
         }
       ],
       "reviewed": false
@@ -25656,15 +25914,15 @@
           "friendly_name": "SOUNDOFF 90 DEGREE DECK/GRILLE ADJUSTABLE BRACKET KIT FOR MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT - BLACK",
           "qb_item_id": "237",
           "qb_sku": "",
-          "qb_unit_price": 19.0,
+          "qb_unit_price": 9.28,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 9.28,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "90 DEGREE DECK/GRILLE ADJUSTABLE BRACKET KIT FOR MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT - BLACK"
+          "qb_sales_description": "SOUNDOFF 90 DEGREE DECK/GRILLE ADJUSTABLE BRACKET KIT FOR MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT - BLACK"
         }
       ],
       "reviewed": false,
@@ -25690,15 +25948,15 @@
           "friendly_name": "SOUNDOFF LICENSE PLATE BRACKET, VERTICAL MOUNT FOR MPOWER 4\" FASCIA LIGHT W/ STUD MOUNT - MOUNTS 2 LIGHTS, ONE ON EACH SIDE OF THE LICENSE PLACE (EACH)",
           "qb_item_id": "35",
           "qb_sku": "",
-          "qb_unit_price": 61.0,
+          "qb_unit_price": 30.16,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 30.16,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "LICENSE PLATE BRACKET, VERTICAL MOUNT FOR MPOWER 4\" FASCIA LIGHT W/ STUD MOUNT - MOUNTS 2 LIGHTS, ONE ON EACH SIDE OF THE LICENSE PLACE (EACH)"
+          "qb_sales_description": "SOUNDOFF LICENSE PLATE BRACKET, VERTICAL MOUNT FOR MPOWER 4\" FASCIA LIGHT W/ STUD MOUNT - MOUNTS 2 LIGHTS, ONE ON EACH SIDE OF THE LICENSE PLACE (EACH)"
         }
       ],
       "reviewed": false,
@@ -25722,15 +25980,15 @@
           "friendly_name": "SOUNDOFF 15 DEGREE WEDGE ASSEMBLY, BLACK, FOR USE WITH 4\" QUICK MOUNT LIGHT",
           "qb_item_id": "413",
           "qb_sku": "",
-          "qb_unit_price": 16.0,
+          "qb_unit_price": 7.54,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 7.54,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "15 DEGREE WEDGE ASSEMBLY, BLACK, FOR USE WITH 4\" QUICK MOUNT LIGHT"
+          "qb_sales_description": "SOUNDOFF 15 DEGREE WEDGE ASSEMBLY, BLACK, FOR USE WITH 4\" QUICK MOUNT LIGHT"
         }
       ],
       "reviewed": false,
@@ -25755,15 +26013,15 @@
           "friendly_name": "SOUND OFF MPOWER\u00ae THIRD BRAKE LIGHT BRACKET FOR USE WITH (2) MPOWER 4X2 STUD MOUNT LIGHTS",
           "qb_item_id": "870",
           "qb_sku": "",
-          "qb_unit_price": 236.0,
+          "qb_unit_price": 116.57,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 116.57,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "MPOWER\u00ae THIRD BRAKE LIGHT BRACKET FOR USE WITH (2) MPOWER 4X2 STUD MOUNT LIGHTS"
+          "qb_sales_description": "SOUND OFF MPOWER\u00ae THIRD BRAKE LIGHT BRACKET FOR USE WITH (2) MPOWER 4X2 STUD MOUNT LIGHTS"
         }
       ],
       "reviewed": false,
@@ -29691,9 +29949,9 @@
           "friendly_name": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, DUAL COLOR - AMBER/WHITE",
           "qb_item_id": "750",
           "qb_sku": "",
-          "qb_unit_price": 242.0,
+          "qb_unit_price": 127.02,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 127.02,
           "vehicle_tags": [
             "any"
@@ -29701,16 +29959,16 @@
           "options": {},
           "color": "amber",
           "secondary_color": "white",
-          "qb_sales_description": "MPOWER\u00ae 3\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, DUAL COLOR - AMBER/WHITE"
+          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, DUAL COLOR - AMBER/WHITE"
         },
         {
           "part_number": "EMPS1SLS3D",
           "friendly_name": "SOUNDOFF 3\" MPOWER STUD MOUNT RED/WHITE",
           "qb_item_id": "531",
           "qb_sku": "",
-          "qb_unit_price": 242.0,
+          "qb_unit_price": 84.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 84,
           "vehicle_tags": [
             "any"
@@ -29718,16 +29976,16 @@
           "options": {},
           "color": "red",
           "secondary_color": "white",
-          "qb_sales_description": "MPOWER\u00ae 3\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, DUAL COLOR - RED/WHITE"
+          "qb_sales_description": "SOUNDOFF 3\" MPOWER STUD MOUNT RED/WHITE"
         },
         {
           "part_number": "EMPS1SLS3E",
           "friendly_name": "SOUNDOFF 3\" MPOWER STUD MOUNT BLUE/WHITE",
           "qb_item_id": "532",
           "qb_sku": "",
-          "qb_unit_price": 242.0,
+          "qb_unit_price": 84.0,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 84,
           "vehicle_tags": [
             "any"
@@ -29735,16 +29993,16 @@
           "options": {},
           "color": "blue",
           "secondary_color": "white",
-          "qb_sales_description": "MPOWER\u00ae 3\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, DUAL COLOR - BLUE/WHITE"
+          "qb_sales_description": "SOUNDOFF 3\" MPOWER STUD MOUNT BLUE/WHITE"
         },
         {
           "part_number": "EMPS1SMS3B",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE",
           "qb_item_id": "31",
           "qb_sku": "",
-          "qb_unit_price": 242.0,
+          "qb_unit_price": 127.02,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 127.02,
           "vehicle_tags": [
             "any"
@@ -29752,16 +30010,16 @@
           "options": {},
           "color": "blue",
           "secondary_color": "",
-          "qb_sales_description": "MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE"
+          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE"
         },
         {
           "part_number": "EMPS1SMS3R",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - RED",
           "qb_item_id": "32",
           "qb_sku": "",
-          "qb_unit_price": 242.0,
+          "qb_unit_price": 127.02,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 127.02,
           "vehicle_tags": [
             "any"
@@ -29769,7 +30027,7 @@
           "options": {},
           "color": "red",
           "secondary_color": "",
-          "qb_sales_description": "MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - RED"
+          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 3\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - RED"
         }
       ],
       "reviewed": true
@@ -29794,9 +30052,9 @@
           "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
           "qb_item_id": "470",
           "qb_sku": "",
-          "qb_unit_price": 269.0,
+          "qb_unit_price": 142.1,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 142.1,
           "vehicle_tags": [
             "any"
@@ -29804,16 +30062,16 @@
           "options": {},
           "color": "red",
           "secondary_color": "white",
-          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
+          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
         },
         {
           "part_number": "EMPS2QMS4E",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
           "qb_item_id": "471",
           "qb_sku": "",
-          "qb_unit_price": 269.0,
+          "qb_unit_price": 142.1,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 142.1,
           "vehicle_tags": [
             "any"
@@ -29821,16 +30079,16 @@
           "options": {},
           "color": "blue",
           "secondary_color": "white",
-          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
+          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ QUICK MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
         },
         {
           "part_number": "EMPS2SMS4D",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
           "qb_item_id": "29",
           "qb_sku": "",
-          "qb_unit_price": 269.0,
+          "qb_unit_price": 142.1,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 142.1,
           "vehicle_tags": [
             "any"
@@ -29838,16 +30096,16 @@
           "options": {},
           "color": "red",
           "secondary_color": "white",
-          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
+          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
         },
         {
           "part_number": "EMPS2SMS4E",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
           "qb_item_id": "30",
           "qb_sku": "",
-          "qb_unit_price": 269.0,
+          "qb_unit_price": 142.1,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 142.1,
           "vehicle_tags": [
             "any"
@@ -29855,16 +30113,16 @@
           "options": {},
           "color": "blue",
           "secondary_color": "white",
-          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
+          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ SCREW MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
         },
         {
           "part_number": "EMPS2STS3A mpower\u00ae 4\" Fascia Light w/ Stud Mount, 18\" hard wire w/ sync option, SAE Class 1 & CA Tit",
           "friendly_name": "SOUNDOFF EMPS2STS3A MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - AMBER",
           "qb_item_id": "1602",
           "qb_sku": "",
-          "qb_unit_price": 252.0,
+          "qb_unit_price": 120.96,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T22:01:29Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 120.96,
           "vehicle_tags": [
             "any"
@@ -29872,16 +30130,16 @@
           "options": {},
           "color": "amber",
           "secondary_color": "",
-          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - AMBER"
+          "qb_sales_description": "SOUNDOFF EMPS2STS3A MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - AMBER"
         },
         {
           "part_number": "EMPS2STS3B",
           "friendly_name": "SOUNDOF EMPS2STS3B MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE",
           "qb_item_id": "1603",
           "qb_sku": "",
-          "qb_unit_price": 252.0,
+          "qb_unit_price": 120.96,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 120.96,
           "vehicle_tags": [
             "any"
@@ -29889,16 +30147,16 @@
           "options": {},
           "color": "blue",
           "secondary_color": "",
-          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE"
+          "qb_sales_description": "SOUNDOF EMPS2STS3B MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 8 LED, SINGLE COLOR - BLUE"
         },
         {
           "part_number": "EMPS2STS4D",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
           "qb_item_id": "33",
           "qb_sku": "",
-          "qb_unit_price": 269.0,
+          "qb_unit_price": 142.1,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 142.1,
           "vehicle_tags": [
             "any"
@@ -29906,16 +30164,16 @@
           "options": {},
           "color": "red",
           "secondary_color": "white",
-          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
+          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
         },
         {
           "part_number": "EMPS2STS4E",
           "friendly_name": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
           "qb_item_id": "34",
           "qb_sku": "",
-          "qb_unit_price": 269.0,
+          "qb_unit_price": 142.1,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 142.1,
           "vehicle_tags": [
             "any"
@@ -29923,7 +30181,7 @@
           "options": {},
           "color": "blue",
           "secondary_color": "white",
-          "qb_sales_description": "MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
+          "qb_sales_description": "SOUNDOFF MPOWER\u00ae 4\" FASCIA LIGHT W/ STUD MOUNT, 18\" HARD WIRE W/ SYNC OPTION, SAE CLASS 1 & CA TITLE 13, 9-32 VDC, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
         },
         {
           "part_number": "EMPS2STS4K",
@@ -29982,9 +30240,9 @@
           "friendly_name": "SOUNDOFF NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE",
           "qb_item_id": "86",
           "qb_sku": "",
-          "qb_unit_price": 292.0,
+          "qb_unit_price": 154.28,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 154.28,
           "vehicle_tags": [
             "any"
@@ -29992,16 +30250,16 @@
           "options": {},
           "color": "red",
           "secondary_color": "white",
-          "qb_sales_description": "NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
+          "qb_sales_description": "SOUNDOFF NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - RED/WHITE"
         },
         {
           "part_number": "ENFSGS3E",
           "friendly_name": "SOUNDOFF NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE",
           "qb_item_id": "355",
           "qb_sku": "",
-          "qb_unit_price": 292.0,
+          "qb_unit_price": 154.28,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 154.28,
           "vehicle_tags": [
             "any"
@@ -30009,7 +30267,7 @@
           "options": {},
           "color": "blue",
           "secondary_color": "white",
-          "qb_sales_description": "NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
+          "qb_sales_description": "SOUNDOFF NFORCE\u00ae SINGLE DECK/GRILLE MOUNT LIGHT, SAE CLASS 1, 10-16V, BLACK HOUSING, 12 LED, DUAL COLOR - BLUE/WHITE"
         }
       ],
       "reviewed": true
@@ -30037,9 +30295,9 @@
           "friendly_name": "SOUND OFF SURFACE MOUNT DUO COLOR INTERSECTOR SUPER LED LIGHT KIT - INCLUDES 1 LIGHT WITH MOUNTING GASKET AND INLINE FLASHER RED/WHT - CLEAR LENS - BLACK HSNG",
           "qb_item_id": "87",
           "qb_sku": "",
-          "qb_unit_price": 410.0,
+          "qb_unit_price": 163.9,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 163.9,
           "vehicle_tags": [
             "any"
@@ -30047,82 +30305,82 @@
           "options": {},
           "color": "red",
           "secondary_color": "",
-          "qb_sales_description": "INTERSECTOR SURFACE MOUNT LIGHT, 9-32 VDC, BLACK HOUSING, 16 LEDS, DUAL COLOR - RED/WHITE"
+          "qb_sales_description": "SOUND OFF SURFACE MOUNT DUO COLOR INTERSECTOR SUPER LED LIGHT KIT - INCLUDES 1 LIGHT WITH MOUNTING GASKET AND INLINE FLASHER RED/WHT - CLEAR LENS - BLACK HSNG"
         },
         {
           "part_number": "ENT2B3B",
           "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - BLUE",
           "qb_item_id": "283",
           "qb_sku": "",
-          "qb_unit_price": 351.0,
+          "qb_unit_price": 185.02,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 185.02,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - BLUE"
+          "qb_sales_description": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - BLUE"
         },
         {
           "part_number": "ENT2B3D",
           "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - RED/WHITE",
           "qb_item_id": "50",
           "qb_sku": "",
-          "qb_unit_price": 410.0,
+          "qb_unit_price": 215.76,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 215.76,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - RED/WHITE"
+          "qb_sales_description": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - RED/WHITE"
         },
         {
           "part_number": "ENT2B3E",
           "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - BLUE/WHITE",
           "qb_item_id": "51",
           "qb_sku": "",
-          "qb_unit_price": 410.0,
+          "qb_unit_price": 215.76,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 215.76,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - BLUE/WHITE"
+          "qb_sales_description": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - BLUE/WHITE"
         },
         {
           "part_number": "ENT2B3F",
           "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - AMBER/WHITE",
           "qb_item_id": "128",
           "qb_sku": "",
-          "qb_unit_price": 410.0,
+          "qb_unit_price": 215.76,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 215.76,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - AMBER/WHITE"
+          "qb_sales_description": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 16 LEDS, DUAL COLOR - AMBER/WHITE"
         },
         {
           "part_number": "ENT2B3R",
           "friendly_name": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - RED",
           "qb_item_id": "284",
           "qb_sku": "",
-          "qb_unit_price": 351.0,
+          "qb_unit_price": 185.02,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T21:41:31Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 185.02,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - RED"
+          "qb_sales_description": "SOUNDOFF INTERSECTOR UNDER MIRROR MOUNT LIGHT, 9-32 VDC, W/ 4-WEDGES, MOUNTING GASKET & HARDWARE, 8 LEDS, SINGLE COLOR - RED"
         }
       ],
       "reviewed": true
@@ -31105,15 +31363,15 @@
           "friendly_name": "UNDERCOVER LED INSERT - 6 3RD GEN SUPER LED'S - 10' 5-WIRE CABLE - BLUE/WHITE - 10-30 VOLT",
           "qb_item_id": "503",
           "qb_sku": "",
-          "qb_unit_price": 183.0,
+          "qb_unit_price": 71.22,
           "qb_inactive": false,
-          "qb_last_synced": "2026-10-12T22:01:29Z",
+          "qb_last_synced": "2026-08-11T17:04:28Z",
           "price_usd": 71.22,
           "vehicle_tags": [
             "any"
           ],
           "options": {},
-          "qb_sales_description": "UNIVERSAL UNDERCOVER SCREW-IN LED INSERT SINGLE LIGHT KIT, 9-32 VDC W/ 10\u2019 5-WIRE HARNESS: INCLUDES INSERT, LENS #1 (EXTREME ANGLE) & INLINE FLASHER \u2013 DUAL COLOR BLUE/WHITE"
+          "qb_sales_description": "UNDERCOVER LED INSERT - 6 3RD GEN SUPER LED'S - 10' 5-WIRE CABLE - BLUE/WHITE - 10-30 VOLT"
         }
       ],
       "reviewed": false
@@ -31693,180 +31951,6 @@
         }
       ],
       "reviewed": false
-    },
-    "setina_full_replacement_seat_w_rear_partition": {
-      "manufacturer_id": "setina",
-      "model": "FULL REPLACEMENT SEAT W/ REAR PARTITION",
-      "description": "",
-      "fits_part_types": [
-        "rear_partition",
-        "replacement_rear_seat"
-      ],
-      "tag_ids": [],
-      "part_numbers": [
-        {
-          "part_number": "QK2024TAH21",
-          "qb_item_id": "597",
-          "qb_sku": "",
-          "qb_unit_price": 1979.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2021-2026 CHEVROLET TAHOE",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2021-2026 CHEVROLET TAHOE",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK2023TAH21",
-          "qb_item_id": "665",
-          "qb_sku": "",
-          "qb_unit_price": 1969.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2021-2026 CHEVROLET TAHOE",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2021-2026 CHEVROLET TAHOE",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK1684BLE24",
-          "qb_item_id": "1282",
-          "qb_sku": "",
-          "qb_unit_price": 1929.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "BLAZER"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2024-2026 CHEVROLET BLAZER EV",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2024-2026 CHEVROLET BLAZER EV",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK0635DUR11",
-          "qb_item_id": "1091",
-          "qb_sku": "",
-          "qb_unit_price": 1799.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2011-2026 DODGE DURANGO",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW VINYL COATED EXPANDED METAL CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2011-2026 DODGE DURANGO",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK0566ITU25",
-          "qb_item_id": "1010000291",
-          "qb_sku": "",
-          "qb_unit_price": 1809.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT SEAT,2-CPSB,#12VS P CENTER PULL SEAT BELTS 25-25 INTERCEPTOR UTILITY NOT COMPATIBLE WITH RETAIL EXPLORER INCLUDES: REPLACEMENT SEAT 2 - CENTER PULL SEAT BELTS #12VS 2ND COATED POLY PARTITION INCLUDES: REPLACEMENT SEAT 2 - CENTER PULL SEAT BELTS #12VS 2ND COATED POLY PARTITION 202-2027 Ford Police Interceptor Utility",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2025-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK0566DUR11",
-          "qb_item_id": "375",
-          "qb_sku": "",
-          "qb_unit_price": 1809.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "DURANGO"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2011-2026 DODGE DURANGO",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2011-2026 DODGE DURANGO",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "QK0566ITU20",
-          "qb_item_id": "38",
-          "qb_sku": "",
-          "qb_unit_price": 1809.0,
-          "qb_inactive": true,
-          "vehicle_tags": [
-            "PIU"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA FULL REPLACEMENT TRANSPORT SEAT TPO PLASTIC WITH CENTER PULL SEAT BELTS *INCLUDES REQUIRED: -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION *SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME 2020-2024 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_sales_description": "SETINA FULL REPLACEMENT TRANSPORT SEAT\nTPO PLASTIC\nWITH CENTER PULL SEAT BELTS\n*INCLUDES REQUIRED:\n   -#12VS STATIONARY WINDOW COATED POLYCARBONATE CARGO AREA REAR PARTITION\n*SEAT BELT RETRACTORS PRE-INSTALLED TO SAVE 30 MINUTES OF INSTALL TIME\n\n2020-2024 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        }
-      ]
-    },
-    "setina_poly_window_barrier_tinted": {
-      "manufacturer_id": "setina",
-      "model": "Poly Window Barrier - Tinted",
-      "description": "",
-      "fits_part_types": [],
-      "tag_ids": [],
-      "part_numbers": [
-        {
-          "part_number": "WK1491ITU20T",
-          "qb_item_id": "528",
-          "qb_sku": "",
-          "qb_unit_price": 419.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "PIU"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA WINDOW BARRIER VS POLYCARBONATE TINTED 2020-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_sales_description": "SETINA WINDOW BARRIER VS\nPOLYCARBONATE TINTED\n\n2020-2027 FORD POLICE INTERCEPTOR UTILITY",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        },
-        {
-          "part_number": "WK1491TAH21T",
-          "qb_item_id": "861",
-          "qb_sku": "",
-          "qb_unit_price": 419.0,
-          "qb_inactive": false,
-          "vehicle_tags": [
-            "TAHOE"
-          ],
-          "color": "",
-          "secondary_color": "",
-          "lens_type": "",
-          "tertiary_color": "",
-          "friendly_name": "SETINA WINDOW BARRIER POLYCARBONATE TINTED *FOR USE WITH: -STOCK DOOR PANELS -SETINA TPO DOOR PANELS -ALUMINUM DOOR PANELS 2021-2026 CHEVROLET TAHOE",
-          "qb_sales_description": "SETINA WINDOW BARRIER \nPOLYCARBONATE TINTED\n*FOR USE WITH:\n   -STOCK DOOR PANELS\n   -SETINA TPO DOOR PANELS\n-ALUMINUM DOOR PANELS\n\n2021-2026 CHEVROLET TAHOE",
-          "qb_last_synced": "2026-08-11T17:04:28Z"
-        }
-      ]
     }
   },
   "part_types": {
@@ -35111,10 +35195,5 @@
         "whelen": 38.0
       }
     }
-  },
-  "qb_inbox": {
-    "ignored_item_ids": [
-      "15"
-    ]
   }
 }
